@@ -1,0 +1,37 @@
+"0","
+#Anae
+######
+
+file_020025 <-  read.xlsx(""comparaison/data-aug-25/Paris/Anae/020025.json.xls"", sheetName = ""Sheet 1"") %>%
+  mutate(child = ""Anae"",
+         age = 2,
+         file = ""020025"")
+
+file_020105 <-  read.xlsx(""comparaison/data-aug-25/Paris/Anae/020105.json.xls"", sheetName = ""Sheet 1"") %>%
+  mutate(child = ""Anae"",
+         age = 2,
+         file = ""020105"")
+
+file_030522 <-  read.xlsx(""comparaison/data-aug-25/Paris/Anae/030522.json.xls"", sheetName = ""Sheet 1"") %>%
+  mutate(child = ""Anae"",
+         age = 3, 
+         file = ""030522"")
+"
+"2","
+"
+"2","
+"
+"0","file_031000 <-  read.xlsx(""comparaison/data-aug-25/Paris/Anae/031000.json.xls"", sheetName = ""Sheet 1"") %>%"
+"0","  mutate(child = ""Anae"","
+"0","         age = 3, "
+"0","         file = ""031000"")"
+"0",""
+"0","file_040012 <-  read.xlsx(""comparaison/data-aug-25/Paris/Anae/040012.json.xls"", sheetName = ""Sheet 1"") %>%"
+"0","  mutate(child = ""Anae"","
+"0","         age = 4,"
+"0","         file = ""040012"")"
+"0",""
+"0","file_040523 <-  read.xlsx(""comparaison/data-aug-25/Paris/Anae/040523.json.xls"", sheetName = ""Sheet 1"") %>%"
+"0","  mutate(child = ""Anae"","
+"0","         age = 4,"
+"0","         file = ""040523"")"

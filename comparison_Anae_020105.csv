@@ -1,0 +1,169 @@
+ID,utterance,charlie,morgane,list-ID,similar,different
+37,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+38,on était où en vacances ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+39,où est-ce qu'on est allé . avec Anouk ? [media],"[NULL,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,NULL,PAR-Response:Non-answer:interrogative
+40,oh oh ! [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,"CHI-Follow-up:Otherwise , NULL",
+41,elle est où poupée ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,Complex-long]","[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response]",1,"CHI-Follow-up:Followup-question , CHI-Initiation:Information-seeking:fact-based","Complex-long , PAR-Response:No-response"
+42,0. . [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,NULL,CHI-Follow-up:Otherwise
+54,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+55,on est allé où avec Anouk ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+56,yyy . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,"CHI-Follow-up:Otherwise , NULL",
+102,et et ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+103,qu'est-ce que c'est ça ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+104,on en a vu plein en vacances c'est le \<trail off question\> [media],"[NULL,NULL,NULL]","[PAR-Response:Non-answer:declarative,PAR-Response:Non-answer:interrogative,NULL]",1,NULL,"PAR-Response:Non-answer:declarative , PAR-Response:Non-answer:interrogative"
+105,le \<trail off question\> [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]","[CHI-Follow-up:Repeat-answer,NULL,NULL]",1,NULL,"CHI-Follow-up:Followup-question , CHI-Initiation:Information-seeking:fact-based , CHI-Follow-up:Repeat-answer"
+106,m \<trail off question\> [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[NULL,NULL,NULL]",1,NULL,PAR-Response:Non-answer:interrogative
+107,[quote] mouton \<None\> \<None\> \<None\> \<None\> il monte .,"[CHI-Follow-up:Own-explanation,NULL,NULL]","[NULL,NULL,NULL]",1,NULL,CHI-Follow-up:Own-explanation
+153,et ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+155,qu'est-ce qui s'est passé là ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+156,qui est-ce qui a dessiné sur le livre ? [media],"[NULL,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,NULL,PAR-Response:Non-answer:interrogative
+158,quoi ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]","[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1,"CHI-Follow-up:Followup-question , CHI-Initiation:Information-seeking:fact-based , NULL",
+159,qui est-ce qui a dessiné sur le livre ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+160,là ! [media],"[NULL,NULL,NULL]","[PAR-Response:Non-answer:declarative,NULL,NULL]",1,NULL,PAR-Response:Non-answer:declarative
+161,c'est Anaé . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,"CHI-Follow-up:Own-explanation , NULL",
+304,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+305,il saute où ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+306,sur la mer ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]","[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1,"CHI-Follow-up:Followup-question , CHI-Initiation:Information-seeking:fact-based , NULL",
+307,il saute sur la mer ?,"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+308,non je pense que c'est une flaque d' eau . [media],"[PAR-Response:Answer:no-explanation-needed,CHI-Follow-up:No-followup,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",CHI-Follow-up:No-followup
+309,parce que regarde il a ses bottes . [media],"[NULL,NULL,NULL]","[PAR-Response:Answer:with-explanation-high-quality,NULL,NULL]",1,NULL,PAR-Response:Answer:with-explanation-high-quality
+312,hein ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",CHI-Follow-up:Followup-question
+313,regarde . [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]","[PAR-Response:Non-answer:declarative,NULL,NULL]",1,"PAR-Response:Non-answer:declarative , NULL",
+314,là . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,"CHI-Follow-up:Own-explanation , NULL",
+321,c'est Arthur ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",Complex-long
+322,oui \<None\> .,"[NULL,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,CHI-Follow-up:No-followup,NULL]",1,NULL,"PAR-Response:Answer:no-explanation-needed , CHI-Follow-up:No-followup"
+335,ça ça va où ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]","[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , Complex-long , NULL",
+341,la ... [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]","[NULL,NULL,NULL]",1,NULL,"CHI-Initiation:Information-seeking:fact-based , Complex-long"
+349,ça va où ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+350,qu'est-ce que c'est ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+351,ça va où ? [media],"[CHI-Follow-up:Re-ask-initial-question,CHI-Initiation:Information-seeking:fact-based,NULL]","[CHI-Follow-up:Re-ask-initial-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1,"CHI-Follow-up:Re-ask-initial-question , CHI-Initiation:Information-seeking:fact-based , NULL",
+352,regarde bien par là-bas . [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]","[PAR-Response:Non-answer:declarative,NULL,NULL]",1,"PAR-Response:Non-answer:declarative , NULL",
+353,par-là . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,"CHI-Follow-up:Own-explanation , NULL",
+384,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+385,qu'est-ce qu'il fait Petit_Ours_Brun ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+386,[quote] ça c'est moi !,"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,"CHI-Follow-up:Otherwise , NULL",
+395,ça va où ? [media],"[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",PAR-Response:No-response
+396,ça ça va où ? [media],"[CHI-Follow-up:Re-ask-initial-question,CHI-Initiation:Information-seeking:fact-based,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",CHI-Follow-up:Re-ask-initial-question
+397,je n sais pas regarde . [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]","[PAR-Response:Non-answer:declarative,NULL,NULL]",1,"PAR-Response:Non-answer:declarative , NULL",
+398,yyy là . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,"CHI-Follow-up:Own-explanation , NULL",
+402,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]","[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , PAR-Response:No-response , NULL",
+403,yyy là . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,NULL,"CHI-Follow-up:Own-explanation , CHI-Follow-up:Otherwise"
+406,ça ça va où ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+407,oh . qu'est-ce qu'i font ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+408,ça c'est Anaé ça . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,"CHI-Follow-up:Own-explanation , NULL",
+423,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+424,qu'est-ce que tu fais ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+425,sø quoi ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response]","[CHI-Follow-up:Re-ask-initial-question,CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response]",1,"CHI-Initiation:Information-seeking:fact-based , PAR-Response:No-response","CHI-Follow-up:Followup-question , CHI-Follow-up:Re-ask-initial-question"
+426,sa maman yyy . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,NULL,"CHI-Follow-up:Own-explanation , CHI-Follow-up:Otherwise"
+430,dans la bouée ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+431,hum hum .,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",
+432,c'est là ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]","[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1,"CHI-Follow-up:Followup-question , CHI-Initiation:Information-seeking:fact-based , NULL",
+433,ouais . très bien ! [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",
+434,yyy yyy . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,"CHI-Follow-up:Otherwise , NULL",
+438,celles-là ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+439,oui compte . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",
+441,yyy ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",CHI-Follow-up:Followup-question
+442,oui .,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",
+443,il y en a combien ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+444,yyy deux deux et quatre . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,"CHI-Follow-up:Own-explanation , NULL",
+493,le ... [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[NULL,NULL,NULL]",1,NULL,CHI-Initiation:Information-seeking:fact-based
+494,[quote] bébé chien .,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[NULL,NULL,NULL]",1,NULL,PAR-Response:Answer:no-explanation-needed
+495,bébé chien . [media],"[CHI-Follow-up:Repeat-answer,NULL,NULL]","[NULL,NULL,NULL]",1,NULL,CHI-Follow-up:Repeat-answer
+498,ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+499,tu sais ça ! [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]","[PAR-Response:Non-answer:declarative,NULL,NULL]",1,"PAR-Response:Non-answer:declarative , NULL",
+500,yyy . [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,NULL,CHI-Follow-up:Otherwise
+501,une ...,"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[NULL,NULL,NULL]",1,NULL,PAR-Response:Non-answer:interrogative
+504,[quote] ! [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[NULL,NULL,NULL]",1,NULL,CHI-Follow-up:Own-explanation
+524,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+525,[quote] Agathe elle a eu un petit lapin !,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",
+526,0. . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,"CHI-Follow-up:Otherwise , NULL",
+528,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+529,le lapin de d' Agathe il s'appelle comment ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+530,Pé ... [media],"[NULL,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,NULL,PAR-Response:Non-answer:interrogative
+531,yyy . [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Repeat-answer,NULL,NULL]",1,NULL,CHI-Follow-up:Repeat-answer
+534,chocolat . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[NULL,NULL,NULL]",1,NULL,CHI-Follow-up:Own-explanation
+544,qui ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]","[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , Complex-long , NULL",
+587,[quote] quoi ?,"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+588,yyy ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+589,cache dans la jungle .,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",
+590,yyy . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,"CHI-Follow-up:Otherwise , NULL",
+614,yyy c'est qui ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+615,tu le connais lui . [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]","[PAR-Response:Non-answer:declarative,NULL,NULL]",1,"PAR-Response:Non-answer:declarative , NULL",
+616,on en a vu plein hier . [media],"[NULL,NULL,NULL]","[PAR-Response:Non-answer:declarative,NULL,NULL]",1,NULL,PAR-Response:Non-answer:declarative
+617,qu'est-ce que c'est ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+618,0. . [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,NULL,CHI-Follow-up:Otherwise
+622,le singe . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[NULL,NULL,NULL]",1,NULL,CHI-Follow-up:Own-explanation
+635,maman il y a quoi subɛb ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+636,[quote] hum ?,"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+637,c'est yyy . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,"CHI-Follow-up:Own-explanation , NULL",
+642,il est où ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,NULL,"CHI-Initiation:Non-information-seeking , CHI-Initiation:Information-seeking:fact-based"
+643,0. . [media],"[NULL,NULL,NULL]","[PAR-Response:No-response,NULL,NULL]",1,NULL,PAR-Response:No-response
+644,est caché ?,"[CHI-Initiation:Non-information-seeking,NULL,NULL]","[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1,NULL,"CHI-Initiation:Non-information-seeking , CHI-Follow-up:Followup-question , CHI-Initiation:Information-seeking:fact-based"
+646,il est parti peut-être ! [media],"[NULL,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,NULL,PAR-Response:Answer:no-explanation-needed
+648,le crocodile . [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,NULL,CHI-Follow-up:Otherwise
+664,yyy quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]","[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , PAR-Response:No-response , NULL",
+665,tigre . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,"CHI-Follow-up:Own-explanation , NULL",
+672,est où ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]","[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , Complex-long , NULL",
+704,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]","[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , Complex-long , NULL",
+710,i sont a maison ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]","[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , Complex-long , NULL",
+784,ça c'est quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+785,c'est . une robe . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",
+786,pour Kirikou . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,"CHI-Follow-up:Own-explanation , NULL",
+791,\<None\> \<None\> ça c'est quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+792,c'est une jolie robe ! [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",
+793,mais elle est trop petite pour toi . [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]","[PAR-Response:Answer:with-explanation-high-quality,NULL,NULL]",1,NULL,"PAR-Response:Non-answer:declarative , PAR-Response:Answer:with-explanation-high-quality"
+794,ouais . [media],"[CHI-Follow-up:Signal-agreement,NULL,NULL]","[CHI-Follow-up:Signal-agreement,NULL,NULL]",1,"CHI-Follow-up:Signal-agreement , NULL",
+811,à la Kirikou ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+812,à Kirikou ouais ! [media],"[PAR-Response:Answer:no-explanation-needed,CHI-Follow-up:No-followup,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",CHI-Follow-up:No-followup
+817,est où ?,"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,Complex-long]",1,CHI-Initiation:Information-seeking:fact-based,"NULL , CHI-Follow-up:Followup-question , Complex-long"
+819,ah oui il est là !,"[PAR-Response:Answer:no-explanation-needed,CHI-Follow-up:No-followup,NULL]","[NULL,NULL,NULL]",1,NULL,"PAR-Response:Answer:no-explanation-needed , CHI-Follow-up:No-followup"
+848,e panier là ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]","[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , Complex-long , NULL",
+854,là ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]","[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , Complex-long , NULL",
+873,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+874,on lui met une serviette ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+875,ø attacher . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,NULL,"CHI-Follow-up:Otherwise , CHI-Follow-up:Own-explanation"
+911,l'est où le couteau où maman ?,"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+912,cherche il doit être dans le panier .,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Non-answer:declarative,NULL,NULL]",1,NULL,"PAR-Response:Answer:no-explanation-needed , PAR-Response:Non-answer:declarative"
+913,l'est là ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]","[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1,"CHI-Follow-up:Followup-question , CHI-Initiation:Information-seeking:fact-based , NULL",
+914,hum .,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",
+915,yyy poupée . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,"CHI-Follow-up:Otherwise , NULL",
+959,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",Complex-long
+960,le couteau il est où ? [media],"[PAR-Response:Non-answer:interrogative,CHI-Follow-up:No-followup,NULL]","[NULL,NULL,NULL]",1,NULL,"PAR-Response:Non-answer:interrogative , CHI-Follow-up:No-followup"
+1118,quoi ? [media],"[NULL,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,NULL,CHI-Initiation:Information-seeking:fact-based
+1120,tiens . [media],"[NULL,NULL,NULL]","[PAR-Response:Non-answer:declarative,NULL,NULL]",1,NULL,PAR-Response:Non-answer:declarative
+1121,yyy yyy fais caca yyy . [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,NULL,CHI-Follow-up:Otherwise
+1126,yyy lingette ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]","[CHI-Initiation:Non-information-seeking,NULL,NULL]",1,"CHI-Initiation:Non-information-seeking , NULL",
+1192,l'est où \<None\> \<None\> ma poupée ? [media],"[NULL,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1,NULL,"CHI-Initiation:Information-seeking:fact-based , Complex-long"
+1232,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+1233,c'est des chèvres ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,"PAR-Response:Non-answer:interrogative , NULL",
+1234,des chèvres . [media],"[CHI-Follow-up:Repeat-answer,NULL,NULL]","[CHI-Follow-up:Repeat-answer,NULL,NULL]",1,"CHI-Follow-up:Repeat-answer , NULL",
+1239,et ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+1240,ça c'est pour maman . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",
+1241,veux ouvrir . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,NULL,"CHI-Follow-up:Otherwise , CHI-Follow-up:Own-explanation"
+1245,ma donner quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]","[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , Complex-long , NULL",
+1258,c'est quoi ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+1259,ça explique ce qu'on peut faire avec la carte . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:with-explanation-high-quality,NULL,NULL]",1,NULL,"PAR-Response:Answer:no-explanation-needed , PAR-Response:Answer:with-explanation-high-quality"
+1260,\<None\> \<None\> \<None\> ! [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,"CHI-Follow-up:Otherwise , NULL",
+1264,ça ɛ peux lire ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+1265,vas_y . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",
+1266,si toi . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,NULL,"CHI-Follow-up:Otherwise , CHI-Follow-up:Own-explanation"
+1281,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> c'est quoi ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,No-response+No-follow-up,NULL]","[CHI-Initiation:Information-seeking:fact-based,No-response+No-follow-up,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , No-response+No-follow-up , NULL",
+1334,c'est quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]","[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , PAR-Response:No-response , NULL",
+1335,ja pas . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,"CHI-Follow-up:Own-explanation , NULL",
+1386,oh non toi ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]",1,NULL,"CHI-Initiation:Non-information-seeking , CHI-Initiation:Information-seeking:fact-based , PAR-Response:No-response"
+1387,c'est chaud veux yyy sur les bras . [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,NULL,CHI-Follow-up:Own-explanation
+1412,là ?,"[NULL,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,NULL,CHI-Initiation:Information-seeking:fact-based
+1413,hum hum !,"[NULL,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,NULL,PAR-Response:Answer:no-explanation-needed
+1414,yyy petite là . [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,NULL,CHI-Follow-up:Own-explanation
+1443,yyy le chaussure ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,NULL,"CHI-Initiation:Non-information-seeking , CHI-Initiation:Information-seeking:fact-based"
+1444,hum hum .,"[NULL,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,NULL,PAR-Response:Answer:no-explanation-needed
+1446,balai . [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,NULL,CHI-Follow-up:Otherwise
+1466,se trouvé quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+1467,le kangourou ! [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1,"PAR-Response:Answer:no-explanation-needed , NULL",
+1468,on lui met son bébé dans sa poche ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]","[PAR-Response:Non-answer:declarative,NULL,NULL]",1,NULL,"PAR-Response:Non-answer:interrogative , PAR-Response:Non-answer:declarative"
+1469,ouais . [media],"[CHI-Follow-up:Signal-agreement,NULL,NULL]","[CHI-Follow-up:Signal-agreement,NULL,NULL]",1,"CHI-Follow-up:Signal-agreement , NULL",
+1480,a mangé ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]",1,NULL,"CHI-Initiation:Non-information-seeking , CHI-Initiation:Information-seeking:fact-based , PAR-Response:No-response"
+1481,va manger ! [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,NULL,CHI-Follow-up:Own-explanation
+1492,l'est où le café maman ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,"CHI-Initiation:Information-seeking:fact-based , NULL",
+1493,il est là-bas mais je peux te donner une petite tasse tiens . regarde . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]","[PAR-Response:Answer:with-explanation-high-quality,NULL,NULL]",1,NULL,"PAR-Response:Answer:no-explanation-needed , PAR-Response:Answer:with-explanation-high-quality"
+1494,yyy . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,"CHI-Follow-up:Otherwise , NULL",

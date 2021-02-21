@@ -1,0 +1,240 @@
+---
+title: "inter-rater"
+output: html_document
+---
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(boot)
+library(purrr)
+library(ggplot2)
+library(ggthemes)
+library(feather)
+library(poweRlaw)
+library(wordbankr)
+#library(rwebppl)
+library(lme4)
+library(Hmisc)
+library(qdapRegex)
+library(HDInterval)
+library(lmerTest)
+library(childesr)
+library(brms)
+library(stringr)
+
+library(xlsx)
+library(irr)
+
+library(readr)
+
+```
+
+
+```{r}
+
+
+### dara For Adrien
+###################
+
+Y_020222 <-  read_csv("compare_annotations/Yamaguchi_020222.csv") %>%
+  mutate(child = "Adrien",
+         age = 2,
+         file = "020222")
+Y_020328 <-  read_csv("compare_annotations/Yamaguchi_020328.csv") %>%
+  mutate(child = "Adrien",
+         age = 2,
+         file = "020328")
+Y_030015 <-  read_csv("compare_annotations/Yamaguchi_030015.csv") %>%
+  mutate(child = "Adrien",
+         age = 3,
+         file = "030015")
+  
+Y_030212 <-  read_csv("compare_annotations/Yamaguchi_030212.csv") %>%
+  mutate(child = "Adrien",
+         age = 3,
+         file = "030212")
+
+Y_030909 <-  read_csv("compare_annotations/Yamaguchi_030909.csv") %>%
+  mutate(child = "Adrien",
+         age = 4,
+         file = "030909")
+
+Y_031113 <-  read_csv("compare_annotations/Yamaguchi_031113.csv") %>%
+  mutate(child = "Adrien",
+         age = 4,
+         file = "031113")
+
+
+Y_031113_PAR <-  read_csv("compare_annotations/Yamaguchi_031113_PAR.csv") %>%
+  mutate(child = "Adrien",
+         age = 4,
+         file = "031113_PAR")
+
+### Data for Anaé
+#################
+A_020025 <- read_csv("compare_annotations/Paris_Anae_020025.csv") %>%
+  mutate(child = "Anae",
+         age = 2,
+         file = "020025")
+A_020105 <- read_csv("compare_annotations/Paris_Anae_020105.csv") %>%
+  mutate(child = "Anae",
+         age = 2,
+         file = "020025")
+A_030522 <- read_csv("compare_annotations/Paris_Anae_030522.csv") %>%
+  mutate(child = "Anae",
+         age = 3,
+         file = "030522")
+A_031000 <- read_csv("compare_annotations/Paris_Anae_031000.csv") %>%
+  mutate(child = "Anae",
+         age = 4,
+         file = "031000")
+A_040012 <-  read_csv("compare_annotations/Paris_Anae_040012.csv") %>%
+mutate(child = "Anae",
+         age = 4,
+         file = "040012")
+A_040523 <-  read_csv("compare_annotations/Paris_Anae_040523.csv") %>%
+mutate(child = "Anae",
+         age = 4,
+         file = "040523")
+
+#Parents
+
+A_020025_PAR <- read_csv("compare_annotations/Paris_Anae_020025_PAR.csv") %>%
+  mutate(child = "Anae",
+         age = 4,
+         file = "020025_PAR")
+
+
+###ALL DATA:
+
+data <- A_020025 %>%
+  bind_rows(A_020105) %>%
+  bind_rows(A_030522) %>%
+  bind_rows(A_031000) %>%
+  bind_rows(A_040012) %>%
+  bind_rows(A_040523) %>%
+  bind_rows(Y_020222) %>%
+  bind_rows(Y_020328) %>%
+  bind_rows(Y_030015) %>%
+  bind_rows(Y_030212) %>%
+  bind_rows(Y_030909) %>%
+  bind_rows(Y_031113) %>%
+  bind_rows(Y_031113_PAR) %>%
+  bind_rows(A_020025_PAR)
+
+##Calcul kappa
+##############
+
+Analysis_new <- data %>%
+  rename(charlie = `annotation-charlie`,
+         morgane = `annotation-morgane`, 
+         myID = `list-ID`) %>%
+  #filter(file == "031113_PAR") %>%
+  filter(charlie != "[NULL,NULL,NULL]" , morgane != "[NULL,NULL,NULL]") %>%  # Keep only questions
+  rowwise() %>% 
+  mutate(inter = intersect(str_remove(str_remove(unlist(strsplit(charlie, ',')),"\\["), "]"),
+                              str_remove(str_remove(unlist(strsplit(morgane, ',')),"\\["), "]"))[1]
+         ) %>%
+  mutate(charlie_new=if_else(!is.na(inter) & inter != "NULL", inter, str_remove(str_remove(unlist(strsplit(charlie, ',')),"\\["), "]")[1]),
+         morgane_new=if_else(!is.na(inter) & inter != "NULL", inter, str_remove(str_remove(unlist(strsplit(morgane, ',')),"\\["), "]")[1])) %>%
+  mutate(agree = if_else(!is.na(inter) & inter != "NULL", 1, 0)) %>%
+  ungroup %>%
+  rename(intersection = inter)
+
+
+Analysis_new %>%
+  filter(myID == "2") %>%
+  select(charlie_new, morgane_new) %>%
+  kappa2(weight = "unweighted")
+
+
+write_csv(Analysis_new, 'comparison_test1.csv')
+
+
+#Second file for Morgane/charlue
+
+data <- A_020025 %>%
+  bind_rows(A_020105) %>%
+  bind_rows(A_030522) %>%
+  bind_rows(A_031000) %>%
+  bind_rows(A_040012) %>%
+  bind_rows(A_040523) %>%
+  bind_rows(Y_020222) %>%
+  bind_rows(Y_020328) %>%
+  bind_rows(Y_030015) %>%
+  bind_rows(Y_030212) %>%
+  bind_rows(Y_030909) %>%
+  bind_rows(Y_031113) 
+
+
+
+sym_diff <- function(a,b) setdiff(union(a,b), intersect(a,b))
+
+Analysis_new <- Y_031113_PAR %>%
+  rename(charlie = `annotation-charlie`,
+         morgane = `annotation-morgane`) %>%
+  filter(charlie != "[NULL,NULL,NULL]" | morgane != "[NULL,NULL,NULL]") %>%  # Keep only questions
+  rowwise() %>% 
+   mutate(similar = paste(intersect(str_remove(str_remove(unlist(strsplit(charlie, ',')),"\\["), "]"),
+                              str_remove(str_remove(unlist(strsplit(morgane, ',')),"\\["), "]")), collapse = ' , ' )
+         ) %>%
+  mutate(different = paste(sym_diff(str_remove(str_remove(unlist(strsplit(charlie, ',')),"\\["), "]"),
+                              str_remove(str_remove(unlist(strsplit(morgane, ',')),"\\["), "]")), collapse = ' , ' )
+         ) %>%
+
+  ungroup()
+  
+write_csv(Analysis_new, 'comparison_Y_031113_PAR.csv')
+
+
+
+#Statistics:
+agreement <- Analysis_new %>%
+  group_by(`list-ID`) %>%
+  summarise(rate = mean(agree))
+  
+  
+#Kappa
+Kappa <- Analysis_new %>%
+select(charlie_new, morgane_new) %>%
+  kappa2(weight = "unweighted")
+  
+Analysis_list1  <- Analysis %>%
+  filter(label == "list1") 
+
+stats <- Analysis %>% 
+  group_by(label,) %>%
+  summarise(n= n())
+  
+Analysis_simple <- Analysis_list1 %>%
+  rowwise() %>%
+  mutate(charlie_simp = unlist(strsplit(charlie, ':'))[1],
+         morgane_simp = unlist(strsplit(morgane, ':'))[1]) %>%
+  ungroup() 
+  
+myKappa <- 
+  
+  hi <- Analysis_simple %>%
+  filter(label == "list1") %>%
+  filter(!(charlie_simp == "NULL" | charlie_simp == "NULL")) %>%
+  #filter(age == 2) %>%
+  #filter(child == "Adrien") %>%
+  select(charlie_simp, morgane_simp) %>%
+  kappa2(weight = "unweighted")
+
+myKappa
+
+
+kappa2(select(Analysis, charlie, morgane), weight = "unweighted")
+
+ch_ad_real <- read.csv("data_part/chi_par.csv", header = F) 
+
+names(ch_ad_real) <- c("s2v","w2v","age","gender","transcript","corpus",
+                         "edit","vocab","len_adult","len_child","unknown_adult", 
+                         "unknown_child", "utt_child", "utt_adult") 
+
+
+```
+

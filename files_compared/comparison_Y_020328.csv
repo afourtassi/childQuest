@@ -1,0 +1,5 @@
+ID,utterance,charlie,morgane,list-ID,child,age,file,similar,different
+902,qui ? [media],"[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,Adrien,2,020328,"CHI-Initiation:Information-seeking:fact-based , NULL",PAR-Response:No-response
+903,yyy . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[NULL,NULL,NULL]",1,Adrien,2,020328,NULL,CHI-Follow-up:Otherwise
+904,et maman elle est où maman ? [media],"[NULL,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,Adrien,2,020328,NULL,PAR-Response:Non-answer:interrogative
+905,maman ! [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,Adrien,2,020328,NULL,CHI-Follow-up:Own-explanation

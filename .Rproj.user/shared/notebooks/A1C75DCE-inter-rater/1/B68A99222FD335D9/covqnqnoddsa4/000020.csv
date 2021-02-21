@@ -1,0 +1,29 @@
+"0","myKappa <- Analysis_simple %>%
+  filter(label == ""list2"") %>%
+  #filter(age == 2) %>%
+  #filter(child == ""Adrien"") %>%
+  select(charlie_simp, morgane_simp) %>%
+  kappa2(weight = ""unweighted"")
+
+myKappa
+"
+"1"," "
+"1",""
+"1","Cohen's Kappa for 2 Raters (Weights: unweighted)"
+"1",""
+"1","
+
+"
+"1"," Subjects = 6393 
+"
+"1","   Raters = 2 
+"
+"1","    Kappa = 0.562 
+"
+"1","
+"
+"1",""
+"1","        z = 75.8 
+"
+"1","  p-value = 0 
+"

@@ -1,0 +1,16 @@
+ID,utterance,charlie,morgane,list-ID,child,age,file,similar,different
+764,hé j'ai pas vu ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,Adrien,3,030212,NULL,"CHI-Initiation:Non-information-seeking , CHI-Initiation:Information-seeking:fact-based"
+765,t'as pas vu Léo ? [media],"[NULL,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,Adrien,3,030212,NULL,PAR-Response:Non-answer:interrogative
+766,non ! [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,Adrien,3,030212,NULL,CHI-Follow-up:Own-explanation
+829,c'est là maman ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,Adrien,3,030212,"CHI-Initiation:Information-seeking:fact-based , NULL",
+830,"je sais pas , cherche , appelle la ! [media]","[PAR-Response:Non-answer:declarative,NULL,NULL]","[PAR-Response:Non-answer:declarative,NULL,NULL]",1,Adrien,3,030212,"PAR-Response:Non-answer:declarative , NULL",
+831,maman ! [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,Adrien,3,030212,"CHI-Follow-up:Otherwise , NULL",
+1055,et là ? [media],"[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]","[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]",1,Adrien,3,030212,"CHI-Initiation:Information-seeking:fact-based , PAR-Response:No-response , NULL",
+1056,et là papa ! [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Own-explanation,NULL,NULL]",1,Adrien,3,030212,NULL,"CHI-Follow-up:Otherwise , CHI-Follow-up:Own-explanation"
+1094,et l'autre ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,Adrien,3,030212,NULL,"CHI-Initiation:Non-information-seeking , CHI-Initiation:Information-seeking:fact-based"
+1095,et toi t'es pas sale ? [media],"[NULL,NULL,NULL]","[PAR-Response:Non-answer:interrogative,NULL,NULL]",1,Adrien,3,030212,NULL,PAR-Response:Non-answer:interrogative
+1096,non ! [media],"[NULL,NULL,NULL]","[CHI-Follow-up:Otherwise,NULL,NULL]",1,Adrien,3,030212,NULL,CHI-Follow-up:Otherwise
+1100,x lingette ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,Adrien,3,030212,NULL,"CHI-Initiation:Non-information-seeking , CHI-Initiation:Information-seeking:fact-based"
+1101,comment ça ? [media],"[CHI-Initiation:Information-seeking:explanation-seeking,NULL,NULL]","[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1,Adrien,3,030212,NULL,"CHI-Initiation:Information-seeking:explanation-seeking , CHI-Initiation:Information-seeking:fact-based"
+1102,tiens ! [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]","[PAR-Response:Non-answer:declarative,NULL,NULL]",1,Adrien,3,030212,"PAR-Response:Non-answer:declarative , NULL",
+1103,non non non non c'est moi essuie ! [media],"[CHI-Follow-up:Otherwise,NULL,NULL]","[CHI-Follow-up:Signal-disagreement,CHI-Follow-up:Own-explanation,NULL]",1,Adrien,3,030212,NULL,"CHI-Follow-up:Otherwise , CHI-Follow-up:Signal-disagreement , CHI-Follow-up:Own-explanation"
