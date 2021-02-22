@@ -1,0 +1,14 @@
+"0","Y_020222 <-  read_csv(""compare_annotations/Yamaguchi_020222.csv"") %>%
+  mutate(child = ""Adrien"",
+         age = 2,
+         file = ""020222"")
+"
+"2","Parsed with column specification:
+cols(
+  ID = [32mcol_double()[39m,
+  utterance = [31mcol_character()[39m,
+  `annotation-charlie` = [31mcol_character()[39m,
+  `annotation-morgane` = [31mcol_character()[39m,
+  `list-ID` = [32mcol_double()[39m
+)
+"

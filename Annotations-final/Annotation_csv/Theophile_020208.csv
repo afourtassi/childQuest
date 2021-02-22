@@ -1,0 +1,2911 @@
+ID,utterance,annotation,list-ID
+6,déjà mangé plein de pain ! [media],"[NULL,NULL,NULL]",1
+6,déjà mangé plein de pain ! [media],"[NULL,NULL,NULL]",2
+7,miam miam .,"[NULL,NULL,NULL]",1
+7,miam miam .,"[NULL,NULL,NULL]",2
+8,encore ! [media],"[NULL,NULL,NULL]",1
+8,encore ! [media],"[NULL,NULL,NULL]",2
+9,alors Théophile a deux ans . un mois passé peut-être deux mois . [media],"[NULL,NULL,NULL]",1
+9,alors Théophile a deux ans . un mois passé peut-être deux mois . [media],"[NULL,NULL,NULL]",2
+10,yyy bébé .,"[NULL,NULL,NULL]",1
+10,yyy bébé .,"[NULL,NULL,NULL]",2
+11,ouais .,"[NULL,NULL,NULL]",1
+11,ouais .,"[NULL,NULL,NULL]",2
+12,tiens Théophile . [media],"[NULL,NULL,NULL]",1
+12,tiens Théophile . [media],"[NULL,NULL,NULL]",2
+13,tu te rappelles comment on te filme . [media],"[NULL,NULL,NULL]",1
+13,tu te rappelles comment on te filme . [media],"[NULL,NULL,NULL]",2
+14,un dernier petit bout hein parce qu'après tu auras plus de place .,"[NULL,NULL,NULL]",1
+14,un dernier petit bout hein parce qu'après tu auras plus de place .,"[NULL,NULL,NULL]",2
+15,oh t'as de la chance . [media],"[NULL,NULL,NULL]",1
+15,oh t'as de la chance . [media],"[NULL,NULL,NULL]",2
+16,hum .,"[NULL,NULL,NULL]",1
+16,hum .,"[NULL,NULL,NULL]",2
+17,c'est du bon pain et puis là-bas il mange plein de légumes de poissons de viandes donc ça va . [media],"[NULL,NULL,NULL]",1
+17,c'est du bon pain et puis là-bas il mange plein de légumes de poissons de viandes donc ça va . [media],"[NULL,NULL,NULL]",2
+18,elle m'a dit pour manger il y a pas de problème . [media],"[NULL,NULL,NULL]",1
+18,elle m'a dit pour manger il y a pas de problème . [media],"[NULL,NULL,NULL]",2
+19,c'est bien ils font du potiron des courgettes euh plein de trucs euh . [media],"[NULL,NULL,NULL]",1
+19,c'est bien ils font du potiron des courgettes euh plein de trucs euh . [media],"[NULL,NULL,NULL]",2
+20,et t'as le droit d' aller au à la gar \<interruption\>,"[NULL,NULL,NULL]",1
+20,et t'as le droit d' aller au à la gar \<interruption\>,"[NULL,NULL,NULL]",2
+21,comment ça s'appelle ?,"[NULL,NULL,NULL]",1
+21,comment ça s'appelle ?,"[NULL,NULL,NULL]",2
+22,le jardin d' enfant ? [media],"[NULL,NULL,NULL]",1
+22,le jardin d' enfant ? [media],"[NULL,NULL,NULL]",2
+23,avec ton doudou ? [media],"[NULL,NULL,NULL]",1
+23,avec ton doudou ? [media],"[NULL,NULL,NULL]",2
+24,t'y vas avec ton doudou il y va aussi lui ? [media],"[NULL,NULL,NULL]",1
+24,t'y vas avec ton doudou il y va aussi lui ? [media],"[NULL,NULL,NULL]",2
+25,hein Théophile . [media],"[NULL,NULL,NULL]",1
+25,hein Théophile . [media],"[NULL,NULL,NULL]",2
+26,tu l'emmènes ?,"[NULL,NULL,NULL]",1
+26,tu l'emmènes ?,"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+27,il il y va le doudou ? [media],"[NULL,NULL,NULL]",1
+27,il il y va le doudou ? [media],"[NULL,NULL,NULL]",2
+28,tu l'emmènes ?,"[NULL,NULL,NULL]",1
+28,tu l'emmènes ?,"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+29,c'est qui ça ? [media],"[NULL,NULL,NULL]",1
+29,c'est qui ça ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+30,c'est qui ça Théophile ?,"[NULL,NULL,NULL]",1
+30,c'est qui ça Théophile ?,"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+31,ah c'est qui . [media],"[NULL,NULL,NULL]",1
+31,ah c'est qui . [media],"[NULL,NULL,NULL]",2
+32,c'est qui c'est qui ? [media],"[NULL,NULL,NULL]",1
+32,c'est qui c'est qui ? [media],"[PAR-Follow-up:Re-ask-initial-question,CHI-Response:No-response,NULL]",2
+33,oh tu te lèves un peu là .,"[NULL,NULL,NULL]",1
+33,oh tu te lèves un peu là .,"[PAR-Follow-up:other,NULL,NULL]",2
+34,aller hop . [media],"[NULL,NULL,NULL]",1
+34,aller hop . [media],"[NULL,NULL,NULL]",2
+35,il m'en a mis partou . [media],"[NULL,NULL,NULL]",1
+35,il m'en a mis partou . [media],"[NULL,NULL,NULL]",2
+36,tiens on va se on va tiens oudougoudou . [media],"[NULL,NULL,NULL]",1
+36,tiens on va se on va tiens oudougoudou . [media],"[NULL,NULL,NULL]",2
+37,tu le veux Doundo ? [media],"[NULL,NULL,NULL]",1
+37,tu le veux Doundo ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+38,hum . [media],"[NULL,NULL,NULL]",1
+38,hum . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+39,oh tu racontes à Lili tout ce-que t'as fait aujourd'hui ? [media],"[NULL,NULL,NULL]",1
+39,oh tu racontes à Lili tout ce-que t'as fait aujourd'hui ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+40,hum hein Théophile ? [media],"[NULL,NULL,NULL]",1
+40,hum hein Théophile ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+41,tu lui racontes vroum vroum et \<interruption\>,"[NULL,NULL,NULL]",1
+41,tu lui racontes vroum vroum et \<interruption\>,"[NULL,NULL,NULL]",2
+42,qu'est-ce que t'as fait \<None\> ?,"[NULL,NULL,NULL]",1
+42,qu'est-ce que t'as fait \<None\> ?,"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,Complex-long]",2
+43,t'as fait des voitures \<None\> ? [media],"[NULL,NULL,NULL]",1
+43,t'as fait des voitures \<None\> ? [media],"[NULL,NULL,NULL]",2
+44,qu'est-ce que t'as fait d' autre Théophile ? [media],"[NULL,NULL,NULL]",1
+44,qu'est-ce que t'as fait d' autre Théophile ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+45,0. .,"[NULL,NULL,NULL]",1
+45,0. .,"[CHI-Response:No-label,NULL,NULL]",2
+46,hum .,"[NULL,NULL,NULL]",1
+46,hum .,"[PAR-Follow-up:other,NULL,NULL]",2
+47,yyy . [media],"[NULL,NULL,NULL]",1
+47,yyy . [media],"[NULL,NULL,NULL]",2
+48,fais voir .,"[NULL,NULL,NULL]",1
+48,fais voir .,"[NULL,NULL,NULL]",2
+49,oh c'est pour Lili !,"[NULL,NULL,NULL]",1
+49,oh c'est pour Lili !,"[NULL,NULL,NULL]",2
+50,oh dis_donc merci .,"[NULL,NULL,NULL]",1
+50,oh dis_donc merci .,"[NULL,NULL,NULL]",2
+51,[quote] ohlàlà . [media],"[NULL,NULL,NULL]",1
+51,[quote] ohlàlà . [media],"[NULL,NULL,NULL]",2
+52,hum . [media],"[NULL,NULL,NULL]",1
+52,hum . [media],"[NULL,NULL,NULL]",2
+53,parce qu'il en a fait des choses hein .,"[NULL,NULL,NULL]",1
+53,parce qu'il en a fait des choses hein .,"[NULL,NULL,NULL]",2
+54,on l'a emmené à Gerone . cet été . avec son papé .,"[NULL,NULL,NULL]",1
+54,on l'a emmené à Gerone . cet été . avec son papé .,"[NULL,NULL,NULL]",2
+55,c'est où Gerone ? [media],"[NULL,NULL,NULL]",1
+55,c'est où Gerone ? [media],"[NULL,NULL,NULL]",2
+56,bah Gerone c'est à la frontière euh espagnole . et française .,"[NULL,NULL,NULL]",1
+56,bah Gerone c'est à la frontière euh espagnole . et française .,"[NULL,NULL,NULL]",2
+57,tu sais juste après Perpignan \<None\> .,"[NULL,NULL,NULL]",1
+57,tu sais juste après Perpignan \<None\> .,"[NULL,NULL,NULL]",2
+58,xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+58,xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+59,ohlàlà tous les cadeaux .,"[NULL,NULL,NULL]",1
+59,ohlàlà tous les cadeaux .,"[NULL,NULL,NULL]",2
+60,ohlàlà la !,"[NULL,NULL,NULL]",1
+60,ohlàlà la !,"[NULL,NULL,NULL]",2
+61,c'est quoi ça \<None\> .,"[NULL,NULL,NULL]",1
+61,c'est quoi ça \<None\> .,"[NULL,NULL,NULL]",2
+62,qu'est-ce que c'est \<None\> ? [media],"[NULL,NULL,NULL]",1
+62,qu'est-ce que c'est \<None\> ? [media],"[NULL,NULL,NULL]",2
+63,ah mais c'est pas le personnage d' un film ça ? [media],"[NULL,NULL,NULL]",1
+63,ah mais c'est pas le personnage d' un film ça ? [media],"[NULL,NULL,NULL]",2
+64,je crois pas c'était avec les playmobils . [media],"[NULL,NULL,NULL]",1
+64,je crois pas c'était avec les playmobils . [media],"[NULL,NULL,NULL]",2
+65,ah non c'est une colombe . [media],"[NULL,NULL,NULL]",1
+65,ah non c'est une colombe . [media],"[NULL,NULL,NULL]",2
+66,c'est quoi comme oiseau ça \<None\> ? [media],"[NULL,NULL,NULL]",1
+66,c'est quoi comme oiseau ça \<None\> ? [media],"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+67,tu sais que ma petite fille elle s'appelle Colombe .,"[NULL,NULL,NULL]",1
+67,tu sais que ma petite fille elle s'appelle Colombe .,"[NULL,NULL,NULL]",2
+68,elle s'appelle Iona qui veut dire Colombe .,"[NULL,NULL,NULL]",1
+68,elle s'appelle Iona qui veut dire Colombe .,"[NULL,NULL,NULL]",2
+69,ah oui . [media],"[NULL,NULL,NULL]",1
+69,ah oui . [media],"[NULL,NULL,NULL]",2
+70,son son papé l'a amené son papé l'a amené là-bas pour manger des tapas . [media],"[NULL,NULL,NULL]",1
+70,son son papé l'a amené son papé l'a amené là-bas pour manger des tapas . [media],"[NULL,NULL,NULL]",2
+71,parce qu'en fait il est fou de poulpe et de trucs comme ça Théophile . [media],"[NULL,NULL,NULL]",1
+71,parce qu'en fait il est fou de poulpe et de trucs comme ça Théophile . [media],"[NULL,NULL,NULL]",2
+72,alors il l'a amené exprès il était aux anges il lui a ach des voitures .,"[NULL,NULL,NULL]",1
+72,alors il l'a amené exprès il était aux anges il lui a ach des voitures .,"[NULL,NULL,NULL]",2
+73,enfin bon il s'est bien fait gâté par papy et mamay . [media],"[NULL,NULL,NULL]",1
+73,enfin bon il s'est bien fait gâté par papy et mamay . [media],"[NULL,NULL,NULL]",2
+74,super !,"[NULL,NULL,NULL]",1
+74,super !,"[NULL,NULL,NULL]",2
+75,wouha vroum vroum .,"[NULL,NULL,NULL]",1
+75,wouha vroum vroum .,"[NULL,NULL,NULL]",2
+76,ouais ! [media],"[NULL,NULL,NULL]",1
+76,ouais ! [media],"[NULL,NULL,NULL]",2
+77,tu racontes t'es allé à Prade aussi t'as écouté les concerts . [media],"[NULL,NULL,NULL]",1
+77,tu racontes t'es allé à Prade aussi t'as écouté les concerts . [media],"[NULL,NULL,NULL]",2
+78,il est allé \<interruption\>,"[NULL,NULL,NULL]",1
+78,il est allé \<interruption\>,"[NULL,NULL,NULL]",2
+79,ah à Prade ouais .,"[NULL,NULL,NULL]",1
+79,ah à Prade ouais .,"[NULL,NULL,NULL]",2
+80,oui il y est allé . [media],"[NULL,NULL,NULL]",1
+80,oui il y est allé . [media],"[NULL,NULL,NULL]",2
+81,il a écouté un peu .,"[NULL,NULL,NULL]",1
+81,il a écouté un peu .,"[NULL,NULL,NULL]",2
+82,ça c'est bien passé ou ?,"[NULL,NULL,NULL]",1
+82,ça c'est bien passé ou ?,"[NULL,NULL,NULL]",2
+83,ouais \<None\> c'était sympa . [media],"[NULL,NULL,NULL]",1
+83,ouais \<None\> c'était sympa . [media],"[NULL,NULL,NULL]",2
+84,vous allez r là aux Champs Elysées ?,"[NULL,NULL,NULL]",1
+84,vous allez r là aux Champs Elysées ?,"[NULL,NULL,NULL]",2
+85,ouais \<None\> bah la fameuse pièce là . la création . [media],"[NULL,NULL,NULL]",1
+85,ouais \<None\> bah la fameuse pièce là . la création . [media],"[NULL,NULL,NULL]",2
+86,hein Théophile .,"[NULL,NULL,NULL]",1
+86,hein Théophile .,"[NULL,NULL,NULL]",2
+87,et elle t'a plu ?,"[NULL,NULL,NULL]",1
+87,et elle t'a plu ?,"[NULL,NULL,NULL]",2
+88,yyy . [media],"[NULL,NULL,NULL]",1
+88,yyy . [media],"[NULL,NULL,NULL]",2
+89,xxx \<None\> .,"[NULL,NULL,NULL]",1
+89,xxx \<None\> .,"[NULL,NULL,NULL]",2
+90,oh j'en ai plus .,"[NULL,NULL,NULL]",1
+90,oh j'en ai plus .,"[NULL,NULL,NULL]",2
+91,on attends papa là Théophile parce que sinon t'auras plus faim après . [media],"[NULL,NULL,NULL]",1
+91,on attends papa là Théophile parce que sinon t'auras plus faim après . [media],"[NULL,NULL,NULL]",2
+92,miam miam miam .,"[NULL,NULL,NULL]",1
+92,miam miam miam .,"[NULL,NULL,NULL]",2
+93,tu es pas fou hein .,"[NULL,NULL,NULL]",1
+93,tu es pas fou hein .,"[NULL,NULL,NULL]",2
+94,xxx \<None\> .,"[NULL,NULL,NULL]",1
+94,xxx \<None\> .,"[NULL,NULL,NULL]",2
+95,qu'est-ce que c'est tu veux quoi ?,"[NULL,NULL,NULL]",1
+95,qu'est-ce que c'est tu veux quoi ?,"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+96,du ... [media],"[NULL,NULL,NULL]",1
+96,du ... [media],"[PAR-Follow-up:Re-ask-initial-question,NULL,NULL]",2
+97,0. .,"[NULL,NULL,NULL]",1
+97,0. .,"[CHI-Response:Answer:non-verbal,NULL,NULL]",2
+98,du ...,"[NULL,NULL,NULL]",1
+98,du ...,"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+99,coquinou . [media],"[NULL,NULL,NULL]",1
+99,coquinou . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+100,qu'est que tu l'aimes ce pain hein . [media],"[NULL,NULL,NULL]",1
+100,qu'est que tu l'aimes ce pain hein . [media],"[NULL,NULL,NULL]",2
+101,ouais . [media],"[NULL,NULL,NULL]",1
+101,ouais . [media],"[NULL,NULL,NULL]",2
+102,il l'aimes bien hein . [media],"[NULL,NULL,NULL]",1
+102,il l'aimes bien hein . [media],"[NULL,NULL,NULL]",2
+103,je te laisse parler deux minutes en_plus tu fais mieux tu entraîne mieux le dialogue . [media],"[NULL,NULL,NULL]",1
+103,je te laisse parler deux minutes en_plus tu fais mieux tu entraîne mieux le dialogue . [media],"[NULL,NULL,NULL]",2
+104,c'est bien de manger dehors comme ça tu fais pas de miettes dedans .,"[NULL,NULL,NULL]",1
+104,c'est bien de manger dehors comme ça tu fais pas de miettes dedans .,"[NULL,NULL,NULL]",2
+105,c'est plus pratique . [media],"[NULL,NULL,NULL]",1
+105,c'est plus pratique . [media],"[NULL,NULL,NULL]",2
+106,sinon xxx demander à manger moi . [media],"[NULL,NULL,NULL]",1
+106,sinon xxx demander à manger moi . [media],"[NULL,NULL,NULL]",2
+107,oh a caca .,"[NULL,NULL,NULL]",1
+107,oh a caca .,"[NULL,NULL,NULL]",2
+108,tu fais un t'es en_train de faire caca là ? [media],"[NULL,NULL,NULL]",1
+108,tu fais un t'es en_train de faire caca là ? [media],"[NULL,NULL,NULL]",2
+109,ouais on va te changer la couche après . [media],"[NULL,NULL,NULL]",1
+109,ouais on va te changer la couche après . [media],"[NULL,NULL,NULL]",2
+110,finis ton pain d'abord hein . [media],"[NULL,NULL,NULL]",1
+110,finis ton pain d'abord hein . [media],"[NULL,NULL,NULL]",2
+111,yyy . [media],"[NULL,NULL,NULL]",1
+111,yyy . [media],"[NULL,NULL,NULL]",2
+112,0. .,"[NULL,NULL,NULL]",1
+112,0. .,"[NULL,NULL,NULL]",2
+113,qu'est-ce que t'as vu ?,"[NULL,NULL,NULL]",1
+113,qu'est-ce que t'as vu ?,"[NULL,NULL,NULL]",2
+114,ah tu montres ton chien qui chante . [media],"[NULL,NULL,NULL]",1
+114,ah tu montres ton chien qui chante . [media],"[NULL,NULL,NULL]",2
+115,c'est le chien qui fait ce bruit qui chante ? [media],"[NULL,NULL,NULL]",1
+115,c'est le chien qui fait ce bruit qui chante ? [media],"[NULL,NULL,NULL]",2
+116,0. .,"[NULL,NULL,NULL]",1
+116,0. .,"[NULL,NULL,NULL]",2
+117,ohlàlà ! [media],"[NULL,NULL,NULL]",1
+117,ohlàlà ! [media],"[NULL,NULL,NULL]",2
+118,j'ai trois cadeaux dans la main là . [media],"[NULL,NULL,NULL]",1
+118,j'ai trois cadeaux dans la main là . [media],"[NULL,NULL,NULL]",2
+119,0. .,"[NULL,NULL,NULL]",1
+119,0. .,"[NULL,NULL,NULL]",2
+120,yyy .,"[NULL,NULL,NULL]",1
+120,yyy .,"[NULL,NULL,NULL]",2
+121,qu'est-ce que t'as vu ? [media],"[NULL,NULL,NULL]",1
+121,qu'est-ce que t'as vu ? [media],"[NULL,NULL,NULL]",2
+122,hum .,"[NULL,NULL,NULL]",1
+122,hum .,"[NULL,NULL,NULL]",2
+123,montre moi . [media],"[NULL,NULL,NULL]",1
+123,montre moi . [media],"[NULL,NULL,NULL]",2
+124,il y a quelqu'un qui arrive ? [media],"[NULL,NULL,NULL]",1
+124,il y a quelqu'un qui arrive ? [media],"[NULL,NULL,NULL]",2
+125,yyy . [media],"[NULL,NULL,NULL]",1
+125,yyy . [media],"[NULL,NULL,NULL]",2
+126,tu veux dire bonjour ? [media],"[NULL,NULL,NULL]",1
+126,tu veux dire bonjour ? [media],"[NULL,NULL,NULL]",2
+127,ah qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+127,ah qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+128,yyy .,"[NULL,NULL,NULL]",1
+128,yyy .,"[NULL,NULL,NULL]",2
+129,il y a quelqu'un qui vient ? [media],"[NULL,NULL,NULL]",1
+129,il y a quelqu'un qui vient ? [media],"[NULL,NULL,NULL]",2
+130,yyy . [media],"[NULL,NULL,NULL]",1
+130,yyy . [media],"[NULL,NULL,NULL]",2
+131,coucou . [media],"[NULL,NULL,NULL]",1
+131,coucou . [media],"[NULL,NULL,NULL]",2
+132,t'es bien là Théophile hein ? [media],"[NULL,NULL,NULL]",1
+132,t'es bien là Théophile hein ? [media],"[NULL,NULL,NULL]",2
+133,ça ça va avec le noir . [media],"[NULL,NULL,NULL]",1
+133,ça ça va avec le noir . [media],"[NULL,NULL,NULL]",2
+134,0. .,"[NULL,NULL,NULL]",1
+134,0. .,"[NULL,NULL,NULL]",2
+135,yyy . [media],"[NULL,NULL,NULL]",1
+135,yyy . [media],"[NULL,NULL,NULL]",2
+136,yyy . [media],"[NULL,NULL,NULL]",1
+136,yyy . [media],"[NULL,NULL,NULL]",2
+137,hum . [media],"[NULL,NULL,NULL]",1
+137,hum . [media],"[NULL,NULL,NULL]",2
+138,ah mais c'est nouveau cette table . [media],"[NULL,NULL,NULL]",1
+138,ah mais c'est nouveau cette table . [media],"[NULL,NULL,NULL]",2
+139,je l'avais pas vu la dernière fois . [media],"[NULL,NULL,NULL]",1
+139,je l'avais pas vu la dernière fois . [media],"[NULL,NULL,NULL]",2
+140,tu veux t'asseoir sur la chaise pour manger ton pain ? [media],"[NULL,NULL,NULL]",1
+140,tu veux t'asseoir sur la chaise pour manger ton pain ? [media],"[NULL,NULL,NULL]",2
+141,0. . [media],"[NULL,NULL,NULL]",1
+141,0. . [media],"[NULL,NULL,NULL]",2
+142,c'est presque fini Théophile . [media],"[NULL,NULL,NULL]",1
+142,c'est presque fini Théophile . [media],"[NULL,NULL,NULL]",2
+143,xxx . [media],"[NULL,NULL,NULL]",1
+143,xxx . [media],"[NULL,NULL,NULL]",2
+144,oh miam miam miam .,"[NULL,NULL,NULL]",1
+144,oh miam miam miam .,"[NULL,NULL,NULL]",2
+145,oh pas dans la bouche c'est sale ouh .,"[NULL,NULL,NULL]",1
+145,oh pas dans la bouche c'est sale ouh .,"[NULL,NULL,NULL]",2
+146,c'est tombé parterre .,"[NULL,NULL,NULL]",1
+146,c'est tombé parterre .,"[NULL,NULL,NULL]",2
+147,0. .,"[NULL,NULL,NULL]",1
+147,0. .,"[NULL,NULL,NULL]",2
+148,voilà . [media],"[NULL,NULL,NULL]",1
+148,voilà . [media],"[NULL,NULL,NULL]",2
+149,miam miam .,"[NULL,NULL,NULL]",1
+149,miam miam .,"[NULL,NULL,NULL]",2
+150,une miette . [media],"[NULL,NULL,NULL]",1
+150,une miette . [media],"[NULL,NULL,NULL]",2
+151,c'est une miette . [media],"[NULL,NULL,NULL]",1
+151,c'est une miette . [media],"[NULL,NULL,NULL]",2
+152,www .,"[NULL,NULL,NULL]",1
+152,www .,"[NULL,NULL,NULL]",2
+153,0. .,"[NULL,NULL,NULL]",1
+153,0. .,"[NULL,NULL,NULL]",2
+154,yyy .,"[NULL,NULL,NULL]",1
+154,yyy .,"[NULL,NULL,NULL]",2
+155,ouais t'as fait tomber une miette . [media],"[NULL,NULL,NULL]",1
+155,ouais t'as fait tomber une miette . [media],"[NULL,NULL,NULL]",2
+156,yyy miam miam .,"[NULL,NULL,NULL]",1
+156,yyy miam miam .,"[NULL,NULL,NULL]",2
+157,ouais . elle est tombée la miette . [media],"[NULL,NULL,NULL]",1
+157,ouais . elle est tombée la miette . [media],"[NULL,NULL,NULL]",2
+158,oh bah alors là tout est tombé . [media],"[NULL,NULL,NULL]",1
+158,oh bah alors là tout est tombé . [media],"[NULL,NULL,NULL]",2
+159,0. .,"[NULL,NULL,NULL]",1
+159,0. .,"[NULL,NULL,NULL]",2
+160,tu souffles tu souffle d'abord \<None\> ? [media],"[NULL,NULL,NULL]",1
+160,tu souffles tu souffle d'abord \<None\> ? [media],"[NULL,NULL,NULL]",2
+161,0. . [media],"[NULL,NULL,NULL]",1
+161,0. . [media],"[NULL,NULL,NULL]",2
+162,0. .,"[NULL,NULL,NULL]",1
+162,0. .,"[NULL,NULL,NULL]",2
+163,fini . [media],"[NULL,NULL,NULL]",1
+163,fini . [media],"[NULL,NULL,NULL]",2
+164,0. .,"[NULL,NULL,NULL]",1
+164,0. .,"[NULL,NULL,NULL]",2
+165,euh le jeudi . qu'est-ce que te comment ça marche pour vous le jeudi ? [media],"[NULL,NULL,NULL]",1
+165,euh le jeudi . qu'est-ce que te comment ça marche pour vous le jeudi ? [media],"[NULL,NULL,NULL]",2
+166,yyy . [media],"[NULL,NULL,NULL]",1
+166,yyy . [media],"[NULL,NULL,NULL]",2
+167,à cinq heures . [media],"[NULL,NULL,NULL]",1
+167,à cinq heures . [media],"[NULL,NULL,NULL]",2
+168,yyy . [media],"[NULL,NULL,NULL]",1
+168,yyy . [media],"[NULL,NULL,NULL]",2
+169,d'accord alors je note à partie de cinq heures hein okay .,"[NULL,NULL,NULL]",1
+169,d'accord alors je note à partie de cinq heures hein okay .,"[NULL,NULL,NULL]",2
+170,0. . [media],"[NULL,NULL,NULL]",1
+170,0. . [media],"[NULL,NULL,NULL]",2
+171,qu'est-ce que tu veux ?,"[NULL,NULL,NULL]",1
+171,qu'est-ce que tu veux ?,"[NULL,NULL,NULL]",2
+172,alors comme ça en fait je vais appeler là parce que il me manque encore une élève . [media],"[NULL,NULL,NULL]",1
+172,alors comme ça en fait je vais appeler là parce que il me manque encore une élève . [media],"[NULL,NULL,NULL]",2
+173,et puis en_fonction de ça soit on fait le mercredi dix huit heures soit mardi soit le jeudi .,"[NULL,NULL,NULL]",1
+173,et puis en_fonction de ça soit on fait le mercredi dix huit heures soit mardi soit le jeudi .,"[NULL,NULL,NULL]",2
+174,[quote] maman maman maman . [media],"[NULL,NULL,NULL]",1
+174,[quote] maman maman maman . [media],"[NULL,NULL,NULL]",2
+175,maman .,"[NULL,NULL,NULL]",1
+175,maman .,"[NULL,NULL,NULL]",2
+176,ouais .,"[NULL,NULL,NULL]",1
+176,ouais .,"[NULL,NULL,NULL]",2
+177,et sinon pardon c'est mon fils \<None\> .,"[NULL,NULL,NULL]",1
+177,et sinon pardon c'est mon fils \<None\> .,"[NULL,NULL,NULL]",2
+178,[quote] maman maman maman .,"[NULL,NULL,NULL]",1
+178,[quote] maman maman maman .,"[NULL,NULL,NULL]",2
+179,et sinon mardi vous pourriez ou pas ?,"[NULL,NULL,NULL]",1
+179,et sinon mardi vous pourriez ou pas ?,"[NULL,NULL,NULL]",2
+180,maman . [media],"[NULL,NULL,NULL]",1
+180,maman . [media],"[NULL,NULL,NULL]",2
+181,alors vers quelle heure là . [media],"[NULL,NULL,NULL]",1
+181,alors vers quelle heure là . [media],"[NULL,NULL,NULL]",2
+182,maman .,"[NULL,NULL,NULL]",1
+182,maman .,"[NULL,NULL,NULL]",2
+183,Théophile Théophile tu veux du pain ?,"[NULL,NULL,NULL]",1
+183,Théophile Théophile tu veux du pain ?,"[NULL,NULL,NULL]",2
+184,à_partir de \<trail off question\> [media],"[NULL,NULL,NULL]",1
+184,à_partir de \<trail off question\> [media],"[NULL,NULL,NULL]",2
+185,d'accord .,"[NULL,NULL,NULL]",1
+185,d'accord .,"[NULL,NULL,NULL]",2
+186,tu veux du pain ?,"[NULL,NULL,NULL]",1
+186,tu veux du pain ?,"[NULL,NULL,NULL]",2
+187,comme ça c'est bien .,"[NULL,NULL,NULL]",1
+187,comme ça c'est bien .,"[NULL,NULL,NULL]",2
+188,j'ai tout et puis je cas ces horaires en_fonction des autres hein .,"[NULL,NULL,NULL]",1
+188,j'ai tout et puis je cas ces horaires en_fonction des autres hein .,"[NULL,NULL,NULL]",2
+189,0. . [media],"[NULL,NULL,NULL]",1
+189,0. . [media],"[NULL,NULL,NULL]",2
+190,hein je vous rappelle demain . [media],"[NULL,NULL,NULL]",1
+190,hein je vous rappelle demain . [media],"[NULL,NULL,NULL]",2
+191,de rien au_revoir bonne soirée au_revoir . [media],"[NULL,NULL,NULL]",1
+191,de rien au_revoir bonne soirée au_revoir . [media],"[NULL,NULL,NULL]",2
+192,0. .,"[NULL,NULL,NULL]",1
+192,0. .,"[NULL,NULL,NULL]",2
+193,voilà donc il me reste ça . ça . [media],"[NULL,NULL,NULL]",1
+193,voilà donc il me reste ça . ça . [media],"[NULL,NULL,NULL]",2
+194,je fais juste xxx .,"[NULL,NULL,NULL]",1
+194,je fais juste xxx .,"[NULL,NULL,NULL]",2
+195,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> a vroum . [media],"[NULL,NULL,NULL]",1
+195,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> a vroum . [media],"[NULL,NULL,NULL]",2
+196,a vroum vroum .,"[NULL,NULL,NULL]",1
+196,a vroum vroum .,"[NULL,NULL,NULL]",2
+197,qu'est-ce qu'elle fait la xxx Théophile ?,"[NULL,NULL,NULL]",1
+197,qu'est-ce qu'elle fait la xxx Théophile ?,"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+198,tu veux que je la tienne . [media],"[NULL,NULL,NULL]",1
+198,tu veux que je la tienne . [media],"[NULL,NULL,NULL]",2
+199,oh . [media],"[NULL,NULL,NULL]",1
+199,oh . [media],"[NULL,NULL,NULL]",2
+200,yyy e pièce . [media],"[NULL,NULL,NULL]",1
+200,yyy e pièce . [media],"[NULL,NULL,NULL]",2
+201,hé une pièce .,"[NULL,NULL,NULL]",1
+201,hé une pièce .,"[NULL,NULL,NULL]",2
+202,hum . [media],"[NULL,NULL,NULL]",1
+202,hum . [media],"[NULL,NULL,NULL]",2
+203,tu lui donnes à Oliver ?,"[NULL,NULL,NULL]",1
+203,tu lui donnes à Oliver ?,"[NULL,NULL,NULL]",2
+204,0. .,"[NULL,NULL,NULL]",1
+204,0. .,"[NULL,NULL,NULL]",2
+205,mais c'est pas possible pourquoi j'arrive plus à le joindre !,"[NULL,NULL,NULL]",1
+205,mais c'est pas possible pourquoi j'arrive plus à le joindre !,"[NULL,NULL,NULL]",2
+206,merci Théophile . [media],"[NULL,NULL,NULL]",1
+206,merci Théophile . [media],"[NULL,NULL,NULL]",2
+207,0. .,"[NULL,NULL,NULL]",1
+207,0. .,"[NULL,NULL,NULL]",2
+208,c'est bizarre . [media],"[NULL,NULL,NULL]",1
+208,c'est bizarre . [media],"[NULL,NULL,NULL]",2
+209,a vroum vroum ah a vroum vroum .,"[NULL,NULL,NULL]",1
+209,a vroum vroum ah a vroum vroum .,"[NULL,NULL,NULL]",2
+210,une voiture rouge . [media],"[NULL,NULL,NULL]",1
+210,une voiture rouge . [media],"[NULL,NULL,NULL]",2
+211,eh .,"[NULL,NULL,NULL]",1
+211,eh .,"[NULL,NULL,NULL]",2
+212,ouais elle est belle . [media],"[NULL,NULL,NULL]",1
+212,ouais elle est belle . [media],"[NULL,NULL,NULL]",2
+213,tu la fais rouler ? [media],"[NULL,NULL,NULL]",1
+213,tu la fais rouler ? [media],"[NULL,NULL,NULL]",2
+214,voilà Théophile ça_y_est . [media],"[NULL,NULL,NULL]",1
+214,voilà Théophile ça_y_est . [media],"[NULL,NULL,NULL]",2
+215,alors c'est le jeudi . la journée xxx .,"[NULL,NULL,NULL]",1
+215,alors c'est le jeudi . la journée xxx .,"[NULL,NULL,NULL]",2
+216,oh je vais faire surtout mercredi euh mercredi jeudi . [media],"[NULL,NULL,NULL]",1
+216,oh je vais faire surtout mercredi euh mercredi jeudi . [media],"[NULL,NULL,NULL]",2
+217,et un petit peu mardi mais je finirai tôt . [media],"[NULL,NULL,NULL]",1
+217,et un petit peu mardi mais je finirai tôt . [media],"[NULL,NULL,NULL]",2
+218,et dis_donc ça veut dire que le bébé dans cinq mois c'est quoi cinq mois ? [media],"[NULL,NULL,NULL]",1
+218,et dis_donc ça veut dire que le bébé dans cinq mois c'est quoi cinq mois ? [media],"[NULL,NULL,NULL]",2
+219,début mars les xxx .,"[NULL,NULL,NULL]",1
+219,début mars les xxx .,"[NULL,NULL,NULL]",2
+220,début mars ah comme Noam . [media],"[NULL,NULL,NULL]",1
+220,début mars ah comme Noam . [media],"[NULL,NULL,NULL]",2
+221,il est de quand ?,"[NULL,NULL,NULL]",1
+221,il est de quand ?,"[NULL,NULL,NULL]",2
+222,premier mars .,"[NULL,NULL,NULL]",1
+222,premier mars .,"[NULL,NULL,NULL]",2
+223,là c'est prévu pour le six mars tu vois mais bon ça peut-être \<interruption\>,"[NULL,NULL,NULL]",1
+223,là c'est prévu pour le six mars tu vois mais bon ça peut-être \<interruption\>,"[NULL,NULL,NULL]",2
+224,bon bah .,"[NULL,NULL,NULL]",1
+224,bon bah .,"[NULL,NULL,NULL]",2
+225,et donc je prendrai en fait j'pense je m'arrêterai aux vacances de février moi si je tiens bien . [media],"[NULL,NULL,NULL]",1
+225,et donc je prendrai en fait j'pense je m'arrêterai aux vacances de février moi si je tiens bien . [media],"[NULL,NULL,NULL]",2
+226,et comme on peut les prendre comme on veut maint .,"[NULL,NULL,NULL]",1
+226,et comme on peut les prendre comme on veut maint .,"[NULL,NULL,NULL]",2
+227,et par_contre je recommencerai plus tôt en mai . [media],"[NULL,NULL,NULL]",1
+227,et par_contre je recommencerai plus tôt en mai . [media],"[NULL,NULL,NULL]",2
+228,0. .,"[NULL,NULL,NULL]",1
+228,0. .,"[NULL,NULL,NULL]",2
+229,ce qu'y est bien parce que en fait il y a plein de vacances .,"[NULL,NULL,NULL]",1
+229,ce qu'y est bien parce que en fait il y a plein de vacances .,"[NULL,NULL,NULL]",2
+230,t'as les vacances de février t'as les vacances d' avril . [media],"[NULL,NULL,NULL]",1
+230,t'as les vacances de février t'as les vacances d' avril . [media],"[NULL,NULL,NULL]",2
+231,ouais mais c'est pas bien pour toi . [media],"[NULL,NULL,NULL]",1
+231,ouais mais c'est pas bien pour toi . [media],"[NULL,NULL,NULL]",2
+232,mais si c'est super parce que je préfère pas trop louper moi tu vois de cours . [media],"[NULL,NULL,NULL]",1
+232,mais si c'est super parce que je préfère pas trop louper moi tu vois de cours . [media],"[NULL,NULL,NULL]",2
+233,je sais je sais et comment tu te fais remplacer par une va des vacations .,"[NULL,NULL,NULL]",1
+233,je sais je sais et comment tu te fais remplacer par une va des vacations .,"[NULL,NULL,NULL]",2
+234,ouais il est super le directeur franchement euh . [media],"[NULL,NULL,NULL]",1
+234,ouais il est super le directeur franchement euh . [media],"[NULL,NULL,NULL]",2
+235,adorable d'emblée j'ai jouer la carte franc jeu .,"[NULL,NULL,NULL]",1
+235,adorable d'emblée j'ai jouer la carte franc jeu .,"[NULL,NULL,NULL]",2
+236,tu sais je suis arrivée j'ai dit voilà . [media],"[NULL,NULL,NULL]",1
+236,tu sais je suis arrivée j'ai dit voilà . [media],"[NULL,NULL,NULL]",2
+237,vous avez pu constater il y a du changement depuis le concours .,"[NULL,NULL,NULL]",1
+237,vous avez pu constater il y a du changement depuis le concours .,"[NULL,NULL,NULL]",2
+238,il m'a dit oui j'ai cru voir de profil . [media],"[NULL,NULL,NULL]",1
+238,il m'a dit oui j'ai cru voir de profil . [media],"[NULL,NULL,NULL]",2
+239,puis je lui ai dit vous savez moi je peux vraiment m'adapter si ça se passe comme Théophile .,"[NULL,NULL,NULL]",1
+239,puis je lui ai dit vous savez moi je peux vraiment m'adapter si ça se passe comme Théophile .,"[NULL,NULL,NULL]",2
+240,je touche du bois j'adapte en_fonction de vous .,"[NULL,NULL,NULL]",1
+240,je touche du bois j'adapte en_fonction de vous .,"[NULL,NULL,NULL]",2
+241,donc je pense qu'il a apprécié . [media],"[NULL,NULL,NULL]",1
+241,donc je pense qu'il a apprécié . [media],"[NULL,NULL,NULL]",2
+242,et je lui ai dit le remplacement est-ce que vous voulez forcément quelqu'un un c a ou ...,"[NULL,NULL,NULL]",1
+242,et je lui ai dit le remplacement est-ce que vous voulez forcément quelqu'un un c a ou ...,"[NULL,NULL,NULL]",2
+243,parce que j'ai quelqu'un de très bien mais qui a pas passé ça .,"[NULL,NULL,NULL]",1
+243,parce que j'ai quelqu'un de très bien mais qui a pas passé ça .,"[NULL,NULL,NULL]",2
+244,qui a d enseigné .,"[NULL,NULL,NULL]",1
+244,qui a d enseigné .,"[NULL,NULL,NULL]",2
+245,il m'a dit prenez quelqu'un en qui vous avez confiance euh . [media],"[NULL,NULL,NULL]",1
+245,il m'a dit prenez quelqu'un en qui vous avez confiance euh . [media],"[NULL,NULL,NULL]",2
+246,super quoi je fais comme je veux donc . [media],"[NULL,NULL,NULL]",1
+246,super quoi je fais comme je veux donc . [media],"[NULL,NULL,NULL]",2
+247,c'est tant_mieux parce que tu vois quand tu commences un premier poste . [media],"[NULL,NULL,NULL]",1
+247,c'est tant_mieux parce que tu vois quand tu commences un premier poste . [media],"[NULL,NULL,NULL]",2
+248,maman maman maman .,"[NULL,NULL,NULL]",1
+248,maman maman maman .,"[NULL,NULL,NULL]",2
+249,mais bon il a quatre enfants .,"[NULL,NULL,NULL]",1
+249,mais bon il a quatre enfants .,"[NULL,NULL,NULL]",2
+250,c'est la même chose il m'est arrivé la même chose mon premier poste \<None\> . [media],"[NULL,NULL,NULL]",1
+250,c'est la même chose il m'est arrivé la même chose mon premier poste \<None\> . [media],"[NULL,NULL,NULL]",2
+251,\<None\> \<None\> \<None\> .,"[NULL,NULL,NULL]",1
+251,\<None\> \<None\> \<None\> .,"[NULL,NULL,NULL]",2
+252,premier poste ?,"[NULL,NULL,NULL]",1
+252,premier poste ?,"[NULL,NULL,NULL]",2
+253,ouais j'étais enceinte de deux mois pendant la commission et à la rentrée .,"[NULL,NULL,NULL]",1
+253,ouais j'étais enceinte de deux mois pendant la commission et à la rentrée .,"[NULL,NULL,NULL]",2
+254,eh bah voilà .,"[NULL,NULL,NULL]",1
+254,eh bah voilà .,"[NULL,NULL,NULL]",2
+255,mais mon amour on en a pris plein là . [media],"[NULL,NULL,NULL]",1
+255,mais mon amour on en a pris plein là . [media],"[NULL,NULL,NULL]",2
+256,après t'auras plus faim . [media],"[NULL,NULL,NULL]",1
+256,après t'auras plus faim . [media],"[NULL,NULL,NULL]",2
+257,0. .,"[NULL,NULL,NULL]",1
+257,0. .,"[NULL,NULL,NULL]",2
+258,non non non on attend papa on attend papa Théophile .,"[NULL,NULL,NULL]",1
+258,non non non on attend papa on attend papa Théophile .,"[NULL,NULL,NULL]",2
+259,t'en as mangé plein .,"[NULL,NULL,NULL]",1
+259,t'en as mangé plein .,"[NULL,NULL,NULL]",2
+260,ça suffit ça suffit .,"[NULL,NULL,NULL]",1
+260,ça suffit ça suffit .,"[NULL,NULL,NULL]",2
+261,on va prendre le bain . [media],"[NULL,NULL,NULL]",1
+261,on va prendre le bain . [media],"[NULL,NULL,NULL]",2
+262,on prend le bain et après .,"[NULL,NULL,NULL]",1
+262,on prend le bain et après .,"[NULL,NULL,NULL]",2
+263,non !,"[NULL,NULL,NULL]",1
+263,non !,"[NULL,NULL,NULL]",2
+264,coquinou !,"[NULL,NULL,NULL]",1
+264,coquinou !,"[NULL,NULL,NULL]",2
+265,0. .,"[NULL,NULL,NULL]",1
+265,0. .,"[NULL,NULL,NULL]",2
+266,promis c'est le dernier . [media],"[NULL,NULL,NULL]",1
+266,promis c'est le dernier . [media],"[NULL,NULL,NULL]",2
+267,dernier dernier tu demandes plus ? [media],"[NULL,NULL,NULL]",1
+267,dernier dernier tu demandes plus ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+268,Théophile ça s le dernier . [media],"[NULL,NULL,NULL]",1
+268,Théophile ça s le dernier . [media],"[NULL,NULL,NULL]",2
+269,ouais .,"[NULL,NULL,NULL]",1
+269,ouais .,"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+270,oui ou non ?,"[NULL,NULL,NULL]",1
+270,oui ou non ?,"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+271,ouais yyy . [media],"[NULL,NULL,NULL]",1
+271,ouais yyy . [media],"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+272,c'est un oui oui ça oui oui ? [media],"[NULL,NULL,NULL]",1
+272,c'est un oui oui ça oui oui ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+273,oui oui oui hein ? [media],"[NULL,NULL,NULL]",1
+273,oui oui oui hein ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Non-Information-seeking,NULL]",2
+274,dernier petit bout parce que tu m'as mangé un quart de pain là .,"[NULL,NULL,NULL]",1
+274,dernier petit bout parce que tu m'as mangé un quart de pain là .,"[NULL,NULL,NULL]",2
+275,yyy miam miam miam . [media],"[NULL,NULL,NULL]",1
+275,yyy miam miam miam . [media],"[NULL,NULL,NULL]",2
+276,dernier miam miam . [media],"[NULL,NULL,NULL]",1
+276,dernier miam miam . [media],"[NULL,NULL,NULL]",2
+277,on va prendre le bain ? [media],"[NULL,NULL,NULL]",1
+277,on va prendre le bain ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+278,non .,"[NULL,NULL,NULL]",1
+278,non .,"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+279,non ? [media],"[NULL,NULL,NULL]",1
+279,non ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Non-Information-seeking,NULL]",2
+280,yyy .,"[NULL,NULL,NULL]",1
+280,yyy .,"[NULL,NULL,NULL]",2
+281,qu'est-ce que c'est ça ? [media],"[NULL,NULL,NULL]",1
+281,qu'est-ce que c'est ça ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+282,qu'est-ce que c'est ?,"[NULL,NULL,NULL]",1
+282,qu'est-ce que c'est ?,"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+283,le ka .,"[NULL,NULL,NULL]",1
+283,le ka .,"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+284,le ka . [media],"[NULL,NULL,NULL]",1
+284,le ka . [media],"[PAR-Follow-up:Repeat-answer,NULL,NULL]",2
+285,il fait plein de nouveaux mots en ce moment mais c'est un peu spécial .,"[NULL,NULL,NULL]",1
+285,il fait plein de nouveaux mots en ce moment mais c'est un peu spécial .,"[NULL,NULL,NULL]",2
+286,c'est quoi ça ? [media],"[NULL,NULL,NULL]",1
+286,c'est quoi ça ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+287,oka .,"[NULL,NULL,NULL]",1
+287,oka .,"[PAR-Follow-up:other,NULL,NULL]",2
+288,oka ?,"[NULL,NULL,NULL]",1
+288,oka ?,"[NULL,NULL,NULL]",2
+289,oka .,"[NULL,NULL,NULL]",1
+289,oka .,"[NULL,NULL,NULL]",2
+290,c'est un balai .,"[NULL,NULL,NULL]",1
+290,c'est un balai .,"[NULL,NULL,NULL]",2
+291,les vidéos c'est akwa . [media],"[NULL,NULL,NULL]",1
+291,les vidéos c'est akwa . [media],"[NULL,NULL,NULL]",2
+292,il a plein de trucs .,"[NULL,NULL,NULL]",1
+292,il a plein de trucs .,"[NULL,NULL,NULL]",2
+293,il invente .,"[NULL,NULL,NULL]",1
+293,il invente .,"[NULL,NULL,NULL]",2
+294,il invente .,"[NULL,NULL,NULL]",1
+294,il invente .,"[NULL,NULL,NULL]",2
+295,en fonction de quelque chose .,"[NULL,NULL,NULL]",1
+295,en fonction de quelque chose .,"[NULL,NULL,NULL]",2
+296,ah oui mais c'est très défini par_contre c'est toujours les mêmes choses . [media],"[NULL,NULL,NULL]",1
+296,ah oui mais c'est très défini par_contre c'est toujours les mêmes choses . [media],"[NULL,NULL,NULL]",2
+297,0. .,"[NULL,NULL,NULL]",1
+297,0. .,"[NULL,NULL,NULL]",2
+298,qu'est-ce que c'est ça Théohile ? [media],"[NULL,NULL,NULL]",1
+298,qu'est-ce que c'est ça Théohile ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+299,c'est quoi ?,"[NULL,NULL,NULL]",1
+299,c'est quoi ?,"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+300,ah hum .,"[NULL,NULL,NULL]",1
+300,ah hum .,"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+301,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+301,qu'est-ce que c'est ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+302,hum .,"[NULL,NULL,NULL]",1
+302,hum .,"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+303,ho la la .,"[NULL,NULL,NULL]",1
+303,ho la la .,"[NULL,NULL,NULL]",2
+304,attention t'es prêt pour l'escrime ? [media],"[NULL,NULL,NULL]",1
+304,attention t'es prêt pour l'escrime ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Non-Information-seeking,NULL]",2
+305,attention .,"[NULL,NULL,NULL]",1
+305,attention .,"[NULL,NULL,NULL]",2
+306,0. .,"[NULL,NULL,NULL]",1
+306,0. .,"[NULL,NULL,NULL]",2
+307,vas_y . [media],"[NULL,NULL,NULL]",1
+307,vas_y . [media],"[NULL,NULL,NULL]",2
+308,attention au bébé hein .,"[NULL,NULL,NULL]",1
+308,attention au bébé hein .,"[NULL,NULL,NULL]",2
+309,hum .,"[NULL,NULL,NULL]",1
+309,hum .,"[NULL,NULL,NULL]",2
+310,vas_y ouais pas trop fort hein .,"[NULL,NULL,NULL]",1
+310,vas_y ouais pas trop fort hein .,"[NULL,NULL,NULL]",2
+311,0. . [media],"[NULL,NULL,NULL]",1
+311,0. . [media],"[NULL,NULL,NULL]",2
+312,allez mousquetaire allez vas_y . [media],"[NULL,NULL,NULL]",1
+312,allez mousquetaire allez vas_y . [media],"[NULL,NULL,NULL]",2
+313,bientôt je vais passer aux films de mousquetaires je crois . [media],"[NULL,NULL,NULL]",1
+313,bientôt je vais passer aux films de mousquetaires je crois . [media],"[NULL,NULL,NULL]",2
+314,parce qu'on commence à avoir épuiser tous les numériques . [media],"[NULL,NULL,NULL]",1
+314,parce qu'on commence à avoir épuiser tous les numériques . [media],"[NULL,NULL,NULL]",2
+315,tu sais tous les les trois d là . Toy_Story .,"[NULL,NULL,NULL]",1
+315,tu sais tous les les trois d là . Toy_Story .,"[NULL,NULL,NULL]",2
+316,0. .,"[NULL,NULL,NULL]",1
+316,0. .,"[NULL,NULL,NULL]",2
+317,il en est à Toy_Story maint . [media],"[NULL,NULL,NULL]",1
+317,il en est à Toy_Story maint . [media],"[NULL,NULL,NULL]",2
+318,j'ai jamais vu moi .,"[NULL,NULL,NULL]",1
+318,j'ai jamais vu moi .,"[NULL,NULL,NULL]",2
+319,c'est super bien fait . [media],"[NULL,NULL,NULL]",1
+319,c'est super bien fait . [media],"[NULL,NULL,NULL]",2
+320,0. .,"[NULL,NULL,NULL]",1
+320,0. .,"[NULL,NULL,NULL]",2
+321,ohlàlà la tu me donnes le balai . [media],"[NULL,NULL,NULL]",1
+321,ohlàlà la tu me donnes le balai . [media],"[NULL,NULL,NULL]",2
+322,tu veux qu'on s batte parce que moi j'ai pas de bébé dans le ventre . [media],"[NULL,NULL,NULL]",1
+322,tu veux qu'on s batte parce que moi j'ai pas de bébé dans le ventre . [media],"[NULL,NULL,NULL]",2
+323,hop hop hop hop hop hop \<None\> .,"[NULL,NULL,NULL]",1
+323,hop hop hop hop hop hop \<None\> .,"[NULL,NULL,NULL]",2
+324,ça tape Théophile \<None\> ! [media],"[NULL,NULL,NULL]",1
+324,ça tape Théophile \<None\> ! [media],"[NULL,NULL,NULL]",2
+325,avec une caméra mon chéri c'est pas génial . [media],"[NULL,NULL,NULL]",1
+325,avec une caméra mon chéri c'est pas génial . [media],"[NULL,NULL,NULL]",2
+326,ouais là .,"[NULL,NULL,NULL]",1
+326,ouais là .,"[NULL,NULL,NULL]",2
+327,yyy .,"[NULL,NULL,NULL]",1
+327,yyy .,"[NULL,NULL,NULL]",2
+328,est-ce que on on peut r la bataille quand on a fini de filmer ? [media],"[NULL,NULL,NULL]",1
+328,est-ce que on on peut r la bataille quand on a fini de filmer ? [media],"[NULL,NULL,NULL]",2
+329,hein ce sera mieux promis .,"[NULL,NULL,NULL]",1
+329,hein ce sera mieux promis .,"[NULL,NULL,NULL]",2
+330,t'as vu ?,"[NULL,NULL,NULL]",1
+330,t'as vu ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+331,il y a une sucette là . [media],"[NULL,NULL,NULL]",1
+331,il y a une sucette là . [media],"[NULL,NULL,NULL]",2
+332,0. .,"[NULL,NULL,NULL]",1
+332,0. .,"[NULL,NULL,NULL]",2
+333,ah oui t'essaies d' attraper joli joli . [media],"[NULL,NULL,NULL]",1
+333,ah oui t'essaies d' attraper joli joli . [media],"[NULL,NULL,NULL]",2
+334,la pêche à la sucette .,"[NULL,NULL,NULL]",1
+334,la pêche à la sucette .,"[NULL,NULL,NULL]",2
+335,ah non yyy . [media],"[NULL,NULL,NULL]",1
+335,ah non yyy . [media],"[NULL,NULL,NULL]",2
+336,doucement hein quand_même . [media],"[NULL,NULL,NULL]",1
+336,doucement hein quand_même . [media],"[NULL,NULL,NULL]",2
+337,joli Théophie t'essaies de les toucher ? [media],"[NULL,NULL,NULL]",1
+337,joli Théophie t'essaies de les toucher ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+338,il a une voix un peu comme euh \<self interruption\>,"[NULL,NULL,NULL]",1
+338,il a une voix un peu comme euh \<self interruption\>,"[NULL,NULL,NULL]",2
+339,0. .,"[NULL,NULL,NULL]",1
+339,0. .,"[NULL,NULL,NULL]",2
+340,oui !,"[NULL,NULL,NULL]",1
+340,oui !,"[NULL,NULL,NULL]",2
+341,comment il s'appelle . [media],"[NULL,NULL,NULL]",1
+341,comment il s'appelle . [media],"[NULL,NULL,NULL]",2
+342,Armstrong .,"[NULL,NULL,NULL]",1
+342,Armstrong .,"[NULL,NULL,NULL]",2
+343,Armstrong .,"[NULL,NULL,NULL]",1
+343,Armstrong .,"[NULL,NULL,NULL]",2
+344,oui il à la voix ouais parce que comme il a les choses du nez qui sont en_train de descendre . [media],"[NULL,NULL,NULL]",1
+344,oui il à la voix ouais parce que comme il a les choses du nez qui sont en_train de descendre . [media],"[NULL,NULL,NULL]",2
+345,on dirait qu'il mue .,"[NULL,NULL,NULL]",1
+345,on dirait qu'il mue .,"[NULL,NULL,NULL]",2
+346,exactement euh \<None\> ça fait la voix de \<interruption\> [media],"[NULL,NULL,NULL]",1
+346,exactement euh \<None\> ça fait la voix de \<interruption\> [media],"[NULL,NULL,NULL]",2
+347,il parle peu mais il mue \<None\> .,"[NULL,NULL,NULL]",1
+347,il parle peu mais il mue \<None\> .,"[NULL,NULL,NULL]",2
+348,c'est ça . [media],"[NULL,NULL,NULL]",1
+348,c'est ça . [media],"[NULL,NULL,NULL]",2
+349,c'est vrai qu'il est marrant parce que soit il passe la voix très aiguë ou alors tout d' un coup .,"[NULL,NULL,NULL]",1
+349,c'est vrai qu'il est marrant parce que soit il passe la voix très aiguë ou alors tout d' un coup .,"[NULL,NULL,NULL]",2
+350,dès qu'il s'agit de voiture ça devient vroum \<None\> . [media],"[NULL,NULL,NULL]",1
+350,dès qu'il s'agit de voiture ça devient vroum \<None\> . [media],"[NULL,NULL,NULL]",2
+351,et miam miam aussi c'est cassé \<None\> .,"[NULL,NULL,NULL]",1
+351,et miam miam aussi c'est cassé \<None\> .,"[NULL,NULL,NULL]",2
+352,parce que nourriture c'est \<None\> \<self interruption\>,"[NULL,NULL,NULL]",1
+352,parce que nourriture c'est \<None\> \<self interruption\>,"[NULL,NULL,NULL]",2
+353,bah ça dépend normalement c'est miam miam \<None\> . [media],"[NULL,NULL,NULL]",1
+353,bah ça dépend normalement c'est miam miam \<None\> . [media],"[NULL,NULL,NULL]",2
+354,qu'est-ce que tu veux attraper Théophile ? [media],"[NULL,NULL,NULL]",1
+354,qu'est-ce que tu veux attraper Théophile ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+355,0. .,"[NULL,NULL,NULL]",1
+355,0. .,"[CHI-Response:No-label,NULL,NULL]",2
+356,qu'est-ce que tu veux ?,"[NULL,NULL,NULL]",1
+356,qu'est-ce que tu veux ?,"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+357,yyy .,"[NULL,NULL,NULL]",1
+357,yyy .,"[CHI-Response:No-label,NULL,NULL]",2
+358,ah oui une pièce de monnaie . [media],"[NULL,NULL,NULL]",1
+358,ah oui une pièce de monnaie . [media],"[PAR-Follow-up:Signal-agreement,PAR-Follow-up:Add-info,NULL]",2
+359,0. .,"[NULL,NULL,NULL]",1
+359,0. .,"[NULL,NULL,NULL]",2
+360,touché ! [media],"[NULL,NULL,NULL]",1
+360,touché ! [media],"[NULL,NULL,NULL]",2
+361,ah non yyy . [media],"[NULL,NULL,NULL]",1
+361,ah non yyy . [media],"[NULL,NULL,NULL]",2
+362,yyy .,"[NULL,NULL,NULL]",1
+362,yyy .,"[NULL,NULL,NULL]",2
+363,et ouais parce que tu vois il manque une pince .,"[NULL,NULL,NULL]",1
+363,et ouais parce que tu vois il manque une pince .,"[NULL,NULL,NULL]",2
+364,ça marcherait si y avait une p pince .,"[NULL,NULL,NULL]",1
+364,ça marcherait si y avait une p pince .,"[NULL,NULL,NULL]",2
+365,parce que je peux pas l'ouvrir ça Théophile . [media],"[NULL,NULL,NULL]",1
+365,parce que je peux pas l'ouvrir ça Théophile . [media],"[NULL,NULL,NULL]",2
+366,on demandera à papa moi je sais pas comment faire . [media],"[NULL,NULL,NULL]",1
+366,on demandera à papa moi je sais pas comment faire . [media],"[NULL,NULL,NULL]",2
+367,mais tu l'as touché hein . [media],"[NULL,NULL,NULL]",1
+367,mais tu l'as touché hein . [media],"[NULL,NULL,NULL]",2
+368,on se déshabille tranquillement hein ? [media],"[NULL,NULL,NULL]",1
+368,on se déshabille tranquillement hein ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+369,xxx .,"[NULL,NULL,NULL]",1
+369,xxx .,"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+370,oh non . [media],"[NULL,NULL,NULL]",1
+370,oh non . [media],"[PAR-Follow-up:Repeat-answer,NULL,NULL]",2
+371,tiens tiens Théophile . [media],"[NULL,NULL,NULL]",1
+371,tiens tiens Théophile . [media],"[NULL,NULL,NULL]",2
+372,xxx . [media],"[NULL,NULL,NULL]",1
+372,xxx . [media],"[NULL,NULL,NULL]",2
+373,ouh la je sens venir le truc là .,"[NULL,NULL,NULL]",1
+373,ouh la je sens venir le truc là .,"[NULL,NULL,NULL]",2
+374,non non coquinou .,"[NULL,NULL,NULL]",1
+374,non non coquinou .,"[NULL,NULL,NULL]",2
+375,coquinou je te vois venir euh .,"[NULL,NULL,NULL]",1
+375,coquinou je te vois venir euh .,"[NULL,NULL,NULL]",2
+376,0. . [media],"[NULL,NULL,NULL]",1
+376,0. . [media],"[NULL,NULL,NULL]",2
+377,tu vas me le faire tomber je sans là .,"[NULL,NULL,NULL]",1
+377,tu vas me le faire tomber je sans là .,"[NULL,NULL,NULL]",2
+378,oh oh oh oh . [media],"[NULL,NULL,NULL]",1
+378,oh oh oh oh . [media],"[NULL,NULL,NULL]",2
+379,yyy l épée .,"[NULL,NULL,NULL]",1
+379,yyy l épée .,"[NULL,NULL,NULL]",2
+380,ouais doucement doucement . [media],"[NULL,NULL,NULL]",1
+380,ouais doucement doucement . [media],"[NULL,NULL,NULL]",2
+381,0. .,"[NULL,NULL,NULL]",1
+381,0. .,"[NULL,NULL,NULL]",2
+382,ah qu'est-ce que tu veux faire avec ça . [media],"[NULL,NULL,NULL]",1
+382,ah qu'est-ce que tu veux faire avec ça . [media],"[NULL,NULL,NULL]",2
+383,ticaticati .,"[NULL,NULL,NULL]",1
+383,ticaticati .,"[NULL,NULL,NULL]",2
+384,ah yyy .,"[NULL,NULL,NULL]",1
+384,ah yyy .,"[NULL,NULL,NULL]",2
+385,yyy . [media],"[NULL,NULL,NULL]",1
+385,yyy . [media],"[NULL,NULL,NULL]",2
+386,guilli guilli guilli guilli guilli guilli . [media],"[NULL,NULL,NULL]",1
+386,guilli guilli guilli guilli guilli guilli . [media],"[NULL,NULL,NULL]",2
+387,yyy . [media],"[NULL,NULL,NULL]",1
+387,yyy . [media],"[NULL,NULL,NULL]",2
+388,hop .,"[NULL,NULL,NULL]",1
+388,hop .,"[NULL,NULL,NULL]",2
+389,tu la pousses ? [media],"[NULL,NULL,NULL]",1
+389,tu la pousses ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+390,oh joli ! [media],"[NULL,NULL,NULL]",1
+390,oh joli ! [media],"[NULL,NULL,NULL]",2
+391,oh faut pas la faire tomber hein . [media],"[NULL,NULL,NULL]",1
+391,oh faut pas la faire tomber hein . [media],"[NULL,NULL,NULL]",2
+392,vroum vroum .,"[NULL,NULL,NULL]",1
+392,vroum vroum .,"[NULL,NULL,NULL]",2
+393,oh joli . [media],"[NULL,NULL,NULL]",1
+393,oh joli . [media],"[NULL,NULL,NULL]",2
+394,yyy . [media],"[NULL,NULL,NULL]",1
+394,yyy . [media],"[NULL,NULL,NULL]",2
+395,qu'est-ce qu'elle fait la voiture \<None\> ? [media],"[NULL,NULL,NULL]",1
+395,qu'est-ce qu'elle fait la voiture \<None\> ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+396,yyy . [media],"[NULL,NULL,NULL]",1
+396,yyy . [media],"[CHI-Response:No-label,NULL,NULL]",2
+397,voilà xxx je comprends rien mais .,"[NULL,NULL,NULL]",1
+397,voilà xxx je comprends rien mais .,"[PAR-Follow-up:other,NULL,NULL]",2
+398,0. . [media],"[NULL,NULL,NULL]",1
+398,0. . [media],"[NULL,NULL,NULL]",2
+399,yyy . [media],"[NULL,NULL,NULL]",1
+399,yyy . [media],"[NULL,NULL,NULL]",2
+400,vroum yyy . [media],"[NULL,NULL,NULL]",1
+400,vroum yyy . [media],"[NULL,NULL,NULL]",2
+401,j'adore \<None\> .,"[NULL,NULL,NULL]",1
+401,j'adore \<None\> .,"[NULL,NULL,NULL]",2
+402,yyy . [media],"[NULL,NULL,NULL]",1
+402,yyy . [media],"[NULL,NULL,NULL]",2
+403,qu'est-ce qu'il fait le chien là \<None\> ? [media],"[NULL,NULL,NULL]",1
+403,qu'est-ce qu'il fait le chien là \<None\> ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+404,yyy . [media],"[NULL,NULL,NULL]",1
+404,yyy . [media],"[CHI-Response:No-label,NULL,NULL]",2
+405,yyy .,"[NULL,NULL,NULL]",1
+405,yyy .,"[NULL,NULL,NULL]",2
+406,c'est qui ça ? [media],"[NULL,NULL,NULL]",1
+406,c'est qui ça ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+407,yyy .,"[NULL,NULL,NULL]",1
+407,yyy .,"[CHI-Response:No-label,NULL,NULL]",2
+408,yyy merci . [media],"[NULL,NULL,NULL]",1
+408,yyy merci . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+409,vouh oh le petit Théophile .,"[NULL,NULL,NULL]",1
+409,vouh oh le petit Théophile .,"[NULL,NULL,NULL]",2
+410,coucou coucou coucou coucou coucou coucou coucou coucou .,"[NULL,NULL,NULL]",1
+410,coucou coucou coucou coucou coucou coucou coucou coucou .,"[NULL,NULL,NULL]",2
+411,0. . [media],"[NULL,NULL,NULL]",1
+411,0. . [media],"[NULL,NULL,NULL]",2
+412,coucou coucou .,"[NULL,NULL,NULL]",1
+412,coucou coucou .,"[NULL,NULL,NULL]",2
+413,yyy . [media],"[NULL,NULL,NULL]",1
+413,yyy . [media],"[NULL,NULL,NULL]",2
+414,yyy .,"[NULL,NULL,NULL]",1
+414,yyy .,"[NULL,NULL,NULL]",2
+415,oh c'est l'hippopotame ?,"[NULL,NULL,NULL]",1
+415,oh c'est l'hippopotame ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+416,non c'est le rhinocéros . [media],"[NULL,NULL,NULL]",1
+416,non c'est le rhinocéros . [media],"[NULL,NULL,NULL]",2
+417,yyy .,"[NULL,NULL,NULL]",1
+417,yyy .,"[NULL,NULL,NULL]",2
+418,le p rhinocéros .,"[NULL,NULL,NULL]",1
+418,le p rhinocéros .,"[NULL,NULL,NULL]",2
+419,yyy .,"[NULL,NULL,NULL]",1
+419,yyy .,"[NULL,NULL,NULL]",2
+420,c'est vrai ? [media],"[NULL,NULL,NULL]",1
+420,c'est vrai ? [media],"[NULL,NULL,NULL]",2
+421,yyy .,"[NULL,NULL,NULL]",1
+421,yyy .,"[NULL,NULL,NULL]",2
+422,bah il est où le rhinocéros ? [media],"[NULL,NULL,NULL]",1
+422,bah il est où le rhinocéros ? [media],"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+423,yyy . [media],"[NULL,NULL,NULL]",1
+423,yyy . [media],"[NULL,NULL,NULL]",2
+424,est-ce que je peux filmer sans le balai Théophile parce qu'alors là . [media],"[NULL,NULL,NULL]",1
+424,est-ce que je peux filmer sans le balai Théophile parce qu'alors là . [media],"[NULL,NULL,NULL]",2
+425,ça commence à me gêner . [media],"[NULL,NULL,NULL]",1
+425,ça commence à me gêner . [media],"[NULL,NULL,NULL]",2
+426,yyy .,"[NULL,NULL,NULL]",1
+426,yyy .,"[NULL,NULL,NULL]",2
+427,je le pose hein \<None\> . [media],"[NULL,NULL,NULL]",1
+427,je le pose hein \<None\> . [media],"[NULL,NULL,NULL]",2
+428,tu sais je t'ai jamais vu dessiner sur le tableau moi . [media],"[NULL,NULL,NULL]",1
+428,tu sais je t'ai jamais vu dessiner sur le tableau moi . [media],"[NULL,NULL,NULL]",2
+429,ah il sait faire ça .,"[NULL,NULL,NULL]",1
+429,ah il sait faire ça .,"[NULL,NULL,NULL]",2
+430,tu me montres comment tu fais .,"[NULL,NULL,NULL]",1
+430,tu me montres comment tu fais .,"[NULL,NULL,NULL]",2
+431,est-ce qu'il en reste . [media],"[NULL,NULL,NULL]",1
+431,est-ce qu'il en reste . [media],"[NULL,NULL,NULL]",2
+432,tiens Théophile . [media],"[NULL,NULL,NULL]",1
+432,tiens Théophile . [media],"[NULL,NULL,NULL]",2
+433,tu fais un dessin pour Lili ? [media],"[NULL,NULL,NULL]",1
+433,tu fais un dessin pour Lili ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+434,0. .,"[NULL,NULL,NULL]",1
+434,0. .,"[NULL,NULL,NULL]",2
+435,wouha !,"[NULL,NULL,NULL]",1
+435,wouha !,"[NULL,NULL,NULL]",2
+436,wouha ! [media],"[NULL,NULL,NULL]",1
+436,wouha ! [media],"[NULL,NULL,NULL]",2
+437,ça sonne .,"[NULL,NULL,NULL]",1
+437,ça sonne .,"[NULL,NULL,NULL]",2
+438,ouais j'y vais .,"[NULL,NULL,NULL]",1
+438,ouais j'y vais .,"[NULL,NULL,NULL]",2
+439,joli Théophile ! [media],"[NULL,NULL,NULL]",1
+439,joli Théophile ! [media],"[NULL,NULL,NULL]",2
+440,yyy .,"[NULL,NULL,NULL]",1
+440,yyy .,"[NULL,NULL,NULL]",2
+441,allo . [media],"[NULL,NULL,NULL]",1
+441,allo . [media],"[NULL,NULL,NULL]",2
+442,oui ! [media],"[NULL,NULL,NULL]",1
+442,oui ! [media],"[NULL,NULL,NULL]",2
+443,ouais d'accord de toute façon Théophile il a m il a voulu manger plein de pain donc euh donc on mangera ensemble . [media],"[NULL,NULL,NULL]",1
+443,ouais d'accord de toute façon Théophile il a m il a voulu manger plein de pain donc euh donc on mangera ensemble . [media],"[NULL,NULL,NULL]",2
+444,parce que là il s'amuse Lili est là tu vois .,"[NULL,NULL,NULL]",1
+444,parce que là il s'amuse Lili est là tu vois .,"[NULL,NULL,NULL]",2
+445,il dessine il est dans ses jeux là on le presse pas il s'amuse bien . [media],"[NULL,NULL,NULL]",1
+445,il dessine il est dans ses jeux là on le presse pas il s'amuse bien . [media],"[NULL,NULL,NULL]",2
+446,donc moi je vais le baigner donc super .,"[NULL,NULL,NULL]",1
+446,donc moi je vais le baigner donc super .,"[NULL,NULL,NULL]",2
+447,comme ça on mangera ensemble . [media],"[NULL,NULL,NULL]",1
+447,comme ça on mangera ensemble . [media],"[NULL,NULL,NULL]",2
+448,à tout_de_suite ! [media],"[NULL,NULL,NULL]",1
+448,à tout_de_suite ! [media],"[NULL,NULL,NULL]",2
+449,c'est papa Théophile .,"[NULL,NULL,NULL]",1
+449,c'est papa Théophile .,"[NULL,NULL,NULL]",2
+450,yyy . [media],"[NULL,NULL,NULL]",1
+450,yyy . [media],"[NULL,NULL,NULL]",2
+451,yyy regarde . [media],"[NULL,NULL,NULL]",1
+451,yyy regarde . [media],"[NULL,NULL,NULL]",2
+452,ouais \<None\> .,"[NULL,NULL,NULL]",1
+452,ouais \<None\> .,"[NULL,NULL,NULL]",2
+453,j'adore quand il fait ça \<None\> . [media],"[NULL,NULL,NULL]",1
+453,j'adore quand il fait ça \<None\> . [media],"[NULL,NULL,NULL]",2
+454,des petites lignes ?,"[NULL,NULL,NULL]",1
+454,des petites lignes ?,"[NULL,NULL,NULL]",2
+455,des clefs !,"[NULL,NULL,NULL]",1
+455,des clefs !,"[NULL,NULL,NULL]",2
+456,tu dessines des clefs ?,"[NULL,NULL,NULL]",1
+456,tu dessines des clefs ?,"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+457,des clefs ! [media],"[NULL,NULL,NULL]",1
+457,des clefs ! [media],"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+458,des clefs comment tu dessines des clefs ? [media],"[NULL,NULL,NULL]",1
+458,des clefs comment tu dessines des clefs ? [media],"[PAR-Follow-up:Repeat-answer,PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ]",2
+459,ɛ̃ clef .,"[NULL,NULL,NULL]",1
+459,ɛ̃ clef .,"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+460,hum .,"[NULL,NULL,NULL]",1
+460,hum .,"[NULL,NULL,NULL]",2
+461,ah c'est une clef . [media],"[NULL,NULL,NULL]",1
+461,ah c'est une clef . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+462,une autre clef ? [media],"[NULL,NULL,NULL]",1
+462,une autre clef ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+463,ah clef ! [media],"[NULL,NULL,NULL]",1
+463,ah clef ! [media],"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+464,des clefs !,"[NULL,NULL,NULL]",1
+464,des clefs !,"[NULL,NULL,NULL]",2
+465,des clefs ! [media],"[NULL,NULL,NULL]",1
+465,des clefs ! [media],"[PAR-Follow-up:Repeat-answer,NULL,NULL]",2
+466,et un chien tu peux dessiner un chien ? [media],"[NULL,NULL,NULL]",1
+466,et un chien tu peux dessiner un chien ? [media],"[NULL,NULL,NULL]",2
+467,ouais .,"[NULL,NULL,NULL]",1
+467,ouais .,"[NULL,NULL,NULL]",2
+468,ouais \<None\> . [media],"[NULL,NULL,NULL]",1
+468,ouais \<None\> . [media],"[NULL,NULL,NULL]",2
+469,yyy wouha .,"[NULL,NULL,NULL]",1
+469,yyy wouha .,"[NULL,NULL,NULL]",2
+470,wouaw .,"[NULL,NULL,NULL]",1
+470,wouaw .,"[NULL,NULL,NULL]",2
+471,un wouha wouha bravo Théophile ! [media],"[NULL,NULL,NULL]",1
+471,un wouha wouha bravo Théophile ! [media],"[NULL,NULL,NULL]",2
+472,yyy vroum vroum pinpon .,"[NULL,NULL,NULL]",1
+472,yyy vroum vroum pinpon .,"[NULL,NULL,NULL]",2
+473,tu dessines une voiture ?,"[NULL,NULL,NULL]",1
+473,tu dessines une voiture ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+474,ouais dessine une voiture ce serait super ! [media],"[NULL,NULL,NULL]",1
+474,ouais dessine une voiture ce serait super ! [media],"[NULL,NULL,NULL]",2
+475,tu fais une vroumi Théophile ?,"[NULL,NULL,NULL]",1
+475,tu fais une vroumi Théophile ?,"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+476,ouais . [media],"[NULL,NULL,NULL]",1
+476,ouais . [media],"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+477,ouais . [media],"[NULL,NULL,NULL]",1
+477,ouais . [media],"[PAR-Follow-up:Signal-agreement,NULL,NULL]",2
+478,un vroumi .,"[NULL,NULL,NULL]",1
+478,un vroumi .,"[NULL,NULL,NULL]",2
+479,joli ! [media],"[NULL,NULL,NULL]",1
+479,joli ! [media],"[NULL,NULL,NULL]",2
+480,maint c'est vroumi .,"[NULL,NULL,NULL]",1
+480,maint c'est vroumi .,"[NULL,NULL,NULL]",2
+481,ouais . [media],"[NULL,NULL,NULL]",1
+481,ouais . [media],"[NULL,NULL,NULL]",2
+482,ça fait un moment c'est vroumi il fait des p ouais des déclinaisons à sa façon \<None\> .,"[NULL,NULL,NULL]",1
+482,ça fait un moment c'est vroumi il fait des p ouais des déclinaisons à sa façon \<None\> .,"[NULL,NULL,NULL]",2
+483,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> \<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+483,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> \<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+484,c'est quoi un train un train tu fais un train ? [media],"[NULL,NULL,NULL]",1
+484,c'est quoi un train un train tu fais un train ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+485,yyy . [media],"[NULL,NULL,NULL]",1
+485,yyy . [media],"[NULL,NULL,NULL]",2
+486,yyy . [media],"[NULL,NULL,NULL]",1
+486,yyy . [media],"[NULL,NULL,NULL]",2
+487,tu fais un soleil ? [media],"[NULL,NULL,NULL]",1
+487,tu fais un soleil ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+488,yyy . [media],"[NULL,NULL,NULL]",1
+488,yyy . [media],"[NULL,NULL,NULL]",2
+489,yyy . [media],"[NULL,NULL,NULL]",1
+489,yyy . [media],"[NULL,NULL,NULL]",2
+490,yyy . [media],"[NULL,NULL,NULL]",1
+490,yyy . [media],"[NULL,NULL,NULL]",2
+491,yyy vroum . [media],"[NULL,NULL,NULL]",1
+491,yyy vroum . [media],"[NULL,NULL,NULL]",2
+492,yyy . [media],"[NULL,NULL,NULL]",1
+492,yyy . [media],"[NULL,NULL,NULL]",2
+493,et tu sais ce-qui manque sur ton dessin ?,"[NULL,NULL,NULL]",1
+493,et tu sais ce-qui manque sur ton dessin ?,"[NULL,NULL,NULL]",2
+494,il manque un ballon .,"[NULL,NULL,NULL]",1
+494,il manque un ballon .,"[NULL,NULL,NULL]",2
+495,oh un ballon ! [media],"[NULL,NULL,NULL]",1
+495,oh un ballon ! [media],"[NULL,NULL,NULL]",2
+496,eh un boum boum . [media],"[NULL,NULL,NULL]",1
+496,eh un boum boum . [media],"[NULL,NULL,NULL]",2
+497,un boum boum .,"[NULL,NULL,NULL]",1
+497,un boum boum .,"[NULL,NULL,NULL]",2
+498,yyy .,"[NULL,NULL,NULL]",1
+498,yyy .,"[NULL,NULL,NULL]",2
+499,j'adore il m'avait jamais fait ça \<None\> . [media],"[NULL,NULL,NULL]",1
+499,j'adore il m'avait jamais fait ça \<None\> . [media],"[NULL,NULL,NULL]",2
+500,a boum boum toto .,"[NULL,NULL,NULL]",1
+500,a boum boum toto .,"[NULL,NULL,NULL]",2
+501,il les reconnaît hein le train et tout .,"[NULL,NULL,NULL]",1
+501,il les reconnaît hein le train et tout .,"[NULL,NULL,NULL]",2
+502,et la voiture il est où . [media],"[NULL,NULL,NULL]",1
+502,et la voiture il est où . [media],"[NULL,NULL,NULL]",2
+503,ouais . [media],"[NULL,NULL,NULL]",1
+503,ouais . [media],"[NULL,NULL,NULL]",2
+504,a vomi .,"[NULL,NULL,NULL]",1
+504,a vomi .,"[NULL,NULL,NULL]",2
+505,0. joli Théophile ! [media],"[NULL,NULL,NULL]",1
+505,0. joli Théophile ! [media],"[NULL,NULL,NULL]",2
+506,a train .,"[NULL,NULL,NULL]",1
+506,a train .,"[NULL,NULL,NULL]",2
+507,là c'est un train ! [media],"[NULL,NULL,NULL]",1
+507,là c'est un train ! [media],"[NULL,NULL,NULL]",2
+508,et tu dessines Dundo ?,"[NULL,NULL,NULL]",1
+508,et tu dessines Dundo ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+509,comment il es Dundo ? [media],"[NULL,NULL,NULL]",1
+509,comment il es Dundo ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+510,ah yyy !,"[NULL,NULL,NULL]",1
+510,ah yyy !,"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+511,ouais joli ! [media],"[NULL,NULL,NULL]",1
+511,ouais joli ! [media],"[PAR-Follow-up:Signal-agreement,NULL,NULL]",2
+512,et la moto ?,"[NULL,NULL,NULL]",1
+512,et la moto ?,"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+513,oh ouais . [media],"[NULL,NULL,NULL]",1
+513,oh ouais . [media],"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+514,ah vroumi .,"[NULL,NULL,NULL]",1
+514,ah vroumi .,"[NULL,NULL,NULL]",2
+515,vroumi voiture ou moto maint c'est vroumi \<None\> . [media],"[NULL,NULL,NULL]",1
+515,vroumi voiture ou moto maint c'est vroumi \<None\> . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+516,j'adore vroumi je trouve ça trop mignon \<None\> .,"[NULL,NULL,NULL]",1
+516,j'adore vroumi je trouve ça trop mignon \<None\> .,"[NULL,NULL,NULL]",2
+517,c'est marrant comme il est passé de vroumvroum à vroumi . [media],"[NULL,NULL,NULL]",1
+517,c'est marrant comme il est passé de vroumvroum à vroumi . [media],"[NULL,NULL,NULL]",2
+518,bah ça fait un bon moment .,"[NULL,NULL,NULL]",1
+518,bah ça fait un bon moment .,"[NULL,NULL,NULL]",2
+519,il y a eu vroumer d'abord le fait de rouler maint il \<interruption\>,"[NULL,NULL,NULL]",1
+519,il y a eu vroumer d'abord le fait de rouler maint il \<interruption\>,"[NULL,NULL,NULL]",2
+520,yyy . [media],"[NULL,NULL,NULL]",1
+520,yyy . [media],"[NULL,NULL,NULL]",2
+521,\<None\> \<None\> ah non . [media],"[NULL,NULL,NULL]",1
+521,\<None\> \<None\> ah non . [media],"[NULL,NULL,NULL]",2
+522,yyy dans vroumi .,"[NULL,NULL,NULL]",1
+522,yyy dans vroumi .,"[NULL,NULL,NULL]",2
+523,ah c'est le ça c'est le pilote .,"[NULL,NULL,NULL]",1
+523,ah c'est le ça c'est le pilote .,"[NULL,NULL,NULL]",2
+524,tu dessines le pilote ? [media],"[NULL,NULL,NULL]",1
+524,tu dessines le pilote ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+525,non .,"[NULL,NULL,NULL]",1
+525,non .,"[NULL,NULL,NULL]",2
+526,ah non on le met là .,"[NULL,NULL,NULL]",1
+526,ah non on le met là .,"[NULL,NULL,NULL]",2
+527,tu le mets là tu veux que je le mette là tu veux ? [media],"[NULL,NULL,NULL]",1
+527,tu le mets là tu veux que je le mette là tu veux ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+528,on le met là . oui ou non ?,"[NULL,NULL,NULL]",1
+528,on le met là . oui ou non ?,"[PAR-Follow-up:Re-ask-initial-question,NULL,NULL]",2
+529,hum .,"[NULL,NULL,NULL]",1
+529,hum .,"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+530,là .,"[NULL,NULL,NULL]",1
+530,là .,"[PAR-Follow-up:other,NULL,NULL]",2
+531,0. . [media],"[NULL,NULL,NULL]",1
+531,0. . [media],"[NULL,NULL,NULL]",2
+532,ouais ! [media],"[NULL,NULL,NULL]",1
+532,ouais ! [media],"[NULL,NULL,NULL]",2
+533,il écrit bien main . [media],"[NULL,NULL,NULL]",1
+533,il écrit bien main . [media],"[NULL,NULL,NULL]",2
+534,il faudrait peut-être changer de couleur de temps en temps .,"[NULL,NULL,NULL]",1
+534,il faudrait peut-être changer de couleur de temps en temps .,"[NULL,NULL,NULL]",2
+535,non mais par_contre j'en ai mais qui sont pas adaptés c'est pour ça j'ai pas trouvé encore .,"[NULL,NULL,NULL]",1
+535,non mais par_contre j'en ai mais qui sont pas adaptés c'est pour ça j'ai pas trouvé encore .,"[NULL,NULL,NULL]",2
+536,et ils s'effacent pas bien c'est pour ça j'insiste pas .,"[NULL,NULL,NULL]",1
+536,et ils s'effacent pas bien c'est pour ça j'insiste pas .,"[NULL,NULL,NULL]",2
+537,il faut que je t'en ramène mon bureau parce que moi j'en ai plein .,"[NULL,NULL,NULL]",1
+537,il faut que je t'en ramène mon bureau parce que moi j'en ai plein .,"[NULL,NULL,NULL]",2
+538,je vais lui en ach qui s'effacent bien . [media],"[NULL,NULL,NULL]",1
+538,je vais lui en ach qui s'effacent bien . [media],"[NULL,NULL,NULL]",2
+539,parce qu'il adore ça main .,"[NULL,NULL,NULL]",1
+539,parce qu'il adore ça main .,"[NULL,NULL,NULL]",2
+540,hum . [media],"[NULL,NULL,NULL]",1
+540,hum . [media],"[NULL,NULL,NULL]",2
+541,hein Théophile on va en acheter d' autre couleur .,"[NULL,NULL,NULL]",1
+541,hein Théophile on va en acheter d' autre couleur .,"[NULL,NULL,NULL]",2
+542,mais qui s'effacent aussi c'est ça qui est pas évident .,"[NULL,NULL,NULL]",1
+542,mais qui s'effacent aussi c'est ça qui est pas évident .,"[NULL,NULL,NULL]",2
+543,sinon il s'en met partout .,"[NULL,NULL,NULL]",1
+543,sinon il s'en met partout .,"[NULL,NULL,NULL]",2
+544,je t'en ramène . [media],"[NULL,NULL,NULL]",1
+544,je t'en ramène . [media],"[NULL,NULL,NULL]",2
+545,qui se qui se nettoient ?,"[NULL,NULL,NULL]",1
+545,qui se qui se nettoient ?,"[NULL,NULL,NULL]",2
+546,bah oui . [media],"[NULL,NULL,NULL]",1
+546,bah oui . [media],"[NULL,NULL,NULL]",2
+547,on écrit avec ça quand on est prof \<None\> .,"[NULL,NULL,NULL]",1
+547,on écrit avec ça quand on est prof \<None\> .,"[NULL,NULL,NULL]",2
+548,yyy .,"[NULL,NULL,NULL]",1
+548,yyy .,"[NULL,NULL,NULL]",2
+549,ah ouais parce qu'il adore lui .,"[NULL,NULL,NULL]",1
+549,ah ouais parce qu'il adore lui .,"[NULL,NULL,NULL]",2
+550,tu vois j'en ai mais c'est pas j'ai du mal à les effacer .,"[NULL,NULL,NULL]",1
+550,tu vois j'en ai mais c'est pas j'ai du mal à les effacer .,"[NULL,NULL,NULL]",2
+551,ah non non il faut pas il faut pas utiliser ça . [media],"[NULL,NULL,NULL]",1
+551,ah non non il faut pas il faut pas utiliser ça . [media],"[NULL,NULL,NULL]",2
+552,mais ça marche pas là-dessus .,"[NULL,NULL,NULL]",1
+552,mais ça marche pas là-dessus .,"[NULL,NULL,NULL]",2
+553,dans les papeteries euh ...,"[NULL,NULL,NULL]",1
+553,dans les papeteries euh ...,"[NULL,NULL,NULL]",2
+554,ouais mais je vais m'armer de \<interruption\>,"[NULL,NULL,NULL]",1
+554,ouais mais je vais m'armer de \<interruption\>,"[NULL,NULL,NULL]",2
+555,[quote] spécial pour tableau blanc je sais pas comment ça s'appelle . [media],"[NULL,NULL,NULL]",1
+555,[quote] spécial pour tableau blanc je sais pas comment ça s'appelle . [media],"[NULL,NULL,NULL]",2
+556,parce que il y a que c qui marche .,"[NULL,NULL,NULL]",1
+556,parce que il y a que c qui marche .,"[NULL,NULL,NULL]",2
+557,et tu vois j'avais utilisé les autres et c'est pas terrible . [media],"[NULL,NULL,NULL]",1
+557,et tu vois j'avais utilisé les autres et c'est pas terrible . [media],"[NULL,NULL,NULL]",2
+558,ah non non ça il faut pas .,"[NULL,NULL,NULL]",1
+558,ah non non ça il faut pas .,"[NULL,NULL,NULL]",2
+559,je sais pas comment faire .,"[NULL,NULL,NULL]",1
+559,je sais pas comment faire .,"[NULL,NULL,NULL]",2
+560,après il faut que tu nettoies avec je sais pas quoi .,"[NULL,NULL,NULL]",1
+560,après il faut que tu nettoies avec je sais pas quoi .,"[NULL,NULL,NULL]",2
+561,ouais il faut que j'arrive à nettoyer maint . [media],"[NULL,NULL,NULL]",1
+561,ouais il faut que j'arrive à nettoyer maint . [media],"[NULL,NULL,NULL]",2
+562,non ça ça marche pas Théophile sur le tableau attends . [media],"[NULL,NULL,NULL]",1
+562,non ça ça marche pas Théophile sur le tableau attends . [media],"[NULL,NULL,NULL]",2
+563,qu'est-ce qu'il a pris \<None\> ?,"[NULL,NULL,NULL]",1
+563,qu'est-ce qu'il a pris \<None\> ?,"[NULL,NULL,NULL]",2
+564,il a le bon là \<None\> ?,"[NULL,NULL,NULL]",1
+564,il a le bon là \<None\> ?,"[NULL,NULL,NULL]",2
+565,ouais ouais il a le bon .,"[NULL,NULL,NULL]",1
+565,ouais ouais il a le bon .,"[NULL,NULL,NULL]",2
+566,c'est bon c'est bon excuse moi . [media],"[NULL,NULL,NULL]",1
+566,c'est bon c'est bon excuse moi . [media],"[NULL,NULL,NULL]",2
+567,mais là oui oui c'est prévu là dans fourniture de la rentrée . [media],"[NULL,NULL,NULL]",1
+567,mais là oui oui c'est prévu là dans fourniture de la rentrée . [media],"[NULL,NULL,NULL]",2
+568,les feutres .,"[NULL,NULL,NULL]",1
+568,les feutres .,"[NULL,NULL,NULL]",2
+569,joli Théophile !,"[NULL,NULL,NULL]",1
+569,joli Théophile !,"[NULL,NULL,NULL]",2
+570,dommage quand j'enseigne j'en ai toujours un dans mon sac .,"[NULL,NULL,NULL]",1
+570,dommage quand j'enseigne j'en ai toujours un dans mon sac .,"[NULL,NULL,NULL]",2
+571,puis là comme j'enseigne pas . [media],"[NULL,NULL,NULL]",1
+571,puis là comme j'enseigne pas . [media],"[NULL,NULL,NULL]",2
+572,0. .,"[NULL,NULL,NULL]",1
+572,0. .,"[NULL,NULL,NULL]",2
+573,ohlàlà tu fais un soleil là . [media],"[NULL,NULL,NULL]",1
+573,ohlàlà tu fais un soleil là . [media],"[NULL,NULL,NULL]",2
+574,tout là-haut tout là-haut ?,"[NULL,NULL,NULL]",1
+574,tout là-haut tout là-haut ?,"[NULL,NULL,NULL]",2
+575,oh non . [media],"[NULL,NULL,NULL]",1
+575,oh non . [media],"[NULL,NULL,NULL]",2
+576,ouais en_plus il marche pas très bien .,"[NULL,NULL,NULL]",1
+576,ouais en_plus il marche pas très bien .,"[NULL,NULL,NULL]",2
+577,on fait un soleil ouh la la . [media],"[NULL,NULL,NULL]",1
+577,on fait un soleil ouh la la . [media],"[NULL,NULL,NULL]",2
+578,yyy . [media],"[NULL,NULL,NULL]",1
+578,yyy . [media],"[NULL,NULL,NULL]",2
+579,un autre .,"[NULL,NULL,NULL]",1
+579,un autre .,"[NULL,NULL,NULL]",2
+580,un autre oui il y en a un autre .,"[NULL,NULL,NULL]",1
+580,un autre oui il y en a un autre .,"[NULL,NULL,NULL]",2
+581,ça c'est son mot favori un autre . [media],"[NULL,NULL,NULL]",1
+581,ça c'est son mot favori un autre . [media],"[NULL,NULL,NULL]",2
+582,j'adore .,"[NULL,NULL,NULL]",1
+582,j'adore .,"[NULL,NULL,NULL]",2
+583,dans la rue comme il y a plein de voitures il dit une autre une autre . [media],"[NULL,NULL,NULL]",1
+583,dans la rue comme il y a plein de voitures il dit une autre une autre . [media],"[NULL,NULL,NULL]",2
+584,oh toto . [media],"[NULL,NULL,NULL]",1
+584,oh toto . [media],"[NULL,NULL,NULL]",2
+585,yyy . [media],"[NULL,NULL,NULL]",1
+585,yyy . [media],"[NULL,NULL,NULL]",2
+586,yyy .,"[NULL,NULL,NULL]",1
+586,yyy .,"[NULL,NULL,NULL]",2
+587,oh le pauvre monsieur . [media],"[NULL,NULL,NULL]",1
+587,oh le pauvre monsieur . [media],"[NULL,NULL,NULL]",2
+588,il y a les autres voitures hein je les ai mises euh attends . [media],"[NULL,NULL,NULL]",1
+588,il y a les autres voitures hein je les ai mises euh attends . [media],"[NULL,NULL,NULL]",2
+589,où est-ce qu'elles sont les p voitures exprès pour ceux-là là . [media],"[NULL,NULL,NULL]",1
+589,où est-ce qu'elles sont les p voitures exprès pour ceux-là là . [media],"[NULL,NULL,NULL]",2
+590,bon ça c'est le coin personnage .,"[NULL,NULL,NULL]",1
+590,bon ça c'est le coin personnage .,"[NULL,NULL,NULL]",2
+591,la . [media],"[NULL,NULL,NULL]",1
+591,la . [media],"[NULL,NULL,NULL]",2
+592,yyy vroum .,"[NULL,NULL,NULL]",1
+592,yyy vroum .,"[NULL,NULL,NULL]",2
+593,voilà mais il y en avait d' autres attends je les ai mis de côté . [media],"[NULL,NULL,NULL]",1
+593,voilà mais il y en avait d' autres attends je les ai mis de côté . [media],"[NULL,NULL,NULL]",2
+594,ah elles sont là regarde Théophile ça c'est les voitures avec les bonhommes . [media],"[NULL,NULL,NULL]",1
+594,ah elles sont là regarde Théophile ça c'est les voitures avec les bonhommes . [media],"[NULL,NULL,NULL]",2
+595,regarde il y a les p personnages là si tu veux \<self interruption\>,"[NULL,NULL,NULL]",1
+595,regarde il y a les p personnages là si tu veux \<self interruption\>,"[NULL,NULL,NULL]",2
+596,là c'est le chien . [media],"[NULL,NULL,NULL]",1
+596,là c'est le chien . [media],"[NULL,NULL,NULL]",2
+597,regarde attends je te les ai mises de côté là là regarde . [media],"[NULL,NULL,NULL]",1
+597,regarde attends je te les ai mises de côté là là regarde . [media],"[NULL,NULL,NULL]",2
+598,t'as vu ah non ça c'est l'ambulance .,"[NULL,NULL,NULL]",1
+598,t'as vu ah non ça c'est l'ambulance .,"[NULL,NULL,NULL]",2
+599,ah la vroum vroum vroum vroum vroum .,"[NULL,NULL,NULL]",1
+599,ah la vroum vroum vroum vroum vroum .,"[NULL,NULL,NULL]",2
+600,vroum yyy .,"[NULL,NULL,NULL]",1
+600,vroum yyy .,"[NULL,NULL,NULL]",2
+601,et oui le pilote de moto ! [media],"[NULL,NULL,NULL]",1
+601,et oui le pilote de moto ! [media],"[NULL,NULL,NULL]",2
+602,0. .,"[NULL,NULL,NULL]",1
+602,0. .,"[NULL,NULL,NULL]",2
+603,très bien . [media],"[NULL,NULL,NULL]",1
+603,très bien . [media],"[NULL,NULL,NULL]",2
+604,l'avantage quand on rentre plus tôt .,"[NULL,NULL,NULL]",1
+604,l'avantage quand on rentre plus tôt .,"[NULL,NULL,NULL]",2
+605,c'est que je peux jouer un peu avec lui comme ça .,"[NULL,NULL,NULL]",1
+605,c'est que je peux jouer un peu avec lui comme ça .,"[NULL,NULL,NULL]",2
+606,ça c'est super .,"[NULL,NULL,NULL]",1
+606,ça c'est super .,"[NULL,NULL,NULL]",2
+607,[quote] ouais ouais . [media],"[NULL,NULL,NULL]",1
+607,[quote] ouais ouais . [media],"[NULL,NULL,NULL]",2
+608,c'est une super heure xxx .,"[NULL,NULL,NULL]",1
+608,c'est une super heure xxx .,"[NULL,NULL,NULL]",2
+609,et même il joue plus que le matin .,"[NULL,NULL,NULL]",1
+609,et même il joue plus que le matin .,"[NULL,NULL,NULL]",2
+610,le matin il joue mais tout seul . [media],"[NULL,NULL,NULL]",1
+610,le matin il joue mais tout seul . [media],"[NULL,NULL,NULL]",2
+611,il est dans son monde il émerge il fait ses trucs .,"[NULL,NULL,NULL]",1
+611,il est dans son monde il émerge il fait ses trucs .,"[NULL,NULL,NULL]",2
+612,là il a envie d' être en relation avec quelqu'un . [media],"[NULL,NULL,NULL]",1
+612,là il a envie d' être en relation avec quelqu'un . [media],"[NULL,NULL,NULL]",2
+613,là il aime bien . [media],"[NULL,NULL,NULL]",1
+613,là il aime bien . [media],"[NULL,NULL,NULL]",2
+614,mais main xxx je vais essayer de faire plus tôt quand je peux . [media],"[NULL,NULL,NULL]",1
+614,mais main xxx je vais essayer de faire plus tôt quand je peux . [media],"[NULL,NULL,NULL]",2
+615,c'est quel jour ton enseignement le jeudi et quoi d' autre ?,"[NULL,NULL,NULL]",1
+615,c'est quel jour ton enseignement le jeudi et quoi d' autre ?,"[NULL,NULL,NULL]",2
+616,mercredi jeudi et un tout petit peu mardi mais le mardi je f en sorte de rentrer tôt justement . [media],"[NULL,NULL,NULL]",1
+616,mercredi jeudi et un tout petit peu mardi mais le mardi je f en sorte de rentrer tôt justement . [media],"[NULL,NULL,NULL]",2
+617,puis tu vas avoir toute une période à la maison là en février .,"[NULL,NULL,NULL]",1
+617,puis tu vas avoir toute une période à la maison là en février .,"[NULL,NULL,NULL]",2
+618,oui en_plus j'aurai plus de cours .,"[NULL,NULL,NULL]",1
+618,oui en_plus j'aurai plus de cours .,"[NULL,NULL,NULL]",2
+619,donc ça ce s super . [media],"[NULL,NULL,NULL]",1
+619,donc ça ce s super . [media],"[NULL,NULL,NULL]",2
+620,ouais c'est \<self interruption\>,"[NULL,NULL,NULL]",1
+620,ouais c'est \<self interruption\>,"[NULL,NULL,NULL]",2
+621,t'as pas fait caca Théophile ?,"[NULL,NULL,NULL]",1
+621,t'as pas fait caca Théophile ?,"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+622,oui il l'a dit tout_à_l'heure .,"[NULL,NULL,NULL]",1
+622,oui il l'a dit tout_à_l'heure .,"[NULL,NULL,NULL]",2
+623,ah il l'a dit .,"[NULL,NULL,NULL]",1
+623,ah il l'a dit .,"[NULL,NULL,NULL]",2
+624,[quote] en mangeant son pain . [media],"[NULL,NULL,NULL]",1
+624,[quote] en mangeant son pain . [media],"[NULL,NULL,NULL]",2
+625,0. .,"[NULL,NULL,NULL]",1
+625,0. .,"[NULL,NULL,NULL]",2
+626,on va changer hein Théophile . [media],"[NULL,NULL,NULL]",1
+626,on va changer hein Théophile . [media],"[NULL,NULL,NULL]",2
+627,je te laisse jouer encore un peu là .,"[NULL,NULL,NULL]",1
+627,je te laisse jouer encore un peu là .,"[NULL,NULL,NULL]",2
+628,comme t'as mangé du pain là t'as pas faim . [media],"[NULL,NULL,NULL]",1
+628,comme t'as mangé du pain là t'as pas faim . [media],"[NULL,NULL,NULL]",2
+629,hein c'est quoi ça ? [media],"[NULL,NULL,NULL]",1
+629,hein c'est quoi ça ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+630,un petit casque \<None\> . [media],"[NULL,NULL,NULL]",1
+630,un petit casque \<None\> . [media],"[PAR-Follow-up:Give-response,NULL,NULL]",2
+631,hum . [media],"[NULL,NULL,NULL]",1
+631,hum . [media],"[NULL,NULL,NULL]",2
+632,heureusement que vous êtes venus aujourd'hui et pas hier .,"[NULL,NULL,NULL]",1
+632,heureusement que vous êtes venus aujourd'hui et pas hier .,"[NULL,NULL,NULL]",2
+633,hier il était pas en forme le pauvre il était lessivé . [media],"[NULL,NULL,NULL]",1
+633,hier il était pas en forme le pauvre il était lessivé . [media],"[NULL,NULL,NULL]",2
+634,0. .,"[NULL,NULL,NULL]",1
+634,0. .,"[NULL,NULL,NULL]",2
+635,tu le mets sur la moto le pilote ? [media],"[NULL,NULL,NULL]",1
+635,tu le mets sur la moto le pilote ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+636,ah ah et il va où où est-ce qu'il va ce pilote ? [media],"[NULL,NULL,NULL]",1
+636,ah ah et il va où où est-ce qu'il va ce pilote ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+637,il se promène dans la ville dans la forêt ? [media],"[NULL,NULL,NULL]",1
+637,il se promène dans la ville dans la forêt ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:Answer:non-verbal,NULL]",2
+638,oh oui tu voudrais le mettre dessus .,"[NULL,NULL,NULL]",1
+638,oh oui tu voudrais le mettre dessus .,"[PAR-Follow-up:Signal-agreement,NULL,NULL]",2
+639,ouh il va falloir que je trouve ça mais j'en ai pas . [media],"[NULL,NULL,NULL]",1
+639,ouh il va falloir que je trouve ça mais j'en ai pas . [media],"[NULL,NULL,NULL]",2
+640,qu'est-ce qu'on peut mettre dessus ? [media],"[NULL,NULL,NULL]",1
+640,qu'est-ce qu'on peut mettre dessus ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+641,hum hum .,"[NULL,NULL,NULL]",1
+641,hum hum .,"[NULL,NULL,NULL]",2
+642,le chien t'as déjà vu un chien qui fait de la moto toi ? [media],"[NULL,NULL,NULL]",1
+642,le chien t'as déjà vu un chien qui fait de la moto toi ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+643,t'as vu ouais wouha wouha wouha . [media],"[NULL,NULL,NULL]",1
+643,t'as vu ouais wouha wouha wouha . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+644,0. .,"[NULL,NULL,NULL]",1
+644,0. .,"[NULL,NULL,NULL]",2
+645,ouh la . [media],"[NULL,NULL,NULL]",1
+645,ouh la . [media],"[NULL,NULL,NULL]",2
+646,est-ce que tu veux prendre le bain Théophile . [media],"[NULL,NULL,NULL]",1
+646,est-ce que tu veux prendre le bain Théophile . [media],"[NULL,NULL,NULL]",2
+647,il rigole bien dans le bain aussi . [media],"[NULL,NULL,NULL]",1
+647,il rigole bien dans le bain aussi . [media],"[NULL,NULL,NULL]",2
+648,tu veux prendre le bain Théophile ? [media],"[NULL,NULL,NULL]",1
+648,tu veux prendre le bain Théophile ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+649,on se baigne ?,"[NULL,NULL,NULL]",1
+649,on se baigne ?,"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+650,coucou . [media],"[NULL,NULL,NULL]",1
+650,coucou . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+651,Théophile \<None\> Théophile . [media],"[NULL,NULL,NULL]",1
+651,Théophile \<None\> Théophile . [media],"[NULL,NULL,NULL]",2
+652,0. .,"[NULL,NULL,NULL]",1
+652,0. .,"[NULL,NULL,NULL]",2
+653,ça c'est bien le tableau c'est multifonction . [media],"[NULL,NULL,NULL]",1
+653,ça c'est bien le tableau c'est multifonction . [media],"[NULL,NULL,NULL]",2
+654,Théophile ? [media],"[NULL,NULL,NULL]",1
+654,Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+655,eh eh .,"[NULL,NULL,NULL]",1
+655,eh eh .,"[NULL,NULL,NULL]",2
+656,on dessine un bonhomme ? [media],"[NULL,NULL,NULL]",1
+656,on dessine un bonhomme ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+657,tu fais un bonhomme tu dessines un bonhomme .,"[NULL,NULL,NULL]",1
+657,tu fais un bonhomme tu dessines un bonhomme .,"[NULL,NULL,NULL]",2
+658,moi .,"[NULL,NULL,NULL]",1
+658,moi .,"[NULL,NULL,NULL]",2
+659,c'est toi . [media],"[NULL,NULL,NULL]",1
+659,c'est toi . [media],"[NULL,NULL,NULL]",2
+660,0. .,"[NULL,NULL,NULL]",1
+660,0. .,"[NULL,NULL,NULL]",2
+661,ohlàlà . [media],"[NULL,NULL,NULL]",1
+661,ohlàlà . [media],"[NULL,NULL,NULL]",2
+662,tu fais la tête du bonhomme la tête ? [media],"[NULL,NULL,NULL]",1
+662,tu fais la tête du bonhomme la tête ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+663,une grosse tête hein . [media],"[NULL,NULL,NULL]",1
+663,une grosse tête hein . [media],"[NULL,NULL,NULL]",2
+664,0. .,"[NULL,NULL,NULL]",1
+664,0. .,"[NULL,NULL,NULL]",2
+665,ah c'est la pluie c'est la pluie ? [media],"[NULL,NULL,NULL]",1
+665,ah c'est la pluie c'est la pluie ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+666,c'est la pluie Théophile c'est quoi ?,"[NULL,NULL,NULL]",1
+666,c'est la pluie Théophile c'est quoi ?,"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+667,est pluie .,"[NULL,NULL,NULL]",1
+667,est pluie .,"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+668,eh oui . [media],"[NULL,NULL,NULL]",1
+668,eh oui . [media],"[PAR-Follow-up:Signal-agreement,NULL,NULL]",2
+669,joli ! [media],"[NULL,NULL,NULL]",1
+669,joli ! [media],"[NULL,NULL,NULL]",2
+670,yyy .,"[NULL,NULL,NULL]",1
+670,yyy .,"[NULL,NULL,NULL]",2
+671,la pluie encore .,"[NULL,NULL,NULL]",1
+671,la pluie encore .,"[NULL,NULL,NULL]",2
+672,yyy . [media],"[NULL,NULL,NULL]",1
+672,yyy . [media],"[NULL,NULL,NULL]",2
+673,yyy .,"[NULL,NULL,NULL]",1
+673,yyy .,"[NULL,NULL,NULL]",2
+674,un autre .,"[NULL,NULL,NULL]",1
+674,un autre .,"[NULL,NULL,NULL]",2
+675,un autre une goutte de pluie . [media],"[NULL,NULL,NULL]",1
+675,un autre une goutte de pluie . [media],"[NULL,NULL,NULL]",2
+676,une goutte de pluie . tu fais un arbre ? [media],"[NULL,NULL,NULL]",1
+676,une goutte de pluie . tu fais un arbre ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+677,tu fais un arbre .,"[NULL,NULL,NULL]",1
+677,tu fais un arbre .,"[NULL,NULL,NULL]",2
+678,0. .,"[NULL,NULL,NULL]",1
+678,0. .,"[NULL,NULL,NULL]",2
+679,oh tu dessines . [media],"[NULL,NULL,NULL]",1
+679,oh tu dessines . [media],"[NULL,NULL,NULL]",2
+680,tu fais les yeux c'est les yeux ? [media],"[NULL,NULL,NULL]",1
+680,tu fais les yeux c'est les yeux ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+681,il marche sous la pluie . [media],"[NULL,NULL,NULL]",1
+681,il marche sous la pluie . [media],"[NULL,NULL,NULL]",2
+682,0. .,"[NULL,NULL,NULL]",1
+682,0. .,"[NULL,NULL,NULL]",2
+683,oh il va voir le soleil le chien ! [media],"[NULL,NULL,NULL]",1
+683,oh il va voir le soleil le chien ! [media],"[NULL,NULL,NULL]",2
+684,il va vers le soleil !,"[NULL,NULL,NULL]",1
+684,il va vers le soleil !,"[NULL,NULL,NULL]",2
+685,oh . [media],"[NULL,NULL,NULL]",1
+685,oh . [media],"[NULL,NULL,NULL]",2
+686,0. .,"[NULL,NULL,NULL]",1
+686,0. .,"[NULL,NULL,NULL]",2
+687,c'est le chien non .,"[NULL,NULL,NULL]",1
+687,c'est le chien non .,"[NULL,NULL,NULL]",2
+688,non c'est le train .,"[NULL,NULL,NULL]",1
+688,non c'est le train .,"[NULL,NULL,NULL]",2
+689,le train .,"[NULL,NULL,NULL]",1
+689,le train .,"[NULL,NULL,NULL]",2
+690,c'est le train . [media],"[NULL,NULL,NULL]",1
+690,c'est le train . [media],"[NULL,NULL,NULL]",2
+691,on entend des bruits bizarre dans cette maison . [media],"[NULL,NULL,NULL]",1
+691,on entend des bruits bizarre dans cette maison . [media],"[NULL,NULL,NULL]",2
+692,c'est bien fait d'ailleurs ces p trains . [media],"[NULL,NULL,NULL]",1
+692,c'est bien fait d'ailleurs ces p trains . [media],"[NULL,NULL,NULL]",2
+693,le bébé il va sortir il va sa il va connaître les bruits de train .,"[NULL,NULL,NULL]",1
+693,le bébé il va sortir il va sa il va connaître les bruits de train .,"[NULL,NULL,NULL]",2
+694,ah ouais ouais il s déjà dans une autre ambiance exactement . [media],"[NULL,NULL,NULL]",1
+694,ah ouais ouais il s déjà dans une autre ambiance exactement . [media],"[NULL,NULL,NULL]",2
+695,ah .,"[NULL,NULL,NULL]",1
+695,ah .,"[NULL,NULL,NULL]",2
+696,faut que je les mette dans la même chambre .,"[NULL,NULL,NULL]",1
+696,faut que je les mette dans la même chambre .,"[NULL,NULL,NULL]",2
+697,tu vois ça je vais le mettre là .,"[NULL,NULL,NULL]",1
+697,tu vois ça je vais le mettre là .,"[NULL,NULL,NULL]",2
+698,puis le lit de Théophile je le mettrai là .,"[NULL,NULL,NULL]",1
+698,puis le lit de Théophile je le mettrai là .,"[NULL,NULL,NULL]",2
+699,d'accord .,"[NULL,NULL,NULL]",1
+699,d'accord .,"[NULL,NULL,NULL]",2
+700,je vais enlever la table à langer . [media],"[NULL,NULL,NULL]",1
+700,je vais enlever la table à langer . [media],"[NULL,NULL,NULL]",2
+701,Théophile ça va être bientôt un vrai lit .,"[NULL,NULL,NULL]",1
+701,Théophile ça va être bientôt un vrai lit .,"[NULL,NULL,NULL]",2
+702,mais je vais préparer .,"[NULL,NULL,NULL]",1
+702,mais je vais préparer .,"[NULL,NULL,NULL]",2
+703,je vais vers novembre pourqu'il ai le temps de bien le de se faire à un nouveau lit pour pas que ce soit \<self interruption\> [media],"[NULL,NULL,NULL]",1
+703,je vais vers novembre pourqu'il ai le temps de bien le de se faire à un nouveau lit pour pas que ce soit \<self interruption\> [media],"[NULL,NULL,NULL]",2
+704,mais il s bien là .,"[NULL,NULL,NULL]",1
+704,mais il s bien là .,"[NULL,NULL,NULL]",2
+705,t'en as un de lit ? [media],"[NULL,NULL,NULL]",1
+705,t'en as un de lit ? [media],"[NULL,NULL,NULL]",2
+706,de lit de d' enfant ?,"[NULL,NULL,NULL]",1
+706,de lit de d' enfant ?,"[NULL,NULL,NULL]",2
+707,oui .,"[NULL,NULL,NULL]",1
+707,oui .,"[NULL,NULL,NULL]",2
+708,non non non justement .,"[NULL,NULL,NULL]",1
+708,non non non justement .,"[NULL,NULL,NULL]",2
+709,je je je vais regarder s'il nous en reste s'il nous en reste pas un . [media],"[NULL,NULL,NULL]",1
+709,je je je vais regarder s'il nous en reste s'il nous en reste pas un . [media],"[NULL,NULL,NULL]",2
+710,un lit euh .,"[NULL,NULL,NULL]",1
+710,un lit euh .,"[NULL,NULL,NULL]",2
+711,un p lit ouais un joli xxx avec des vagues .,"[NULL,NULL,NULL]",1
+711,un p lit ouais un joli xxx avec des vagues .,"[NULL,NULL,NULL]",2
+712,il est jaune . [media],"[NULL,NULL,NULL]",1
+712,il est jaune . [media],"[NULL,NULL,NULL]",2
+713,bah .,"[NULL,NULL,NULL]",1
+713,bah .,"[NULL,NULL,NULL]",2
+714,c'est pas exactement le même genre mais xxx .,"[NULL,NULL,NULL]",1
+714,c'est pas exactement le même genre mais xxx .,"[NULL,NULL,NULL]",2
+715,0. . [media],"[NULL,NULL,NULL]",1
+715,0. . [media],"[NULL,NULL,NULL]",2
+716,un lit pour enfant euh \<interruption\> [media],"[NULL,NULL,NULL]",1
+716,un lit pour enfant euh \<interruption\> [media],"[NULL,NULL,NULL]",2
+717,un petit \<None\> .,"[NULL,NULL,NULL]",1
+717,un petit \<None\> .,"[NULL,NULL,NULL]",2
+718,plus grand quoi voilà \<None\> .,"[NULL,NULL,NULL]",1
+718,plus grand quoi voilà \<None\> .,"[NULL,NULL,NULL]",2
+719,un vrai lit mais un peu plus petit que \<self interruption\>,"[NULL,NULL,NULL]",1
+719,un vrai lit mais un peu plus petit que \<self interruption\>,"[NULL,NULL,NULL]",2
+720,[quote] pour enfant voilà .,"[NULL,NULL,NULL]",1
+720,[quote] pour enfant voilà .,"[NULL,NULL,NULL]",2
+721,voilà . [media],"[NULL,NULL,NULL]",1
+721,voilà . [media],"[NULL,NULL,NULL]",2
+722,0. .,"[NULL,NULL,NULL]",1
+722,0. .,"[NULL,NULL,NULL]",2
+723,parce que sinon on pensait en ach un là bientôt . [media],"[NULL,NULL,NULL]",1
+723,parce que sinon on pensait en ach un là bientôt . [media],"[NULL,NULL,NULL]",2
+724,nous Iona a dormi dedans Noam aussi .,"[NULL,NULL,NULL]",1
+724,nous Iona a dormi dedans Noam aussi .,"[NULL,NULL,NULL]",2
+725,bah tu me dis parce qu'à ce moment là on n' a qu'à changer juste le sommier . [media],"[NULL,NULL,NULL]",1
+725,bah tu me dis parce qu'à ce moment là on n' a qu'à changer juste le sommier . [media],"[NULL,NULL,NULL]",2
+726,je on regarde ce weekend s'il est toujours là .,"[NULL,NULL,NULL]",1
+726,je on regarde ce weekend s'il est toujours là .,"[NULL,NULL,NULL]",2
+727,je me rappelle plus si on l'a donné à quelqu'un .,"[NULL,NULL,NULL]",1
+727,je me rappelle plus si on l'a donné à quelqu'un .,"[NULL,NULL,NULL]",2
+728,xxx moi je pensais l'installer vers novembre . [media],"[NULL,NULL,NULL]",1
+728,xxx moi je pensais l'installer vers novembre . [media],"[NULL,NULL,NULL]",2
+729,comme ça ça lui fait trois mois où il s'habitue . [media],"[NULL,NULL,NULL]",1
+729,comme ça ça lui fait trois mois où il s'habitue . [media],"[NULL,NULL,NULL]",2
+730,tu vois ça je le mettrai là et la table à langer puis je crois que je vais la donner à Myriam parce qu'elle en a pas . [media],"[NULL,NULL,NULL]",1
+730,tu vois ça je le mettrai là et la table à langer puis je crois que je vais la donner à Myriam parce qu'elle en a pas . [media],"[NULL,NULL,NULL]",2
+731,et j'ai vu qu'ils font des tables à langer que tu mets sur la baignoire . [media],"[NULL,NULL,NULL]",1
+731,et j'ai vu qu'ils font des tables à langer que tu mets sur la baignoire . [media],"[NULL,NULL,NULL]",2
+732,donc comme ça ça prend pas de place .,"[NULL,NULL,NULL]",1
+732,donc comme ça ça prend pas de place .,"[NULL,NULL,NULL]",2
+733,t'as le côté tu vois pour le bain c'est pratique .,"[NULL,NULL,NULL]",1
+733,t'as le côté tu vois pour le bain c'est pratique .,"[NULL,NULL,NULL]",2
+734,hum . [media],"[NULL,NULL,NULL]",1
+734,hum . [media],"[NULL,NULL,NULL]",2
+735,et puis je gagne de la place .,"[NULL,NULL,NULL]",1
+735,et puis je gagne de la place .,"[NULL,NULL,NULL]",2
+736,pa que ça j'aime bien ce coin jouets . [media],"[NULL,NULL,NULL]",1
+736,pa que ça j'aime bien ce coin jouets . [media],"[NULL,NULL,NULL]",2
+737,0. .,"[NULL,NULL,NULL]",1
+737,0. .,"[NULL,NULL,NULL]",2
+738,et puis l'avantage c'est qu' y a l'autre pièce aussi .,"[NULL,NULL,NULL]",1
+738,et puis l'avantage c'est qu' y a l'autre pièce aussi .,"[NULL,NULL,NULL]",2
+739,il y a la place .,"[NULL,NULL,NULL]",1
+739,il y a la place .,"[NULL,NULL,NULL]",2
+740,pour l'instant je les laisse dormir là . [media],"[NULL,NULL,NULL]",1
+740,pour l'instant je les laisse dormir là . [media],"[NULL,NULL,NULL]",2
+741,comme ça c'est sympa et puis bon . [media],"[NULL,NULL,NULL]",1
+741,comme ça c'est sympa et puis bon . [media],"[NULL,NULL,NULL]",2
+742,boum \<None\> .,"[NULL,NULL,NULL]",1
+742,boum \<None\> .,"[NULL,NULL,NULL]",2
+743,boum \<None\> .,"[NULL,NULL,NULL]",1
+743,boum \<None\> .,"[NULL,NULL,NULL]",2
+744,yyy boum boum yyy boum boum yyy . [media],"[NULL,NULL,NULL]",1
+744,yyy boum boum yyy boum boum yyy . [media],"[NULL,NULL,NULL]",2
+745,yyy .,"[NULL,NULL,NULL]",1
+745,yyy .,"[NULL,NULL,NULL]",2
+746,ah c'est quoi ça ? [media],"[NULL,NULL,NULL]",1
+746,ah c'est quoi ça ? [media],"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+747,yyy . [media],"[NULL,NULL,NULL]",1
+747,yyy . [media],"[NULL,NULL,NULL]",2
+748,c'est quoi ?,"[NULL,NULL,NULL]",1
+748,c'est quoi ?,"[NULL,NULL,NULL]",2
+749,qu'est-ce que c'est Théophile un gâteau miam miam . [media],"[NULL,NULL,NULL]",1
+749,qu'est-ce que c'est Théophile un gâteau miam miam . [media],"[NULL,NULL,NULL]",2
+750,0. .,"[NULL,NULL,NULL]",1
+750,0. .,"[NULL,NULL,NULL]",2
+751,oh .,"[NULL,NULL,NULL]",1
+751,oh .,"[NULL,NULL,NULL]",2
+752,yyy .,"[NULL,NULL,NULL]",1
+752,yyy .,"[NULL,NULL,NULL]",2
+753,oh mince c'est le mien . [media],"[NULL,NULL,NULL]",1
+753,oh mince c'est le mien . [media],"[NULL,NULL,NULL]",2
+754,aïe .,"[NULL,NULL,NULL]",1
+754,aïe .,"[NULL,NULL,NULL]",2
+755,ouille c'est pas un vrai cube c'est quoi ça .,"[NULL,NULL,NULL]",1
+755,ouille c'est pas un vrai cube c'est quoi ça .,"[NULL,NULL,NULL]",2
+756,c'est un ...,"[NULL,NULL,NULL]",1
+756,c'est un ...,"[NULL,NULL,NULL]",2
+757,comment on appelerait ça ? [media],"[NULL,NULL,NULL]",1
+757,comment on appelerait ça ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+758,yyy .,"[NULL,NULL,NULL]",1
+758,yyy .,"[CHI-Response:No-label,NULL,NULL]",2
+759,0. . [media],"[NULL,NULL,NULL]",1
+759,0. . [media],"[NULL,NULL,NULL]",2
+760,pas trop fort hein Théophile .,"[NULL,NULL,NULL]",1
+760,pas trop fort hein Théophile .,"[PAR-Follow-up:other,NULL,NULL]",2
+761,yyy .,"[NULL,NULL,NULL]",1
+761,yyy .,"[NULL,NULL,NULL]",2
+762,ah le pauvre chien ! [media],"[NULL,NULL,NULL]",1
+762,ah le pauvre chien ! [media],"[NULL,NULL,NULL]",2
+763,oh tu lui fais un bisou il faut pas lui faire mal . [media],"[NULL,NULL,NULL]",1
+763,oh tu lui fais un bisou il faut pas lui faire mal . [media],"[NULL,NULL,NULL]",2
+764,ohlàlà ohlàlà la la . [media],"[NULL,NULL,NULL]",1
+764,ohlàlà ohlàlà la la . [media],"[NULL,NULL,NULL]",2
+765,yyy .,"[NULL,NULL,NULL]",1
+765,yyy .,"[NULL,NULL,NULL]",2
+766,xxx je sais pas ce-que c'est ça .,"[NULL,NULL,NULL]",1
+766,xxx je sais pas ce-que c'est ça .,"[NULL,NULL,NULL]",2
+767,ça devait être le capuchon d' un liquide tu vois . [media],"[NULL,NULL,NULL]",1
+767,ça devait être le capuchon d' un liquide tu vois . [media],"[NULL,NULL,NULL]",2
+768,mais je sais plus quoi . [media],"[NULL,NULL,NULL]",1
+768,mais je sais plus quoi . [media],"[NULL,NULL,NULL]",2
+769,oh il est où le capuchon justement ? [media],"[NULL,NULL,NULL]",1
+769,oh il est où le capuchon justement ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:Answer:non-verbal,NULL]",2
+770,oui voilà \<None\> tu as raison mais il faudrait le petit capuchon . [media],"[NULL,NULL,NULL]",1
+770,oui voilà \<None\> tu as raison mais il faudrait le petit capuchon . [media],"[PAR-Follow-up:Signal-agreement,PAR-Follow-up:Add-info,NULL]",2
+771,où est-ce qu'il est passé le petit capuchon ? [media],"[NULL,NULL,NULL]",1
+771,où est-ce qu'il est passé le petit capuchon ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+772,bah capuchon où es tu ?,"[NULL,NULL,NULL]",1
+772,bah capuchon où es tu ?,"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+773,ces stylo il faut vraiment que je prenne une réserve .,"[NULL,NULL,NULL]",1
+773,ces stylo il faut vraiment que je prenne une réserve .,"[PAR-Follow-up:other,NULL,NULL]",2
+774,yyy .,"[NULL,NULL,NULL]",1
+774,yyy .,"[NULL,NULL,NULL]",2
+775,ah il est là ! [media],"[NULL,NULL,NULL]",1
+775,ah il est là ! [media],"[NULL,NULL,NULL]",2
+776,qu'est-ce qu'on en a fait Théophile du capuchon tu sais ? [media],"[NULL,NULL,NULL]",1
+776,qu'est-ce qu'on en a fait Théophile du capuchon tu sais ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+777,hum .,"[NULL,NULL,NULL]",1
+777,hum .,"[NULL,NULL,NULL]",2
+778,ah ah . [media],"[NULL,NULL,NULL]",1
+778,ah ah . [media],"[NULL,NULL,NULL]",2
+779,oh joli un autre il est mieux c t'as raison t'as raison très bonne idée . [media],"[NULL,NULL,NULL]",1
+779,oh joli un autre il est mieux c t'as raison t'as raison très bonne idée . [media],"[NULL,NULL,NULL]",2
+780,mais le petit . ah .,"[NULL,NULL,NULL]",1
+780,mais le petit . ah .,"[NULL,NULL,NULL]",2
+781,ta tête . [media],"[NULL,NULL,NULL]",1
+781,ta tête . [media],"[NULL,NULL,NULL]",2
+782,oh oh .,"[NULL,NULL,NULL]",1
+782,oh oh .,"[NULL,NULL,NULL]",2
+783,0. .,"[NULL,NULL,NULL]",1
+783,0. .,"[NULL,NULL,NULL]",2
+784,0. . [media],"[NULL,NULL,NULL]",1
+784,0. . [media],"[NULL,NULL,NULL]",2
+785,Olivier hum hum .,"[NULL,NULL,NULL]",1
+785,Olivier hum hum .,"[NULL,NULL,NULL]",2
+786,tu vas toucher Olivier aussi ?,"[NULL,NULL,NULL]",1
+786,tu vas toucher Olivier aussi ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+787,0. . [media],"[NULL,NULL,NULL]",1
+787,0. . [media],"[NULL,NULL,NULL]",2
+788,oh .,"[NULL,NULL,NULL]",1
+788,oh .,"[NULL,NULL,NULL]",2
+789,yyy . [media],"[NULL,NULL,NULL]",1
+789,yyy . [media],"[NULL,NULL,NULL]",2
+790,il y a une un atelier de \<interruption\>,"[NULL,NULL,NULL]",1
+790,il y a une un atelier de \<interruption\>,"[NULL,NULL,NULL]",2
+791,je pas qu'est-ce qu'i font des assemblages .,"[NULL,NULL,NULL]",1
+791,je pas qu'est-ce qu'i font des assemblages .,"[NULL,NULL,NULL]",2
+792,il y a eu un atelier de je sais pas qu'est-ce qui font des assemblages compositions elle m'a dit il se régale . [media],"[NULL,NULL,NULL]",1
+792,il y a eu un atelier de je sais pas qu'est-ce qui font des assemblages compositions elle m'a dit il se régale . [media],"[NULL,NULL,NULL]",2
+793,il reste tu vois deux heures .,"[NULL,NULL,NULL]",1
+793,il reste tu vois deux heures .,"[NULL,NULL,NULL]",2
+794,il peuvent faire plein d' assemblage en fait il adore ça . [media],"[NULL,NULL,NULL]",1
+794,il peuvent faire plein d' assemblage en fait il adore ça . [media],"[NULL,NULL,NULL]",2
+795,alors il est tout content . [media],"[NULL,NULL,NULL]",1
+795,alors il est tout content . [media],"[NULL,NULL,NULL]",2
+796,hum .,"[NULL,NULL,NULL]",1
+796,hum .,"[NULL,NULL,NULL]",2
+797,ils ont une salle d' eau aussi . [media],"[NULL,NULL,NULL]",1
+797,ils ont une salle d' eau aussi . [media],"[NULL,NULL,NULL]",2
+798,avec des jets d' eau tu vois ils les mettent en maillot et tout .,"[NULL,NULL,NULL]",1
+798,avec des jets d' eau tu vois ils les mettent en maillot et tout .,"[NULL,NULL,NULL]",2
+799,ils s'éclate il parait qu'il est fou . [media],"[NULL,NULL,NULL]",1
+799,ils s'éclate il parait qu'il est fou . [media],"[NULL,NULL,NULL]",2
+800,ah des vroumvroum . [media],"[NULL,NULL,NULL]",1
+800,ah des vroumvroum . [media],"[NULL,NULL,NULL]",2
+801,ah des vroum vroum .,"[NULL,NULL,NULL]",1
+801,ah des vroum vroum .,"[NULL,NULL,NULL]",2
+802,ouh bah elles sont grosses celles-là . [media],"[NULL,NULL,NULL]",1
+802,ouh bah elles sont grosses celles-là . [media],"[NULL,NULL,NULL]",2
+803,0. .,"[NULL,NULL,NULL]",1
+803,0. .,"[NULL,NULL,NULL]",2
+804,boum .,"[NULL,NULL,NULL]",1
+804,boum .,"[NULL,NULL,NULL]",2
+805,c'est son voisin qui lui a donné .,"[NULL,NULL,NULL]",1
+805,c'est son voisin qui lui a donné .,"[NULL,NULL,NULL]",2
+806,pinmpon .,"[NULL,NULL,NULL]",1
+806,pinmpon .,"[NULL,NULL,NULL]",2
+807,Arthur son grand copain . [media],"[NULL,NULL,NULL]",1
+807,Arthur son grand copain . [media],"[NULL,NULL,NULL]",2
+808,0. .,"[NULL,NULL,NULL]",1
+808,0. .,"[NULL,NULL,NULL]",2
+809,il te les a données Arthur \<None\> ?,"[NULL,NULL,NULL]",1
+809,il te les a données Arthur \<None\> ?,"[NULL,NULL,NULL]",2
+810,\<None\> \<None\> \<None\> \<None\> .,"[NULL,NULL,NULL]",1
+810,\<None\> \<None\> \<None\> \<None\> .,"[NULL,NULL,NULL]",2
+811,ouais .,"[NULL,NULL,NULL]",1
+811,ouais .,"[NULL,NULL,NULL]",2
+812,mais moi j'ai qu'une main .,"[NULL,NULL,NULL]",1
+812,mais moi j'ai qu'une main .,"[NULL,NULL,NULL]",2
+813,tu m'en donnes une . [media],"[NULL,NULL,NULL]",1
+813,tu m'en donnes une . [media],"[NULL,NULL,NULL]",2
+814,laquelle tu me donnes \<None\> ?,"[NULL,NULL,NULL]",1
+814,laquelle tu me donnes \<None\> ?,"[NULL,NULL,NULL]",2
+815,il s'entend bien avec le petit voisin \<None\> . [media],"[NULL,NULL,NULL]",1
+815,il s'entend bien avec le petit voisin \<None\> . [media],"[NULL,NULL,NULL]",2
+816,celle-là ?,"[NULL,NULL,NULL]",1
+816,celle-là ?,"[NULL,NULL,NULL]",2
+817,merci . [media],"[NULL,NULL,NULL]",1
+817,merci . [media],"[NULL,NULL,NULL]",2
+818,0. .,"[NULL,NULL,NULL]",1
+818,0. .,"[NULL,NULL,NULL]",2
+819,la voiture de police Théophile . [media],"[NULL,NULL,NULL]",1
+819,la voiture de police Théophile . [media],"[NULL,NULL,NULL]",2
+820,yyy . [media],"[NULL,NULL,NULL]",1
+820,yyy . [media],"[NULL,NULL,NULL]",2
+821,0. . [media],"[NULL,NULL,NULL]",1
+821,0. . [media],"[NULL,NULL,NULL]",2
+822,ah .,"[NULL,NULL,NULL]",1
+822,ah .,"[NULL,NULL,NULL]",2
+823,la course avec Lili ! [media],"[NULL,NULL,NULL]",1
+823,la course avec Lili ! [media],"[NULL,NULL,NULL]",2
+824,yyy vroum vroum . [media],"[NULL,NULL,NULL]",1
+824,yyy vroum vroum . [media],"[NULL,NULL,NULL]",2
+825,oh qu'est-ce que c'est ça \<None\> ?,"[NULL,NULL,NULL]",1
+825,oh qu'est-ce que c'est ça \<None\> ?,"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+826,yyy . [media],"[NULL,NULL,NULL]",1
+826,yyy . [media],"[CHI-Response:No-label,NULL,NULL]",2
+827,ça ça servait ah je crois que c'est le porte rouleau papier toilette . [media],"[NULL,NULL,NULL]",1
+827,ça ça servait ah je crois que c'est le porte rouleau papier toilette . [media],"[PAR-Follow-up:Give-response,NULL,NULL]",2
+828,0. .,"[NULL,NULL,NULL]",1
+828,0. .,"[NULL,NULL,NULL]",2
+829,boum il faut vraiment que je te trouve un des stylos Théophile . [media],"[NULL,NULL,NULL]",1
+829,boum il faut vraiment que je te trouve un des stylos Théophile . [media],"[NULL,NULL,NULL]",2
+830,ah .,"[NULL,NULL,NULL]",1
+830,ah .,"[NULL,NULL,NULL]",2
+831,je vais te trouver ça ce weekend .,"[NULL,NULL,NULL]",1
+831,je vais te trouver ça ce weekend .,"[NULL,NULL,NULL]",2
+832,hum hum . [media],"[NULL,NULL,NULL]",1
+832,hum hum . [media],"[NULL,NULL,NULL]",2
+833,yyy miam miam miam miam .,"[NULL,NULL,NULL]",1
+833,yyy miam miam miam miam .,"[NULL,NULL,NULL]",2
+834,on enlève tranquillement les chaussures ? [media],"[NULL,NULL,NULL]",1
+834,on enlève tranquillement les chaussures ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+835,yyy . [media],"[NULL,NULL,NULL]",1
+835,yyy . [media],"[NULL,NULL,NULL]",2
+836,oh oh regarde à droite . [media],"[NULL,NULL,NULL]",1
+836,oh oh regarde à droite . [media],"[NULL,NULL,NULL]",2
+837,c'est quoi tout ce qu' y a dedans .,"[NULL,NULL,NULL]",1
+837,c'est quoi tout ce qu' y a dedans .,"[NULL,NULL,NULL]",2
+838,est-ce qu'on a pas oublié les clefs .,"[NULL,NULL,NULL]",1
+838,est-ce qu'on a pas oublié les clefs .,"[NULL,NULL,NULL]",2
+839,je sais pas ce-que t'en a fais des clefs Théophile . [media],"[NULL,NULL,NULL]",1
+839,je sais pas ce-que t'en a fais des clefs Théophile . [media],"[NULL,NULL,NULL]",2
+840,ah ouais tu les as données à \<interruption\>,"[NULL,NULL,NULL]",1
+840,ah ouais tu les as données à \<interruption\>,"[NULL,NULL,NULL]",2
+841,elles sont là .,"[NULL,NULL,NULL]",1
+841,elles sont là .,"[NULL,NULL,NULL]",2
+842,il y a tous les cadeaux de Lili là . [media],"[NULL,NULL,NULL]",1
+842,il y a tous les cadeaux de Lili là . [media],"[NULL,NULL,NULL]",2
+843,la petite clef là . [media],"[NULL,NULL,NULL]",1
+843,la petite clef là . [media],"[NULL,NULL,NULL]",2
+844,là il y a l'oiseau t'as vu ? [media],"[NULL,NULL,NULL]",1
+844,là il y a l'oiseau t'as vu ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+845,la papa .,"[NULL,NULL,NULL]",1
+845,la papa .,"[NULL,NULL,NULL]",2
+846,oui c'est à papa ça . [media],"[NULL,NULL,NULL]",1
+846,oui c'est à papa ça . [media],"[NULL,NULL,NULL]",2
+847,c'est le porte de papa . [media],"[NULL,NULL,NULL]",1
+847,c'est le porte de papa . [media],"[NULL,NULL,NULL]",2
+848,boum badaboum . [media],"[NULL,NULL,NULL]",1
+848,boum badaboum . [media],"[NULL,NULL,NULL]",2
+849,xxx la musique là . [media],"[NULL,NULL,NULL]",1
+849,xxx la musique là . [media],"[NULL,NULL,NULL]",2
+850,0. .,"[NULL,NULL,NULL]",1
+850,0. .,"[NULL,NULL,NULL]",2
+851,0. . [media],"[NULL,NULL,NULL]",1
+851,0. . [media],"[NULL,NULL,NULL]",2
+852,xxx . [media],"[NULL,NULL,NULL]",1
+852,xxx . [media],"[NULL,NULL,NULL]",2
+853,yyy .,"[NULL,NULL,NULL]",1
+853,yyy .,"[NULL,NULL,NULL]",2
+854,qu'est-ce que c'est yyy ? [media],"[NULL,NULL,NULL]",1
+854,qu'est-ce que c'est yyy ? [media],"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+855,ah ouais et ils sont où les xylophones . [media],"[NULL,NULL,NULL]",1
+855,ah ouais et ils sont où les xylophones . [media],"[NULL,NULL,NULL]",2
+856,hum .,"[NULL,NULL,NULL]",1
+856,hum .,"[NULL,NULL,NULL]",2
+857,il est où l'instrument de musique Théophile ? [media],"[NULL,NULL,NULL]",1
+857,il est où l'instrument de musique Théophile ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+858,il est pas loin il est où le xylophone ? [media],"[NULL,NULL,NULL]",1
+858,il est pas loin il est où le xylophone ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+859,tu fais la musique ? [media],"[NULL,NULL,NULL]",1
+859,tu fais la musique ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+860,0. .,"[NULL,NULL,NULL]",1
+860,0. .,"[CHI-Response:Answer:non-verbal,NULL,NULL]",2
+861,sur le tableau .,"[NULL,NULL,NULL]",1
+861,sur le tableau .,"[PAR-Follow-up:other,NULL,NULL]",2
+862,ah c'est une autre façon ouais le tambour . [media],"[NULL,NULL,NULL]",1
+862,ah c'est une autre façon ouais le tambour . [media],"[NULL,NULL,NULL]",2
+863,et ça c'est quoi ça ?,"[NULL,NULL,NULL]",1
+863,et ça c'est quoi ça ?,"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+864,0. . [media],"[NULL,NULL,NULL]",1
+864,0. . [media],"[NULL,NULL,NULL]",2
+865,0. .,"[NULL,NULL,NULL]",1
+865,0. .,"[CHI-Response:Answer:non-verbal,NULL,NULL]",2
+866,ah joli . [media],"[NULL,NULL,NULL]",1
+866,ah joli . [media],"[PAR-Follow-up:Signal-agreement,NULL,NULL]",2
+867,pinpon . [media],"[NULL,NULL,NULL]",1
+867,pinpon . [media],"[NULL,NULL,NULL]",2
+868,joli ! [media],"[NULL,NULL,NULL]",1
+868,joli ! [media],"[NULL,NULL,NULL]",2
+869,ce qu'il préfère c'est la trompette quand_même . [media],"[NULL,NULL,NULL]",1
+869,ce qu'il préfère c'est la trompette quand_même . [media],"[NULL,NULL,NULL]",2
+870,yyy .,"[NULL,NULL,NULL]",1
+870,yyy .,"[NULL,NULL,NULL]",2
+871,ce-qui était génial les derniers il répétait beaucoup François \<None\> .,"[NULL,NULL,NULL]",1
+871,ce-qui était génial les derniers il répétait beaucoup François \<None\> .,"[NULL,NULL,NULL]",2
+872,et à chaque que son groupe venait il commençait . [media],"[NULL,NULL,NULL]",1
+872,et à chaque que son groupe venait il commençait . [media],"[NULL,NULL,NULL]",2
+873,ils commençaient à jouer et il venait avec sa trompette jouer avec eux pendant deux minutes .,"[NULL,NULL,NULL]",1
+873,ils commençaient à jouer et il venait avec sa trompette jouer avec eux pendant deux minutes .,"[NULL,NULL,NULL]",2
+874,0. .,"[NULL,NULL,NULL]",1
+874,0. .,"[NULL,NULL,NULL]",2
+875,yyy . [media],"[NULL,NULL,NULL]",1
+875,yyy . [media],"[NULL,NULL,NULL]",2
+876,oh .,"[NULL,NULL,NULL]",1
+876,oh .,"[NULL,NULL,NULL]",2
+877,yyy . [media],"[NULL,NULL,NULL]",1
+877,yyy . [media],"[NULL,NULL,NULL]",2
+878,ah yyy .,"[NULL,NULL,NULL]",1
+878,ah yyy .,"[NULL,NULL,NULL]",2
+879,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+879,qu'est-ce que c'est ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+880,yyy .,"[NULL,NULL,NULL]",1
+880,yyy .,"[CHI-Response:No-label,NULL,NULL]",2
+881,ah oui c'est une petit landau .,"[NULL,NULL,NULL]",1
+881,ah oui c'est une petit landau .,"[PAR-Follow-up:Signal-agreement,PAR-Follow-up:Give-response,NULL]",2
+882,t'as vu le landau avec les bébés . [media],"[NULL,NULL,NULL]",1
+882,t'as vu le landau avec les bébés . [media],"[NULL,NULL,NULL]",2
+883,avec les poussins . [media],"[NULL,NULL,NULL]",1
+883,avec les poussins . [media],"[NULL,NULL,NULL]",2
+884,yyy miam .,"[NULL,NULL,NULL]",1
+884,yyy miam .,"[NULL,NULL,NULL]",2
+885,hein .,"[NULL,NULL,NULL]",1
+885,hein .,"[NULL,NULL,NULL]",2
+886,miam miam .,"[NULL,NULL,NULL]",1
+886,miam miam .,"[NULL,NULL,NULL]",2
+887,ah oui il y a un gâteau . [media],"[NULL,NULL,NULL]",1
+887,ah oui il y a un gâteau . [media],"[NULL,NULL,NULL]",2
+888,coucou gâteau .,"[NULL,NULL,NULL]",1
+888,coucou gâteau .,"[NULL,NULL,NULL]",2
+889,yyy . [media],"[NULL,NULL,NULL]",1
+889,yyy . [media],"[NULL,NULL,NULL]",2
+890,un autre .,"[NULL,NULL,NULL]",1
+890,un autre .,"[NULL,NULL,NULL]",2
+891,ça c'est du quoi ça c'est quoi .,"[NULL,NULL,NULL]",1
+891,ça c'est du quoi ça c'est quoi .,"[NULL,NULL,NULL]",2
+892,\<None\> \<None\> un autre .,"[NULL,NULL,NULL]",1
+892,\<None\> \<None\> un autre .,"[NULL,NULL,NULL]",2
+893,une autre une autre . [media],"[NULL,NULL,NULL]",1
+893,une autre une autre . [media],"[NULL,NULL,NULL]",2
+894,ça c'est comment un deux trois .,"[NULL,NULL,NULL]",1
+894,ça c'est comment un deux trois .,"[NULL,NULL,NULL]",2
+895,0. . [media],"[NULL,NULL,NULL]",1
+895,0. . [media],"[NULL,NULL,NULL]",2
+896,yyy .,"[NULL,NULL,NULL]",1
+896,yyy .,"[NULL,NULL,NULL]",2
+897,tiens on va se changer douc Théophile . [media],"[NULL,NULL,NULL]",1
+897,tiens on va se changer douc Théophile . [media],"[NULL,NULL,NULL]",2
+898,yyy . [media],"[NULL,NULL,NULL]",1
+898,yyy . [media],"[NULL,NULL,NULL]",2
+899,yyy . [media],"[NULL,NULL,NULL]",1
+899,yyy . [media],"[NULL,NULL,NULL]",2
+900,c'est les bottes . [media],"[NULL,NULL,NULL]",1
+900,c'est les bottes . [media],"[NULL,NULL,NULL]",2
+901,yyy . [media],"[NULL,NULL,NULL]",1
+901,yyy . [media],"[NULL,NULL,NULL]",2
+902,yyy .,"[NULL,NULL,NULL]",1
+902,yyy .,"[NULL,NULL,NULL]",2
+903,oh que de cadeaux ! [media],"[NULL,NULL,NULL]",1
+903,oh que de cadeaux ! [media],"[NULL,NULL,NULL]",2
+904,0. .,"[NULL,NULL,NULL]",1
+904,0. .,"[NULL,NULL,NULL]",2
+905,ohlàlà !,"[NULL,NULL,NULL]",1
+905,ohlàlà !,"[NULL,NULL,NULL]",2
+906,ah oui Lili je pense que ça va bien t'aller ça . [media],"[NULL,NULL,NULL]",1
+906,ah oui Lili je pense que ça va bien t'aller ça . [media],"[NULL,NULL,NULL]",2
+907,ah oui ah oui c'est parfait pour moi je crois . [media],"[NULL,NULL,NULL]",1
+907,ah oui ah oui c'est parfait pour moi je crois . [media],"[NULL,NULL,NULL]",2
+908,0. .,"[NULL,NULL,NULL]",1
+908,0. .,"[NULL,NULL,NULL]",2
+909,c'est vraiment parfait .,"[NULL,NULL,NULL]",1
+909,c'est vraiment parfait .,"[NULL,NULL,NULL]",2
+910,ah ah ! [media],"[NULL,NULL,NULL]",1
+910,ah ah ! [media],"[NULL,NULL,NULL]",2
+911,hum ah vroum vroum . [media],"[NULL,NULL,NULL]",1
+911,hum ah vroum vroum . [media],"[NULL,NULL,NULL]",2
+912,yyy vroum vroum .,"[NULL,NULL,NULL]",1
+912,yyy vroum vroum .,"[NULL,NULL,NULL]",2
+913,et oui elle est cassée elle est cassée ouais . [media],"[NULL,NULL,NULL]",1
+913,et oui elle est cassée elle est cassée ouais . [media],"[NULL,NULL,NULL]",2
+914,vroum eh . [media],"[NULL,NULL,NULL]",1
+914,vroum eh . [media],"[NULL,NULL,NULL]",2
+915,et puis j'ai pe on a perdu le petit morceau pour la réparer . [media],"[NULL,NULL,NULL]",1
+915,et puis j'ai pe on a perdu le petit morceau pour la réparer . [media],"[NULL,NULL,NULL]",2
+916,yyy . [media],"[NULL,NULL,NULL]",1
+916,yyy . [media],"[NULL,NULL,NULL]",2
+917,vroum mon roue .,"[NULL,NULL,NULL]",1
+917,vroum mon roue .,"[NULL,NULL,NULL]",2
+918,et oui .,"[NULL,NULL,NULL]",1
+918,et oui .,"[NULL,NULL,NULL]",2
+919,ouh la la que c'est gros ça .,"[NULL,NULL,NULL]",1
+919,ouh la la que c'est gros ça .,"[NULL,NULL,NULL]",2
+920,c'est joli hein . [media],"[NULL,NULL,NULL]",1
+920,c'est joli hein . [media],"[NULL,NULL,NULL]",2
+921,il est cassé .,"[NULL,NULL,NULL]",1
+921,il est cassé .,"[NULL,NULL,NULL]",2
+922,il est cassé \<None\> ?,"[NULL,NULL,NULL]",1
+922,il est cassé \<None\> ?,"[NULL,NULL,NULL]",2
+923,il est cassé oui \<None\> .,"[NULL,NULL,NULL]",1
+923,il est cassé oui \<None\> .,"[NULL,NULL,NULL]",2
+924,oh la roue est cassée oui . [media],"[NULL,NULL,NULL]",1
+924,oh la roue est cassée oui . [media],"[NULL,NULL,NULL]",2
+925,ça roule plus ?,"[NULL,NULL,NULL]",1
+925,ça roule plus ?,"[NULL,NULL,NULL]",2
+926,attend je vais essayer . [media],"[NULL,NULL,NULL]",1
+926,attend je vais essayer . [media],"[NULL,NULL,NULL]",2
+927,est-ce que ça roule encore ? [media],"[NULL,NULL,NULL]",1
+927,est-ce que ça roule encore ? [media],"[NULL,NULL,NULL]",2
+928,oup ça tourne . [media],"[NULL,NULL,NULL]",1
+928,oup ça tourne . [media],"[NULL,NULL,NULL]",2
+929,0. .,"[NULL,NULL,NULL]",1
+929,0. .,"[NULL,NULL,NULL]",2
+930,ouh la .,"[NULL,NULL,NULL]",1
+930,ouh la .,"[NULL,NULL,NULL]",2
+931,hop ça tourne .,"[NULL,NULL,NULL]",1
+931,hop ça tourne .,"[NULL,NULL,NULL]",2
+932,yyy . [media],"[NULL,NULL,NULL]",1
+932,yyy . [media],"[NULL,NULL,NULL]",2
+933,yyy . [media],"[NULL,NULL,NULL]",1
+933,yyy . [media],"[NULL,NULL,NULL]",2
+934,yyy .,"[NULL,NULL,NULL]",1
+934,yyy .,"[NULL,NULL,NULL]",2
+935,oh la voix de garage le pauvre . [media],"[NULL,NULL,NULL]",1
+935,oh la voix de garage le pauvre . [media],"[NULL,NULL,NULL]",2
+936,tu montres tous tes jouets hein \<None\> ?,"[NULL,NULL,NULL]",1
+936,tu montres tous tes jouets hein \<None\> ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+937,yyy . [media],"[NULL,NULL,NULL]",1
+937,yyy . [media],"[NULL,NULL,NULL]",2
+938,yyy .,"[NULL,NULL,NULL]",1
+938,yyy .,"[NULL,NULL,NULL]",2
+939,hum . [media],"[NULL,NULL,NULL]",1
+939,hum . [media],"[NULL,NULL,NULL]",2
+940,yyy . [media],"[NULL,NULL,NULL]",1
+940,yyy . [media],"[NULL,NULL,NULL]",2
+941,ah c'est le cadeaux de mamé ça . [media],"[NULL,NULL,NULL]",1
+941,ah c'est le cadeaux de mamé ça . [media],"[NULL,NULL,NULL]",2
+942,yyy . [media],"[NULL,NULL,NULL]",1
+942,yyy . [media],"[NULL,NULL,NULL]",2
+943,tu vas où ? [media],"[NULL,NULL,NULL]",1
+943,tu vas où ? [media],"[NULL,NULL,NULL]",2
+944,yyy .,"[NULL,NULL,NULL]",1
+944,yyy .,"[NULL,NULL,NULL]",2
+945,attention au fil .,"[NULL,NULL,NULL]",1
+945,attention au fil .,"[NULL,NULL,NULL]",2
+946,ouais .,"[NULL,NULL,NULL]",1
+946,ouais .,"[NULL,NULL,NULL]",2
+947,yyy .,"[NULL,NULL,NULL]",1
+947,yyy .,"[NULL,NULL,NULL]",2
+948,ouh la la Théophile ! [media],"[NULL,NULL,NULL]",1
+948,ouh la la Théophile ! [media],"[NULL,NULL,NULL]",2
+949,tiens on va les mettre là xxx c'est le garage là .,"[NULL,NULL,NULL]",1
+949,tiens on va les mettre là xxx c'est le garage là .,"[NULL,NULL,NULL]",2
+950,c'est un vrai garage ici . [media],"[NULL,NULL,NULL]",1
+950,c'est un vrai garage ici . [media],"[NULL,NULL,NULL]",2
+951,0. .,"[NULL,NULL,NULL]",1
+951,0. .,"[NULL,NULL,NULL]",2
+952,ah tu veux les mettre .,"[NULL,NULL,NULL]",1
+952,ah tu veux les mettre .,"[NULL,NULL,NULL]",2
+953,il les adore ses bottes . [media],"[NULL,NULL,NULL]",1
+953,il les adore ses bottes . [media],"[NULL,NULL,NULL]",2
+954,c'est pas très pratique pour marcher mais tiens .,"[NULL,NULL,NULL]",1
+954,c'est pas très pratique pour marcher mais tiens .,"[NULL,NULL,NULL]",2
+955,tu veux qu'on les mette ?,"[NULL,NULL,NULL]",1
+955,tu veux qu'on les mette ?,"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+956,0. . [media],"[NULL,NULL,NULL]",1
+956,0. . [media],"[CHI-Response:Answer:non-verbal,NULL,NULL]",2
+957,il adore les chaussures .,"[NULL,NULL,NULL]",1
+957,il adore les chaussures .,"[PAR-Follow-up:other,NULL,NULL]",2
+958,ceci dit xxx il aura pas les pieds mouillés dans bain . [media],"[NULL,NULL,NULL]",1
+958,ceci dit xxx il aura pas les pieds mouillés dans bain . [media],"[NULL,NULL,NULL]",2
+959,voilà c'est ça \<None\> .,"[NULL,NULL,NULL]",1
+959,voilà c'est ça \<None\> .,"[NULL,NULL,NULL]",2
+960,elles vont p être petites main . [media],"[NULL,NULL,NULL]",1
+960,elles vont p être petites main . [media],"[NULL,NULL,NULL]",2
+961,et oui Théophile elles sont trop petites main . [media],"[NULL,NULL,NULL]",1
+961,et oui Théophile elles sont trop petites main . [media],"[NULL,NULL,NULL]",2
+962,non .,"[NULL,NULL,NULL]",1
+962,non .,"[NULL,NULL,NULL]",2
+963,tu vois on peut pas les mettre c'est trop petit . [media],"[NULL,NULL,NULL]",1
+963,tu vois on peut pas les mettre c'est trop petit . [media],"[NULL,NULL,NULL]",2
+964,et non .,"[NULL,NULL,NULL]",1
+964,et non .,"[NULL,NULL,NULL]",2
+965,et non . [media],"[NULL,NULL,NULL]",1
+965,et non . [media],"[NULL,NULL,NULL]",2
+966,yyy . [media],"[NULL,NULL,NULL]",1
+966,yyy . [media],"[NULL,NULL,NULL]",2
+967,tu essaies mais attention c'est pas très stable .,"[NULL,NULL,NULL]",1
+967,tu essaies mais attention c'est pas très stable .,"[NULL,NULL,NULL]",2
+968,ah ah . [media],"[NULL,NULL,NULL]",1
+968,ah ah . [media],"[NULL,NULL,NULL]",2
+969,ah .,"[NULL,NULL,NULL]",1
+969,ah .,"[NULL,NULL,NULL]",2
+970,oh le oh j'adore Théophile \<None\> . [media],"[NULL,NULL,NULL]",1
+970,oh le oh j'adore Théophile \<None\> . [media],"[NULL,NULL,NULL]",2
+971,yyy .,"[NULL,NULL,NULL]",1
+971,yyy .,"[NULL,NULL,NULL]",2
+972,t'es tout beau .,"[NULL,NULL,NULL]",1
+972,t'es tout beau .,"[NULL,NULL,NULL]",2
+973,coucou .,"[NULL,NULL,NULL]",1
+973,coucou .,"[NULL,NULL,NULL]",2
+974,coucou . [media],"[NULL,NULL,NULL]",1
+974,coucou . [media],"[NULL,NULL,NULL]",2
+975,coucou t'as mis tes bottes . [media],"[NULL,NULL,NULL]",1
+975,coucou t'as mis tes bottes . [media],"[NULL,NULL,NULL]",2
+976,tes bottes tout terrain . [media],"[NULL,NULL,NULL]",1
+976,tes bottes tout terrain . [media],"[NULL,NULL,NULL]",2
+977,0. .,"[NULL,NULL,NULL]",1
+977,0. .,"[NULL,NULL,NULL]",2
+978,oh on danse tu danses ? [media],"[NULL,NULL,NULL]",1
+978,oh on danse tu danses ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+979,tu danses ouais tu tournes tu tournes tu tournes tu tournes attention de pas tomber . [media],"[NULL,NULL,NULL]",1
+979,tu danses ouais tu tournes tu tournes tu tournes tu tournes attention de pas tomber . [media],"[NULL,NULL,NULL]",2
+980,tu tournes ouh la la joli ! [media],"[NULL,NULL,NULL]",1
+980,tu tournes ouh la la joli ! [media],"[NULL,NULL,NULL]",2
+981,et si je t'attrapais oui !,"[NULL,NULL,NULL]",1
+981,et si je t'attrapais oui !,"[NULL,NULL,NULL]",2
+982,yyy . [media],"[NULL,NULL,NULL]",1
+982,yyy . [media],"[NULL,NULL,NULL]",2
+983,on dirait qu'on est prêt à aller au bain là c'est parfait ? [media],"[NULL,NULL,NULL]",1
+983,on dirait qu'on est prêt à aller au bain là c'est parfait ? [media],"[NULL,NULL,NULL]",2
+984,0. .,"[NULL,NULL,NULL]",1
+984,0. .,"[NULL,NULL,NULL]",2
+985,qu'est-ce que tu fais ? [media],"[NULL,NULL,NULL]",1
+985,qu'est-ce que tu fais ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+986,il tourne il tourne il tourne il tourne il tourne il tourne .,"[NULL,NULL,NULL]",1
+986,il tourne il tourne il tourne il tourne il tourne il tourne .,"[PAR-Follow-up:other,NULL,NULL]",2
+987,t'as la tête qui tourne hein .,"[NULL,NULL,NULL]",1
+987,t'as la tête qui tourne hein .,"[NULL,NULL,NULL]",2
+988,attention de pas tomber . [media],"[NULL,NULL,NULL]",1
+988,attention de pas tomber . [media],"[NULL,NULL,NULL]",2
+989,0. .,"[NULL,NULL,NULL]",1
+989,0. .,"[NULL,NULL,NULL]",2
+990,oh ça tourne .,"[NULL,NULL,NULL]",1
+990,oh ça tourne .,"[NULL,NULL,NULL]",2
+991,yyy . [media],"[NULL,NULL,NULL]",1
+991,yyy . [media],"[NULL,NULL,NULL]",2
+992,yyy . [media],"[NULL,NULL,NULL]",1
+992,yyy . [media],"[NULL,NULL,NULL]",2
+993,ouh oh mais j'ai la tête qui tourne moi Théophile . [media],"[NULL,NULL,NULL]",1
+993,ouh oh mais j'ai la tête qui tourne moi Théophile . [media],"[NULL,NULL,NULL]",2
+994,on tourne .,"[NULL,NULL,NULL]",1
+994,on tourne .,"[NULL,NULL,NULL]",2
+995,0. .,"[NULL,NULL,NULL]",1
+995,0. .,"[NULL,NULL,NULL]",2
+996,c'est toi qui tourne . [media],"[NULL,NULL,NULL]",1
+996,c'est toi qui tourne . [media],"[NULL,NULL,NULL]",2
+997,tu tournes ?,"[NULL,NULL,NULL]",1
+997,tu tournes ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+998,il est où Théophile ? [media],"[NULL,NULL,NULL]",1
+998,il est où Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+999,0. .,"[NULL,NULL,NULL]",1
+999,0. .,"[NULL,NULL,NULL]",2
+1000,il fait la planète . [media],"[NULL,NULL,NULL]",1
+1000,il fait la planète . [media],"[NULL,NULL,NULL]",2
+1001,Théophile oh .,"[NULL,NULL,NULL]",1
+1001,Théophile oh .,"[NULL,NULL,NULL]",2
+1002,ah touché oh touché ! [media],"[NULL,NULL,NULL]",1
+1002,ah touché oh touché ! [media],"[NULL,NULL,NULL]",2
+1003,0. .,"[NULL,NULL,NULL]",1
+1003,0. .,"[NULL,NULL,NULL]",2
+1004,on fait le grand écart comme hier Théophile ? [media],"[NULL,NULL,NULL]",1
+1004,on fait le grand écart comme hier Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1005,tu fais le grand écart tu montres à Lili comme ça .,"[NULL,NULL,NULL]",1
+1005,tu fais le grand écart tu montres à Lili comme ça .,"[NULL,NULL,NULL]",2
+1006,oh \<None\> !,"[NULL,NULL,NULL]",1
+1006,oh \<None\> !,"[NULL,NULL,NULL]",2
+1007,0. . [media],"[NULL,NULL,NULL]",1
+1007,0. . [media],"[NULL,NULL,NULL]",2
+1008,0. .,"[NULL,NULL,NULL]",1
+1008,0. .,"[NULL,NULL,NULL]",2
+1009,ouais !,"[NULL,NULL,NULL]",1
+1009,ouais !,"[NULL,NULL,NULL]",2
+1010,woaw .,"[NULL,NULL,NULL]",1
+1010,woaw .,"[NULL,NULL,NULL]",2
+1011,il a inventé ça hier j'adore . [media],"[NULL,NULL,NULL]",1
+1011,il a inventé ça hier j'adore . [media],"[NULL,NULL,NULL]",2
+1012,0. .,"[NULL,NULL,NULL]",1
+1012,0. .,"[NULL,NULL,NULL]",2
+1013,encore ouh !,"[NULL,NULL,NULL]",1
+1013,encore ouh !,"[NULL,NULL,NULL]",2
+1014,0. . [media],"[NULL,NULL,NULL]",1
+1014,0. . [media],"[NULL,NULL,NULL]",2
+1015,yyy . [media],"[NULL,NULL,NULL]",1
+1015,yyy . [media],"[NULL,NULL,NULL]",2
+1016,qu'est-ce que t'as vu ? [media],"[NULL,NULL,NULL]",1
+1016,qu'est-ce que t'as vu ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:Answer:non-verbal,NULL]",2
+1017,ah bah c'est tout l'équipement pour aller arroser là . [media],"[NULL,NULL,NULL]",1
+1017,ah bah c'est tout l'équipement pour aller arroser là . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+1018,yyy .,"[NULL,NULL,NULL]",1
+1018,yyy .,"[NULL,NULL,NULL]",2
+1019,et oui c'est pour arroser les plantes . [media],"[NULL,NULL,NULL]",1
+1019,et oui c'est pour arroser les plantes . [media],"[NULL,NULL,NULL]",2
+1020,0. .,"[NULL,NULL,NULL]",1
+1020,0. .,"[NULL,NULL,NULL]",2
+1021,oh qu'est-ce qu' y a dedans \<None\> ?,"[NULL,NULL,NULL]",1
+1021,oh qu'est-ce qu' y a dedans \<None\> ?,"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+1022,qu'est-ce qu' y a dedans \<None\> ? [media],"[NULL,NULL,NULL]",1
+1022,qu'est-ce qu' y a dedans \<None\> ? [media],"[NULL,NULL,NULL]",2
+1023,oh qu'est-ce qu' y a ? [media],"[NULL,NULL,NULL]",1
+1023,oh qu'est-ce qu' y a ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1024,yyy .,"[NULL,NULL,NULL]",1
+1024,yyy .,"[CHI-Response:No-label,NULL,NULL]",2
+1025,c'est quoi \<None\> ?,"[NULL,NULL,NULL]",1
+1025,c'est quoi \<None\> ?,"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+1026,0. . [media],"[NULL,NULL,NULL]",1
+1026,0. . [media],"[CHI-Response:No-label,NULL,NULL]",2
+1027,oh qu'est-ce que c'est ?,"[NULL,NULL,NULL]",1
+1027,oh qu'est-ce que c'est ?,"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+1028,yyy . [media],"[NULL,NULL,NULL]",1
+1028,yyy . [media],"[CHI-Response:No-label,NULL,NULL]",2
+1029,xxx c'est quoi ? [media],"[NULL,NULL,NULL]",1
+1029,xxx c'est quoi ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+1030,ah c'est de la pâte à modeler . [media],"[NULL,NULL,NULL]",1
+1030,ah c'est de la pâte à modeler . [media],"[PAR-Follow-up:Give-response,NULL,NULL]",2
+1031,attend oh pourquoi j'arrive pas à l'attraper .,"[NULL,NULL,NULL]",1
+1031,attend oh pourquoi j'arrive pas à l'attraper .,"[NULL,NULL,NULL]",2
+1032,attends mais comment elle se tient . [media],"[NULL,NULL,NULL]",1
+1032,attends mais comment elle se tient . [media],"[NULL,NULL,NULL]",2
+1033,yyy .,"[NULL,NULL,NULL]",1
+1033,yyy .,"[NULL,NULL,NULL]",2
+1034,bah . [media],"[NULL,NULL,NULL]",1
+1034,bah . [media],"[NULL,NULL,NULL]",2
+1035,oh oh .,"[NULL,NULL,NULL]",1
+1035,oh oh .,"[NULL,NULL,NULL]",2
+1036,yyy .,"[NULL,NULL,NULL]",1
+1036,yyy .,"[NULL,NULL,NULL]",2
+1037,ah ça_y_est . [media],"[NULL,NULL,NULL]",1
+1037,ah ça_y_est . [media],"[NULL,NULL,NULL]",2
+1038,attends mais en fait j'ai compris .,"[NULL,NULL,NULL]",1
+1038,attends mais en fait j'ai compris .,"[NULL,NULL,NULL]",2
+1039,elle tourne elle va dans le trou et comme elle colle un peu . [media],"[NULL,NULL,NULL]",1
+1039,elle tourne elle va dans le trou et comme elle colle un peu . [media],"[NULL,NULL,NULL]",2
+1040,ohlàlà .,"[NULL,NULL,NULL]",1
+1040,ohlàlà .,"[NULL,NULL,NULL]",2
+1041,yyy . [media],"[NULL,NULL,NULL]",1
+1041,yyy . [media],"[NULL,NULL,NULL]",2
+1042,je sais pas si je vais y arriver .,"[NULL,NULL,NULL]",1
+1042,je sais pas si je vais y arriver .,"[NULL,NULL,NULL]",2
+1043,yyy .,"[NULL,NULL,NULL]",1
+1043,yyy .,"[NULL,NULL,NULL]",2
+1044,ça_y_est ! [media],"[NULL,NULL,NULL]",1
+1044,ça_y_est ! [media],"[NULL,NULL,NULL]",2
+1045,voilà . [media],"[NULL,NULL,NULL]",1
+1045,voilà . [media],"[NULL,NULL,NULL]",2
+1046,une petite balle . [media],"[NULL,NULL,NULL]",1
+1046,une petite balle . [media],"[NULL,NULL,NULL]",2
+1047,yyy . [media],"[NULL,NULL,NULL]",1
+1047,yyy . [media],"[NULL,NULL,NULL]",2
+1048,xxx .,"[NULL,NULL,NULL]",1
+1048,xxx .,"[NULL,NULL,NULL]",2
+1049,ouais tu joues au foot avec . [media],"[NULL,NULL,NULL]",1
+1049,ouais tu joues au foot avec . [media],"[NULL,NULL,NULL]",2
+1050,hum hum . [media],"[NULL,NULL,NULL]",1
+1050,hum hum . [media],"[NULL,NULL,NULL]",2
+1051,je te sens pas d' humeur à aller prendre le bain . [media],"[NULL,NULL,NULL]",1
+1051,je te sens pas d' humeur à aller prendre le bain . [media],"[NULL,NULL,NULL]",2
+1052,hum .,"[NULL,NULL,NULL]",1
+1052,hum .,"[NULL,NULL,NULL]",2
+1053,ouh la oui .,"[NULL,NULL,NULL]",1
+1053,ouh la oui .,"[NULL,NULL,NULL]",2
+1054,yyy . [media],"[NULL,NULL,NULL]",1
+1054,yyy . [media],"[NULL,NULL,NULL]",2
+1055,pour moi t'en prends une pour toi alors . [media],"[NULL,NULL,NULL]",1
+1055,pour moi t'en prends une pour toi alors . [media],"[NULL,NULL,NULL]",2
+1056,0. .,"[NULL,NULL,NULL]",1
+1056,0. .,"[NULL,NULL,NULL]",2
+1057,ah tu veux celle-là d'accord .,"[NULL,NULL,NULL]",1
+1057,ah tu veux celle-là d'accord .,"[NULL,NULL,NULL]",2
+1058,yyy . [media],"[NULL,NULL,NULL]",1
+1058,yyy . [media],"[NULL,NULL,NULL]",2
+1059,d'accord mais la balle elle est pas très adaptée . [media],"[NULL,NULL,NULL]",1
+1059,d'accord mais la balle elle est pas très adaptée . [media],"[NULL,NULL,NULL]",2
+1060,0. .,"[NULL,NULL,NULL]",1
+1060,0. .,"[NULL,NULL,NULL]",2
+1061,ouf d'accord on fait du hockey .,"[NULL,NULL,NULL]",1
+1061,ouf d'accord on fait du hockey .,"[NULL,NULL,NULL]",2
+1062,hop . [media],"[NULL,NULL,NULL]",1
+1062,hop . [media],"[NULL,NULL,NULL]",2
+1063,ouh la la tiens Théophile . [media],"[NULL,NULL,NULL]",1
+1063,ouh la la tiens Théophile . [media],"[NULL,NULL,NULL]",2
+1064,ah mince ça marche pas ça .,"[NULL,NULL,NULL]",1
+1064,ah mince ça marche pas ça .,"[NULL,NULL,NULL]",2
+1065,il faudrait qu'on trouve une meilleure balle . [media],"[NULL,NULL,NULL]",1
+1065,il faudrait qu'on trouve une meilleure balle . [media],"[NULL,NULL,NULL]",2
+1066,tiens .,"[NULL,NULL,NULL]",1
+1066,tiens .,"[NULL,NULL,NULL]",2
+1067,0. .,"[NULL,NULL,NULL]",1
+1067,0. .,"[NULL,NULL,NULL]",2
+1068,tiens . [media],"[NULL,NULL,NULL]",1
+1068,tiens . [media],"[NULL,NULL,NULL]",2
+1069,0. .,"[NULL,NULL,NULL]",1
+1069,0. .,"[NULL,NULL,NULL]",2
+1070,oui t'as raison c'est pas très adapté hein . [media],"[NULL,NULL,NULL]",1
+1070,oui t'as raison c'est pas très adapté hein . [media],"[NULL,NULL,NULL]",2
+1071,on remet d'accord .,"[NULL,NULL,NULL]",1
+1071,on remet d'accord .,"[NULL,NULL,NULL]",2
+1072,ah non . [media],"[NULL,NULL,NULL]",1
+1072,ah non . [media],"[NULL,NULL,NULL]",2
+1073,ah voilà ça c'est mieux . [media],"[NULL,NULL,NULL]",1
+1073,ah voilà ça c'est mieux . [media],"[NULL,NULL,NULL]",2
+1074,ah non .,"[NULL,NULL,NULL]",1
+1074,ah non .,"[NULL,NULL,NULL]",2
+1075,je sais pas comment tu fais avec ces bottes pour pas tomber . [media],"[NULL,NULL,NULL]",1
+1075,je sais pas comment tu fais avec ces bottes pour pas tomber . [media],"[NULL,NULL,NULL]",2
+1076,0. .,"[NULL,NULL,NULL]",1
+1076,0. .,"[NULL,NULL,NULL]",2
+1077,vas_y Théophile vas_y oui ! [media],"[NULL,NULL,NULL]",1
+1077,vas_y Théophile vas_y oui ! [media],"[NULL,NULL,NULL]",2
+1078,ouf tiens . ouf . [media],"[NULL,NULL,NULL]",1
+1078,ouf tiens . ouf . [media],"[NULL,NULL,NULL]",2
+1079,tiens .,"[NULL,NULL,NULL]",1
+1079,tiens .,"[NULL,NULL,NULL]",2
+1080,0. .,"[NULL,NULL,NULL]",1
+1080,0. .,"[NULL,NULL,NULL]",2
+1081,oups badaboum .,"[NULL,NULL,NULL]",1
+1081,oups badaboum .,"[NULL,NULL,NULL]",2
+1082,badaboum . [media],"[NULL,NULL,NULL]",1
+1082,badaboum . [media],"[NULL,NULL,NULL]",2
+1083,ouh !,"[NULL,NULL,NULL]",1
+1083,ouh !,"[NULL,NULL,NULL]",2
+1084,ouh ah . [media],"[NULL,NULL,NULL]",1
+1084,ouh ah . [media],"[NULL,NULL,NULL]",2
+1085,ouh la la joli ! [media],"[NULL,NULL,NULL]",1
+1085,ouh la la joli ! [media],"[NULL,NULL,NULL]",2
+1086,xxx tu joues avec Dundo .,"[NULL,NULL,NULL]",1
+1086,xxx tu joues avec Dundo .,"[NULL,NULL,NULL]",2
+1087,attention Théophile poum . [media],"[NULL,NULL,NULL]",1
+1087,attention Théophile poum . [media],"[NULL,NULL,NULL]",2
+1088,passe de Dundo hop . [media],"[NULL,NULL,NULL]",1
+1088,passe de Dundo hop . [media],"[NULL,NULL,NULL]",2
+1089,tu lances à Dundo ? [media],"[NULL,NULL,NULL]",1
+1089,tu lances à Dundo ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1090,0. .,"[NULL,NULL,NULL]",1
+1090,0. .,"[NULL,NULL,NULL]",2
+1091,oh joli tiens poum . [media],"[NULL,NULL,NULL]",1
+1091,oh joli tiens poum . [media],"[NULL,NULL,NULL]",2
+1092,yyy . [media],"[NULL,NULL,NULL]",1
+1092,yyy . [media],"[NULL,NULL,NULL]",2
+1093,ouais oh joli Lili ! [media],"[NULL,NULL,NULL]",1
+1093,ouais oh joli Lili ! [media],"[NULL,NULL,NULL]",2
+1094,yyy .,"[NULL,NULL,NULL]",1
+1094,yyy .,"[NULL,NULL,NULL]",2
+1095,0. . [media],"[NULL,NULL,NULL]",1
+1095,0. . [media],"[NULL,NULL,NULL]",2
+1096,ah oui c'est l'antenne .,"[NULL,NULL,NULL]",1
+1096,ah oui c'est l'antenne .,"[NULL,NULL,NULL]",2
+1097,yyy . [media],"[NULL,NULL,NULL]",1
+1097,yyy . [media],"[NULL,NULL,NULL]",2
+1098,gagné .,"[NULL,NULL,NULL]",1
+1098,gagné .,"[NULL,NULL,NULL]",2
+1099,hum tu veux lancer vers la voiture . [media],"[NULL,NULL,NULL]",1
+1099,hum tu veux lancer vers la voiture . [media],"[NULL,NULL,NULL]",2
+1100,wouha joli ! [media],"[NULL,NULL,NULL]",1
+1100,wouha joli ! [media],"[NULL,NULL,NULL]",2
+1101,bah alors là ça part vite hein . [media],"[NULL,NULL,NULL]",1
+1101,bah alors là ça part vite hein . [media],"[NULL,NULL,NULL]",2
+1102,c'est un attaquant hein . [media],"[NULL,NULL,NULL]",1
+1102,c'est un attaquant hein . [media],"[NULL,NULL,NULL]",2
+1103,passe à Olivier oui ! [media],"[NULL,NULL,NULL]",1
+1103,passe à Olivier oui ! [media],"[NULL,NULL,NULL]",2
+1104,hop hop .,"[NULL,NULL,NULL]",1
+1104,hop hop .,"[NULL,NULL,NULL]",2
+1105,bon Saskia tu te mets au goal \<None\> .,"[NULL,NULL,NULL]",1
+1105,bon Saskia tu te mets au goal \<None\> .,"[NULL,NULL,NULL]",2
+1106,oui voilà attention . [media],"[NULL,NULL,NULL]",1
+1106,oui voilà attention . [media],"[NULL,NULL,NULL]",2
+1107,il y a un attaquant .,"[NULL,NULL,NULL]",1
+1107,il y a un attaquant .,"[NULL,NULL,NULL]",2
+1108,0. .,"[NULL,NULL,NULL]",1
+1108,0. .,"[NULL,NULL,NULL]",2
+1109,oui ! [media],"[NULL,NULL,NULL]",1
+1109,oui ! [media],"[NULL,NULL,NULL]",2
+1110,0. vas_y Théophile ! [media],"[NULL,NULL,NULL]",1
+1110,0. vas_y Théophile ! [media],"[NULL,NULL,NULL]",2
+1111,ouh à Olivier .,"[NULL,NULL,NULL]",1
+1111,ouh à Olivier .,"[NULL,NULL,NULL]",2
+1112,0. .,"[NULL,NULL,NULL]",1
+1112,0. .,"[NULL,NULL,NULL]",2
+1113,à toi ! [media],"[NULL,NULL,NULL]",1
+1113,à toi ! [media],"[NULL,NULL,NULL]",2
+1114,oui hop . [media],"[NULL,NULL,NULL]",1
+1114,oui hop . [media],"[NULL,NULL,NULL]",2
+1115,à Dundo hop .,"[NULL,NULL,NULL]",1
+1115,à Dundo hop .,"[NULL,NULL,NULL]",2
+1116,yyy . [media],"[NULL,NULL,NULL]",1
+1116,yyy . [media],"[NULL,NULL,NULL]",2
+1117,yyy .,"[NULL,NULL,NULL]",1
+1117,yyy .,"[NULL,NULL,NULL]",2
+1118,0. . [media],"[NULL,NULL,NULL]",1
+1118,0. . [media],"[NULL,NULL,NULL]",2
+1119,0. .,"[NULL,NULL,NULL]",1
+1119,0. .,"[NULL,NULL,NULL]",2
+1120,wouha .,"[NULL,NULL,NULL]",1
+1120,wouha .,"[NULL,NULL,NULL]",2
+1121,0. Théophile joli ! [media],"[NULL,NULL,NULL]",1
+1121,0. Théophile joli ! [media],"[NULL,NULL,NULL]",2
+1122,attention hop .,"[NULL,NULL,NULL]",1
+1122,attention hop .,"[NULL,NULL,NULL]",2
+1123,wouha .,"[NULL,NULL,NULL]",1
+1123,wouha .,"[NULL,NULL,NULL]",2
+1124,0. . [media],"[NULL,NULL,NULL]",1
+1124,0. . [media],"[NULL,NULL,NULL]",2
+1125,où est-ce qu'il est .,"[NULL,NULL,NULL]",1
+1125,où est-ce qu'il est .,"[NULL,NULL,NULL]",2
+1126,0. .,"[NULL,NULL,NULL]",1
+1126,0. .,"[NULL,NULL,NULL]",2
+1127,ouais ! [media],"[NULL,NULL,NULL]",1
+1127,ouais ! [media],"[NULL,NULL,NULL]",2
+1128,on s'en sort pas \<None\> . [media],"[NULL,NULL,NULL]",1
+1128,on s'en sort pas \<None\> . [media],"[NULL,NULL,NULL]",2
+1129,remise au centre .,"[NULL,NULL,NULL]",1
+1129,remise au centre .,"[NULL,NULL,NULL]",2
+1130,remise en jeux . [media],"[NULL,NULL,NULL]",1
+1130,remise en jeux . [media],"[NULL,NULL,NULL]",2
+1131,à maman .,"[NULL,NULL,NULL]",1
+1131,à maman .,"[NULL,NULL,NULL]",2
+1132,attention de pas tomber Théophile hein . [media],"[NULL,NULL,NULL]",1
+1132,attention de pas tomber Théophile hein . [media],"[NULL,NULL,NULL]",2
+1133,0. .,"[NULL,NULL,NULL]",1
+1133,0. .,"[NULL,NULL,NULL]",2
+1134,chouette ouh attention poum ! [media],"[NULL,NULL,NULL]",1
+1134,chouette ouh attention poum ! [media],"[NULL,NULL,NULL]",2
+1135,oups moi je fais pas ça au pieds bien comme toi . [media],"[NULL,NULL,NULL]",1
+1135,oups moi je fais pas ça au pieds bien comme toi . [media],"[NULL,NULL,NULL]",2
+1136,voilà ! [media],"[NULL,NULL,NULL]",1
+1136,voilà ! [media],"[NULL,NULL,NULL]",2
+1137,0. .,"[NULL,NULL,NULL]",1
+1137,0. .,"[NULL,NULL,NULL]",2
+1138,joli ! [media],"[NULL,NULL,NULL]",1
+1138,joli ! [media],"[NULL,NULL,NULL]",2
+1139,ouh il était beau c Théophile ! [media],"[NULL,NULL,NULL]",1
+1139,ouh il était beau c Théophile ! [media],"[NULL,NULL,NULL]",2
+1140,t'es prêt hop hop on avance ? [media],"[NULL,NULL,NULL]",1
+1140,t'es prêt hop hop on avance ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1141,ohlàlà but but bravo bravo !,"[NULL,NULL,NULL]",1
+1141,ohlàlà but but bravo bravo !,"[NULL,NULL,NULL]",2
+1142,ɛ gagné . [media],"[NULL,NULL,NULL]",1
+1142,ɛ gagné . [media],"[NULL,NULL,NULL]",2
+1143,yyy . [media],"[NULL,NULL,NULL]",1
+1143,yyy . [media],"[NULL,NULL,NULL]",2
+1144,ya vas_y t'essaies de marquer le but !,"[NULL,NULL,NULL]",1
+1144,ya vas_y t'essaies de marquer le but !,"[NULL,NULL,NULL]",2
+1145,0. .,"[NULL,NULL,NULL]",1
+1145,0. .,"[NULL,NULL,NULL]",2
+1146,vas_y encore ! [media],"[NULL,NULL,NULL]",1
+1146,vas_y encore ! [media],"[NULL,NULL,NULL]",2
+1147,tout là-bas . [media],"[NULL,NULL,NULL]",1
+1147,tout là-bas . [media],"[NULL,NULL,NULL]",2
+1148,ah passe . [media],"[NULL,NULL,NULL]",1
+1148,ah passe . [media],"[NULL,NULL,NULL]",2
+1149,maman .,"[NULL,NULL,NULL]",1
+1149,maman .,"[NULL,NULL,NULL]",2
+1150,oui joli passe à maman je te le passe main . [media],"[NULL,NULL,NULL]",1
+1150,oui joli passe à maman je te le passe main . [media],"[NULL,NULL,NULL]",2
+1151,attention hop .,"[NULL,NULL,NULL]",1
+1151,attention hop .,"[NULL,NULL,NULL]",2
+1152,ah si je vise la poussette ça va pas . [media],"[NULL,NULL,NULL]",1
+1152,ah si je vise la poussette ça va pas . [media],"[NULL,NULL,NULL]",2
+1153,tiens hop la vas_y Théophile à toi .,"[NULL,NULL,NULL]",1
+1153,tiens hop la vas_y Théophile à toi .,"[NULL,NULL,NULL]",2
+1154,oui . oh joli ! [media],"[NULL,NULL,NULL]",1
+1154,oui . oh joli ! [media],"[NULL,NULL,NULL]",2
+1155,wouha but bravo ouh la ! [media],"[NULL,NULL,NULL]",1
+1155,wouha but bravo ouh la ! [media],"[NULL,NULL,NULL]",2
+1156,tu continues tu passes à Lili ? [media],"[NULL,NULL,NULL]",1
+1156,tu continues tu passes à Lili ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1157,vas_y vers Lili ! [media],"[NULL,NULL,NULL]",1
+1157,vas_y vers Lili ! [media],"[NULL,NULL,NULL]",2
+1158,0. .,"[NULL,NULL,NULL]",1
+1158,0. .,"[NULL,NULL,NULL]",2
+1159,oui ! [media],"[NULL,NULL,NULL]",1
+1159,oui ! [media],"[NULL,NULL,NULL]",2
+1160,ouais bravo ! [media],"[NULL,NULL,NULL]",1
+1160,ouais bravo ! [media],"[NULL,NULL,NULL]",2
+1161,à Olivier ! [media],"[NULL,NULL,NULL]",1
+1161,à Olivier ! [media],"[NULL,NULL,NULL]",2
+1162,0. .,"[NULL,NULL,NULL]",1
+1162,0. .,"[NULL,NULL,NULL]",2
+1163,0. .,"[NULL,NULL,NULL]",1
+1163,0. .,"[NULL,NULL,NULL]",2
+1164,wow bravo Théophile ! [media],"[NULL,NULL,NULL]",1
+1164,wow bravo Théophile ! [media],"[NULL,NULL,NULL]",2
+1165,tu l'emmènes dans le bain le ballon ? [media],"[NULL,NULL,NULL]",1
+1165,tu l'emmènes dans le bain le ballon ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1166,wouha tiens . [media],"[NULL,NULL,NULL]",1
+1166,wouha tiens . [media],"[NULL,NULL,NULL]",2
+1167,0. .,"[NULL,NULL,NULL]",1
+1167,0. .,"[NULL,NULL,NULL]",2
+1168,wouha .,"[NULL,NULL,NULL]",1
+1168,wouha .,"[NULL,NULL,NULL]",2
+1169,a vroum vroum .,"[NULL,NULL,NULL]",1
+1169,a vroum vroum .,"[NULL,NULL,NULL]",2
+1170,ah oui il y a ta voiture . [media],"[NULL,NULL,NULL]",1
+1170,ah oui il y a ta voiture . [media],"[NULL,NULL,NULL]",2
+1171,yyy .,"[NULL,NULL,NULL]",1
+1171,yyy .,"[NULL,NULL,NULL]",2
+1172,allez petite pose \<None\> . [media],"[NULL,NULL,NULL]",1
+1172,allez petite pose \<None\> . [media],"[NULL,NULL,NULL]",2
+1173,on met Dundo là .,"[NULL,NULL,NULL]",1
+1173,on met Dundo là .,"[NULL,NULL,NULL]",2
+1174,mi temps .,"[NULL,NULL,NULL]",1
+1174,mi temps .,"[NULL,NULL,NULL]",2
+1175,mi temps .,"[NULL,NULL,NULL]",1
+1175,mi temps .,"[NULL,NULL,NULL]",2
+1176,on regagne les vestiaires . [media],"[NULL,NULL,NULL]",1
+1176,on regagne les vestiaires . [media],"[NULL,NULL,NULL]",2
+1177,0. .,"[NULL,NULL,NULL]",1
+1177,0. .,"[NULL,NULL,NULL]",2
+1178,on continue de lancer dans le foot il s'arrête pas lui .,"[NULL,NULL,NULL]",1
+1178,on continue de lancer dans le foot il s'arrête pas lui .,"[NULL,NULL,NULL]",2
+1179,0. . [media],"[NULL,NULL,NULL]",1
+1179,0. . [media],"[NULL,NULL,NULL]",2
+1180,il fois il s'est mis à jouer avec des gamins de dix on ans .,"[NULL,NULL,NULL]",1
+1180,il fois il s'est mis à jouer avec des gamins de dix on ans .,"[NULL,NULL,NULL]",2
+1181,il avait pas peur tu sais il fonçait . [media],"[NULL,NULL,NULL]",1
+1181,il avait pas peur tu sais il fonçait . [media],"[NULL,NULL,NULL]",2
+1182,alors ils étaient tout fiers de lui montrer ce qu'ils savaient faire .,"[NULL,NULL,NULL]",1
+1182,alors ils étaient tout fiers de lui montrer ce qu'ils savaient faire .,"[NULL,NULL,NULL]",2
+1183,et lui il r il jouait . [media],"[NULL,NULL,NULL]",1
+1183,et lui il r il jouait . [media],"[NULL,NULL,NULL]",2
+1184,ouais ! [media],"[NULL,NULL,NULL]",1
+1184,ouais ! [media],"[NULL,NULL,NULL]",2
+1185,ouais merci Théophile passe . [media],"[NULL,NULL,NULL]",1
+1185,ouais merci Théophile passe . [media],"[NULL,NULL,NULL]",2
+1186,xxx wouha ! [media],"[NULL,NULL,NULL]",1
+1186,xxx wouha ! [media],"[NULL,NULL,NULL]",2
+1187,dans la baignoire !,"[NULL,NULL,NULL]",1
+1187,dans la baignoire !,"[NULL,NULL,NULL]",2
+1188,yyy . [media],"[NULL,NULL,NULL]",1
+1188,yyy . [media],"[NULL,NULL,NULL]",2
+1189,tu fais une passe à Olivier ?,"[NULL,NULL,NULL]",1
+1189,tu fais une passe à Olivier ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1190,0. .,"[NULL,NULL,NULL]",1
+1190,0. .,"[NULL,NULL,NULL]",2
+1191,ouais ! [media],"[NULL,NULL,NULL]",1
+1191,ouais ! [media],"[NULL,NULL,NULL]",2
+1192,hop .,"[NULL,NULL,NULL]",1
+1192,hop .,"[NULL,NULL,NULL]",2
+1193,ah Théophile . [media],"[NULL,NULL,NULL]",1
+1193,ah Théophile . [media],"[NULL,NULL,NULL]",2
+1194,touc . [media],"[NULL,NULL,NULL]",1
+1194,touc . [media],"[NULL,NULL,NULL]",2
+1195,but . [media],"[NULL,NULL,NULL]",1
+1195,but . [media],"[NULL,NULL,NULL]",2
+1196,0. .,"[NULL,NULL,NULL]",1
+1196,0. .,"[NULL,NULL,NULL]",2
+1197,ouais tu l'attrapes tout_de_suite toi à peine lancé . [media],"[NULL,NULL,NULL]",1
+1197,ouais tu l'attrapes tout_de_suite toi à peine lancé . [media],"[NULL,NULL,NULL]",2
+1198,à moi .,"[NULL,NULL,NULL]",1
+1198,à moi .,"[NULL,NULL,NULL]",2
+1199,xxx . [media],"[NULL,NULL,NULL]",1
+1199,xxx . [media],"[NULL,NULL,NULL]",2
+1200,yyy . [media],"[NULL,NULL,NULL]",1
+1200,yyy . [media],"[NULL,NULL,NULL]",2
+1201,je sais pas comment tu fais avec les xxx là . [media],"[NULL,NULL,NULL]",1
+1201,je sais pas comment tu fais avec les xxx là . [media],"[NULL,NULL,NULL]",2
+1202,0. .,"[NULL,NULL,NULL]",1
+1202,0. .,"[NULL,NULL,NULL]",2
+1203,oh je suis prête attention le but est là . [media],"[NULL,NULL,NULL]",1
+1203,oh je suis prête attention le but est là . [media],"[NULL,NULL,NULL]",2
+1204,ouh dis_donc c'est du direct là ! [media],"[NULL,NULL,NULL]",1
+1204,ouh dis_donc c'est du direct là ! [media],"[NULL,NULL,NULL]",2
+1205,ouais but bravo ! [media],"[NULL,NULL,NULL]",1
+1205,ouais but bravo ! [media],"[NULL,NULL,NULL]",2
+1206,attention à moi j'essaie de marquer . [media],"[NULL,NULL,NULL]",1
+1206,attention à moi j'essaie de marquer . [media],"[NULL,NULL,NULL]",2
+1207,faut que je passe hein .,"[NULL,NULL,NULL]",1
+1207,faut que je passe hein .,"[NULL,NULL,NULL]",2
+1208,ouh . [media],"[NULL,NULL,NULL]",1
+1208,ouh . [media],"[NULL,NULL,NULL]",2
+1209,petite pause Théophile ? [media],"[NULL,NULL,NULL]",1
+1209,petite pause Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1210,oui hop . [media],"[NULL,NULL,NULL]",1
+1210,oui hop . [media],"[NULL,NULL,NULL]",2
+1211,allez vers la salle . [media],"[NULL,NULL,NULL]",1
+1211,allez vers la salle . [media],"[NULL,NULL,NULL]",2
+1212,allez Théophile .,"[NULL,NULL,NULL]",1
+1212,allez Théophile .,"[NULL,NULL,NULL]",2
+1213,0. .,"[NULL,NULL,NULL]",1
+1213,0. .,"[NULL,NULL,NULL]",2
+1214,ouais joli . [media],"[NULL,NULL,NULL]",1
+1214,ouais joli . [media],"[NULL,NULL,NULL]",2
+1215,ɛ boum boum .,"[NULL,NULL,NULL]",1
+1215,ɛ boum boum .,"[NULL,NULL,NULL]",2
+1216,oui sous la poussette .,"[NULL,NULL,NULL]",1
+1216,oui sous la poussette .,"[NULL,NULL,NULL]",2
+1217,boum boum .,"[NULL,NULL,NULL]",1
+1217,boum boum .,"[NULL,NULL,NULL]",2
+1218,et oui allez mon amour .,"[NULL,NULL,NULL]",1
+1218,et oui allez mon amour .,"[NULL,NULL,NULL]",2
+1219,ɛ̃ boum boum e boum boum . [media],"[NULL,NULL,NULL]",1
+1219,ɛ̃ boum boum e boum boum . [media],"[NULL,NULL,NULL]",2
+1220,il faudrait peut-être se baigner quand_même Théophile après il va être tard . [media],"[NULL,NULL,NULL]",1
+1220,il faudrait peut-être se baigner quand_même Théophile après il va être tard . [media],"[NULL,NULL,NULL]",2
+1221,tiens .,"[NULL,NULL,NULL]",1
+1221,tiens .,"[NULL,NULL,NULL]",2
+1222,yyy . [media],"[NULL,NULL,NULL]",1
+1222,yyy . [media],"[NULL,NULL,NULL]",2
+1223,oui ouh la la . [media],"[NULL,NULL,NULL]",1
+1223,oui ouh la la . [media],"[NULL,NULL,NULL]",2
+1224,doucement Théophile .,"[NULL,NULL,NULL]",1
+1224,doucement Théophile .,"[NULL,NULL,NULL]",2
+1225,0. . [media],"[NULL,NULL,NULL]",1
+1225,0. . [media],"[NULL,NULL,NULL]",2
+1226,allez on fait une pause Théophile .,"[NULL,NULL,NULL]",1
+1226,allez on fait une pause Théophile .,"[NULL,NULL,NULL]",2
+1227,on va changer le caca d'accord ? [media],"[NULL,NULL,NULL]",1
+1227,on va changer le caca d'accord ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1228,non .,"[NULL,NULL,NULL]",1
+1228,non .,"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+1229,bah si t'as vu l'heure papa il va bientôt arriver pour manger \<None\> .,"[NULL,NULL,NULL]",1
+1229,bah si t'as vu l'heure papa il va bientôt arriver pour manger \<None\> .,"[PAR-Follow-up:Signal-disagreement,PAR-Follow-up:Add-info,NULL]",2
+1230,non . [media],"[NULL,NULL,NULL]",1
+1230,non . [media],"[NULL,NULL,NULL]",2
+1231,d'accord ?,"[NULL,NULL,NULL]",1
+1231,d'accord ?,"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1232,yyy . [media],"[NULL,NULL,NULL]",1
+1232,yyy . [media],"[CHI-Response:No-label,NULL,NULL]",2
+1233,yyy .,"[NULL,NULL,NULL]",1
+1233,yyy .,"[NULL,NULL,NULL]",2
+1234,on rejouera demain matin . [media],"[NULL,NULL,NULL]",1
+1234,on rejouera demain matin . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+1235,hein demain matin on rejouera . [media],"[NULL,NULL,NULL]",1
+1235,hein demain matin on rejouera . [media],"[NULL,NULL,NULL]",2
+1236,le sport du matin vas_y . [media],"[NULL,NULL,NULL]",1
+1236,le sport du matin vas_y . [media],"[NULL,NULL,NULL]",2
+1237,oui ! [media],"[NULL,NULL,NULL]",1
+1237,oui ! [media],"[NULL,NULL,NULL]",2
+1238,allez pause . [media],"[NULL,NULL,NULL]",1
+1238,allez pause . [media],"[NULL,NULL,NULL]",2
+1239,tu viens on enlève juste le caca . [media],"[NULL,NULL,NULL]",1
+1239,tu viens on enlève juste le caca . [media],"[NULL,NULL,NULL]",2
+1240,tu peux l'emmener dans le bain .,"[NULL,NULL,NULL]",1
+1240,tu peux l'emmener dans le bain .,"[NULL,NULL,NULL]",2
+1241,mais faut juste que faut qu'on enlève le caca Théophile . [media],"[NULL,NULL,NULL]",1
+1241,mais faut juste que faut qu'on enlève le caca Théophile . [media],"[NULL,NULL,NULL]",2
+1242,viens on va enlever le caca et après tu l'emmènes dans le bain d'accord . [media],"[NULL,NULL,NULL]",1
+1242,viens on va enlever le caca et après tu l'emmènes dans le bain d'accord . [media],"[NULL,NULL,NULL]",2
+1243,hop . [media],"[NULL,NULL,NULL]",1
+1243,hop . [media],"[NULL,NULL,NULL]",2
+1244,yyy . [media],"[NULL,NULL,NULL]",1
+1244,yyy . [media],"[NULL,NULL,NULL]",2
+1245,yyy . [media],"[NULL,NULL,NULL]",1
+1245,yyy . [media],"[NULL,NULL,NULL]",2
+1246,yyy .,"[NULL,NULL,NULL]",1
+1246,yyy .,"[NULL,NULL,NULL]",2
+1247,bah !,"[NULL,NULL,NULL]",1
+1247,bah !,"[NULL,NULL,NULL]",2
+1248,yyy . [media],"[NULL,NULL,NULL]",1
+1248,yyy . [media],"[NULL,NULL,NULL]",2
+1249,ah .,"[NULL,NULL,NULL]",1
+1249,ah .,"[NULL,NULL,NULL]",2
+1250,ah .,"[NULL,NULL,NULL]",1
+1250,ah .,"[NULL,NULL,NULL]",2
+1251,yyy . [media],"[NULL,NULL,NULL]",1
+1251,yyy . [media],"[NULL,NULL,NULL]",2
+1252,yyy .,"[NULL,NULL,NULL]",1
+1252,yyy .,"[NULL,NULL,NULL]",2
+1253,boum . [media],"[NULL,NULL,NULL]",1
+1253,boum . [media],"[NULL,NULL,NULL]",2
+1254,yyy .,"[NULL,NULL,NULL]",1
+1254,yyy .,"[NULL,NULL,NULL]",2
+1255,oh tchou . [media],"[NULL,NULL,NULL]",1
+1255,oh tchou . [media],"[NULL,NULL,NULL]",2
+1256,yyy .,"[NULL,NULL,NULL]",1
+1256,yyy .,"[NULL,NULL,NULL]",2
+1257,oh boum . [media],"[NULL,NULL,NULL]",1
+1257,oh boum . [media],"[NULL,NULL,NULL]",2
+1258,yyy . [media],"[NULL,NULL,NULL]",1
+1258,yyy . [media],"[NULL,NULL,NULL]",2
+1259,hop .,"[NULL,NULL,NULL]",1
+1259,hop .,"[NULL,NULL,NULL]",2
+1260,ah . [media],"[NULL,NULL,NULL]",1
+1260,ah . [media],"[NULL,NULL,NULL]",2
+1261,yyy .,"[NULL,NULL,NULL]",1
+1261,yyy .,"[NULL,NULL,NULL]",2
+1262,ouais attention ! [media],"[NULL,NULL,NULL]",1
+1262,ouais attention ! [media],"[NULL,NULL,NULL]",2
+1263,yyy .,"[NULL,NULL,NULL]",1
+1263,yyy .,"[NULL,NULL,NULL]",2
+1264,attention il va tomber . [media],"[NULL,NULL,NULL]",1
+1264,attention il va tomber . [media],"[NULL,NULL,NULL]",2
+1265,yyy . [media],"[NULL,NULL,NULL]",1
+1265,yyy . [media],"[NULL,NULL,NULL]",2
+1266,0. . [media],"[NULL,NULL,NULL]",1
+1266,0. . [media],"[NULL,NULL,NULL]",2
+1267,il s'envole . [media],"[NULL,NULL,NULL]",1
+1267,il s'envole . [media],"[NULL,NULL,NULL]",2
+1268,à toi tu le fais s'envoler ?,"[NULL,NULL,NULL]",1
+1268,à toi tu le fais s'envoler ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1269,hop vers le ciel allez vers le ciel ouh ! [media],"[NULL,NULL,NULL]",1
+1269,hop vers le ciel allez vers le ciel ouh ! [media],"[NULL,NULL,NULL]",2
+1270,encore yyy . [media],"[NULL,NULL,NULL]",1
+1270,encore yyy . [media],"[NULL,NULL,NULL]",2
+1271,qu'est-ce que t'as trouvé ?,"[NULL,NULL,NULL]",1
+1271,qu'est-ce que t'as trouvé ?,"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+1272,il est là . [media],"[NULL,NULL,NULL]",1
+1272,il est là . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+1273,hop attends on fait juste une petite pause Théophile .,"[NULL,NULL,NULL]",1
+1273,hop attends on fait juste une petite pause Théophile .,"[NULL,NULL,NULL]",2
+1274,ballon .,"[NULL,NULL,NULL]",1
+1274,ballon .,"[NULL,NULL,NULL]",2
+1275,oui mais on va l'attraper . [media],"[NULL,NULL,NULL]",1
+1275,oui mais on va l'attraper . [media],"[NULL,NULL,NULL]",2
+1276,bah il y a pas de caca dis_donc c'était un gros pétoux . [media],"[NULL,NULL,NULL]",1
+1276,bah il y a pas de caca dis_donc c'était un gros pétoux . [media],"[NULL,NULL,NULL]",2
+1277,il y a pas yyy .,"[NULL,NULL,NULL]",1
+1277,il y a pas yyy .,"[NULL,NULL,NULL]",2
+1278,il y a pas de caca . [media],"[NULL,NULL,NULL]",1
+1278,il y a pas de caca . [media],"[NULL,NULL,NULL]",2
+1279,\<None\> \<None\> yyy papy .,"[NULL,NULL,NULL]",1
+1279,\<None\> \<None\> yyy papy .,"[NULL,NULL,NULL]",2
+1280,papy ? [media],"[NULL,NULL,NULL]",1
+1280,papy ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1281,tu veux voir papy ?,"[NULL,NULL,NULL]",1
+1281,tu veux voir papy ?,"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+1282,papy il est à Vauvert papy . [media],"[NULL,NULL,NULL]",1
+1282,papy il est à Vauvert papy . [media],"[PAR-Follow-up:Add-info,NULL,NULL]",2
+1283,papy . [media],"[NULL,NULL,NULL]",1
+1283,papy . [media],"[NULL,NULL,NULL]",2
+1284,oui mais il pense à toi papy .,"[NULL,NULL,NULL]",1
+1284,oui mais il pense à toi papy .,"[NULL,NULL,NULL]",2
+1285,mon yyy .,"[NULL,NULL,NULL]",1
+1285,mon yyy .,"[NULL,NULL,NULL]",2
+1286,ah oui .,"[NULL,NULL,NULL]",1
+1286,ah oui .,"[NULL,NULL,NULL]",2
+1287,0. . [media],"[NULL,NULL,NULL]",1
+1287,0. . [media],"[NULL,NULL,NULL]",2
+1288,ah tu veux oh oui tu veux la voiture de papy alors attends . [media],"[NULL,NULL,NULL]",1
+1288,ah tu veux oh oui tu veux la voiture de papy alors attends . [media],"[NULL,NULL,NULL]",2
+1289,yyy .,"[NULL,NULL,NULL]",1
+1289,yyy .,"[NULL,NULL,NULL]",2
+1290,elle est là la vroum la voiture de papy ?,"[NULL,NULL,NULL]",1
+1290,elle est là la vroum la voiture de papy ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1291,yyy boum boum .,"[NULL,NULL,NULL]",1
+1291,yyy boum boum .,"[NULL,NULL,NULL]",2
+1292,non c'est le ballon ça . [media],"[NULL,NULL,NULL]",1
+1292,non c'est le ballon ça . [media],"[NULL,NULL,NULL]",2
+1293,tiens .,"[NULL,NULL,NULL]",1
+1293,tiens .,"[NULL,NULL,NULL]",2
+1294,0. . [media],"[NULL,NULL,NULL]",1
+1294,0. . [media],"[NULL,NULL,NULL]",2
+1295,oh .,"[NULL,NULL,NULL]",1
+1295,oh .,"[NULL,NULL,NULL]",2
+1296,yyy .,"[NULL,NULL,NULL]",1
+1296,yyy .,"[NULL,NULL,NULL]",2
+1297,attention . [media],"[NULL,NULL,NULL]",1
+1297,attention . [media],"[NULL,NULL,NULL]",2
+1298,yyy . [media],"[NULL,NULL,NULL]",1
+1298,yyy . [media],"[NULL,NULL,NULL]",2
+1299,yyy .,"[NULL,NULL,NULL]",1
+1299,yyy .,"[NULL,NULL,NULL]",2
+1300,oh . [media],"[NULL,NULL,NULL]",1
+1300,oh . [media],"[NULL,NULL,NULL]",2
+1301,touc \<None\> .,"[NULL,NULL,NULL]",1
+1301,touc \<None\> .,"[NULL,NULL,NULL]",2
+1302,0. . [media],"[NULL,NULL,NULL]",1
+1302,0. . [media],"[NULL,NULL,NULL]",2
+1303,yyy .,"[NULL,NULL,NULL]",1
+1303,yyy .,"[NULL,NULL,NULL]",2
+1304,hop boum . [media],"[NULL,NULL,NULL]",1
+1304,hop boum . [media],"[NULL,NULL,NULL]",2
+1305,ouh à toi tu l'envoies dans le ciel vas_y .,"[NULL,NULL,NULL]",1
+1305,ouh à toi tu l'envoies dans le ciel vas_y .,"[NULL,NULL,NULL]",2
+1306,0. . [media],"[NULL,NULL,NULL]",1
+1306,0. . [media],"[NULL,NULL,NULL]",2
+1307,oui encore vas_y .,"[NULL,NULL,NULL]",1
+1307,oui encore vas_y .,"[NULL,NULL,NULL]",2
+1308,ah ah . [media],"[NULL,NULL,NULL]",1
+1308,ah ah . [media],"[NULL,NULL,NULL]",2
+1309,lance .,"[NULL,NULL,NULL]",1
+1309,lance .,"[NULL,NULL,NULL]",2
+1310,0. .,"[NULL,NULL,NULL]",1
+1310,0. .,"[NULL,NULL,NULL]",2
+1311,ouais encore ! [media],"[NULL,NULL,NULL]",1
+1311,ouais encore ! [media],"[NULL,NULL,NULL]",2
+1312,oui poum . [media],"[NULL,NULL,NULL]",1
+1312,oui poum . [media],"[NULL,NULL,NULL]",2
+1313,aïe ouh doucement .,"[NULL,NULL,NULL]",1
+1313,aïe ouh doucement .,"[NULL,NULL,NULL]",2
+1314,encore .,"[NULL,NULL,NULL]",1
+1314,encore .,"[NULL,NULL,NULL]",2
+1315,doucement Théophile avec les jambes je t'ai déjà dit t'as vachement de force . [media],"[NULL,NULL,NULL]",1
+1315,doucement Théophile avec les jambes je t'ai déjà dit t'as vachement de force . [media],"[NULL,NULL,NULL]",2
+1316,0. .,"[NULL,NULL,NULL]",1
+1316,0. .,"[NULL,NULL,NULL]",2
+1317,ouh doucement avec les pieds . [media],"[NULL,NULL,NULL]",1
+1317,ouh doucement avec les pieds . [media],"[NULL,NULL,NULL]",2
+1318,boum .,"[NULL,NULL,NULL]",1
+1318,boum .,"[NULL,NULL,NULL]",2
+1319,0. .,"[NULL,NULL,NULL]",1
+1319,0. .,"[NULL,NULL,NULL]",2
+1320,doucement Théophile . [media],"[NULL,NULL,NULL]",1
+1320,doucement Théophile . [media],"[NULL,NULL,NULL]",2
+1321,allez tout doux tout doux tout doux attends on enlève ça petite pause .,"[NULL,NULL,NULL]",1
+1321,allez tout doux tout doux tout doux attends on enlève ça petite pause .,"[NULL,NULL,NULL]",2
+1322,0. .,"[NULL,NULL,NULL]",1
+1322,0. .,"[NULL,NULL,NULL]",2
+1323,wouha c'est bon . [media],"[NULL,NULL,NULL]",1
+1323,wouha c'est bon . [media],"[NULL,NULL,NULL]",2
+1324,yyy .,"[NULL,NULL,NULL]",1
+1324,yyy .,"[NULL,NULL,NULL]",2
+1325,coquin .,"[NULL,NULL,NULL]",1
+1325,coquin .,"[NULL,NULL,NULL]",2
+1326,yyy . [media],"[NULL,NULL,NULL]",1
+1326,yyy . [media],"[NULL,NULL,NULL]",2
+1327,ouais on va le chercher attends .,"[NULL,NULL,NULL]",1
+1327,ouais on va le chercher attends .,"[NULL,NULL,NULL]",2
+1328,on enlève et on va le chercher .,"[NULL,NULL,NULL]",1
+1328,on enlève et on va le chercher .,"[NULL,NULL,NULL]",2
+1329,tu peux l'emmener dans le bain . [media],"[NULL,NULL,NULL]",1
+1329,tu peux l'emmener dans le bain . [media],"[NULL,NULL,NULL]",2
+1330,xxx . [media],"[NULL,NULL,NULL]",1
+1330,xxx . [media],"[NULL,NULL,NULL]",2
+1331,yyy .,"[NULL,NULL,NULL]",1
+1331,yyy .,"[NULL,NULL,NULL]",2
+1332,ouais . [media],"[NULL,NULL,NULL]",1
+1332,ouais . [media],"[NULL,NULL,NULL]",2
+1333,yyy .,"[NULL,NULL,NULL]",1
+1333,yyy .,"[NULL,NULL,NULL]",2
+1334,0. !,"[NULL,NULL,NULL]",1
+1334,0. !,"[NULL,NULL,NULL]",2
+1335,0. . [media],"[NULL,NULL,NULL]",1
+1335,0. . [media],"[NULL,NULL,NULL]",2
+1336,0. .,"[NULL,NULL,NULL]",1
+1336,0. .,"[NULL,NULL,NULL]",2
+1337,yyy .,"[NULL,NULL,NULL]",1
+1337,yyy .,"[NULL,NULL,NULL]",2
+1338,ouais il est là !,"[NULL,NULL,NULL]",1
+1338,ouais il est là !,"[NULL,NULL,NULL]",2
+1339,vas_y t'y vas ? [media],"[NULL,NULL,NULL]",1
+1339,vas_y t'y vas ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1340,hop .,"[NULL,NULL,NULL]",1
+1340,hop .,"[NULL,NULL,NULL]",2
+1341,yyy .,"[NULL,NULL,NULL]",1
+1341,yyy .,"[NULL,NULL,NULL]",2
+1342,ouais attention de ne pas faire pipi là . [media],"[NULL,NULL,NULL]",1
+1342,ouais attention de ne pas faire pipi là . [media],"[NULL,NULL,NULL]",2
+1343,ah .,"[NULL,NULL,NULL]",1
+1343,ah .,"[NULL,NULL,NULL]",2
+1344,yyy .,"[NULL,NULL,NULL]",1
+1344,yyy .,"[NULL,NULL,NULL]",2
+1345,oh .,"[NULL,NULL,NULL]",1
+1345,oh .,"[NULL,NULL,NULL]",2
+1346,yyy .,"[NULL,NULL,NULL]",1
+1346,yyy .,"[NULL,NULL,NULL]",2
+1347,tiens on met le tapis ? [media],"[NULL,NULL,NULL]",1
+1347,tiens on met le tapis ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1348,tu te recules recule toi deux secondes .,"[NULL,NULL,NULL]",1
+1348,tu te recules recule toi deux secondes .,"[NULL,NULL,NULL]",2
+1349,tiens marche dessus . [media],"[NULL,NULL,NULL]",1
+1349,tiens marche dessus . [media],"[NULL,NULL,NULL]",2
+1350,voilà et après là très bien . [media],"[NULL,NULL,NULL]",1
+1350,voilà et après là très bien . [media],"[NULL,NULL,NULL]",2
+1351,oh pardon .,"[NULL,NULL,NULL]",1
+1351,oh pardon .,"[NULL,NULL,NULL]",2
+1352,pardon .,"[NULL,NULL,NULL]",1
+1352,pardon .,"[NULL,NULL,NULL]",2
+1353,yyy .,"[NULL,NULL,NULL]",1
+1353,yyy .,"[NULL,NULL,NULL]",2
+1354,tiens on va mettre ça là . [media],"[NULL,NULL,NULL]",1
+1354,tiens on va mettre ça là . [media],"[NULL,NULL,NULL]",2
+1355,0. .,"[NULL,NULL,NULL]",1
+1355,0. .,"[NULL,NULL,NULL]",2
+1356,tiens tu le mets . [media],"[NULL,NULL,NULL]",1
+1356,tiens tu le mets . [media],"[NULL,NULL,NULL]",2
+1357,attends .,"[NULL,NULL,NULL]",1
+1357,attends .,"[NULL,NULL,NULL]",2
+1358,0. .,"[NULL,NULL,NULL]",1
+1358,0. .,"[NULL,NULL,NULL]",2
+1359,très bien . [media],"[NULL,NULL,NULL]",1
+1359,très bien . [media],"[NULL,NULL,NULL]",2
+1360,super merci Théophile . [media],"[NULL,NULL,NULL]",1
+1360,super merci Théophile . [media],"[NULL,NULL,NULL]",2
+1361,on va essayer de ne pas trop se mouiller les ch parce qu'on les a lavés hier . [media],"[NULL,NULL,NULL]",1
+1361,on va essayer de ne pas trop se mouiller les ch parce qu'on les a lavés hier . [media],"[NULL,NULL,NULL]",2
+1362,yyy .,"[NULL,NULL,NULL]",1
+1362,yyy .,"[NULL,NULL,NULL]",2
+1363,bah c'est un peu frais c'est un peu frais .,"[NULL,NULL,NULL]",1
+1363,bah c'est un peu frais c'est un peu frais .,"[NULL,NULL,NULL]",2
+1364,ça_y_est c'est bon main . [media],"[NULL,NULL,NULL]",1
+1364,ça_y_est c'est bon main . [media],"[NULL,NULL,NULL]",2
+1365,yyy .,"[NULL,NULL,NULL]",1
+1365,yyy .,"[NULL,NULL,NULL]",2
+1366,oh pardon \<None\> .,"[NULL,NULL,NULL]",1
+1366,oh pardon \<None\> .,"[NULL,NULL,NULL]",2
+1367,tiens c'est chaud mai regarde ça_y_est . [media],"[NULL,NULL,NULL]",1
+1367,tiens c'est chaud mai regarde ça_y_est . [media],"[NULL,NULL,NULL]",2
+1368,ça_y_est il fait pas froid .,"[NULL,NULL,NULL]",1
+1368,ça_y_est il fait pas froid .,"[NULL,NULL,NULL]",2
+1369,yyy .,"[NULL,NULL,NULL]",1
+1369,yyy .,"[NULL,NULL,NULL]",2
+1370,ah tu veux le ballon ! [media],"[NULL,NULL,NULL]",1
+1370,ah tu veux le ballon ! [media],"[NULL,NULL,NULL]",2
+1371,ah ah tiens tu le veux ? [media],"[NULL,NULL,NULL]",1
+1371,ah ah tiens tu le veux ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1372,0. ah ah . [media],"[NULL,NULL,NULL]",1
+1372,0. ah ah . [media],"[NULL,NULL,NULL]",2
+1373,hum .,"[NULL,NULL,NULL]",1
+1373,hum .,"[NULL,NULL,NULL]",2
+1374,hop .,"[NULL,NULL,NULL]",1
+1374,hop .,"[NULL,NULL,NULL]",2
+1375,yyy . [media],"[NULL,NULL,NULL]",1
+1375,yyy . [media],"[NULL,NULL,NULL]",2
+1376,c'est un peu chaud là .,"[NULL,NULL,NULL]",1
+1376,c'est un peu chaud là .,"[NULL,NULL,NULL]",2
+1377,ah tu le laves . [media],"[NULL,NULL,NULL]",1
+1377,ah tu le laves . [media],"[NULL,NULL,NULL]",2
+1378,tu laves le ballon ! [media],"[NULL,NULL,NULL]",1
+1378,tu laves le ballon ! [media],"[NULL,NULL,NULL]",2
+1379,tu le savonnes .,"[NULL,NULL,NULL]",1
+1379,tu le savonnes .,"[NULL,NULL,NULL]",2
+1380,oh il est tout propre .,"[NULL,NULL,NULL]",1
+1380,oh il est tout propre .,"[NULL,NULL,NULL]",2
+1381,on le rince tu rinces le ballon .,"[NULL,NULL,NULL]",1
+1381,on le rince tu rinces le ballon .,"[NULL,NULL,NULL]",2
+1382,tiens tu mets de l'eau vas_y . [media],"[NULL,NULL,NULL]",1
+1382,tiens tu mets de l'eau vas_y . [media],"[NULL,NULL,NULL]",2
+1383,0. .,"[NULL,NULL,NULL]",1
+1383,0. .,"[NULL,NULL,NULL]",2
+1384,très bien !,"[NULL,NULL,NULL]",1
+1384,très bien !,"[NULL,NULL,NULL]",2
+1385,tout propre le ballon . [media],"[NULL,NULL,NULL]",1
+1385,tout propre le ballon . [media],"[NULL,NULL,NULL]",2
+1386,l eau .,"[NULL,NULL,NULL]",1
+1386,l eau .,"[NULL,NULL,NULL]",2
+1387,main toi main on lave Théophile .,"[NULL,NULL,NULL]",1
+1387,main toi main on lave Théophile .,"[NULL,NULL,NULL]",2
+1388,non . [media],"[NULL,NULL,NULL]",1
+1388,non . [media],"[NULL,NULL,NULL]",2
+1389,attention la tête bou .,"[NULL,NULL,NULL]",1
+1389,attention la tête bou .,"[NULL,NULL,NULL]",2
+1390,yyy .,"[NULL,NULL,NULL]",1
+1390,yyy .,"[NULL,NULL,NULL]",2
+1391,0. . [media],"[NULL,NULL,NULL]",1
+1391,0. . [media],"[NULL,NULL,NULL]",2
+1392,xxx me voilà . [media],"[NULL,NULL,NULL]",1
+1392,xxx me voilà . [media],"[NULL,NULL,NULL]",2
+1393,tu mets de l'eau sur toi Théophile tu te rinces ?,"[NULL,NULL,NULL]",1
+1393,tu mets de l'eau sur toi Théophile tu te rinces ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1394,voilà partout partout . [media],"[NULL,NULL,NULL]",1
+1394,voilà partout partout . [media],"[NULL,NULL,NULL]",2
+1395,ah attends j'en ai besoin .,"[NULL,NULL,NULL]",1
+1395,ah attends j'en ai besoin .,"[NULL,NULL,NULL]",2
+1396,ouh la c'est fort là .,"[NULL,NULL,NULL]",1
+1396,ouh la c'est fort là .,"[NULL,NULL,NULL]",2
+1397,tu rallumes tu rallumes ? [media],"[NULL,NULL,NULL]",1
+1397,tu rallumes tu rallumes ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1398,ah .,"[NULL,NULL,NULL]",1
+1398,ah .,"[NULL,NULL,NULL]",2
+1399,xxx .,"[NULL,NULL,NULL]",1
+1399,xxx .,"[NULL,NULL,NULL]",2
+1400,le ballon oui . [media],"[NULL,NULL,NULL]",1
+1400,le ballon oui . [media],"[NULL,NULL,NULL]",2
+1401,ouais . [media],"[NULL,NULL,NULL]",1
+1401,ouais . [media],"[NULL,NULL,NULL]",2
+1402,yyy .,"[NULL,NULL,NULL]",1
+1402,yyy .,"[NULL,NULL,NULL]",2
+1403,doucement ouais très bien . [media],"[NULL,NULL,NULL]",1
+1403,doucement ouais très bien . [media],"[NULL,NULL,NULL]",2
+1404,attention les yeux . [media],"[NULL,NULL,NULL]",1
+1404,attention les yeux . [media],"[NULL,NULL,NULL]",2
+1405,hum yyy .,"[NULL,NULL,NULL]",1
+1405,hum yyy .,"[NULL,NULL,NULL]",2
+1406,on rallume tu rallumes Théophile ? [media],"[NULL,NULL,NULL]",1
+1406,on rallume tu rallumes Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1407,attends deux secondes d'abord toi .,"[NULL,NULL,NULL]",1
+1407,attends deux secondes d'abord toi .,"[NULL,NULL,NULL]",2
+1408,non .,"[NULL,NULL,NULL]",1
+1408,non .,"[NULL,NULL,NULL]",2
+1409,bah oui mais le ballon . [media],"[NULL,NULL,NULL]",1
+1409,bah oui mais le ballon . [media],"[NULL,NULL,NULL]",2
+1410,c'est bien oh il est propre hein .,"[NULL,NULL,NULL]",1
+1410,c'est bien oh il est propre hein .,"[NULL,NULL,NULL]",2
+1411,alors main attention ferme les yeux cascade . [media],"[NULL,NULL,NULL]",1
+1411,alors main attention ferme les yeux cascade . [media],"[NULL,NULL,NULL]",2
+1412,attends cascade . [media],"[NULL,NULL,NULL]",1
+1412,attends cascade . [media],"[NULL,NULL,NULL]",2
+1413,ouh yyy . [media],"[NULL,NULL,NULL]",1
+1413,ouh yyy . [media],"[NULL,NULL,NULL]",2
+1414,xxx sur les yeux .,"[NULL,NULL,NULL]",1
+1414,xxx sur les yeux .,"[NULL,NULL,NULL]",2
+1415,attends Théophile .,"[NULL,NULL,NULL]",1
+1415,attends Théophile .,"[NULL,NULL,NULL]",2
+1416,non non .,"[NULL,NULL,NULL]",1
+1416,non non .,"[NULL,NULL,NULL]",2
+1417,si si . [media],"[NULL,NULL,NULL]",1
+1417,si si . [media],"[NULL,NULL,NULL]",2
+1418,voilà ça_y_est . [media],"[NULL,NULL,NULL]",1
+1418,voilà ça_y_est . [media],"[NULL,NULL,NULL]",2
+1419,0. .,"[NULL,NULL,NULL]",1
+1419,0. .,"[NULL,NULL,NULL]",2
+1420,tu me prêtes ? [media],"[NULL,NULL,NULL]",1
+1420,tu me prêtes ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1421,xxx .,"[NULL,NULL,NULL]",1
+1421,xxx .,"[NULL,NULL,NULL]",2
+1422,à toi tiens tiens tiens tiens je te le rends . [media],"[NULL,NULL,NULL]",1
+1422,à toi tiens tiens tiens tiens je te le rends . [media],"[NULL,NULL,NULL]",2
+1423,voilà tu vois . [media],"[NULL,NULL,NULL]",1
+1423,voilà tu vois . [media],"[NULL,NULL,NULL]",2
+1424,merci .,"[NULL,NULL,NULL]",1
+1424,merci .,"[NULL,NULL,NULL]",2
+1425,ah ah boum boum il est là .,"[NULL,NULL,NULL]",1
+1425,ah ah boum boum il est là .,"[NULL,NULL,NULL]",2
+1426,tiens oh oui . [media],"[NULL,NULL,NULL]",1
+1426,tiens oh oui . [media],"[NULL,NULL,NULL]",2
+1427,tiens Théophile . [media],"[NULL,NULL,NULL]",1
+1427,tiens Théophile . [media],"[NULL,NULL,NULL]",2
+1428,on rince ?,"[NULL,NULL,NULL]",1
+1428,on rince ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1429,non . [media],"[NULL,NULL,NULL]",1
+1429,non . [media],"[NULL,NULL,NULL]",2
+1430,yyy .,"[NULL,NULL,NULL]",1
+1430,yyy .,"[NULL,NULL,NULL]",2
+1431,wouha ! [media],"[NULL,NULL,NULL]",1
+1431,wouha ! [media],"[NULL,NULL,NULL]",2
+1432,yyy . [media],"[NULL,NULL,NULL]",1
+1432,yyy . [media],"[NULL,NULL,NULL]",2
+1433,bah dis_donc il est propre hein là . [media],"[NULL,NULL,NULL]",1
+1433,bah dis_donc il est propre hein là . [media],"[NULL,NULL,NULL]",2
+1434,hum .,"[NULL,NULL,NULL]",1
+1434,hum .,"[NULL,NULL,NULL]",2
+1435,cascade sur le ballon ! [media],"[NULL,NULL,NULL]",1
+1435,cascade sur le ballon ! [media],"[NULL,NULL,NULL]",2
+1436,c'est qui dessus qui c'est qui c'est ah c'est oui oui . [media],"[NULL,NULL,NULL]",1
+1436,c'est qui dessus qui c'est qui c'est ah c'est oui oui . [media],"[NULL,NULL,NULL]",2
+1437,t'as vu c'est oui oui .,"[NULL,NULL,NULL]",1
+1437,t'as vu c'est oui oui .,"[NULL,NULL,NULL]",2
+1438,ah doudou .,"[NULL,NULL,NULL]",1
+1438,ah doudou .,"[NULL,NULL,NULL]",2
+1439,ah oui doudou ! [media],"[NULL,NULL,NULL]",1
+1439,ah oui doudou ! [media],"[NULL,NULL,NULL]",2
+1440,yyy .,"[NULL,NULL,NULL]",1
+1440,yyy .,"[NULL,NULL,NULL]",2
+1441,il y a les bulles . [media],"[NULL,NULL,NULL]",1
+1441,il y a les bulles . [media],"[NULL,NULL,NULL]",2
+1442,ah .,"[NULL,NULL,NULL]",1
+1442,ah .,"[NULL,NULL,NULL]",2
+1443,pas trop fort hein . [media],"[NULL,NULL,NULL]",1
+1443,pas trop fort hein . [media],"[NULL,NULL,NULL]",2
+1444,ouais !,"[NULL,NULL,NULL]",1
+1444,ouais !,"[NULL,NULL,NULL]",2
+1445,yyy . [media],"[NULL,NULL,NULL]",1
+1445,yyy . [media],"[NULL,NULL,NULL]",2
+1446,tiens .,"[NULL,NULL,NULL]",1
+1446,tiens .,"[NULL,NULL,NULL]",2
+1447,yyy . [media],"[NULL,NULL,NULL]",1
+1447,yyy . [media],"[NULL,NULL,NULL]",2
+1448,ah beurk . [media],"[NULL,NULL,NULL]",1
+1448,ah beurk . [media],"[NULL,NULL,NULL]",2
+1449,yyy . [media],"[NULL,NULL,NULL]",1
+1449,yyy . [media],"[NULL,NULL,NULL]",2
+1450,yyy . [media],"[NULL,NULL,NULL]",1
+1450,yyy . [media],"[NULL,NULL,NULL]",2
+1451,xxx . [media],"[NULL,NULL,NULL]",1
+1451,xxx . [media],"[NULL,NULL,NULL]",2
+1452,yyy . [media],"[NULL,NULL,NULL]",1
+1452,yyy . [media],"[NULL,NULL,NULL]",2
+1453,yyy . [media],"[NULL,NULL,NULL]",1
+1453,yyy . [media],"[NULL,NULL,NULL]",2
+1454,yyy . [media],"[NULL,NULL,NULL]",1
+1454,yyy . [media],"[NULL,NULL,NULL]",2
+1455,yyy .,"[NULL,NULL,NULL]",1
+1455,yyy .,"[NULL,NULL,NULL]",2
+1456,petit arrosoir .,"[NULL,NULL,NULL]",1
+1456,petit arrosoir .,"[NULL,NULL,NULL]",2
+1457,yyy .,"[NULL,NULL,NULL]",1
+1457,yyy .,"[NULL,NULL,NULL]",2
+1458,xxx . [media],"[NULL,NULL,NULL]",1
+1458,xxx . [media],"[NULL,NULL,NULL]",2
+1459,0. .,"[NULL,NULL,NULL]",1
+1459,0. .,"[NULL,NULL,NULL]",2
+1460,il y a ton dauphin là si tu veux . [media],"[NULL,NULL,NULL]",1
+1460,il y a ton dauphin là si tu veux . [media],"[NULL,NULL,NULL]",2

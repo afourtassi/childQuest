@@ -1,23 +1,5 @@
 "0","knitr::opts_chunk$set(echo = TRUE)"
 "0","library(dplyr)"
-"2","Registered S3 method overwritten by 'dplyr':
-  method           from
-  print.rowwise_df     
-"
-"2","
-Attaching package: ‘dplyr’
-
-"
-"2","The following objects are masked from ‘package:stats’:
-
-    filter, lag
-
-"
-"2","The following objects are masked from ‘package:base’:
-
-    intersect, setdiff, setequal, union
-
-"
 "0","library(tidyr)"
 "0","library(stringr)"
 "0","library(boot)"
@@ -29,133 +11,16 @@ Attaching package: ‘dplyr’
 "0","library(wordbankr)"
 "0","#library(rwebppl)"
 "0","library(lme4)"
-"2","Loading required package: Matrix
-"
-"2","
-Attaching package: ‘Matrix’
-
-"
-"2","The following objects are masked from ‘package:tidyr’:
-
-    expand, pack, unpack
-
-"
 "0","library(Hmisc)"
-"2","Loading required package: lattice
-"
-"2","
-Attaching package: ‘lattice’
-
-"
-"2","The following object is masked from ‘package:boot’:
-
-    melanoma
-
-"
-"2","Loading required package: survival
-"
-"2","
-Attaching package: ‘survival’
-
-"
-"2","The following object is masked from ‘package:boot’:
-
-    aml
-
-"
-"2","Loading required package: Formula
-"
-"2","Registered S3 methods overwritten by 'htmltools':
-  method               from         
-  print.html           tools:rstudio
-  print.shiny.tag      tools:rstudio
-  print.shiny.tag.list tools:rstudio
-"
-"2","Registered S3 method overwritten by 'htmlwidgets':
-  method           from         
-  print.htmlwidget tools:rstudio
-"
-"2","Registered S3 method overwritten by 'data.table':
-  method           from
-  print.data.table     
-"
-"2","
-Attaching package: ‘Hmisc’
-
-"
-"2","The following objects are masked from ‘package:dplyr’:
-
-    src, summarize
-
-"
-"2","The following objects are masked from ‘package:base’:
-
-    format.pval, units
-
-"
 "0","library(qdapRegex)"
-"2","
-Attaching package: ‘qdapRegex’
-
-"
-"2","The following object is masked from ‘package:ggplot2’:
-
-    %+%
-
-"
-"2","The following object is masked from ‘package:dplyr’:
-
-    explain
-
-"
 "0","library(HDInterval)"
 "0","library(lmerTest)"
-"2","
-Attaching package: ‘lmerTest’
-
-"
-"2","The following object is masked from ‘package:lme4’:
-
-    lmer
-
-"
-"2","The following object is masked from ‘package:stats’:
-
-    step
-
-"
 "0","library(childesr)"
 "0","library(brms)"
-"2","Loading required package: Rcpp
-"
-"2","Loading 'brms' package (version 2.13.3). Useful instructions
-can be found by typing help('brms'). A more detailed introduction
-to the package is available through vignette('brms_overview').
-"
-"2","
-Attaching package: ‘brms’
-
-"
-"2","The following object is masked from ‘package:survival’:
-
-    kidney
-
-"
-"2","The following object is masked from ‘package:lme4’:
-
-    ngrps
-
-"
-"2","The following object is masked from ‘package:stats’:
-
-    ar
-
-"
 "0","library(stringr)"
 "0",""
 "0","library(xlsx)"
 "0","library(irr)"
-"2","Loading required package: lpSolve
-"
+"0",""
 "0","library(readr)"
 "0",""
