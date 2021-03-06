@@ -1,0 +1,2929 @@
+ID,Speaker,utterance,annotation,list-ID
+6,OBS,alors Théophile a deux ans . un mois . [media],"[NULL,NULL,NULL]",1
+6,OBS,alors Théophile a deux ans . un mois . [media],"[NULL,NULL,NULL]",2
+7,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+7,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+8,CHI,ah ! [media],"[NULL,NULL,NULL]",1
+8,CHI,ah ! [media],"[NULL,NULL,NULL]",2
+9,OBS,eh ouais ! [media],"[NULL,NULL,NULL]",1
+9,OBS,eh ouais ! [media],"[NULL,NULL,NULL]",2
+10,MOT,pas tout_à_fait un mois mais c'est vrai presque hein ça passe \<None\> vite hein \<None\> ! [media],"[NULL,NULL,NULL]",1
+10,MOT,pas tout_à_fait un mois mais c'est vrai presque hein ça passe \<None\> vite hein \<None\> ! [media],"[NULL,NULL,NULL]",2
+11,OBS,presque \<None\> .,"[NULL,NULL,NULL]",1
+11,OBS,presque \<None\> .,"[NULL,NULL,NULL]",2
+12,CHI,yyy !,"[NULL,NULL,NULL]",1
+12,CHI,yyy !,"[NULL,NULL,NULL]",2
+13,MOT,c'est ton harmonica ! [media],"[NULL,NULL,NULL]",1
+13,MOT,c'est ton harmonica ! [media],"[NULL,NULL,NULL]",2
+14,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+14,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+15,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+15,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+16,FAT,tu joues Théophile à ça . [media],"[NULL,NULL,NULL]",1
+16,FAT,tu joues Théophile à ça . [media],"[NULL,NULL,NULL]",2
+17,FAT,tu fais une démo . [media],"[NULL,NULL,NULL]",1
+17,FAT,tu fais une démo . [media],"[NULL,NULL,NULL]",2
+18,CHI,0. . [media],"[NULL,NULL,NULL]",1
+18,CHI,0. . [media],"[NULL,NULL,NULL]",2
+19,FAT,0. . [media],"[NULL,NULL,NULL]",1
+19,FAT,0. . [media],"[NULL,NULL,NULL]",2
+20,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+20,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+21,FAT,allez un p morceau . [media],"[NULL,NULL,NULL]",1
+21,FAT,allez un p morceau . [media],"[NULL,NULL,NULL]",2
+22,FAT,. t te rappelles ? [media],"[NULL,NULL,NULL]",1
+22,FAT,. t te rappelles ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+23,CHI,0. .,"[NULL,NULL,NULL]",1
+23,CHI,0. .,"[NULL,NULL,NULL]",2
+24,FAT,non l'autre côté \<None\> . l'autre \<self interruption\> [media],"[NULL,NULL,NULL]",1
+24,FAT,non l'autre côté \<None\> . l'autre \<self interruption\> [media],"[NULL,NULL,NULL]",2
+25,MOT,l'autre côté \<None\> .,"[NULL,NULL,NULL]",1
+25,MOT,l'autre côté \<None\> .,"[NULL,NULL,NULL]",2
+26,MOT,tourne tourne ! [media],"[NULL,NULL,NULL]",1
+26,MOT,tourne tourne ! [media],"[NULL,NULL,NULL]",2
+27,MOT,vas_y vas_y ! [media],"[NULL,NULL,NULL]",1
+27,MOT,vas_y vas_y ! [media],"[NULL,NULL,NULL]",2
+28,FAT,[quote] xxx . là .,"[NULL,NULL,NULL]",1
+28,FAT,[quote] xxx . là .,"[NULL,NULL,NULL]",2
+29,MOT,très bien . [media],"[NULL,NULL,NULL]",1
+29,MOT,très bien . [media],"[NULL,NULL,NULL]",2
+30,CHI,0. . [media],"[NULL,NULL,NULL]",1
+30,CHI,0. . [media],"[NULL,NULL,NULL]",2
+31,MOT,ouais ! [media],"[NULL,NULL,NULL]",1
+31,MOT,ouais ! [media],"[NULL,NULL,NULL]",2
+32,MOT,super \<None\> ! [media],"[NULL,NULL,NULL]",1
+32,MOT,super \<None\> ! [media],"[NULL,NULL,NULL]",2
+33,FAT,ouais \<None\> !,"[NULL,NULL,NULL]",1
+33,FAT,ouais \<None\> !,"[NULL,NULL,NULL]",2
+34,MOT,encore ! [media],"[NULL,NULL,NULL]",1
+34,MOT,encore ! [media],"[NULL,NULL,NULL]",2
+35,CHI,dehors ! [media],"[NULL,NULL,NULL]",1
+35,CHI,dehors ! [media],"[NULL,NULL,NULL]",2
+36,MOT,wouah ! [media],"[NULL,NULL,NULL]",1
+36,MOT,wouah ! [media],"[NULL,NULL,NULL]",2
+37,CHI,0. .,"[NULL,NULL,NULL]",1
+37,CHI,0. .,"[NULL,NULL,NULL]",2
+38,CHI,mes clés . [media],"[NULL,NULL,NULL]",1
+38,CHI,mes clés . [media],"[NULL,NULL,NULL]",2
+39,CHI,ah oh mes clés . [media],"[NULL,NULL,NULL]",1
+39,CHI,ah oh mes clés . [media],"[NULL,NULL,NULL]",2
+40,CHI,mes clés ! [media],"[NULL,NULL,NULL]",1
+40,CHI,mes clés ! [media],"[NULL,NULL,NULL]",2
+41,CHI,mes clés . [media],"[NULL,NULL,NULL]",1
+41,CHI,mes clés . [media],"[NULL,NULL,NULL]",2
+42,CHI,et \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+42,CHI,et \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+43,FAT,tu en prends soin \<None\> hein !,"[NULL,NULL,NULL]",1
+43,FAT,tu en prends soin \<None\> hein !,"[NULL,NULL,NULL]",2
+44,FAT,parce que ... [media],"[NULL,NULL,NULL]",1
+44,FAT,parce que ... [media],"[NULL,NULL,NULL]",2
+45,FAT,[quote] il y a tout là-dessus . [media],"[NULL,NULL,NULL]",1
+45,FAT,[quote] il y a tout là-dessus . [media],"[NULL,NULL,NULL]",2
+46,MOT,elles ont l'avantage elles sont tellement grosses qu'elles peuvent pas tomber là \<None\> . [media],"[NULL,NULL,NULL]",1
+46,MOT,elles ont l'avantage elles sont tellement grosses qu'elles peuvent pas tomber là \<None\> . [media],"[NULL,NULL,NULL]",2
+47,CHI,0. .,"[NULL,NULL,NULL]",1
+47,CHI,0. .,"[NULL,NULL,NULL]",2
+48,FAT,tu en prends soin hein \<None\> Théophile . [media],"[NULL,NULL,NULL]",1
+48,FAT,tu en prends soin hein \<None\> Théophile . [media],"[NULL,NULL,NULL]",2
+49,CHI,mes clés .,"[NULL,NULL,NULL]",1
+49,CHI,mes clés .,"[NULL,NULL,NULL]",2
+50,CHI,0. . [media],"[NULL,NULL,NULL]",1
+50,CHI,0. . [media],"[NULL,NULL,NULL]",2
+51,MOT,il a encore les coups de pompe des deux nuits là .,"[NULL,NULL,NULL]",1
+51,MOT,il a encore les coups de pompe des deux nuits là .,"[NULL,NULL,NULL]",2
+52,OBS,hum \<None\> . [media],"[NULL,NULL,NULL]",1
+52,OBS,hum \<None\> . [media],"[NULL,NULL,NULL]",2
+53,MOT,il était tellement fou il s'est couché à \<None\> \<interruption\> [media],"[NULL,NULL,NULL]",1
+53,MOT,il était tellement fou il s'est couché à \<None\> \<interruption\> [media],"[NULL,NULL,NULL]",2
+54,FAT,il était contente \<None\> de ...,"[NULL,NULL,NULL]",1
+54,FAT,il était contente \<None\> de ...,"[NULL,NULL,NULL]",2
+55,CHI,0. .,"[NULL,NULL,NULL]",1
+55,CHI,0. .,"[NULL,NULL,NULL]",2
+56,MOT,bah ça s'est bien passé \<None\> . [media],"[NULL,NULL,NULL]",1
+56,MOT,bah ça s'est bien passé \<None\> . [media],"[NULL,NULL,NULL]",2
+57,FAT,xxx \<None\> .,"[NULL,NULL,NULL]",1
+57,FAT,xxx \<None\> .,"[NULL,NULL,NULL]",2
+58,MOT,il a beaucoup appelé maman mais ... [media],"[NULL,NULL,NULL]",1
+58,MOT,il a beaucoup appelé maman mais ... [media],"[NULL,NULL,NULL]",2
+59,FAT,ouais . [media],"[NULL,NULL,NULL]",1
+59,FAT,ouais . [media],"[NULL,NULL,NULL]",2
+60,CHI,0. . [media],"[NULL,NULL,NULL]",1
+60,CHI,0. . [media],"[NULL,NULL,NULL]",2
+61,CHI,0. . [media],"[NULL,NULL,NULL]",1
+61,CHI,0. . [media],"[NULL,NULL,NULL]",2
+62,MOT,ah non \<None\> non il ...,"[NULL,NULL,NULL]",1
+62,MOT,ah non \<None\> non il ...,"[NULL,NULL,NULL]",2
+63,MOT,d'ailleurs il a pas voulu dormir dans son lit \<None\> ! [media],"[NULL,NULL,NULL]",1
+63,MOT,d'ailleurs il a pas voulu dormir dans son lit \<None\> ! [media],"[NULL,NULL,NULL]",2
+64,CHI,oh !,"[NULL,NULL,NULL]",1
+64,CHI,oh !,"[NULL,NULL,NULL]",2
+65,FAT,ah ouais ? [media],"[NULL,NULL,NULL]",1
+65,FAT,ah ouais ? [media],"[NULL,NULL,NULL]",2
+66,MOT,il a dormi euh sur xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+66,MOT,il a dormi euh sur xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+67,CHI,\<None\> \<None\> \<None\> .,"[NULL,NULL,NULL]",1
+67,CHI,\<None\> \<None\> \<None\> .,"[NULL,NULL,NULL]",2
+68,CHI,yyy non ! [media],"[NULL,NULL,NULL]",1
+68,CHI,yyy non ! [media],"[NULL,NULL,NULL]",2
+69,CHI,yyy ! [media],"[NULL,NULL,NULL]",1
+69,CHI,yyy ! [media],"[NULL,NULL,NULL]",2
+70,CHI,xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+70,CHI,xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+71,OBS,tu veux \<None\> aller où ?,"[NULL,NULL,NULL]",1
+71,OBS,tu veux \<None\> aller où ?,"[NULL,NULL,NULL]",2
+72,CHI,0. . [media],"[NULL,NULL,NULL]",1
+72,CHI,0. . [media],"[NULL,NULL,NULL]",2
+73,MOT,où tu vas Théophile ?,"[NULL,NULL,NULL]",1
+73,MOT,où tu vas Théophile ?,"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+74,CHI,0. . [media],"[NULL,NULL,NULL]",1
+74,CHI,0. . [media],"[CHI-Response:No-response,NULL,NULL]",2
+75,MOT,coucou !,"[NULL,NULL,NULL]",1
+75,MOT,coucou !,"[PAR-Follow-up:other,NULL,NULL]",2
+76,MOT,coucou ! [media],"[NULL,NULL,NULL]",1
+76,MOT,coucou ! [media],"[NULL,NULL,NULL]",2
+77,CHI,0. .,"[NULL,NULL,NULL]",1
+77,CHI,0. .,"[NULL,NULL,NULL]",2
+78,MOT,ah ah ah ! [media],"[NULL,NULL,NULL]",1
+78,MOT,ah ah ah ! [media],"[NULL,NULL,NULL]",2
+79,MOT,il est où Théophile ? [media],"[NULL,NULL,NULL]",1
+79,MOT,il est où Théophile ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+80,CHI,non . [media],"[NULL,NULL,NULL]",1
+80,CHI,non . [media],"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+81,CHI,xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+81,CHI,xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+82,MOT,coucou \<None\> !,"[NULL,NULL,NULL]",1
+82,MOT,coucou \<None\> !,"[PAR-Follow-up:other,NULL,NULL]",2
+83,CHI,non . [media],"[NULL,NULL,NULL]",1
+83,CHI,non . [media],"[NULL,NULL,NULL]",2
+84,MOT,xxx ! [media],"[NULL,NULL,NULL]",1
+84,MOT,xxx ! [media],"[NULL,NULL,NULL]",2
+85,CHI,0. .,"[NULL,NULL,NULL]",1
+85,CHI,0. .,"[NULL,NULL,NULL]",2
+86,MOT,xxx cachette ! [media],"[NULL,NULL,NULL]",1
+86,MOT,xxx cachette ! [media],"[NULL,NULL,NULL]",2
+87,CHI,non . [media],"[NULL,NULL,NULL]",1
+87,CHI,non . [media],"[NULL,NULL,NULL]",2
+88,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+88,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+89,MOT,avec le rosier hein ! [media],"[NULL,NULL,NULL]",1
+89,MOT,avec le rosier hein ! [media],"[NULL,NULL,NULL]",2
+90,MOT,oui je t'ai jamais montré ça Théophile . [media],"[NULL,NULL,NULL]",1
+90,MOT,oui je t'ai jamais montré ça Théophile . [media],"[NULL,NULL,NULL]",2
+91,CHI,0. .,"[NULL,NULL,NULL]",1
+91,CHI,0. .,"[NULL,NULL,NULL]",2
+92,MOT,tu fais juste attention avec le . Théophile ! [media],"[NULL,NULL,NULL]",1
+92,MOT,tu fais juste attention avec le . Théophile ! [media],"[NULL,NULL,NULL]",2
+93,MOT,regarde . [media],"[NULL,NULL,NULL]",1
+93,MOT,regarde . [media],"[NULL,NULL,NULL]",2
+94,MOT,Théophile ? [media],"[NULL,NULL,NULL]",1
+94,MOT,Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+95,CHI,0. .,"[NULL,NULL,NULL]",1
+95,CHI,0. .,"[NULL,NULL,NULL]",2
+96,MOT,regarde ! [media],"[NULL,NULL,NULL]",1
+96,MOT,regarde ! [media],"[NULL,NULL,NULL]",2
+97,MOT,fais attention là parce que ça pique ! [media],"[NULL,NULL,NULL]",1
+97,MOT,fais attention là parce que ça pique ! [media],"[NULL,NULL,NULL]",2
+98,MOT,d'accord ? [media],"[NULL,NULL,NULL]",1
+98,MOT,d'accord ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+99,MOT,hein ? [media],"[NULL,NULL,NULL]",1
+99,MOT,hein ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+100,CHI,yyy clé .,"[NULL,NULL,NULL]",1
+100,CHI,yyy clé .,"[NULL,NULL,NULL]",2
+101,MOT,ça ça pique ça . [media],"[NULL,NULL,NULL]",1
+101,MOT,ça ça pique ça . [media],"[NULL,NULL,NULL]",2
+102,MOT,d'accord ? [media],"[NULL,NULL,NULL]",1
+102,MOT,d'accord ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+103,CHI,0. .,"[NULL,NULL,NULL]",1
+103,CHI,0. .,"[NULL,NULL,NULL]",2
+104,MOT,donc tu fais attention hein ! [media],"[NULL,NULL,NULL]",1
+104,MOT,donc tu fais attention hein ! [media],"[NULL,NULL,NULL]",2
+105,MOT,t'approche pas trop . [media],"[NULL,NULL,NULL]",1
+105,MOT,t'approche pas trop . [media],"[NULL,NULL,NULL]",2
+106,MOT,hum ? [media],"[NULL,NULL,NULL]",1
+106,MOT,hum ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+107,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+107,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+108,MOT,oui ? [media],"[NULL,NULL,NULL]",1
+108,MOT,oui ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+109,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+109,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+110,MOT,attention oh la pauvre fleur ! [media],"[NULL,NULL,NULL]",1
+110,MOT,attention oh la pauvre fleur ! [media],"[NULL,NULL,NULL]",2
+111,MOT,boh ! [media],"[NULL,NULL,NULL]",1
+111,MOT,boh ! [media],"[NULL,NULL,NULL]",2
+112,MOT,hum ? [media],"[NULL,NULL,NULL]",1
+112,MOT,hum ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+113,MOT,tiens on la met là . [media],"[NULL,NULL,NULL]",1
+113,MOT,tiens on la met là . [media],"[NULL,NULL,NULL]",2
+114,MOT,regarde . [media],"[NULL,NULL,NULL]",1
+114,MOT,regarde . [media],"[NULL,NULL,NULL]",2
+115,MOT,et voilà ! [media],"[NULL,NULL,NULL]",1
+115,MOT,et voilà ! [media],"[NULL,NULL,NULL]",2
+116,MOT,c'est joli là ! [media],"[NULL,NULL,NULL]",1
+116,MOT,c'est joli là ! [media],"[NULL,NULL,NULL]",2
+117,CHI,0. .,"[NULL,NULL,NULL]",1
+117,CHI,0. .,"[NULL,NULL,NULL]",2
+118,MOT,ouh il commence à pleuvoir ! [media],"[NULL,NULL,NULL]",1
+118,MOT,ouh il commence à pleuvoir ! [media],"[NULL,NULL,NULL]",2
+119,MOT,tu sens la pluie ? [media],"[NULL,NULL,NULL]",1
+119,MOT,tu sens la pluie ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+120,MOT,la pluie Théophile ? [media],"[NULL,NULL,NULL]",1
+120,MOT,la pluie Théophile ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+121,MOT,tu sens la pluie ? [media],"[NULL,NULL,NULL]",1
+121,MOT,tu sens la pluie ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+122,CHI,yyy .,"[NULL,NULL,NULL]",1
+122,CHI,yyy .,"[NULL,NULL,NULL]",2
+123,CHI,la pluie . [media],"[NULL,NULL,NULL]",1
+123,CHI,la pluie . [media],"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+124,MOT,la pluie ! [media],"[NULL,NULL,NULL]",1
+124,MOT,la pluie ! [media],"[PAR-Follow-up:Repeat-answer,NULL,NULL]",2
+125,CHI,0. .,"[NULL,NULL,NULL]",1
+125,CHI,0. .,"[NULL,NULL,NULL]",2
+126,CHI,0. . [media],"[NULL,NULL,NULL]",1
+126,CHI,0. . [media],"[NULL,NULL,NULL]",2
+127,MOT,0. . [media],"[NULL,NULL,NULL]",1
+127,MOT,0. . [media],"[NULL,NULL,NULL]",2
+128,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+128,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+129,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+129,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+130,MOT,on va dans la maison ? [media],"[NULL,NULL,NULL]",1
+130,MOT,on va dans la maison ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+131,CHI,pluie . [media],"[NULL,NULL,NULL]",1
+131,CHI,pluie . [media],"[NULL,NULL,NULL]",2
+132,MOT,eh la pluie oui ! [media],"[NULL,NULL,NULL]",1
+132,MOT,eh la pluie oui ! [media],"[NULL,NULL,NULL]",2
+133,MOT,tu la sens ? [media],"[NULL,NULL,NULL]",1
+133,MOT,tu la sens ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+134,CHI,0. .,"[NULL,NULL,NULL]",1
+134,CHI,0. .,"[NULL,NULL,NULL]",2
+135,MOT,pour la clé . c'est pas terrible . [media],"[NULL,NULL,NULL]",1
+135,MOT,pour la clé . c'est pas terrible . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+136,MOT,hein Théophile on va la \<self interruption\> [media],"[NULL,NULL,NULL]",1
+136,MOT,hein Théophile on va la \<self interruption\> [media],"[NULL,NULL,NULL]",2
+137,CHI,0. .,"[NULL,NULL,NULL]",1
+137,CHI,0. .,"[NULL,NULL,NULL]",2
+138,MOT,ah elle est un peu xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+138,MOT,ah elle est un peu xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+139,CHI,xxx \<None\> .,"[NULL,NULL,NULL]",1
+139,CHI,xxx \<None\> .,"[NULL,NULL,NULL]",2
+140,MOT,elle est un peu loin \<None\> la voiture là . [media],"[NULL,NULL,NULL]",1
+140,MOT,elle est un peu loin \<None\> la voiture là . [media],"[NULL,NULL,NULL]",2
+141,CHI,xxx \<None\> .,"[NULL,NULL,NULL]",1
+141,CHI,xxx \<None\> .,"[NULL,NULL,NULL]",2
+142,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+142,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+143,MOT,eh oui mais elle est pas encore rentrée Carole on va lui demander . pour prêter . [media],"[NULL,NULL,NULL]",1
+143,MOT,eh oui mais elle est pas encore rentrée Carole on va lui demander . pour prêter . [media],"[NULL,NULL,NULL]",2
+144,MOT,si elle est là . [media],"[NULL,NULL,NULL]",1
+144,MOT,si elle est là . [media],"[NULL,NULL,NULL]",2
+145,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+145,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+146,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+146,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+147,MOT,ça c'est \<None\> la selle !,"[NULL,NULL,NULL]",1
+147,MOT,ça c'est \<None\> la selle !,"[NULL,NULL,NULL]",2
+148,CHI,a veux vroumer . [media],"[NULL,NULL,NULL]",1
+148,CHI,a veux vroumer . [media],"[NULL,NULL,NULL]",2
+149,CHI,0. . [media],"[NULL,NULL,NULL]",1
+149,CHI,0. . [media],"[NULL,NULL,NULL]",2
+150,MOT,oui je sais il te plaît mais il est trop grand Théophile !,"[NULL,NULL,NULL]",1
+150,MOT,oui je sais il te plaît mais il est trop grand Théophile !,"[NULL,NULL,NULL]",2
+151,MOT,hum ? [media],"[NULL,NULL,NULL]",1
+151,MOT,hum ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+152,MOT,il est un peu grand là ! [media],"[NULL,NULL,NULL]",1
+152,MOT,il est un peu grand là ! [media],"[NULL,NULL,NULL]",2
+153,CHI,0. .,"[NULL,NULL,NULL]",1
+153,CHI,0. .,"[NULL,NULL,NULL]",2
+154,MOT,xxx . ça va temps qu'il pleut pas trop ça craint rien pour xxx . [media],"[NULL,NULL,NULL]",1
+154,MOT,xxx . ça va temps qu'il pleut pas trop ça craint rien pour xxx . [media],"[NULL,NULL,NULL]",2
+155,MOT,il commence à pleuvoir .,"[NULL,NULL,NULL]",1
+155,MOT,il commence à pleuvoir .,"[NULL,NULL,NULL]",2
+156,MOT,c'est une pédale ça Théophile !,"[NULL,NULL,NULL]",1
+156,MOT,c'est une pédale ça Théophile !,"[NULL,NULL,NULL]",2
+157,MOT,pédale . [media],"[NULL,NULL,NULL]",1
+157,MOT,pédale . [media],"[NULL,NULL,NULL]",2
+158,MOT,hum ? [media],"[NULL,NULL,NULL]",1
+158,MOT,hum ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+159,CHI,0. .,"[NULL,NULL,NULL]",1
+159,CHI,0. .,"[NULL,NULL,NULL]",2
+160,MOT,ah qui c'est qui va faire marcher ! [media],"[NULL,NULL,NULL]",1
+160,MOT,ah qui c'est qui va faire marcher ! [media],"[NULL,NULL,NULL]",2
+161,CHI,0. . [media],"[NULL,NULL,NULL]",1
+161,CHI,0. . [media],"[NULL,NULL,NULL]",2
+162,MOT,hum ?,"[NULL,NULL,NULL]",1
+162,MOT,hum ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+163,CHI,les clés hum . [media],"[NULL,NULL,NULL]",1
+163,CHI,les clés hum . [media],"[NULL,NULL,NULL]",2
+164,CHI,xxx la clé ! [media],"[NULL,NULL,NULL]",1
+164,CHI,xxx la clé ! [media],"[NULL,NULL,NULL]",2
+165,MOT,dans la serrure ! [media],"[NULL,NULL,NULL]",1
+165,MOT,dans la serrure ! [media],"[NULL,NULL,NULL]",2
+166,MOT,ça c'est les clés de la maison ! [media],"[NULL,NULL,NULL]",1
+166,MOT,ça c'est les clés de la maison ! [media],"[NULL,NULL,NULL]",2
+167,MOT,tu vois c'est pas la bonne serrure . [media],"[NULL,NULL,NULL]",1
+167,MOT,tu vois c'est pas la bonne serrure . [media],"[NULL,NULL,NULL]",2
+168,CHI,0. .,"[NULL,NULL,NULL]",1
+168,CHI,0. .,"[NULL,NULL,NULL]",2
+169,MOT,c'est une serrure ça . [media],"[NULL,NULL,NULL]",1
+169,MOT,c'est une serrure ça . [media],"[NULL,NULL,NULL]",2
+170,MOT,serrure ! [media],"[NULL,NULL,NULL]",1
+170,MOT,serrure ! [media],"[NULL,NULL,NULL]",2
+171,CHI,0. . [media],"[NULL,NULL,NULL]",1
+171,CHI,0. . [media],"[NULL,NULL,NULL]",2
+172,MOT,hum .,"[NULL,NULL,NULL]",1
+172,MOT,hum .,"[NULL,NULL,NULL]",2
+173,CHI,0. . [media],"[NULL,NULL,NULL]",1
+173,CHI,0. . [media],"[NULL,NULL,NULL]",2
+174,MOT,xxx .,"[NULL,NULL,NULL]",1
+174,MOT,xxx .,"[NULL,NULL,NULL]",2
+175,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+175,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+176,MOT,coucou Théophile ! [media],"[NULL,NULL,NULL]",1
+176,MOT,coucou Théophile ! [media],"[NULL,NULL,NULL]",2
+177,CHI,0. .,"[NULL,NULL,NULL]",1
+177,CHI,0. .,"[NULL,NULL,NULL]",2
+178,CAM,0. ! [media],"[NULL,NULL,NULL]",1
+178,CAM,0. ! [media],"[NULL,NULL,NULL]",2
+179,MOT,Théophile \<None\> ! [media],"[NULL,NULL,NULL]",1
+179,MOT,Théophile \<None\> ! [media],"[NULL,NULL,NULL]",2
+180,CAM,attention \<None\> à l'objectif !,"[NULL,NULL,NULL]",1
+180,CAM,attention \<None\> à l'objectif !,"[NULL,NULL,NULL]",2
+181,CHI,0. .,"[NULL,NULL,NULL]",1
+181,CHI,0. .,"[NULL,NULL,NULL]",2
+182,CAM,0. te cogne pas \<None\> ! [media],"[NULL,NULL,NULL]",1
+182,CAM,0. te cogne pas \<None\> ! [media],"[NULL,NULL,NULL]",2
+183,MOT,Théophile \<None\> .,"[NULL,NULL,NULL]",1
+183,MOT,Théophile \<None\> .,"[NULL,NULL,NULL]",2
+184,CHI,ah ah ! [media],"[NULL,NULL,NULL]",1
+184,CHI,ah ah ! [media],"[NULL,NULL,NULL]",2
+185,CAM,c'est pas fait \<None\> pour se cogner .,"[NULL,NULL,NULL]",1
+185,CAM,c'est pas fait \<None\> pour se cogner .,"[NULL,NULL,NULL]",2
+186,CHI,ah xxx . [media],"[NULL,NULL,NULL]",1
+186,CHI,ah xxx . [media],"[NULL,NULL,NULL]",2
+187,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+187,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+188,CAM,tu me donnes ?,"[NULL,NULL,NULL]",1
+188,CAM,tu me donnes ?,"[NULL,NULL,NULL]",2
+189,CAM,non ? [media],"[NULL,NULL,NULL]",1
+189,CAM,non ? [media],"[NULL,NULL,NULL]",2
+190,CHI,0. .,"[NULL,NULL,NULL]",1
+190,CHI,0. .,"[NULL,NULL,NULL]",2
+191,MOT,Théophile ! [media],"[NULL,NULL,NULL]",1
+191,MOT,Théophile ! [media],"[NULL,NULL,NULL]",2
+192,CAM,0. .,"[NULL,NULL,NULL]",1
+192,CAM,0. .,"[NULL,NULL,NULL]",2
+193,CHI,ah non ! [media],"[NULL,NULL,NULL]",1
+193,CHI,ah non ! [media],"[NULL,NULL,NULL]",2
+194,CHI,0. . [media],"[NULL,NULL,NULL]",1
+194,CHI,0. . [media],"[NULL,NULL,NULL]",2
+195,MOT,Théophile ?,"[NULL,NULL,NULL]",1
+195,MOT,Théophile ?,"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+196,MOT,ah c'est gentil ! [media],"[NULL,NULL,NULL]",1
+196,MOT,ah c'est gentil ! [media],"[NULL,NULL,NULL]",2
+197,CAM,merci ! [media],"[NULL,NULL,NULL]",1
+197,CAM,merci ! [media],"[NULL,NULL,NULL]",2
+198,CAM,xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+198,CAM,xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+199,MOT,Théophile \<None\> \<None\> !,"[NULL,NULL,NULL]",1
+199,MOT,Théophile \<None\> \<None\> !,"[NULL,NULL,NULL]",2
+200,CHI,ah !,"[NULL,NULL,NULL]",1
+200,CHI,ah !,"[NULL,NULL,NULL]",2
+201,CHI,0. . [media],"[NULL,NULL,NULL]",1
+201,CHI,0. . [media],"[NULL,NULL,NULL]",2
+202,CHI,0. . [media],"[NULL,NULL,NULL]",1
+202,CHI,0. . [media],"[NULL,NULL,NULL]",2
+203,CAM,hum ? [media],"[NULL,NULL,NULL]",1
+203,CAM,hum ? [media],"[NULL,NULL,NULL]",2
+204,CHI,0. . [media],"[NULL,NULL,NULL]",1
+204,CHI,0. . [media],"[NULL,NULL,NULL]",2
+205,MOT,tu donnes un petit caillou à Lili aussi ? [media],"[NULL,NULL,NULL]",1
+205,MOT,tu donnes un petit caillou à Lili aussi ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+206,CHI,0. .,"[NULL,NULL,NULL]",1
+206,CHI,0. .,"[NULL,NULL,NULL]",2
+207,MOT,tu lui donnes un petit caillou à Lili ? [media],"[NULL,NULL,NULL]",1
+207,MOT,tu lui donnes un petit caillou à Lili ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+208,CHI,0. .,"[NULL,NULL,NULL]",1
+208,CHI,0. .,"[NULL,NULL,NULL]",2
+209,MOT,oh tu me le lances ! [media],"[NULL,NULL,NULL]",1
+209,MOT,oh tu me le lances ! [media],"[NULL,NULL,NULL]",2
+210,MOT,woh ! [media],"[NULL,NULL,NULL]",1
+210,MOT,woh ! [media],"[NULL,NULL,NULL]",2
+211,CHI,0. .,"[NULL,NULL,NULL]",1
+211,CHI,0. .,"[NULL,NULL,NULL]",2
+212,CHI,ah non . [media],"[NULL,NULL,NULL]",1
+212,CHI,ah non . [media],"[NULL,NULL,NULL]",2
+213,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+213,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+214,MOT,caillou ! [media],"[NULL,NULL,NULL]",1
+214,MOT,caillou ! [media],"[NULL,NULL,NULL]",2
+215,MOT,caillou caillou ! [media],"[NULL,NULL,NULL]",1
+215,MOT,caillou caillou ! [media],"[NULL,NULL,NULL]",2
+216,CHI,0. . [media],"[NULL,NULL,NULL]",1
+216,CHI,0. . [media],"[NULL,NULL,NULL]",2
+217,CHI,yyy yyy ! [media],"[NULL,NULL,NULL]",1
+217,CHI,yyy yyy ! [media],"[NULL,NULL,NULL]",2
+218,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+218,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+219,CHI,ma e clés . [media],"[NULL,NULL,NULL]",1
+219,CHI,ma e clés . [media],"[NULL,NULL,NULL]",2
+220,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+220,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+221,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+221,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+222,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+222,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+223,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+223,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+224,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+224,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+225,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+225,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+227,FAT,www . [media],"[NULL,NULL,NULL]",1
+227,FAT,www . [media],"[NULL,NULL,NULL]",2
+228,CHI,yyy yyy .,"[NULL,NULL,NULL]",1
+228,CHI,yyy yyy .,"[NULL,NULL,NULL]",2
+229,CHI,clés vroum ! [media],"[NULL,NULL,NULL]",1
+229,CHI,clés vroum ! [media],"[NULL,NULL,NULL]",2
+230,FAT,[quote] www .,"[NULL,NULL,NULL]",1
+230,FAT,[quote] www .,"[NULL,NULL,NULL]",2
+231,CHI,0. . [media],"[NULL,NULL,NULL]",1
+231,CHI,0. . [media],"[NULL,NULL,NULL]",2
+232,FAT,www .,"[NULL,NULL,NULL]",1
+232,FAT,www .,"[NULL,NULL,NULL]",2
+233,CHI,0. . [media],"[NULL,NULL,NULL]",1
+233,CHI,0. . [media],"[NULL,NULL,NULL]",2
+234,OBS,hop la trottinette ! [media],"[NULL,NULL,NULL]",1
+234,OBS,hop la trottinette ! [media],"[NULL,NULL,NULL]",2
+235,OBS,! [media],"[NULL,NULL,NULL]",1
+235,OBS,! [media],"[NULL,NULL,NULL]",2
+236,MOT,j'arrive Théophile ! [media],"[NULL,NULL,NULL]",1
+236,MOT,j'arrive Théophile ! [media],"[NULL,NULL,NULL]",2
+237,CHI,0. .,"[NULL,NULL,NULL]",1
+237,CHI,0. .,"[NULL,NULL,NULL]",2
+238,CHI,0. . [media],"[NULL,NULL,NULL]",1
+238,CHI,0. . [media],"[NULL,NULL,NULL]",2
+239,MOT,t es où ? [media],"[NULL,NULL,NULL]",1
+239,MOT,t es où ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+240,MOT,ah ! [media],"[NULL,NULL,NULL]",1
+240,MOT,ah ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+241,CHI,0. .,"[NULL,NULL,NULL]",1
+241,CHI,0. .,"[NULL,NULL,NULL]",2
+242,MOT,t essayes de tout faire marcher ! [media],"[NULL,NULL,NULL]",1
+242,MOT,t essayes de tout faire marcher ! [media],"[NULL,NULL,NULL]",2
+243,CHI,0. .,"[NULL,NULL,NULL]",1
+243,CHI,0. .,"[NULL,NULL,NULL]",2
+244,MOT,tu sais que c'est que pour la voiture de papa ça ! [media],"[NULL,NULL,NULL]",1
+244,MOT,tu sais que c'est que pour la voiture de papa ça ! [media],"[NULL,NULL,NULL]",2
+245,MOT,hein ? [media],"[NULL,NULL,NULL]",1
+245,MOT,hein ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+246,CHI,0. .,"[NULL,NULL,NULL]",1
+246,CHI,0. .,"[NULL,NULL,NULL]",2
+247,CHI,au_revoir ! [media],"[NULL,NULL,NULL]",1
+247,CHI,au_revoir ! [media],"[NULL,NULL,NULL]",2
+248,MOT,on a \<self interruption\> [media],"[NULL,NULL,NULL]",1
+248,MOT,on a \<self interruption\> [media],"[NULL,NULL,NULL]",2
+249,MOT,au_revoir !,"[NULL,NULL,NULL]",1
+249,MOT,au_revoir !,"[NULL,NULL,NULL]",2
+250,MOT,c'est son nouveau mot ça ! [media],"[NULL,NULL,NULL]",1
+250,MOT,c'est son nouveau mot ça ! [media],"[NULL,NULL,NULL]",2
+251,MOT,au_revoir Théophile tu vas où ? [media],"[NULL,NULL,NULL]",1
+251,MOT,au_revoir Théophile tu vas où ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+252,MOT,où tu vas ? [media],"[NULL,NULL,NULL]",1
+252,MOT,où tu vas ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+253,MOT,hum ? [media],"[NULL,NULL,NULL]",1
+253,MOT,hum ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+254,MOT,tu vas dans le jardin ? [media],"[NULL,NULL,NULL]",1
+254,MOT,tu vas dans le jardin ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+255,CHI,non ! [media],"[NULL,NULL,NULL]",1
+255,CHI,non ! [media],"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+256,MOT,non ?,"[NULL,NULL,NULL]",1
+256,MOT,non ?,"[PAR-Follow-up:Followup-question,PAR-Initiation:Non-Information-seeking,NULL]",2
+257,CHI,les clés . [media],"[NULL,NULL,NULL]",1
+257,CHI,les clés . [media],"[NULL,NULL,NULL]",2
+258,MOT,tu veux pas aller dans le jardin Théophile ? [media],"[NULL,NULL,NULL]",1
+258,MOT,tu veux pas aller dans le jardin Théophile ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+259,FAT,www .,"[NULL,NULL,NULL]",1
+259,FAT,www .,"[NULL,NULL,NULL]",2
+260,MOT,tu vas pas dessiner une clé Théophile ?,"[NULL,NULL,NULL]",1
+260,MOT,tu vas pas dessiner une clé Théophile ?,"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+261,MOT,Théophile ? [media],"[NULL,NULL,NULL]",1
+261,MOT,Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+262,CHI,a clé . [media],"[NULL,NULL,NULL]",1
+262,CHI,a clé . [media],"[NULL,NULL,NULL]",2
+263,MOT,on dessine une clé ? [media],"[NULL,NULL,NULL]",1
+263,MOT,on dessine une clé ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+264,MOT,Théophile ? [media],"[NULL,NULL,NULL]",1
+264,MOT,Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+265,MOT,Théophile ! [media],"[NULL,NULL,NULL]",1
+265,MOT,Théophile ! [media],"[NULL,NULL,NULL]",2
+266,CHI,0. .,"[NULL,NULL,NULL]",1
+266,CHI,0. .,"[NULL,NULL,NULL]",2
+267,OBS,ah mais c'est nouveau ça ! [media],"[NULL,NULL,NULL]",1
+267,OBS,ah mais c'est nouveau ça ! [media],"[NULL,NULL,NULL]",2
+268,MOT,eh ouais ! [media],"[NULL,NULL,NULL]",1
+268,MOT,eh ouais ! [media],"[NULL,NULL,NULL]",2
+269,OBS,son cadeau d' anniversaire \<None\> ! [media],"[NULL,NULL,NULL]",1
+269,OBS,son cadeau d' anniversaire \<None\> ! [media],"[NULL,NULL,NULL]",2
+270,MOT,son cadeau d' anniversaire \<None\> !,"[NULL,NULL,NULL]",1
+270,MOT,son cadeau d' anniversaire \<None\> !,"[NULL,NULL,NULL]",2
+271,MOT,avec la trottinette ! [media],"[NULL,NULL,NULL]",1
+271,MOT,avec la trottinette ! [media],"[NULL,NULL,NULL]",2
+272,CHI,0. .,"[NULL,NULL,NULL]",1
+272,CHI,0. .,"[NULL,NULL,NULL]",2
+273,OBS,wouha ! [media],"[NULL,NULL,NULL]",1
+273,OBS,wouha ! [media],"[NULL,NULL,NULL]",2
+274,OBS,il sait en faire ? [media],"[NULL,NULL,NULL]",1
+274,OBS,il sait en faire ? [media],"[NULL,NULL,NULL]",2
+275,MOT,la trottinette ouais mais ouais il s débrouille pas mal hein ! [media],"[NULL,NULL,NULL]",1
+275,MOT,la trottinette ouais mais ouais il s débrouille pas mal hein ! [media],"[NULL,NULL,NULL]",2
+276,OBS,wouha \<None\> ! [media],"[NULL,NULL,NULL]",1
+276,OBS,wouha \<None\> ! [media],"[NULL,NULL,NULL]",2
+277,MOT,il va \<None\> lentement hein . mais comme il adore tout ce-qui est euh ...,"[NULL,NULL,NULL]",1
+277,MOT,il va \<None\> lentement hein . mais comme il adore tout ce-qui est euh ...,"[NULL,NULL,NULL]",2
+278,OBS,moteur \<None\> . [media],"[NULL,NULL,NULL]",1
+278,OBS,moteur \<None\> . [media],"[NULL,NULL,NULL]",2
+279,MOT,techno \<None\> moteur tout ça euh ...,"[NULL,NULL,NULL]",1
+279,MOT,techno \<None\> moteur tout ça euh ...,"[NULL,NULL,NULL]",2
+280,MOT,on s'est dit bon . [media],"[NULL,NULL,NULL]",1
+280,MOT,on s'est dit bon . [media],"[NULL,NULL,NULL]",2
+281,MOT,mais ça il aime bien aussi . [media],"[NULL,NULL,NULL]",1
+281,MOT,mais ça il aime bien aussi . [media],"[NULL,NULL,NULL]",2
+282,MOT,le tableau il y il y va souvent . [media],"[NULL,NULL,NULL]",1
+282,MOT,le tableau il y il y va souvent . [media],"[NULL,NULL,NULL]",2
+283,MOT,ce qu est rigolo dans le train par exemple pour le faire patienter euh . l'attente de son père alors . on dessinait . [media],"[NULL,NULL,NULL]",1
+283,MOT,ce qu est rigolo dans le train par exemple pour le faire patienter euh . l'attente de son père alors . on dessinait . [media],"[NULL,NULL,NULL]",2
+284,MOT,p alors je lui ai dessiné un la voiture avec euh . son papa dedans t sais qu allait le chercher . [media],"[NULL,NULL,NULL]",1
+284,MOT,p alors je lui ai dessiné un la voiture avec euh . son papa dedans t sais qu allait le chercher . [media],"[NULL,NULL,NULL]",2
+285,MOT,alors je lui montrais p après je disais il est où Théophile alors il montrait ! [media],"[NULL,NULL,NULL]",1
+285,MOT,alors je lui montrais p après je disais il est où Théophile alors il montrait ! [media],"[NULL,NULL,NULL]",2
+286,UNI,xxx . [media],"[NULL,NULL,NULL]",1
+286,UNI,xxx . [media],"[NULL,NULL,NULL]",2
+287,MOT,wouaw ! [media],"[NULL,NULL,NULL]",1
+287,MOT,wouaw ! [media],"[NULL,NULL,NULL]",2
+288,CHI,0. .,"[NULL,NULL,NULL]",1
+288,CHI,0. .,"[NULL,NULL,NULL]",2
+289,MOT,mais c'est un physique hein quand_même ! [media],"[NULL,NULL,NULL]",1
+289,MOT,mais c'est un physique hein quand_même ! [media],"[NULL,NULL,NULL]",2
+290,MOT,par exemple à Vauvert . sa Magali là qui l'a gardé pend pendant une semaine . [media],"[NULL,NULL,NULL]",1
+290,MOT,par exemple à Vauvert . sa Magali là qui l'a gardé pend pendant une semaine . [media],"[NULL,NULL,NULL]",2
+291,MOT,elle m'a dit mais il n' arrêtait pas de faire tout le jardin et de tout explorer inventer des trucs . [media],"[NULL,NULL,NULL]",1
+291,MOT,elle m'a dit mais il n' arrêtait pas de faire tout le jardin et de tout explorer inventer des trucs . [media],"[NULL,NULL,NULL]",2
+292,MOT,il portait euh t toujours sa voiture il faisait les muscles c'est euh ... [media],"[NULL,NULL,NULL]",1
+292,MOT,il portait euh t toujours sa voiture il faisait les muscles c'est euh ... [media],"[NULL,NULL,NULL]",2
+293,OBS,c'est un explorateur . [media],"[NULL,NULL,NULL]",1
+293,OBS,c'est un explorateur . [media],"[NULL,NULL,NULL]",2
+294,MOT,ah ouais c'est tout_le_temps euh ... [media],"[NULL,NULL,NULL]",1
+294,MOT,ah ouais c'est tout_le_temps euh ... [media],"[NULL,NULL,NULL]",2
+295,MOT,il porte tout_le_temps il roule tout_le_temps il bouge tout_le_temps . [media],"[NULL,NULL,NULL]",1
+295,MOT,il porte tout_le_temps il roule tout_le_temps il bouge tout_le_temps . [media],"[NULL,NULL,NULL]",2
+296,MOT,hum ? [media],"[NULL,NULL,NULL]",1
+296,MOT,hum ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+297,CHI,0. .,"[NULL,NULL,NULL]",1
+297,CHI,0. .,"[NULL,NULL,NULL]",2
+298,MOT,tu roules tu roules tu roules ! [media],"[NULL,NULL,NULL]",1
+298,MOT,tu roules tu roules tu roules ! [media],"[NULL,NULL,NULL]",2
+299,MOT,pilote ! [media],"[NULL,NULL,NULL]",1
+299,MOT,pilote ! [media],"[NULL,NULL,NULL]",2
+300,MOT,un vrai pilote ! [media],"[NULL,NULL,NULL]",1
+300,MOT,un vrai pilote ! [media],"[NULL,NULL,NULL]",2
+301,MOT,p des vrais tours de voitures euh tous les jours quoi . [media],"[NULL,NULL,NULL]",1
+301,MOT,p des vrais tours de voitures euh tous les jours quoi . [media],"[NULL,NULL,NULL]",2
+302,CHI,0. .,"[NULL,NULL,NULL]",1
+302,CHI,0. .,"[NULL,NULL,NULL]",2
+303,MOT,tourne à droite ! [media],"[NULL,NULL,NULL]",1
+303,MOT,tourne à droite ! [media],"[NULL,NULL,NULL]",2
+304,OBS,et il y en a une là-bas de xxx \<None\> ? [media],"[NULL,NULL,NULL]",1
+304,OBS,et il y en a une là-bas de xxx \<None\> ? [media],"[NULL,NULL,NULL]",2
+305,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",1
+305,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",2
+306,MOT,il y a les voitures tu sais de ... [media],"[NULL,NULL,NULL]",1
+306,MOT,il y a les voitures tu sais de ... [media],"[NULL,NULL,NULL]",2
+307,CHI,xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+307,CHI,xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+308,MOT,y avait celle-ci on l'avait amenée mais y avait les grandes voitures \<None\> . dans le jardin .,"[NULL,NULL,NULL]",1
+308,MOT,y avait celle-ci on l'avait amenée mais y avait les grandes voitures \<None\> . dans le jardin .,"[NULL,NULL,NULL]",2
+309,MOT,donc il met la clé il met le contact il tourne le volant euh . [media],"[NULL,NULL,NULL]",1
+309,MOT,donc il met la clé il met le contact il tourne le volant euh . [media],"[NULL,NULL,NULL]",2
+310,CHI,0. .,"[NULL,NULL,NULL]",1
+310,CHI,0. .,"[NULL,NULL,NULL]",2
+311,MOT,ah il adore \<None\> ! [media],"[NULL,NULL,NULL]",1
+311,MOT,ah il adore \<None\> ! [media],"[NULL,NULL,NULL]",2
+312,OBS,xxx \<None\> .,"[NULL,NULL,NULL]",1
+312,OBS,xxx \<None\> .,"[NULL,NULL,NULL]",2
+313,MOT,en_plus il s débrouille bien quoi tu lui laisses le volant \<None\> \<interruption\> [media],"[NULL,NULL,NULL]",1
+313,MOT,en_plus il s débrouille bien quoi tu lui laisses le volant \<None\> \<interruption\> [media],"[NULL,NULL,NULL]",2
+314,CHI,yyy !,"[NULL,NULL,NULL]",1
+314,CHI,yyy !,"[NULL,NULL,NULL]",2
+315,MOT,tu reconnais la voiture de madame Mito ! [media],"[NULL,NULL,NULL]",1
+315,MOT,tu reconnais la voiture de madame Mito ! [media],"[NULL,NULL,NULL]",2
+316,CHI,yyy ! [media],"[NULL,NULL,NULL]",1
+316,CHI,yyy ! [media],"[NULL,NULL,NULL]",2
+317,MOT,été ! [media],"[NULL,NULL,NULL]",1
+317,MOT,été ! [media],"[NULL,NULL,NULL]",2
+318,MOT,t as vu elle est rouge ! [media],"[NULL,NULL,NULL]",1
+318,MOT,t as vu elle est rouge ! [media],"[NULL,NULL,NULL]",2
+319,MOT,comme ton camion . [media],"[NULL,NULL,NULL]",1
+319,MOT,comme ton camion . [media],"[NULL,NULL,NULL]",2
+320,MOT,comme ta voiture . [media],"[NULL,NULL,NULL]",1
+320,MOT,comme ta voiture . [media],"[NULL,NULL,NULL]",2
+321,MOT,t as vu ? [media],"[NULL,NULL,NULL]",1
+321,MOT,t as vu ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+322,MOT,et ça c'est quelle couleur ça ? [media],"[NULL,NULL,NULL]",1
+322,MOT,et ça c'est quelle couleur ça ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+323,CHI,vroum ! [media],"[NULL,NULL,NULL]",1
+323,CHI,vroum ! [media],"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+324,MOT,vroum ! [media],"[NULL,NULL,NULL]",1
+324,MOT,vroum ! [media],"[PAR-Follow-up:Repeat-answer,NULL,NULL]",2
+325,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+325,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+326,MOT,hum !,"[NULL,NULL,NULL]",1
+326,MOT,hum !,"[NULL,NULL,NULL]",2
+327,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+327,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+328,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+328,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+329,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+329,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+330,MOT,tu ouvres la porte ? [media],"[NULL,NULL,NULL]",1
+330,MOT,tu ouvres la porte ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+331,FAT,www .,"[NULL,NULL,NULL]",1
+331,FAT,www .,"[NULL,NULL,NULL]",2
+332,MOT,c'est qui qui va dedans ? [media],"[NULL,NULL,NULL]",1
+332,MOT,c'est qui qui va dedans ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+333,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+333,CHI,yyy . [media],"[CHI-Response:No-label,NULL,NULL]",2
+334,MOT,c'est qui qui va dedans ? [media],"[NULL,NULL,NULL]",1
+334,MOT,c'est qui qui va dedans ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+335,CHI,yyy vrou vroum ! [media],"[NULL,NULL,NULL]",1
+335,CHI,yyy vrou vroum ! [media],"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+336,MOT,il y a pas de \<None\> pilote !,"[NULL,NULL,NULL]",1
+336,MOT,il y a pas de \<None\> pilote !,"[PAR-Follow-up:other,NULL,NULL]",2
+337,MOT,faut mettre un pilote ! [media],"[NULL,NULL,NULL]",1
+337,MOT,faut mettre un pilote ! [media],"[NULL,NULL,NULL]",2
+338,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+338,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+339,MOT,c'est qui le pilote ? [media],"[NULL,NULL,NULL]",1
+339,MOT,c'est qui le pilote ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+340,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+340,CHI,xxx . [media],"[CHI-Response:No-label,NULL,NULL]",2
+341,MOT,hum c'est qui ? [media],"[NULL,NULL,NULL]",1
+341,MOT,hum c'est qui ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+342,CHI,a clé . [media],"[NULL,NULL,NULL]",1
+342,CHI,a clé . [media],"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+343,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+343,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+344,FAT,www .,"[NULL,NULL,NULL]",1
+344,FAT,www .,"[NULL,NULL,NULL]",2
+345,MOT,c'est les clés ? [media],"[NULL,NULL,NULL]",1
+345,MOT,c'est les clés ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+346,FAT,www .,"[NULL,NULL,NULL]",1
+346,FAT,www .,"[NULL,NULL,NULL]",2
+347,MOT,ah oui faut faut mettre le contact t as raison ! [media],"[NULL,NULL,NULL]",1
+347,MOT,ah oui faut faut mettre le contact t as raison ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+348,MOT,mais le pilote il est où ? [media],"[NULL,NULL,NULL]",1
+348,MOT,mais le pilote il est où ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+349,MOT,toi t es le pilote ! [media],"[NULL,NULL,NULL]",1
+349,MOT,toi t es le pilote ! [media],"[PAR-Follow-up:Give-response,NULL,NULL]",2
+350,MOT,et là ? [media],"[NULL,NULL,NULL]",1
+350,MOT,et là ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+351,MOT,on n' a pas un p bonhomme là ? [media],"[NULL,NULL,NULL]",1
+351,MOT,on n' a pas un p bonhomme là ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+352,MOT,hum ! [media],"[NULL,NULL,NULL]",1
+352,MOT,hum ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+353,MOT,ah ! [media],"[NULL,NULL,NULL]",1
+353,MOT,ah ! [media],"[NULL,NULL,NULL]",2
+354,CHI,e vroumvroum . [media],"[NULL,NULL,NULL]",1
+354,CHI,e vroumvroum . [media],"[NULL,NULL,NULL]",2
+355,CHI,e vroumvroum . [media],"[NULL,NULL,NULL]",1
+355,CHI,e vroumvroum . [media],"[NULL,NULL,NULL]",2
+356,MOT,un pilote ? [media],"[NULL,NULL,NULL]",1
+356,MOT,un pilote ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+357,MOT,Théophile ? [media],"[NULL,NULL,NULL]",1
+357,MOT,Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+358,MOT,un conducteur ? [media],"[NULL,NULL,NULL]",1
+358,MOT,un conducteur ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+359,CHI,0. .,"[NULL,NULL,NULL]",1
+359,CHI,0. .,"[NULL,NULL,NULL]",2
+360,MOT,il est un peu grand hein mais . j'ai pas plus p là . [media],"[NULL,NULL,NULL]",1
+360,MOT,il est un peu grand hein mais . j'ai pas plus p là . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+361,MOT,t ouvres la porte ! [media],"[NULL,NULL,NULL]",1
+361,MOT,t ouvres la porte ! [media],"[NULL,NULL,NULL]",2
+362,MOT,oup ! [media],"[NULL,NULL,NULL]",1
+362,MOT,oup ! [media],"[NULL,NULL,NULL]",2
+363,CHI,0. .,"[NULL,NULL,NULL]",1
+363,CHI,0. .,"[NULL,NULL,NULL]",2
+364,MOT,tiens . [media],"[NULL,NULL,NULL]",1
+364,MOT,tiens . [media],"[NULL,NULL,NULL]",2
+365,CHI,oh non ! [media],"[NULL,NULL,NULL]",1
+365,CHI,oh non ! [media],"[NULL,NULL,NULL]",2
+366,FAT,www .,"[NULL,NULL,NULL]",1
+366,FAT,www .,"[NULL,NULL,NULL]",2
+367,MOT,qu'est-ce qu' y a ? [media],"[NULL,NULL,NULL]",1
+367,MOT,qu'est-ce qu' y a ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+368,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+368,CHI,yyy . [media],"[CHI-Response:No-label,NULL,NULL]",2
+369,MOT,ah oui t as raison c'est pas la bonne porte . oui ! [media],"[NULL,NULL,NULL]",1
+369,MOT,ah oui t as raison c'est pas la bonne porte . oui ! [media],"[PAR-Follow-up:Signal-agreement,PAR-Follow-up:Add-info,NULL]",2
+370,MOT,très bien ! [media],"[NULL,NULL,NULL]",1
+370,MOT,très bien ! [media],"[NULL,NULL,NULL]",2
+371,CHI,0. .,"[NULL,NULL,NULL]",1
+371,CHI,0. .,"[NULL,NULL,NULL]",2
+372,MOT,fais rentrer par-là ! [media],"[NULL,NULL,NULL]",1
+372,MOT,fais rentrer par-là ! [media],"[NULL,NULL,NULL]",2
+373,MOT,ouais . mais il est un peu grand hein ! [media],"[NULL,NULL,NULL]",1
+373,MOT,ouais . mais il est un peu grand hein ! [media],"[NULL,NULL,NULL]",2
+374,MOT,on va le mettre comme ça ouais il faut le poser juste comme ça . [media],"[NULL,NULL,NULL]",1
+374,MOT,on va le mettre comme ça ouais il faut le poser juste comme ça . [media],"[NULL,NULL,NULL]",2
+375,MOT,il est un peu ouais ! [media],"[NULL,NULL,NULL]",1
+375,MOT,il est un peu ouais ! [media],"[NULL,NULL,NULL]",2
+376,MOT,faudrait que je trouve un p pilote ! [media],"[NULL,NULL,NULL]",1
+376,MOT,faudrait que je trouve un p pilote ! [media],"[NULL,NULL,NULL]",2
+377,MOT,ouais regarde ! [media],"[NULL,NULL,NULL]",1
+377,MOT,ouais regarde ! [media],"[NULL,NULL,NULL]",2
+378,MOT,ouais ! [media],"[NULL,NULL,NULL]",1
+378,MOT,ouais ! [media],"[NULL,NULL,NULL]",2
+379,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+379,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+380,MOT,non ? [media],"[NULL,NULL,NULL]",1
+380,MOT,non ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+381,MOT,bon . [media],"[NULL,NULL,NULL]",1
+381,MOT,bon . [media],"[NULL,NULL,NULL]",2
+382,MOT,bon \<None\> . [media],"[NULL,NULL,NULL]",1
+382,MOT,bon \<None\> . [media],"[NULL,NULL,NULL]",2
+383,CHI,yyy .,"[NULL,NULL,NULL]",1
+383,CHI,yyy .,"[NULL,NULL,NULL]",2
+384,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+384,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+385,MOT,il y a le clown mais il est encore plus grand lui ! [media],"[NULL,NULL,NULL]",1
+385,MOT,il y a le clown mais il est encore plus grand lui ! [media],"[NULL,NULL,NULL]",2
+386,MOT,faut que je trouve des p pilotes ! [media],"[NULL,NULL,NULL]",1
+386,MOT,faut que je trouve des p pilotes ! [media],"[NULL,NULL,NULL]",2
+387,MOT,je sais pas où je peux trouver ça moi ! [media],"[NULL,NULL,NULL]",1
+387,MOT,je sais pas où je peux trouver ça moi ! [media],"[NULL,NULL,NULL]",2
+388,MOT,hum hum ! [media],"[NULL,NULL,NULL]",1
+388,MOT,hum hum ! [media],"[NULL,NULL,NULL]",2
+389,MOT,ah oui j'ai que cette taille ! [media],"[NULL,NULL,NULL]",1
+389,MOT,ah oui j'ai que cette taille ! [media],"[NULL,NULL,NULL]",2
+390,MOT,on n' a pas plus p pilote ? [media],"[NULL,NULL,NULL]",1
+390,MOT,on n' a pas plus p pilote ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+391,MOT,non faut qu'on faut qu'on fasse un pilote ! [media],"[NULL,NULL,NULL]",1
+391,MOT,non faut qu'on faut qu'on fasse un pilote ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+392,MOT,tiens je vais dessiner un pilote ! [media],"[NULL,NULL,NULL]",1
+392,MOT,tiens je vais dessiner un pilote ! [media],"[NULL,NULL,NULL]",2
+393,MOT,on fabrique un pilote . [media],"[NULL,NULL,NULL]",1
+393,MOT,on fabrique un pilote . [media],"[NULL,NULL,NULL]",2
+394,CHI,non . [media],"[NULL,NULL,NULL]",1
+394,CHI,non . [media],"[NULL,NULL,NULL]",2
+395,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+395,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+396,FAT,www .,"[NULL,NULL,NULL]",1
+396,FAT,www .,"[NULL,NULL,NULL]",2
+397,MOT,xxx je vais essayer de te faire un p pilote . [media],"[NULL,NULL,NULL]",1
+397,MOT,xxx je vais essayer de te faire un p pilote . [media],"[NULL,NULL,NULL]",2
+399,MOT,oh ! [media],"[NULL,NULL,NULL]",1
+399,MOT,oh ! [media],"[NULL,NULL,NULL]",2
+400,CHI,0. . [media],"[NULL,NULL,NULL]",1
+400,CHI,0. . [media],"[NULL,NULL,NULL]",2
+401,MOT,t as vu Théophile ? [media],"[NULL,NULL,NULL]",1
+401,MOT,t as vu Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+402,MOT,on va essayer de faire un p pilote ! [media],"[NULL,NULL,NULL]",1
+402,MOT,on va essayer de faire un p pilote ! [media],"[NULL,NULL,NULL]",2
+403,MOT,regarde ! [media],"[NULL,NULL,NULL]",1
+403,MOT,regarde ! [media],"[NULL,NULL,NULL]",2
+404,CHI,0. .,"[NULL,NULL,NULL]",1
+404,CHI,0. .,"[NULL,NULL,NULL]",2
+405,MOT,qu'est-ce que t as trouvé \<None\> ? [media],"[NULL,NULL,NULL]",1
+405,MOT,qu'est-ce que t as trouvé \<None\> ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+406,CHI,0. .,"[NULL,NULL,NULL]",1
+406,CHI,0. .,"[NULL,NULL,NULL]",2
+407,MOT,qu'est-ce que t as trouvé ? [media],"[NULL,NULL,NULL]",1
+407,MOT,qu'est-ce que t as trouvé ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+408,MOT,c'est quoi ? [media],"[NULL,NULL,NULL]",1
+408,MOT,c'est quoi ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+409,CHI,0. .,"[NULL,NULL,NULL]",1
+409,CHI,0. .,"[NULL,NULL,NULL]",2
+410,MOT,oh ! [media],"[NULL,NULL,NULL]",1
+410,MOT,oh ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+411,MOT,qu'est-ce que t as bah ! [media],"[NULL,NULL,NULL]",1
+411,MOT,qu'est-ce que t as bah ! [media],"[NULL,NULL,NULL]",2
+412,CHI,0. .,"[NULL,NULL,NULL]",1
+412,CHI,0. .,"[NULL,NULL,NULL]",2
+413,MOT,c'est une granule ? [media],"[NULL,NULL,NULL]",1
+413,MOT,c'est une granule ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+414,MOT,fais voir ? [media],"[NULL,NULL,NULL]",1
+414,MOT,fais voir ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+415,MOT,montre à maman . [media],"[NULL,NULL,NULL]",1
+415,MOT,montre à maman . [media],"[NULL,NULL,NULL]",2
+416,CHI,0. .,"[NULL,NULL,NULL]",1
+416,CHI,0. .,"[NULL,NULL,NULL]",2
+417,MOT,montre à maman coquin ! [media],"[NULL,NULL,NULL]",1
+417,MOT,montre à maman coquin ! [media],"[NULL,NULL,NULL]",2
+418,CHI,0. .,"[NULL,NULL,NULL]",1
+418,CHI,0. .,"[NULL,NULL,NULL]",2
+419,MOT,montre à maman ! [media],"[NULL,NULL,NULL]",1
+419,MOT,montre à maman ! [media],"[NULL,NULL,NULL]",2
+420,CHI,0. .,"[NULL,NULL,NULL]",1
+420,CHI,0. .,"[NULL,NULL,NULL]",2
+421,MOT,c'est quoi ? [media],"[NULL,NULL,NULL]",1
+421,MOT,c'est quoi ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+422,MOT,montre . [media],"[NULL,NULL,NULL]",1
+422,MOT,montre . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+423,MOT,montre ! [media],"[NULL,NULL,NULL]",1
+423,MOT,montre ! [media],"[NULL,NULL,NULL]",2
+424,CHI,e kiki ! [media],"[NULL,NULL,NULL]",1
+424,CHI,e kiki ! [media],"[NULL,NULL,NULL]",2
+425,MOT,eh oui mais c'est quoi ? [media],"[NULL,NULL,NULL]",1
+425,MOT,eh oui mais c'est quoi ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+426,MOT,c'est quoi que t as dans la bouche ? [media],"[NULL,NULL,NULL]",1
+426,MOT,c'est quoi que t as dans la bouche ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+427,CHI,0. .,"[NULL,NULL,NULL]",1
+427,CHI,0. .,"[NULL,NULL,NULL]",2
+428,MOT,Théophile ? [media],"[NULL,NULL,NULL]",1
+428,MOT,Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+429,MOT,fais voir ! [media],"[NULL,NULL,NULL]",1
+429,MOT,fais voir ! [media],"[NULL,NULL,NULL]",2
+430,MOT,bah attends ! [media],"[NULL,NULL,NULL]",1
+430,MOT,bah attends ! [media],"[NULL,NULL,NULL]",2
+431,CHI,0. .,"[NULL,NULL,NULL]",1
+431,CHI,0. .,"[NULL,NULL,NULL]",2
+432,CHI,les kiki ! [media],"[NULL,NULL,NULL]",1
+432,CHI,les kiki ! [media],"[NULL,NULL,NULL]",2
+433,MOT,tu vois j'allais fabriquer un p pilote ! [media],"[NULL,NULL,NULL]",1
+433,MOT,tu vois j'allais fabriquer un p pilote ! [media],"[NULL,NULL,NULL]",2
+434,MOT,regarde ! [media],"[NULL,NULL,NULL]",1
+434,MOT,regarde ! [media],"[NULL,NULL,NULL]",2
+435,MOT,tu vois on peut découper . [media],"[NULL,NULL,NULL]",1
+435,MOT,tu vois on peut découper . [media],"[NULL,NULL,NULL]",2
+436,MOT,on fait des p jambes ! [media],"[NULL,NULL,NULL]",1
+436,MOT,on fait des p jambes ! [media],"[NULL,NULL,NULL]",2
+437,FAT,www .,"[NULL,NULL,NULL]",1
+437,FAT,www .,"[NULL,NULL,NULL]",2
+438,MOT,tu veux le faire ? [media],"[NULL,NULL,NULL]",1
+438,MOT,tu veux le faire ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+439,MOT,ils sont pas super ceux-là mais \<self interruption\> [media],"[NULL,NULL,NULL]",1
+439,MOT,ils sont pas super ceux-là mais \<self interruption\> [media],"[PAR-Follow-up:Add-info,NULL,NULL]",2
+440,MOT,tu coupes ? [media],"[NULL,NULL,NULL]",1
+440,MOT,tu coupes ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Non-Information-seeking,NULL]",2
+441,MOT,vas_y ! [media],"[NULL,NULL,NULL]",1
+441,MOT,vas_y ! [media],"[NULL,NULL,NULL]",2
+442,MOT,coupe ! [media],"[NULL,NULL,NULL]",1
+442,MOT,coupe ! [media],"[NULL,NULL,NULL]",2
+443,MOT,ouais ! [media],"[NULL,NULL,NULL]",1
+443,MOT,ouais ! [media],"[NULL,NULL,NULL]",2
+444,MOT,allez ! [media],"[NULL,NULL,NULL]",1
+444,MOT,allez ! [media],"[NULL,NULL,NULL]",2
+445,MOT,appuie ! [media],"[NULL,NULL,NULL]",1
+445,MOT,appuie ! [media],"[NULL,NULL,NULL]",2
+446,MOT,faut appuyer . [media],"[NULL,NULL,NULL]",1
+446,MOT,faut appuyer . [media],"[NULL,NULL,NULL]",2
+447,MOT,oui ! [media],"[NULL,NULL,NULL]",1
+447,MOT,oui ! [media],"[NULL,NULL,NULL]",2
+448,MOT,vas_y ! [media],"[NULL,NULL,NULL]",1
+448,MOT,vas_y ! [media],"[NULL,NULL,NULL]",2
+449,MOT,très bien ! [media],"[NULL,NULL,NULL]",1
+449,MOT,très bien ! [media],"[NULL,NULL,NULL]",2
+450,MOT,encore ? [media],"[NULL,NULL,NULL]",1
+450,MOT,encore ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+451,MOT,appuie . [media],"[NULL,NULL,NULL]",1
+451,MOT,appuie . [media],"[NULL,NULL,NULL]",2
+452,MOT,faut appuyer . appuie comme ça . [media],"[NULL,NULL,NULL]",1
+452,MOT,faut appuyer . appuie comme ça . [media],"[NULL,NULL,NULL]",2
+453,MOT,tic tic tic tic . [media],"[NULL,NULL,NULL]",1
+453,MOT,tic tic tic tic . [media],"[NULL,NULL,NULL]",2
+454,MOT,vas_y . [media],"[NULL,NULL,NULL]",1
+454,MOT,vas_y . [media],"[NULL,NULL,NULL]",2
+455,MOT,tu fais tictic ? [media],"[NULL,NULL,NULL]",1
+455,MOT,tu fais tictic ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+456,MOT,tic ! [media],"[NULL,NULL,NULL]",1
+456,MOT,tic ! [media],"[NULL,NULL,NULL]",2
+457,CHI,0. .,"[NULL,NULL,NULL]",1
+457,CHI,0. .,"[NULL,NULL,NULL]",2
+458,MOT,ouais ! [media],"[NULL,NULL,NULL]",1
+458,MOT,ouais ! [media],"[NULL,NULL,NULL]",2
+459,MOT,ouais ils sont pas parfaits ceux-là faut que je t'en trouve des plus faciles hein ! [media],"[NULL,NULL,NULL]",1
+459,MOT,ouais ils sont pas parfaits ceux-là faut que je t'en trouve des plus faciles hein ! [media],"[NULL,NULL,NULL]",2
+460,CHI,0. .,"[NULL,NULL,NULL]",1
+460,CHI,0. .,"[NULL,NULL,NULL]",2
+461,MOT,hum . [media],"[NULL,NULL,NULL]",1
+461,MOT,hum . [media],"[NULL,NULL,NULL]",2
+462,MOT,at j'en ai j'en ai p qui réagissent mieux attends . [media],"[NULL,NULL,NULL]",1
+462,MOT,at j'en ai j'en ai p qui réagissent mieux attends . [media],"[NULL,NULL,NULL]",2
+463,MOT,c'est un peu pointu par_contre non . [media],"[NULL,NULL,NULL]",1
+463,MOT,c'est un peu pointu par_contre non . [media],"[NULL,NULL,NULL]",2
+464,CHI,0. .,"[NULL,NULL,NULL]",1
+464,CHI,0. .,"[NULL,NULL,NULL]",2
+465,MOT,c'est encore plus dur . [media],"[NULL,NULL,NULL]",1
+465,MOT,c'est encore plus dur . [media],"[NULL,NULL,NULL]",2
+466,MOT,ah ! [media],"[NULL,NULL,NULL]",1
+466,MOT,ah ! [media],"[NULL,NULL,NULL]",2
+467,MOT,j'ai pas des bons ciseaux moi ! [media],"[NULL,NULL,NULL]",1
+467,MOT,j'ai pas des bons ciseaux moi ! [media],"[NULL,NULL,NULL]",2
+468,MOT,i coupent pas super . [media],"[NULL,NULL,NULL]",1
+468,MOT,i coupent pas super . [media],"[NULL,NULL,NULL]",2
+469,MOT,tu veux qu'on fasse le p bonhomme ? [media],"[NULL,NULL,NULL]",1
+469,MOT,tu veux qu'on fasse le p bonhomme ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+470,MOT,Théophile ? [media],"[NULL,NULL,NULL]",1
+470,MOT,Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+471,MOT,regarde ! [media],"[NULL,NULL,NULL]",1
+471,MOT,regarde ! [media],"[NULL,NULL,NULL]",2
+472,MOT,je peux ? [media],"[NULL,NULL,NULL]",1
+472,MOT,je peux ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+473,MOT,regarde . [media],"[NULL,NULL,NULL]",1
+473,MOT,regarde . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+474,CHI,yyy kiki ! [media],"[NULL,NULL,NULL]",1
+474,CHI,yyy kiki ! [media],"[NULL,NULL,NULL]",2
+475,MOT,mais oui \<None\> je le rends je te le rends ton tictic !,"[NULL,NULL,NULL]",1
+475,MOT,mais oui \<None\> je le rends je te le rends ton tictic !,"[NULL,NULL,NULL]",2
+476,MOT,ah ah ! [media],"[NULL,NULL,NULL]",1
+476,MOT,ah ah ! [media],"[NULL,NULL,NULL]",2
+477,MOT,tiens . [media],"[NULL,NULL,NULL]",1
+477,MOT,tiens . [media],"[NULL,NULL,NULL]",2
+478,MOT,tu découpes encore ? [media],"[NULL,NULL,NULL]",1
+478,MOT,tu découpes encore ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+479,MOT,vas_y ! [media],"[NULL,NULL,NULL]",1
+479,MOT,vas_y ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+480,MOT,oui ! [media],"[NULL,NULL,NULL]",1
+480,MOT,oui ! [media],"[NULL,NULL,NULL]",2
+481,MOT,regarde ! [media],"[NULL,NULL,NULL]",1
+481,MOT,regarde ! [media],"[NULL,NULL,NULL]",2
+482,MOT,ohlàlà ! [media],"[NULL,NULL,NULL]",1
+482,MOT,ohlàlà ! [media],"[NULL,NULL,NULL]",2
+483,MOT,oh mais là tu déchires oui ! [media],"[NULL,NULL,NULL]",1
+483,MOT,oh mais là tu déchires oui ! [media],"[NULL,NULL,NULL]",2
+484,CHI,0. .,"[NULL,NULL,NULL]",1
+484,CHI,0. .,"[NULL,NULL,NULL]",2
+485,MOT,là c'est sûr que ça va plus . [media],"[NULL,NULL,NULL]",1
+485,MOT,là c'est sûr que ça va plus . [media],"[NULL,NULL,NULL]",2
+486,MOT,wouha ! [media],"[NULL,NULL,NULL]",1
+486,MOT,wouha ! [media],"[NULL,NULL,NULL]",2
+487,MOT,regarde . [media],"[NULL,NULL,NULL]",1
+487,MOT,regarde . [media],"[NULL,NULL,NULL]",2
+488,MOT,je vais essayer de faire un p bonhomme . [media],"[NULL,NULL,NULL]",1
+488,MOT,je vais essayer de faire un p bonhomme . [media],"[NULL,NULL,NULL]",2
+489,CHI,ma kiki . [media],"[NULL,NULL,NULL]",1
+489,CHI,ma kiki . [media],"[NULL,NULL,NULL]",2
+490,MOT,0. .,"[NULL,NULL,NULL]",1
+490,MOT,0. .,"[NULL,NULL,NULL]",2
+491,MOT,attends deux secondes . [media],"[NULL,NULL,NULL]",1
+491,MOT,attends deux secondes . [media],"[NULL,NULL,NULL]",2
+492,MOT,eh oh eh oh ! [media],"[NULL,NULL,NULL]",1
+492,MOT,eh oh eh oh ! [media],"[NULL,NULL,NULL]",2
+493,CHI,0. .,"[NULL,NULL,NULL]",1
+493,CHI,0. .,"[NULL,NULL,NULL]",2
+494,MOT,bon je vais en chercher d' autres ! [media],"[NULL,NULL,NULL]",1
+494,MOT,bon je vais en chercher d' autres ! [media],"[NULL,NULL,NULL]",2
+495,MOT,attends tiens ! [media],"[NULL,NULL,NULL]",1
+495,MOT,attends tiens ! [media],"[NULL,NULL,NULL]",2
+496,MOT,tiens . [media],"[NULL,NULL,NULL]",1
+496,MOT,tiens . [media],"[NULL,NULL,NULL]",2
+497,CHI,yyy .,"[NULL,NULL,NULL]",1
+497,CHI,yyy .,"[NULL,NULL,NULL]",2
+498,MOT,Théophile j'ai trouvé des super ciseaux ! [media],"[NULL,NULL,NULL]",1
+498,MOT,Théophile j'ai trouvé des super ciseaux ! [media],"[NULL,NULL,NULL]",2
+499,MOT,ça c'est mieux ! [media],"[NULL,NULL,NULL]",1
+499,MOT,ça c'est mieux ! [media],"[NULL,NULL,NULL]",2
+500,MOT,regarde t entends ? [media],"[NULL,NULL,NULL]",1
+500,MOT,regarde t entends ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+501,MOT,tictic ! [media],"[NULL,NULL,NULL]",1
+501,MOT,tictic ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+502,CHI,c'est petit ! [media],"[NULL,NULL,NULL]",1
+502,CHI,c'est petit ! [media],"[NULL,NULL,NULL]",2
+503,MOT,tiens essaye ça c'est mieux ça . [media],"[NULL,NULL,NULL]",1
+503,MOT,tiens essaye ça c'est mieux ça . [media],"[NULL,NULL,NULL]",2
+504,MOT,bon i sont plus gros et ça coupe mieux . [media],"[NULL,NULL,NULL]",1
+504,MOT,bon i sont plus gros et ça coupe mieux . [media],"[NULL,NULL,NULL]",2
+505,MOT,ça i coupent pas bien . [media],"[NULL,NULL,NULL]",1
+505,MOT,ça i coupent pas bien . [media],"[NULL,NULL,NULL]",2
+506,CHI,0. .,"[NULL,NULL,NULL]",1
+506,CHI,0. .,"[NULL,NULL,NULL]",2
+507,MOT,tu veux pas ? [media],"[NULL,NULL,NULL]",1
+507,MOT,tu veux pas ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+508,MOT,regarde ! [media],"[NULL,NULL,NULL]",1
+508,MOT,regarde ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+509,MOT,0. . [media],"[NULL,NULL,NULL]",1
+509,MOT,0. . [media],"[NULL,NULL,NULL]",2
+510,MOT,tiens vas_y ça ça marche très bien . [media],"[NULL,NULL,NULL]",1
+510,MOT,tiens vas_y ça ça marche très bien . [media],"[NULL,NULL,NULL]",2
+511,MOT,vas_y . coupe ! [media],"[NULL,NULL,NULL]",1
+511,MOT,vas_y . coupe ! [media],"[NULL,NULL,NULL]",2
+512,MOT,wouha t'as vu vas_y ! [media],"[NULL,NULL,NULL]",1
+512,MOT,wouha t'as vu vas_y ! [media],"[NULL,NULL,NULL]",2
+513,MOT,bravo ! [media],"[NULL,NULL,NULL]",1
+513,MOT,bravo ! [media],"[NULL,NULL,NULL]",2
+514,MOT,oui ! [media],"[NULL,NULL,NULL]",1
+514,MOT,oui ! [media],"[NULL,NULL,NULL]",2
+515,MOT,tic tic . appuie deux fois ! [media],"[NULL,NULL,NULL]",1
+515,MOT,tic tic . appuie deux fois ! [media],"[NULL,NULL,NULL]",2
+516,MOT,oh oui mais là là tu déchires Théophile là ! [media],"[NULL,NULL,NULL]",1
+516,MOT,oh oui mais là là tu déchires Théophile là ! [media],"[NULL,NULL,NULL]",2
+517,CHI,0. .,"[NULL,NULL,NULL]",1
+517,CHI,0. .,"[NULL,NULL,NULL]",2
+518,MOT,hum ? [media],"[NULL,NULL,NULL]",1
+518,MOT,hum ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+519,MOT,du coup ! [media],"[NULL,NULL,NULL]",1
+519,MOT,du coup ! [media],"[NULL,NULL,NULL]",2
+520,MOT,regarde . je vais essayer de faire le p bonhomme . [media],"[NULL,NULL,NULL]",1
+520,MOT,regarde . je vais essayer de faire le p bonhomme . [media],"[NULL,NULL,NULL]",2
+521,MOT,ça c'est vraiment nul ces ciseaux ! [media],"[NULL,NULL,NULL]",1
+521,MOT,ça c'est vraiment nul ces ciseaux ! [media],"[NULL,NULL,NULL]",2
+522,MOT,hum . [media],"[NULL,NULL,NULL]",1
+522,MOT,hum . [media],"[NULL,NULL,NULL]",2
+523,MOT,je peux te le piquer deux s ? [media],"[NULL,NULL,NULL]",1
+523,MOT,je peux te le piquer deux s ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+524,MOT,tiens . [media],"[NULL,NULL,NULL]",1
+524,MOT,tiens . [media],"[NULL,NULL,NULL]",2
+525,MOT,on échange ? [media],"[NULL,NULL,NULL]",1
+525,MOT,on échange ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+526,CHI,0. .,"[NULL,NULL,NULL]",1
+526,CHI,0. .,"[NULL,NULL,NULL]",2
+527,MOT,tiens Théophile . [media],"[NULL,NULL,NULL]",1
+527,MOT,tiens Théophile . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+528,MOT,oui ! [media],"[NULL,NULL,NULL]",1
+528,MOT,oui ! [media],"[NULL,NULL,NULL]",2
+529,CHI,0. .,"[NULL,NULL,NULL]",1
+529,CHI,0. .,"[NULL,NULL,NULL]",2
+530,MOT,bravo ! [media],"[NULL,NULL,NULL]",1
+530,MOT,bravo ! [media],"[NULL,NULL,NULL]",2
+531,MOT,tiens on échange ? [media],"[NULL,NULL,NULL]",1
+531,MOT,tiens on échange ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+532,MOT,je te passe le bleu . [media],"[NULL,NULL,NULL]",1
+532,MOT,je te passe le bleu . [media],"[PAR-Follow-up:Add-info,NULL,NULL]",2
+533,MOT,comme ça moi je vais te faire ton p pilote ! [media],"[NULL,NULL,NULL]",1
+533,MOT,comme ça moi je vais te faire ton p pilote ! [media],"[NULL,NULL,NULL]",2
+534,CHI,oh mes kikik ! [media],"[NULL,NULL,NULL]",1
+534,CHI,oh mes kikik ! [media],"[NULL,NULL,NULL]",2
+535,MOT,attends deux s deux s \<None\> regarde !,"[NULL,NULL,NULL]",1
+535,MOT,attends deux s deux s \<None\> regarde !,"[NULL,NULL,NULL]",2
+536,MOT,regarde ce qu'elle fait maman ! [media],"[NULL,NULL,NULL]",1
+536,MOT,regarde ce qu'elle fait maman ! [media],"[NULL,NULL,NULL]",2
+537,CHI,0. .,"[NULL,NULL,NULL]",1
+537,CHI,0. .,"[NULL,NULL,NULL]",2
+538,MOT,regarde . [media],"[NULL,NULL,NULL]",1
+538,MOT,regarde . [media],"[NULL,NULL,NULL]",2
+539,MOT,j'essaye de faire un p pilote ! [media],"[NULL,NULL,NULL]",1
+539,MOT,j'essaye de faire un p pilote ! [media],"[NULL,NULL,NULL]",2
+540,MOT,Théphile . pourquoi tu me le prêtes pas ? [media],"[NULL,NULL,NULL]",1
+540,MOT,Théphile . pourquoi tu me le prêtes pas ? [media],"[PAR-Initiation:Information-seeking:explanation-based,CHI-Response:No-response,NULL]",2
+541,FAT,www .,"[NULL,NULL,NULL]",1
+541,FAT,www .,"[NULL,NULL,NULL]",2
+542,MOT,les doigts hein par_contre ! [media],"[NULL,NULL,NULL]",1
+542,MOT,les doigts hein par_contre ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+543,MOT,oh ! [media],"[NULL,NULL,NULL]",1
+543,MOT,oh ! [media],"[NULL,NULL,NULL]",2
+544,CHI,0. .,"[NULL,NULL,NULL]",1
+544,CHI,0. .,"[NULL,NULL,NULL]",2
+545,MOT,j'ai bientôt plus de papier pour mon pilote moi ! [media],"[NULL,NULL,NULL]",1
+545,MOT,j'ai bientôt plus de papier pour mon pilote moi ! [media],"[NULL,NULL,NULL]",2
+546,MOT,oh la ! [media],"[NULL,NULL,NULL]",1
+546,MOT,oh la ! [media],"[NULL,NULL,NULL]",2
+547,CHI,0. .,"[NULL,NULL,NULL]",1
+547,CHI,0. .,"[NULL,NULL,NULL]",2
+548,MOT,ouh la la ! [media],"[NULL,NULL,NULL]",1
+548,MOT,ouh la la ! [media],"[NULL,NULL,NULL]",2
+549,MOT,on apprend à découper . [media],"[NULL,NULL,NULL]",1
+549,MOT,on apprend à découper . [media],"[NULL,NULL,NULL]",2
+550,FAT,c'est des ciseaux ça ! [media],"[NULL,NULL,NULL]",1
+550,FAT,c'est des ciseaux ça ! [media],"[NULL,NULL,NULL]",2
+551,MOT,ouais . [media],"[NULL,NULL,NULL]",1
+551,MOT,ouais . [media],"[NULL,NULL,NULL]",2
+552,MOT,mais c'est moi qui lui permet hein on le fait ensemble . [media],"[NULL,NULL,NULL]",1
+552,MOT,mais c'est moi qui lui permet hein on le fait ensemble . [media],"[NULL,NULL,NULL]",2
+553,FAT,ah ouais parce que \<self interruption\> [media],"[NULL,NULL,NULL]",1
+553,FAT,ah ouais parce que \<self interruption\> [media],"[NULL,NULL,NULL]",2
+554,MOT,mais il s débrouille bien hein ! [media],"[NULL,NULL,NULL]",1
+554,MOT,mais il s débrouille bien hein ! [media],"[NULL,NULL,NULL]",2
+555,MOT,tu me les rends quand_même Théophile ? [media],"[NULL,NULL,NULL]",1
+555,MOT,tu me les rends quand_même Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+556,CHI,0. .,"[NULL,NULL,NULL]",1
+556,CHI,0. .,"[NULL,NULL,NULL]",2
+557,CHI,clés ! [media],"[NULL,NULL,NULL]",1
+557,CHI,clés ! [media],"[NULL,NULL,NULL]",2
+558,CHI,les clés ! [media],"[NULL,NULL,NULL]",1
+558,CHI,les clés ! [media],"[NULL,NULL,NULL]",2
+559,FAT,ah oui . [media],"[NULL,NULL,NULL]",1
+559,FAT,ah oui . [media],"[NULL,NULL,NULL]",2
+560,CHI,les clés ! [media],"[NULL,NULL,NULL]",1
+560,CHI,les clés ! [media],"[NULL,NULL,NULL]",2
+561,CHI,clés ! [media],"[NULL,NULL,NULL]",1
+561,CHI,clés ! [media],"[NULL,NULL,NULL]",2
+562,CHI,e clés e clés ! [media],"[NULL,NULL,NULL]",1
+562,CHI,e clés e clés ! [media],"[NULL,NULL,NULL]",2
+563,CHI,e clés ! [media],"[NULL,NULL,NULL]",1
+563,CHI,e clés ! [media],"[NULL,NULL,NULL]",2
+564,FAT,merci \<None\> Théophile .,"[NULL,NULL,NULL]",1
+564,FAT,merci \<None\> Théophile .,"[NULL,NULL,NULL]",2
+565,CHI,0. . [media],"[NULL,NULL,NULL]",1
+565,CHI,0. . [media],"[NULL,NULL,NULL]",2
+566,MOT,Théophile tu me rends les ciseaux ? [media],"[NULL,NULL,NULL]",1
+566,MOT,Théophile tu me rends les ciseaux ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+567,FAT,aux ciseaux hein . [media],"[NULL,NULL,NULL]",1
+567,FAT,aux ciseaux hein . [media],"[NULL,NULL,NULL]",2
+568,MOT,il veut tout découper . [media],"[NULL,NULL,NULL]",1
+568,MOT,il veut tout découper . [media],"[NULL,NULL,NULL]",2
+569,FAT,non mais pas la voiture ! [media],"[NULL,NULL,NULL]",1
+569,FAT,non mais pas la voiture ! [media],"[NULL,NULL,NULL]",2
+570,CHI,0. .,"[NULL,NULL,NULL]",1
+570,CHI,0. .,"[NULL,NULL,NULL]",2
+571,MOT,0. . [media],"[NULL,NULL,NULL]",1
+571,MOT,0. . [media],"[NULL,NULL,NULL]",2
+572,MOT,pilote mécano . [media],"[NULL,NULL,NULL]",1
+572,MOT,pilote mécano . [media],"[NULL,NULL,NULL]",2
+573,CHI,0. .,"[NULL,NULL,NULL]",1
+573,CHI,0. .,"[NULL,NULL,NULL]",2
+574,MOT,Théophile ! [media],"[NULL,NULL,NULL]",1
+574,MOT,Théophile ! [media],"[NULL,NULL,NULL]",2
+575,MOT,ouais il préfère les grands . [media],"[NULL,NULL,NULL]",1
+575,MOT,ouais il préfère les grands . [media],"[NULL,NULL,NULL]",2
+576,MOT,ça_y_est . [media],"[NULL,NULL,NULL]",1
+576,MOT,ça_y_est . [media],"[NULL,NULL,NULL]",2
+577,CHI,0. .,"[NULL,NULL,NULL]",1
+577,CHI,0. .,"[NULL,NULL,NULL]",2
+578,MOT,et moi du coup je peux pas faire mon p pilote je voulais lui un p pilote pour sa voiture . [media],"[NULL,NULL,NULL]",1
+578,MOT,et moi du coup je peux pas faire mon p pilote je voulais lui un p pilote pour sa voiture . [media],"[NULL,NULL,NULL]",2
+579,MOT,xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+579,MOT,xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+580,FAT,ça abîme \<None\> ça Théophile ouh la la !,"[NULL,NULL,NULL]",1
+580,FAT,ça abîme \<None\> ça Théophile ouh la la !,"[NULL,NULL,NULL]",2
+581,CHI,0. .,"[NULL,NULL,NULL]",1
+581,CHI,0. .,"[NULL,NULL,NULL]",2
+582,FAT,c'est un peu comme des couteaux ça hein tu sais ! [media],"[NULL,NULL,NULL]",1
+582,FAT,c'est un peu comme des couteaux ça hein tu sais ! [media],"[NULL,NULL,NULL]",2
+583,MOT,oh ! [media],"[NULL,NULL,NULL]",1
+583,MOT,oh ! [media],"[NULL,NULL,NULL]",2
+584,CHI,0. .,"[NULL,NULL,NULL]",1
+584,CHI,0. .,"[NULL,NULL,NULL]",2
+585,MOT,oh ! [media],"[NULL,NULL,NULL]",1
+585,MOT,oh ! [media],"[NULL,NULL,NULL]",2
+586,MOT,pourquoi tu le \<self interruption question\>,"[NULL,NULL,NULL]",1
+586,MOT,pourquoi tu le \<self interruption question\>,"[NULL,NULL,NULL]",2
+587,MOT,et alors Olivier ? [media],"[NULL,NULL,NULL]",1
+587,MOT,et alors Olivier ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+588,MOT,et Olivier alors ? [media],"[NULL,NULL,NULL]",1
+588,MOT,et Olivier alors ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+589,MOT,oh ! [media],"[NULL,NULL,NULL]",1
+589,MOT,oh ! [media],"[NULL,NULL,NULL]",2
+590,CHI,0. .,"[NULL,NULL,NULL]",1
+590,CHI,0. .,"[NULL,NULL,NULL]",2
+591,MOT,et Olivier ? [media],"[NULL,NULL,NULL]",1
+591,MOT,et Olivier ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+592,MOT,tu lui ouvres ? [media],"[NULL,NULL,NULL]",1
+592,MOT,tu lui ouvres ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+593,MOT,tu ouvres à Olivier ? [media],"[NULL,NULL,NULL]",1
+593,MOT,tu ouvres à Olivier ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+594,MOT,Théophile ? [media],"[NULL,NULL,NULL]",1
+594,MOT,Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+595,MOT,coucou ! [media],"[NULL,NULL,NULL]",1
+595,MOT,coucou ! [media],"[NULL,NULL,NULL]",2
+596,MOT,ah non non Théophile ah non non non je je te le reprends . si tu f faut pas faire n'importe_quoi . tiens . [media],"[NULL,NULL,NULL]",1
+596,MOT,ah non non Théophile ah non non non je je te le reprends . si tu f faut pas faire n'importe_quoi . tiens . [media],"[NULL,NULL,NULL]",2
+597,FAT,[quote] non non non . non .,"[NULL,NULL,NULL]",1
+597,FAT,[quote] non non non . non .,"[NULL,NULL,NULL]",2
+598,CHI,[quote] kikik .,"[NULL,NULL,NULL]",1
+598,CHI,[quote] kikik .,"[NULL,NULL,NULL]",2
+600,MOT,prends les petits . [media],"[NULL,NULL,NULL]",1
+600,MOT,prends les petits . [media],"[NULL,NULL,NULL]",2
+601,CHI,émé .,"[NULL,NULL,NULL]",1
+601,CHI,émé .,"[NULL,NULL,NULL]",2
+602,CHI,non ! [media],"[NULL,NULL,NULL]",1
+602,CHI,non ! [media],"[NULL,NULL,NULL]",2
+603,MOT,ah bah Théophile eh eh eh ! [media],"[NULL,NULL,NULL]",1
+603,MOT,ah bah Théophile eh eh eh ! [media],"[NULL,NULL,NULL]",2
+604,FAT,non non Théophile .,"[NULL,NULL,NULL]",1
+604,FAT,non non Théophile .,"[NULL,NULL,NULL]",2
+605,CHI,0. .,"[NULL,NULL,NULL]",1
+605,CHI,0. .,"[NULL,NULL,NULL]",2
+606,CHI,mes kiki ! [media],"[NULL,NULL,NULL]",1
+606,CHI,mes kiki ! [media],"[NULL,NULL,NULL]",2
+607,FAT,[quote] xxx .,"[NULL,NULL,NULL]",1
+607,FAT,[quote] xxx .,"[NULL,NULL,NULL]",2
+608,MOT,eh Théophile les ciseaux \<interruption\> [media],"[NULL,NULL,NULL]",1
+608,MOT,eh Théophile les ciseaux \<interruption\> [media],"[NULL,NULL,NULL]",2
+609,FAT,on rabote pas les portes . non .,"[NULL,NULL,NULL]",1
+609,FAT,on rabote pas les portes . non .,"[NULL,NULL,NULL]",2
+610,CHI,mes kiki !,"[NULL,NULL,NULL]",1
+610,CHI,mes kiki !,"[NULL,NULL,NULL]",2
+611,MOT,Théophile ! [media],"[NULL,NULL,NULL]",1
+611,MOT,Théophile ! [media],"[NULL,NULL,NULL]",2
+612,FAT,c'est juste pour couper le papier .,"[NULL,NULL,NULL]",1
+612,FAT,c'est juste pour couper le papier .,"[NULL,NULL,NULL]",2
+613,CHI,mes kiki !,"[NULL,NULL,NULL]",1
+613,CHI,mes kiki !,"[NULL,NULL,NULL]",2
+614,MOT,eh eh les tictic c'est pour le papier ! [media],"[NULL,NULL,NULL]",1
+614,MOT,eh eh les tictic c'est pour le papier ! [media],"[NULL,NULL,NULL]",2
+615,MOT,Théophile ! [media],"[NULL,NULL,NULL]",1
+615,MOT,Théophile ! [media],"[NULL,NULL,NULL]",2
+616,CHI,mes kiki ! [media],"[NULL,NULL,NULL]",1
+616,CHI,mes kiki ! [media],"[NULL,NULL,NULL]",2
+617,MOT,c'est pour la papier ! [media],"[NULL,NULL,NULL]",1
+617,MOT,c'est pour la papier ! [media],"[NULL,NULL,NULL]",2
+618,MOT,d'accord ? [media],"[NULL,NULL,NULL]",1
+618,MOT,d'accord ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+619,MOT,papier . [media],"[NULL,NULL,NULL]",1
+619,MOT,papier . [media],"[NULL,NULL,NULL]",2
+620,CHI,e kiki .,"[NULL,NULL,NULL]",1
+620,CHI,e kiki .,"[NULL,NULL,NULL]",2
+621,MOT,je te le rends seulement pour le papier . [media],"[NULL,NULL,NULL]",1
+621,MOT,je te le rends seulement pour le papier . [media],"[NULL,NULL,NULL]",2
+622,MOT,d'accord ? [media],"[NULL,NULL,NULL]",1
+622,MOT,d'accord ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+623,MOT,tiens . [media],"[NULL,NULL,NULL]",1
+623,MOT,tiens . [media],"[NULL,NULL,NULL]",2
+624,MOT,je te passe ceux-là . [media],"[NULL,NULL,NULL]",1
+624,MOT,je te passe ceux-là . [media],"[NULL,NULL,NULL]",2
+625,MOT,non non attends . [media],"[NULL,NULL,NULL]",1
+625,MOT,non non attends . [media],"[NULL,NULL,NULL]",2
+626,MOT,mais j'en ai besoin . regarde . [media],"[NULL,NULL,NULL]",1
+626,MOT,mais j'en ai besoin . regarde . [media],"[NULL,NULL,NULL]",2
+627,MOT,regarde deux s . regarde . [media],"[NULL,NULL,NULL]",1
+627,MOT,regarde deux s . regarde . [media],"[NULL,NULL,NULL]",2
+628,CHI,ki .,"[NULL,NULL,NULL]",1
+628,CHI,ki .,"[NULL,NULL,NULL]",2
+629,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+629,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+630,MOT,attends !,"[NULL,NULL,NULL]",1
+630,MOT,attends !,"[NULL,NULL,NULL]",2
+631,MOT,tes tictic c'est pas tes tictic ! [media],"[NULL,NULL,NULL]",1
+631,MOT,tes tictic c'est pas tes tictic ! [media],"[NULL,NULL,NULL]",2
+632,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+632,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+633,MOT,attends Théophile ! [media],"[NULL,NULL,NULL]",1
+633,MOT,attends Théophile ! [media],"[NULL,NULL,NULL]",2
+634,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+634,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+635,MOT,eh c'est nos tictic !,"[NULL,NULL,NULL]",1
+635,MOT,eh c'est nos tictic !,"[NULL,NULL,NULL]",2
+636,MOT,attends . [media],"[NULL,NULL,NULL]",1
+636,MOT,attends . [media],"[NULL,NULL,NULL]",2
+637,FAT,les doigts . [media],"[NULL,NULL,NULL]",1
+637,FAT,les doigts . [media],"[NULL,NULL,NULL]",2
+638,MOT,attends . regarde ce qu'elle fait maman ! [media],"[NULL,NULL,NULL]",1
+638,MOT,attends . regarde ce qu'elle fait maman ! [media],"[NULL,NULL,NULL]",2
+639,MOT,Théophile ! [media],"[NULL,NULL,NULL]",1
+639,MOT,Théophile ! [media],"[NULL,NULL,NULL]",2
+640,CHI,0. .,"[NULL,NULL,NULL]",1
+640,CHI,0. .,"[NULL,NULL,NULL]",2
+641,MOT,boh ! [media],"[NULL,NULL,NULL]",1
+641,MOT,boh ! [media],"[NULL,NULL,NULL]",2
+642,CHI,0. .,"[NULL,NULL,NULL]",1
+642,CHI,0. .,"[NULL,NULL,NULL]",2
+643,FAT,les \<None\> ... [media],"[NULL,NULL,NULL]",1
+643,FAT,les \<None\> ... [media],"[NULL,NULL,NULL]",2
+644,MOT,t es coquin \<None\> .,"[NULL,NULL,NULL]",1
+644,MOT,t es coquin \<None\> .,"[NULL,NULL,NULL]",2
+645,MOT,t es coquin . [media],"[NULL,NULL,NULL]",1
+645,MOT,t es coquin . [media],"[NULL,NULL,NULL]",2
+646,CHI,0. .,"[NULL,NULL,NULL]",1
+646,CHI,0. .,"[NULL,NULL,NULL]",2
+647,MOT,t es coquin coquin coquin . [media],"[NULL,NULL,NULL]",1
+647,MOT,t es coquin coquin coquin . [media],"[NULL,NULL,NULL]",2
+648,MOT,t es coquin . [media],"[NULL,NULL,NULL]",1
+648,MOT,t es coquin . [media],"[NULL,NULL,NULL]",2
+649,MOT,non ! [media],"[NULL,NULL,NULL]",1
+649,MOT,non ! [media],"[NULL,NULL,NULL]",2
+650,MOT,non non non non . [media],"[NULL,NULL,NULL]",1
+650,MOT,non non non non . [media],"[NULL,NULL,NULL]",2
+651,CHI,0. .,"[NULL,NULL,NULL]",1
+651,CHI,0. .,"[NULL,NULL,NULL]",2
+652,MOT,Théophile ! [media],"[NULL,NULL,NULL]",1
+652,MOT,Théophile ! [media],"[NULL,NULL,NULL]",2
+653,FAT,Théophile c'est dangereux \<None\> . [media],"[NULL,NULL,NULL]",1
+653,FAT,Théophile c'est dangereux \<None\> . [media],"[NULL,NULL,NULL]",2
+654,CHI,\<None\> \<None\> \<None\> \<None\> .,"[NULL,NULL,NULL]",1
+654,CHI,\<None\> \<None\> \<None\> \<None\> .,"[NULL,NULL,NULL]",2
+655,FAT,si tu le fais tu le fais avec maman . [media],"[NULL,NULL,NULL]",1
+655,FAT,si tu le fais tu le fais avec maman . [media],"[NULL,NULL,NULL]",2
+656,MOT,Théophile \<None\> ! [media],"[NULL,NULL,NULL]",1
+656,MOT,Théophile \<None\> ! [media],"[NULL,NULL,NULL]",2
+657,FAT,regarde \<None\> tes doigts regarde tes doigts !,"[NULL,NULL,NULL]",1
+657,FAT,regarde \<None\> tes doigts regarde tes doigts !,"[NULL,NULL,NULL]",2
+658,CHI,0. .,"[NULL,NULL,NULL]",1
+658,CHI,0. .,"[NULL,NULL,NULL]",2
+659,MOT,Théophile arrête ! [media],"[NULL,NULL,NULL]",1
+659,MOT,Théophile arrête ! [media],"[NULL,NULL,NULL]",2
+660,MOT,xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+660,MOT,xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+661,FAT,les yeux \<None\> tout ça . non non non Théophile !,"[NULL,NULL,NULL]",1
+661,FAT,les yeux \<None\> tout ça . non non non Théophile !,"[NULL,NULL,NULL]",2
+662,CHI,0. .,"[NULL,NULL,NULL]",1
+662,CHI,0. .,"[NULL,NULL,NULL]",2
+663,CHI,non . [media],"[NULL,NULL,NULL]",1
+663,CHI,non . [media],"[NULL,NULL,NULL]",2
+664,FAT,non \<None\> .,"[NULL,NULL,NULL]",1
+664,FAT,non \<None\> .,"[NULL,NULL,NULL]",2
+665,MOT,bah alors ? [media],"[NULL,NULL,NULL]",1
+665,MOT,bah alors ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+666,FAT,Théophile arrête . [media],"[NULL,NULL,NULL]",1
+666,FAT,Théophile arrête . [media],"[NULL,NULL,NULL]",2
+667,MOT,Théophile deux s ! [media],"[NULL,NULL,NULL]",1
+667,MOT,Théophile deux s ! [media],"[NULL,NULL,NULL]",2
+668,MOT,laisse moi finir mon \<self interruption\> [media],"[NULL,NULL,NULL]",1
+668,MOT,laisse moi finir mon \<self interruption\> [media],"[NULL,NULL,NULL]",2
+669,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",1
+669,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",2
+670,MOT,hé hé hé bah ! [media],"[NULL,NULL,NULL]",1
+670,MOT,hé hé hé bah ! [media],"[NULL,NULL,NULL]",2
+671,CHI,0. .,"[NULL,NULL,NULL]",1
+671,CHI,0. .,"[NULL,NULL,NULL]",2
+672,MOT,t es coquin ! [media],"[NULL,NULL,NULL]",1
+672,MOT,t es coquin ! [media],"[NULL,NULL,NULL]",2
+673,CHI,0. .,"[NULL,NULL,NULL]",1
+673,CHI,0. .,"[NULL,NULL,NULL]",2
+674,MOT,c'est quoi ces façons ? [media],"[NULL,NULL,NULL]",1
+674,MOT,c'est quoi ces façons ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+675,MOT,hé c'est quoi ces façons ! [media],"[NULL,NULL,NULL]",1
+675,MOT,hé c'est quoi ces façons ! [media],"[NULL,NULL,NULL]",2
+676,MOT,t en as regarde je t'en donne ! [media],"[NULL,NULL,NULL]",1
+676,MOT,t en as regarde je t'en donne ! [media],"[NULL,NULL,NULL]",2
+677,CHI,0. .,"[NULL,NULL,NULL]",1
+677,CHI,0. .,"[NULL,NULL,NULL]",2
+678,CHI,eh non ! [media],"[NULL,NULL,NULL]",1
+678,CHI,eh non ! [media],"[NULL,NULL,NULL]",2
+679,MOT,toi tu prends les petits . [media],"[NULL,NULL,NULL]",1
+679,MOT,toi tu prends les petits . [media],"[NULL,NULL,NULL]",2
+680,MOT,tu prends les petits ! [media],"[NULL,NULL,NULL]",1
+680,MOT,tu prends les petits ! [media],"[NULL,NULL,NULL]",2
+681,CHI,e kiki ! [media],"[NULL,NULL,NULL]",1
+681,CHI,e kiki ! [media],"[NULL,NULL,NULL]",2
+682,MOT,mais c'est des ciseaux ça aussi ! [media],"[NULL,NULL,NULL]",1
+682,MOT,mais c'est des ciseaux ça aussi ! [media],"[NULL,NULL,NULL]",2
+683,CHI,0. .,"[NULL,NULL,NULL]",1
+683,CHI,0. .,"[NULL,NULL,NULL]",2
+684,FAT,non non c'est pas pour toi les ciseaux \<None\> . [media],"[NULL,NULL,NULL]",1
+684,FAT,non non c'est pas pour toi les ciseaux \<None\> . [media],"[NULL,NULL,NULL]",2
+685,MOT,tu peux pas faire diversion \<None\> ?,"[NULL,NULL,NULL]",1
+685,MOT,tu peux pas faire diversion \<None\> ?,"[NULL,NULL,NULL]",2
+686,MOT,tiens . [media],"[NULL,NULL,NULL]",1
+686,MOT,tiens . [media],"[NULL,NULL,NULL]",2
+687,CHI,non ! [media],"[NULL,NULL,NULL]",1
+687,CHI,non ! [media],"[NULL,NULL,NULL]",2
+688,MOT,mais Théophile je t'en prête \<None\> ! [media],"[NULL,NULL,NULL]",1
+688,MOT,mais Théophile je t'en prête \<None\> ! [media],"[NULL,NULL,NULL]",2
+689,FAT,et t es un peu capricieux \<None\> Théophile là hein .,"[NULL,NULL,NULL]",1
+689,FAT,et t es un peu capricieux \<None\> Théophile là hein .,"[NULL,NULL,NULL]",2
+690,MOT,r je t'en prête ! [media],"[NULL,NULL,NULL]",1
+690,MOT,r je t'en prête ! [media],"[NULL,NULL,NULL]",2
+691,CHI,0. .,"[NULL,NULL,NULL]",1
+691,CHI,0. .,"[NULL,NULL,NULL]",2
+692,FAT,0. .,"[NULL,NULL,NULL]",1
+692,FAT,0. .,"[NULL,NULL,NULL]",2
+693,FAT,hé ! [media],"[NULL,NULL,NULL]",1
+693,FAT,hé ! [media],"[NULL,NULL,NULL]",2
+694,CHI,0. non ! [media],"[NULL,NULL,NULL]",1
+694,CHI,0. non ! [media],"[NULL,NULL,NULL]",2
+695,FAT,oh la la !,"[NULL,NULL,NULL]",1
+695,FAT,oh la la !,"[NULL,NULL,NULL]",2
+696,FAT,non non non non non . ca y est . [media],"[NULL,NULL,NULL]",1
+696,FAT,non non non non non . ca y est . [media],"[NULL,NULL,NULL]",2
+697,MOT,[quote] on a intérêt à lui faire un joli pilote hein !,"[NULL,NULL,NULL]",1
+697,MOT,[quote] on a intérêt à lui faire un joli pilote hein !,"[NULL,NULL,NULL]",2
+698,CHI,non ! [media],"[NULL,NULL,NULL]",1
+698,CHI,non ! [media],"[NULL,NULL,NULL]",2
+699,FAT,quoi non ? [media],"[NULL,NULL,NULL]",1
+699,FAT,quoi non ? [media],"[PAR-Initiation:Information-seeking:explanation-based,CHI-Response:No-response,NULL]",2
+700,FAT,quoi non ? [media],"[NULL,NULL,NULL]",1
+700,FAT,quoi non ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:explanation-based,CHI-Response:No-response]",2
+701,FAT,ah ! [media],"[NULL,NULL,NULL]",1
+701,FAT,ah ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+702,FAT,ah ! [media],"[NULL,NULL,NULL]",1
+702,FAT,ah ! [media],"[NULL,NULL,NULL]",2
+703,CHI,0. .,"[NULL,NULL,NULL]",1
+703,CHI,0. .,"[NULL,NULL,NULL]",2
+704,FAT,ah moi j'aime pas ça ! [media],"[NULL,NULL,NULL]",1
+704,FAT,ah moi j'aime pas ça ! [media],"[NULL,NULL,NULL]",2
+705,FAT,moi j'aime pas ! [media],"[NULL,NULL,NULL]",1
+705,FAT,moi j'aime pas ! [media],"[NULL,NULL,NULL]",2
+706,FAT,j'aime pas les xxx . [media],"[NULL,NULL,NULL]",1
+706,FAT,j'aime pas les xxx . [media],"[NULL,NULL,NULL]",2
+707,CHI,0. .,"[NULL,NULL,NULL]",1
+707,CHI,0. .,"[NULL,NULL,NULL]",2
+708,FAT,quoi non ? [media],"[NULL,NULL,NULL]",1
+708,FAT,quoi non ? [media],"[PAR-Initiation:Information-seeking:explanation-based,CHI-Response:No-response,NULL]",2
+709,FAT,ah ! [media],"[NULL,NULL,NULL]",1
+709,FAT,ah ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+710,FAT,poum ! [media],"[NULL,NULL,NULL]",1
+710,FAT,poum ! [media],"[NULL,NULL,NULL]",2
+711,CHI,0. .,"[NULL,NULL,NULL]",1
+711,CHI,0. .,"[NULL,NULL,NULL]",2
+712,FAT,qu'est-ce qu' y a Théophile xxx ? [media],"[NULL,NULL,NULL]",1
+712,FAT,qu'est-ce qu' y a Théophile xxx ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+713,CHI,0. .,"[NULL,NULL,NULL]",1
+713,CHI,0. .,"[NULL,NULL,NULL]",2
+714,FAT,t es fatigué encore ? [media],"[NULL,NULL,NULL]",1
+714,FAT,t es fatigué encore ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+715,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+715,CHI,\<None\> \<None\> \<None\> ! [media],"[CHI-Response:No-label,NULL,NULL]",2
+716,FAT,les grands tictic c'est dangereux Théophile ! [media],"[NULL,NULL,NULL]",1
+716,FAT,les grands tictic c'est dangereux Théophile ! [media],"[PAR-Follow-up:Add-info,NULL,NULL]",2
+717,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+717,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+718,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+718,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+719,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+719,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+720,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+720,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+721,FAT,[quote] non c'est dangereux les grands tictic .,"[NULL,NULL,NULL]",1
+721,FAT,[quote] non c'est dangereux les grands tictic .,"[NULL,NULL,NULL]",2
+722,FAT,ça coupe . [media],"[NULL,NULL,NULL]",1
+722,FAT,ça coupe . [media],"[NULL,NULL,NULL]",2
+723,MOT,pas tout seul ! [media],"[NULL,NULL,NULL]",1
+723,MOT,pas tout seul ! [media],"[NULL,NULL,NULL]",2
+724,CHI,0. .,"[NULL,NULL,NULL]",1
+724,CHI,0. .,"[NULL,NULL,NULL]",2
+725,MOT,pas tout seul Théophile ! [media],"[NULL,NULL,NULL]",1
+725,MOT,pas tout seul Théophile ! [media],"[NULL,NULL,NULL]",2
+726,CHI,e kiki ! [media],"[NULL,NULL,NULL]",1
+726,CHI,e kiki ! [media],"[NULL,NULL,NULL]",2
+727,MOT,[quote] t es pas rigolo .,"[NULL,NULL,NULL]",1
+727,MOT,[quote] t es pas rigolo .,"[NULL,NULL,NULL]",2
+728,MOT,je peux pas te prêter quelque chose tu veux toujours le garder ! [media],"[NULL,NULL,NULL]",1
+728,MOT,je peux pas te prêter quelque chose tu veux toujours le garder ! [media],"[NULL,NULL,NULL]",2
+729,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+729,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+730,CHI,\<None\> \<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+730,CHI,\<None\> \<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+731,FAT,[quote] xxx .,"[NULL,NULL,NULL]",1
+731,FAT,[quote] xxx .,"[NULL,NULL,NULL]",2
+732,MOT,regarde ! [media],"[NULL,NULL,NULL]",1
+732,MOT,regarde ! [media],"[NULL,NULL,NULL]",2
+733,MOT,regarde ! [media],"[NULL,NULL,NULL]",1
+733,MOT,regarde ! [media],"[NULL,NULL,NULL]",2
+734,MOT,regarde ce qu'elle a fait maman avec les tictic . [media],"[NULL,NULL,NULL]",1
+734,MOT,regarde ce qu'elle a fait maman avec les tictic . [media],"[NULL,NULL,NULL]",2
+735,MOT,les tictic c'est pas important . [media],"[NULL,NULL,NULL]",1
+735,MOT,les tictic c'est pas important . [media],"[NULL,NULL,NULL]",2
+736,MOT,regarde ! [media],"[NULL,NULL,NULL]",1
+736,MOT,regarde ! [media],"[NULL,NULL,NULL]",2
+737,MOT,regarde regarde . [media],"[NULL,NULL,NULL]",1
+737,MOT,regarde regarde . [media],"[NULL,NULL,NULL]",2
+738,MOT,regarde ce qu'elle a fait . [media],"[NULL,NULL,NULL]",1
+738,MOT,regarde ce qu'elle a fait . [media],"[NULL,NULL,NULL]",2
+739,MOT,elle a fait un pilote ! [media],"[NULL,NULL,NULL]",1
+739,MOT,elle a fait un pilote ! [media],"[NULL,NULL,NULL]",2
+740,MOT,regarde le pilote \<None\> ! [media],"[NULL,NULL,NULL]",1
+740,MOT,regarde le pilote \<None\> ! [media],"[NULL,NULL,NULL]",2
+741,CHI,e kiki !,"[NULL,NULL,NULL]",1
+741,CHI,e kiki !,"[NULL,NULL,NULL]",2
+742,CHI,0. e kiki ! [media],"[NULL,NULL,NULL]",1
+742,CHI,0. e kiki ! [media],"[NULL,NULL,NULL]",2
+743,MOT,regarde ! [media],"[NULL,NULL,NULL]",1
+743,MOT,regarde ! [media],"[NULL,NULL,NULL]",2
+744,CHI,0. .,"[NULL,NULL,NULL]",1
+744,CHI,0. .,"[NULL,NULL,NULL]",2
+745,MOT,j'ai un un pilote pour toi ! [media],"[NULL,NULL,NULL]",1
+745,MOT,j'ai un un pilote pour toi ! [media],"[NULL,NULL,NULL]",2
+746,CHI,0. .,"[NULL,NULL,NULL]",1
+746,CHI,0. .,"[NULL,NULL,NULL]",2
+747,MOT,regarde regarde regarde . [media],"[NULL,NULL,NULL]",1
+747,MOT,regarde regarde regarde . [media],"[NULL,NULL,NULL]",2
+748,MOT,regarde le pilote \<None\> ! [media],"[NULL,NULL,NULL]",1
+748,MOT,regarde le pilote \<None\> ! [media],"[NULL,NULL,NULL]",2
+749,FAT,c'est quoi \<None\> il a une voiture encore ?,"[NULL,NULL,NULL]",1
+749,FAT,c'est quoi \<None\> il a une voiture encore ?,"[NULL,NULL,NULL]",2
+750,MOT,c'est le cadeau de madame Mitto . [media],"[NULL,NULL,NULL]",1
+750,MOT,c'est le cadeau de madame Mitto . [media],"[NULL,NULL,NULL]",2
+751,FAT,eh ben ! [media],"[NULL,NULL,NULL]",1
+751,FAT,eh ben ! [media],"[NULL,NULL,NULL]",2
+752,MOT,regarde . regarde les jambes elles passent et tout ! [media],"[NULL,NULL,NULL]",1
+752,MOT,regarde . regarde les jambes elles passent et tout ! [media],"[NULL,NULL,NULL]",2
+753,MOT,t as vu ça ! [media],"[NULL,NULL,NULL]",1
+753,MOT,t as vu ça ! [media],"[NULL,NULL,NULL]",2
+754,MOT,c'est pour toi \<None\> ! [media],"[NULL,NULL,NULL]",1
+754,MOT,c'est pour toi \<None\> ! [media],"[NULL,NULL,NULL]",2
+755,CHI,e kiki !,"[NULL,NULL,NULL]",1
+755,CHI,e kiki !,"[NULL,NULL,NULL]",2
+756,MOT,c'est pour toi \<None\> ! [media],"[NULL,NULL,NULL]",1
+756,MOT,c'est pour toi \<None\> ! [media],"[NULL,NULL,NULL]",2
+757,CHI,e kiki !,"[NULL,NULL,NULL]",1
+757,CHI,e kiki !,"[NULL,NULL,NULL]",2
+758,MOT,non Théophile ! [media],"[NULL,NULL,NULL]",1
+758,MOT,non Théophile ! [media],"[NULL,NULL,NULL]",2
+759,FAT,xxx .,"[NULL,NULL,NULL]",1
+759,FAT,xxx .,"[NULL,NULL,NULL]",2
+760,CHI,0. .,"[NULL,NULL,NULL]",1
+760,CHI,0. .,"[NULL,NULL,NULL]",2
+761,MOT,regarde ! [media],"[NULL,NULL,NULL]",1
+761,MOT,regarde ! [media],"[NULL,NULL,NULL]",2
+762,CHI,0. .,"[NULL,NULL,NULL]",1
+762,CHI,0. .,"[NULL,NULL,NULL]",2
+763,MOT,regarde le pilote ! [media],"[NULL,NULL,NULL]",1
+763,MOT,regarde le pilote ! [media],"[NULL,NULL,NULL]",2
+764,CHI,non ! [media],"[NULL,NULL,NULL]",1
+764,CHI,non ! [media],"[NULL,NULL,NULL]",2
+765,MOT,bah !,"[NULL,NULL,NULL]",1
+765,MOT,bah !,"[NULL,NULL,NULL]",2
+766,MOT,bah oh t as entendu ? [media],"[NULL,NULL,NULL]",1
+766,MOT,bah oh t as entendu ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+767,MOT,t as entendu ? [media],"[NULL,NULL,NULL]",1
+767,MOT,t as entendu ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+768,MOT,oh . oh oh ! [media],"[NULL,NULL,NULL]",1
+768,MOT,oh . oh oh ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+769,MOT,t entends ? [media],"[NULL,NULL,NULL]",1
+769,MOT,t entends ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+770,MOT,oh ! [media],"[NULL,NULL,NULL]",1
+770,MOT,oh ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+771,MOT,t as vu ça ? [media],"[NULL,NULL,NULL]",1
+771,MOT,t as vu ça ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+772,MOT,oh ! [media],"[NULL,NULL,NULL]",1
+772,MOT,oh ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+773,CHI,e kiki ! [media],"[NULL,NULL,NULL]",1
+773,CHI,e kiki ! [media],"[NULL,NULL,NULL]",2
+774,CHI,e kiki ! [media],"[NULL,NULL,NULL]",1
+774,CHI,e kiki ! [media],"[NULL,NULL,NULL]",2
+775,MOT,regarde écoute écoute écoute !,"[NULL,NULL,NULL]",1
+775,MOT,regarde écoute écoute écoute !,"[NULL,NULL,NULL]",2
+776,MOT,regarde \<None\> ! [media],"[NULL,NULL,NULL]",1
+776,MOT,regarde \<None\> ! [media],"[NULL,NULL,NULL]",2
+777,CHI,kiki !,"[NULL,NULL,NULL]",1
+777,CHI,kiki !,"[NULL,NULL,NULL]",2
+778,CHI,non ! [media],"[NULL,NULL,NULL]",1
+778,CHI,non ! [media],"[NULL,NULL,NULL]",2
+779,MOT,elle te parle . elle te parle la voiture ! [media],"[NULL,NULL,NULL]",1
+779,MOT,elle te parle . elle te parle la voiture ! [media],"[NULL,NULL,NULL]",2
+780,CHI,non ! [media],"[NULL,NULL,NULL]",1
+780,CHI,non ! [media],"[NULL,NULL,NULL]",2
+781,FAT,ah ! [media],"[NULL,NULL,NULL]",1
+781,FAT,ah ! [media],"[NULL,NULL,NULL]",2
+782,FAT,tu arrêtes tes caprices là ? [media],"[NULL,NULL,NULL]",1
+782,FAT,tu arrêtes tes caprices là ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+783,CHI,non ! [media],"[NULL,NULL,NULL]",1
+783,CHI,non ! [media],"[NULL,NULL,NULL]",2
+784,FAT,ils t'ont rendu capricieux hein . papy mamy ! [media],"[NULL,NULL,NULL]",1
+784,FAT,ils t'ont rendu capricieux hein . papy mamy ! [media],"[NULL,NULL,NULL]",2
+785,CHI,0. .,"[NULL,NULL,NULL]",1
+785,CHI,0. .,"[NULL,NULL,NULL]",2
+786,FAT,t étais pas comme ça avant ! [media],"[NULL,NULL,NULL]",1
+786,FAT,t étais pas comme ça avant ! [media],"[NULL,NULL,NULL]",2
+787,MOT,faut faire diversion là . [media],"[NULL,NULL,NULL]",1
+787,MOT,faut faire diversion là . [media],"[NULL,NULL,NULL]",2
+788,FAT,allez on va s doucher ! [media],"[NULL,NULL,NULL]",1
+788,FAT,allez on va s doucher ! [media],"[NULL,NULL,NULL]",2
+790,MOT,t es sûr ? [media],"[NULL,NULL,NULL]",1
+790,MOT,t es sûr ? [media],"[NULL,NULL,NULL]",2
+791,FAT,ben non ? [media],"[NULL,NULL,NULL]",1
+791,FAT,ben non ? [media],"[NULL,NULL,NULL]",2
+792,FAT,xxx heures c'est bien ? [media],"[NULL,NULL,NULL]",1
+792,FAT,xxx heures c'est bien ? [media],"[NULL,NULL,NULL]",2
+793,MOT,faut faire diversion ! [media],"[NULL,NULL,NULL]",1
+793,MOT,faut faire diversion ! [media],"[NULL,NULL,NULL]",2
+794,MOT,je lui montre la xxx . [media],"[NULL,NULL,NULL]",1
+794,MOT,je lui montre la xxx . [media],"[NULL,NULL,NULL]",2
+795,FAT,Théophile oh oh oh ! [media],"[NULL,NULL,NULL]",1
+795,FAT,Théophile oh oh oh ! [media],"[NULL,NULL,NULL]",2
+796,FAT,t es fatigué ou . t es devenu capricieux ? [media],"[NULL,NULL,NULL]",1
+796,FAT,t es fatigué ou . t es devenu capricieux ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+797,FAT,hum ? [media],"[NULL,NULL,NULL]",1
+797,FAT,hum ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+798,CHI,0. . [media],"[NULL,NULL,NULL]",1
+798,CHI,0. . [media],"[NULL,NULL,NULL]",2
+799,FAT,hé il y a autre chose dans la vie que les ciseaux hein !,"[NULL,NULL,NULL]",1
+799,FAT,hé il y a autre chose dans la vie que les ciseaux hein !,"[NULL,NULL,NULL]",2
+800,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+800,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+801,FAT,xxx . [media],"[NULL,NULL,NULL]",1
+801,FAT,xxx . [media],"[NULL,NULL,NULL]",2
+802,CHI,kiki ! [media],"[NULL,NULL,NULL]",1
+802,CHI,kiki ! [media],"[NULL,NULL,NULL]",2
+803,FAT,Théophile les grands \<self interruption\> [media],"[NULL,NULL,NULL]",1
+803,FAT,Théophile les grands \<self interruption\> [media],"[NULL,NULL,NULL]",2
+804,FAT,Théophile écoute moi ! [media],"[NULL,NULL,NULL]",1
+804,FAT,Théophile écoute moi ! [media],"[NULL,NULL,NULL]",2
+805,FAT,les grands tictic . c'est dangereux \<None\> . [media],"[NULL,NULL,NULL]",1
+805,FAT,les grands tictic . c'est dangereux \<None\> . [media],"[NULL,NULL,NULL]",2
+806,CHI,\<None\> \<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",1
+806,CHI,\<None\> \<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",2
+807,CHI,e titi ! [media],"[NULL,NULL,NULL]",1
+807,CHI,e titi ! [media],"[NULL,NULL,NULL]",2
+808,FAT,tu peux te \<None\> couper avec .,"[NULL,NULL,NULL]",1
+808,FAT,tu peux te \<None\> couper avec .,"[NULL,NULL,NULL]",2
+809,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+809,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+810,FAT,en_plus tu coupais la porte et tout c'est pas bien . [media],"[NULL,NULL,NULL]",1
+810,FAT,en_plus tu coupais la porte et tout c'est pas bien . [media],"[NULL,NULL,NULL]",2
+811,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+811,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+812,CHI,0. . [media],"[NULL,NULL,NULL]",1
+812,CHI,0. . [media],"[NULL,NULL,NULL]",2
+813,FAT,Théophile depuis que je t'ai récupéré t'arrêtes pas de pleurer ! [media],"[NULL,NULL,NULL]",1
+813,FAT,Théophile depuis que je t'ai récupéré t'arrêtes pas de pleurer ! [media],"[NULL,NULL,NULL]",2
+814,FAT,c'est pas cool ça ! [media],"[NULL,NULL,NULL]",1
+814,FAT,c'est pas cool ça ! [media],"[NULL,NULL,NULL]",2
+815,CHI,0. . [media],"[NULL,NULL,NULL]",1
+815,CHI,0. . [media],"[NULL,NULL,NULL]",2
+816,CHI,0. . [media],"[NULL,NULL,NULL]",1
+816,CHI,0. . [media],"[NULL,NULL,NULL]",2
+817,FAT,allez allez allez .,"[NULL,NULL,NULL]",1
+817,FAT,allez allez allez .,"[NULL,NULL,NULL]",2
+818,FAT,allez ! [media],"[NULL,NULL,NULL]",1
+818,FAT,allez ! [media],"[NULL,NULL,NULL]",2
+819,FAT,tu peux pas tout avoir tout_le_temps . notamment les trucs dangereux Théophile ! [media],"[NULL,NULL,NULL]",1
+819,FAT,tu peux pas tout avoir tout_le_temps . notamment les trucs dangereux Théophile ! [media],"[NULL,NULL,NULL]",2
+820,FAT,si on te donne pas c'est qu'on a peur que tu te fasses \<None\> mal ! [media],"[NULL,NULL,NULL]",1
+820,FAT,si on te donne pas c'est qu'on a peur que tu te fasses \<None\> mal ! [media],"[NULL,NULL,NULL]",2
+821,CHI,\<None\> \<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",1
+821,CHI,\<None\> \<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",2
+822,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+822,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+823,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+823,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+824,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+824,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+825,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+825,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+826,FAT,et si tu te coupes ? [media],"[NULL,NULL,NULL]",1
+826,FAT,et si tu te coupes ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+827,FAT,qu'est-ce qu'on fait ? [media],"[NULL,NULL,NULL]",1
+827,FAT,qu'est-ce qu'on fait ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+828,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+828,CHI,\<None\> \<None\> \<None\> ! [media],"[CHI-Response:No-label,NULL,NULL]",2
+829,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",1
+829,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",2
+830,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",1
+830,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",2
+831,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",1
+831,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",2
+832,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",1
+832,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",2
+833,FAT,t es un peu têtu quand_même Théophile . [media],"[NULL,NULL,NULL]",1
+833,FAT,t es un peu têtu quand_même Théophile . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+834,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",1
+834,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",2
+835,FAT,ouh ouh ! [media],"[NULL,NULL,NULL]",1
+835,FAT,ouh ouh ! [media],"[NULL,NULL,NULL]",2
+836,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",1
+836,CHI,\<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",2
+837,FAT,hé ! [media],"[NULL,NULL,NULL]",1
+837,FAT,hé ! [media],"[NULL,NULL,NULL]",2
+838,CHI,o vrouvroum ! [media],"[NULL,NULL,NULL]",1
+838,CHI,o vrouvroum ! [media],"[NULL,NULL,NULL]",2
+839,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+839,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+840,FAT,ah ben oui \<None\> le bateau par exemple c'est ça on change de registre un peu là .,"[NULL,NULL,NULL]",1
+840,FAT,ah ben oui \<None\> le bateau par exemple c'est ça on change de registre un peu là .,"[NULL,NULL,NULL]",2
+841,CHI,a vrouvroum ! [media],"[NULL,NULL,NULL]",1
+841,CHI,a vrouvroum ! [media],"[NULL,NULL,NULL]",2
+842,FAT,ouais \<None\> ! [media],"[NULL,NULL,NULL]",1
+842,FAT,ouais \<None\> ! [media],"[NULL,NULL,NULL]",2
+843,CHI,xxx \<None\> .,"[NULL,NULL,NULL]",1
+843,CHI,xxx \<None\> .,"[NULL,NULL,NULL]",2
+844,FAT,le bateau il est où le bateau ? [media],"[NULL,NULL,NULL]",1
+844,FAT,le bateau il est où le bateau ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+845,FAT,ah il est dans le filet ! [media],"[NULL,NULL,NULL]",1
+845,FAT,ah il est dans le filet ! [media],"[PAR-Follow-up:Give-response,NULL,NULL]",2
+846,FAT,bateau ! [media],"[NULL,NULL,NULL]",1
+846,FAT,bateau ! [media],"[NULL,NULL,NULL]",2
+847,CHI,0. . [media],"[NULL,NULL,NULL]",1
+847,CHI,0. . [media],"[NULL,NULL,NULL]",2
+848,OBS,il est où ton bateau Théophile montre moi !,"[NULL,NULL,NULL]",1
+848,OBS,il est où ton bateau Théophile montre moi !,"[NULL,NULL,NULL]",2
+849,FAT,0. .,"[NULL,NULL,NULL]",1
+849,FAT,0. .,"[NULL,NULL,NULL]",2
+850,FAT,il est là ! [media],"[NULL,NULL,NULL]",1
+850,FAT,il est là ! [media],"[NULL,NULL,NULL]",2
+851,OBS,il est où ? [media],"[NULL,NULL,NULL]",1
+851,OBS,il est où ? [media],"[NULL,NULL,NULL]",2
+852,FAT,il est là ! [media],"[NULL,NULL,NULL]",1
+852,FAT,il est là ! [media],"[NULL,NULL,NULL]",2
+853,FAT,ah ah ah ah \<None\> ! [media],"[NULL,NULL,NULL]",1
+853,FAT,ah ah ah ah \<None\> ! [media],"[NULL,NULL,NULL]",2
+854,OBS,wouha \<None\> !,"[NULL,NULL,NULL]",1
+854,OBS,wouha \<None\> !,"[NULL,NULL,NULL]",2
+855,OBS,fais voir fais voir . oh qu'il est beau \<None\> ! [media],"[NULL,NULL,NULL]",1
+855,OBS,fais voir fais voir . oh qu'il est beau \<None\> ! [media],"[NULL,NULL,NULL]",2
+856,CHI,\<None\> \<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",1
+856,CHI,\<None\> \<None\> \<None\> \<None\> !,"[NULL,NULL,NULL]",2
+857,CHI,xxx \<None\> ? [media],"[NULL,NULL,NULL]",1
+857,CHI,xxx \<None\> ? [media],"[NULL,NULL,NULL]",2
+858,OBS,qu'est-ce que tu cherches ? [media],"[NULL,NULL,NULL]",1
+858,OBS,qu'est-ce que tu cherches ? [media],"[NULL,NULL,NULL]",2
+859,CHI,0. .,"[NULL,NULL,NULL]",1
+859,CHI,0. .,"[NULL,NULL,NULL]",2
+860,CHI,yyy vroumvroum . [media],"[NULL,NULL,NULL]",1
+860,CHI,yyy vroumvroum . [media],"[NULL,NULL,NULL]",2
+861,FAT,xxx \<None\> le vroumvroum ? [media],"[NULL,NULL,NULL]",1
+861,FAT,xxx \<None\> le vroumvroum ? [media],"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+862,OBS,la voiture \<None\> ?,"[NULL,NULL,NULL]",1
+862,OBS,la voiture \<None\> ?,"[NULL,NULL,NULL]",2
+863,CHI,vroumvroum ! [media],"[NULL,NULL,NULL]",1
+863,CHI,vroumvroum ! [media],"[NULL,NULL,NULL]",2
+864,OBS,le vroumvroum ? [media],"[NULL,NULL,NULL]",1
+864,OBS,le vroumvroum ? [media],"[NULL,NULL,NULL]",2
+865,CHI,0. .,"[NULL,NULL,NULL]",1
+865,CHI,0. .,"[NULL,NULL,NULL]",2
+866,OBS,vroumvroumvroum ! [media],"[NULL,NULL,NULL]",1
+866,OBS,vroumvroumvroum ! [media],"[NULL,NULL,NULL]",2
+867,CHI,0. . [media],"[NULL,NULL,NULL]",1
+867,CHI,0. . [media],"[NULL,NULL,NULL]",2
+868,FAT,quel vroumvroum tu veux Théophile ? [media],"[NULL,NULL,NULL]",1
+868,FAT,quel vroumvroum tu veux Théophile ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+869,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+869,CHI,xxx . [media],"[CHI-Response:Answer:non-verbal,NULL,NULL]",2
+870,FAT,ah !,"[NULL,NULL,NULL]",1
+870,FAT,ah !,"[PAR-Follow-up:other,NULL,NULL]",2
+871,FAT,ah boum dans la tête de papa ! [media],"[NULL,NULL,NULL]",1
+871,FAT,ah boum dans la tête de papa ! [media],"[NULL,NULL,NULL]",2
+872,OBS,wouha le manège . c'est quoi ?,"[NULL,NULL,NULL]",1
+872,OBS,wouha le manège . c'est quoi ?,"[NULL,NULL,NULL]",2
+873,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+873,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+874,FAT,t as vu c'est quoi c'est une balle dedans ! [media],"[NULL,NULL,NULL]",1
+874,FAT,t as vu c'est quoi c'est une balle dedans ! [media],"[NULL,NULL,NULL]",2
+875,OBS,et on fait quoi avec ça ? [media],"[NULL,NULL,NULL]",1
+875,OBS,et on fait quoi avec ça ? [media],"[NULL,NULL,NULL]",2
+876,FAT,ben là c'est cassé mais normalement c'est à rouler c'est une sorte de tresselle . [media],"[NULL,NULL,NULL]",1
+876,FAT,ben là c'est cassé mais normalement c'est à rouler c'est une sorte de tresselle . [media],"[NULL,NULL,NULL]",2
+877,OBS,ah d'accord ! [media],"[NULL,NULL,NULL]",1
+877,OBS,ah d'accord ! [media],"[NULL,NULL,NULL]",2
+878,FAT,alors ce bateau là ? [media],"[NULL,NULL,NULL]",1
+878,FAT,alors ce bateau là ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+879,CHI,a vroumvroum ? [media],"[NULL,NULL,NULL]",1
+879,CHI,a vroumvroum ? [media],"[NULL,NULL,NULL]",2
+880,CHI,e boum poum . [media],"[NULL,NULL,NULL]",1
+880,CHI,e boum poum . [media],"[NULL,NULL,NULL]",2
+881,CHI,xxx vouvoum . [media],"[NULL,NULL,NULL]",1
+881,CHI,xxx vouvoum . [media],"[NULL,NULL,NULL]",2
+882,OBS,elle a disparu ?,"[NULL,NULL,NULL]",1
+882,OBS,elle a disparu ?,"[NULL,NULL,NULL]",2
+883,OBS,on la trouvera tout_à_l'heure . [media],"[NULL,NULL,NULL]",1
+883,OBS,on la trouvera tout_à_l'heure . [media],"[NULL,NULL,NULL]",2
+884,CHI,0. .,"[NULL,NULL,NULL]",1
+884,CHI,0. .,"[NULL,NULL,NULL]",2
+885,FAT,là il y a pas assez d' eau Théophile . [media],"[NULL,NULL,NULL]",1
+885,FAT,là il y a pas assez d' eau Théophile . [media],"[NULL,NULL,NULL]",2
+886,FAT,oh oh hé oh ! [media],"[NULL,NULL,NULL]",1
+886,FAT,oh oh hé oh ! [media],"[NULL,NULL,NULL]",2
+887,CHI,0. .,"[NULL,NULL,NULL]",1
+887,CHI,0. .,"[NULL,NULL,NULL]",2
+888,OBS,ouh la !,"[NULL,NULL,NULL]",1
+888,OBS,ouh la !,"[NULL,NULL,NULL]",2
+889,CHI,0. . [media],"[NULL,NULL,NULL]",1
+889,CHI,0. . [media],"[NULL,NULL,NULL]",2
+890,FAT,ah !,"[NULL,NULL,NULL]",1
+890,FAT,ah !,"[NULL,NULL,NULL]",2
+891,FAT,et tu me tapes ! [media],"[NULL,NULL,NULL]",1
+891,FAT,et tu me tapes ! [media],"[NULL,NULL,NULL]",2
+892,FAT,tu me mouilles et tu me tapes ! [media],"[NULL,NULL,NULL]",1
+892,FAT,tu me mouilles et tu me tapes ! [media],"[NULL,NULL,NULL]",2
+893,FAT,wouha t es \<self interruption\> [media],"[NULL,NULL,NULL]",1
+893,FAT,wouha t es \<self interruption\> [media],"[NULL,NULL,NULL]",2
+894,CHI,a vroumvroum ?,"[CHI-Initiation:Non-information-seeking,NULL,NULL]",1
+894,CHI,a vroumvroum ?,"[NULL,NULL,NULL]",2
+895,FAT,[quote] coquinou ! [media],"[NULL,NULL,NULL]",1
+895,FAT,[quote] coquinou ! [media],"[NULL,NULL,NULL]",2
+896,CHI,a vroumvroum .,"[NULL,NULL,NULL]",1
+896,CHI,a vroumvroum .,"[NULL,NULL,NULL]",2
+897,CHI,xxx vroum . [media],"[NULL,NULL,NULL]",1
+897,CHI,xxx vroum . [media],"[NULL,NULL,NULL]",2
+898,CHI,ah ! [media],"[NULL,NULL,NULL]",1
+898,CHI,ah ! [media],"[NULL,NULL,NULL]",2
+899,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+899,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+900,FAT,xxx . [media],"[NULL,NULL,NULL]",1
+900,FAT,xxx . [media],"[NULL,NULL,NULL]",2
+901,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+901,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+902,CHI,xxx yyy ! [media],"[NULL,NULL,NULL]",1
+902,CHI,xxx yyy ! [media],"[NULL,NULL,NULL]",2
+903,CHI,yyy yyy ! [media],"[NULL,NULL,NULL]",1
+903,CHI,yyy yyy ! [media],"[NULL,NULL,NULL]",2
+904,CHI,ah yyy ! [media],"[NULL,NULL,NULL]",1
+904,CHI,ah yyy ! [media],"[NULL,NULL,NULL]",2
+905,CHI,yyy ! [media],"[NULL,NULL,NULL]",1
+905,CHI,yyy ! [media],"[NULL,NULL,NULL]",2
+906,FAT,mais c'est quoi ça bak et bak ! [media],"[NULL,NULL,NULL]",1
+906,FAT,mais c'est quoi ça bak et bak ! [media],"[NULL,NULL,NULL]",2
+907,FAT,c'est quoi ça ? [media],"[NULL,NULL,NULL]",1
+907,FAT,c'est quoi ça ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+908,CHI,0. .,"[NULL,NULL,NULL]",1
+908,CHI,0. .,"[NULL,NULL,NULL]",2
+909,FAT,hein c'est quoi bak bak ? [media],"[NULL,NULL,NULL]",1
+909,FAT,hein c'est quoi bak bak ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+910,FAT,entre les jambes ! [media],"[NULL,NULL,NULL]",1
+910,FAT,entre les jambes ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+911,FAT,0. . [media],"[NULL,NULL,NULL]",1
+911,FAT,0. . [media],"[NULL,NULL,NULL]",2
+912,FAT,0. . [media],"[NULL,NULL,NULL]",1
+912,FAT,0. . [media],"[NULL,NULL,NULL]",2
+913,CHI,0. . [media],"[NULL,NULL,NULL]",1
+913,CHI,0. . [media],"[NULL,NULL,NULL]",2
+914,FAT,xxx il avance tout seul hein !,"[NULL,NULL,NULL]",1
+914,FAT,xxx il avance tout seul hein !,"[NULL,NULL,NULL]",2
+915,FAT,t as vu ça ? [media],"[NULL,NULL,NULL]",1
+915,FAT,t as vu ça ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+916,CHI,0. .,"[NULL,NULL,NULL]",1
+916,CHI,0. .,"[NULL,NULL,NULL]",2
+917,FAT,t aimes bien ce bateau hein ! [media],"[NULL,NULL,NULL]",1
+917,FAT,t aimes bien ce bateau hein ! [media],"[NULL,NULL,NULL]",2
+918,FAT,tu veux que je te remonte ? [media],"[NULL,NULL,NULL]",1
+918,FAT,tu veux que je te remonte ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+919,CHI,0. . [media],"[NULL,NULL,NULL]",1
+919,CHI,0. . [media],"[NULL,NULL,NULL]",2
+920,FAT,xxx Théophile ?,"[NULL,NULL,NULL]",1
+920,FAT,xxx Théophile ?,"[PAR-Follow-up:Followup-question,PAR-Initiation:Non-Information-seeking,NULL]",2
+921,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+921,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+922,FAT,on va quand_même te laver . hop . [media],"[NULL,NULL,NULL]",1
+922,FAT,on va quand_même te laver . hop . [media],"[NULL,NULL,NULL]",2
+923,FAT,ouh la boum ! [media],"[NULL,NULL,NULL]",1
+923,FAT,ouh la boum ! [media],"[NULL,NULL,NULL]",2
+924,CHI,o vroumvroum ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]",1
+924,CHI,o vroumvroum ? [media],"[NULL,NULL,NULL]",2
+925,CHI,o vroumvroum ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]",1
+925,CHI,o vroumvroum ? [media],"[NULL,NULL,NULL]",2
+926,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+926,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+927,CHI,yyy vroumvroum . [media],"[NULL,NULL,NULL]",1
+927,CHI,yyy vroumvroum . [media],"[NULL,NULL,NULL]",2
+928,CHI,xxx vrouvroum . [media],"[NULL,NULL,NULL]",1
+928,CHI,xxx vrouvroum . [media],"[NULL,NULL,NULL]",2
+929,FAT,c'est quoi vroumvroum \<None\> ? [media],"[NULL,NULL,NULL]",1
+929,FAT,c'est quoi vroumvroum \<None\> ? [media],"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+930,OBS,elle est pas là \<None\> ?,"[NULL,NULL,NULL]",1
+930,OBS,elle est pas là \<None\> ?,"[NULL,NULL,NULL]",2
+931,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+931,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+932,FAT,0. . [media],"[NULL,NULL,NULL]",1
+932,FAT,0. . [media],"[NULL,NULL,NULL]",2
+933,CHI,non ! [media],"[NULL,NULL,NULL]",1
+933,CHI,non ! [media],"[NULL,NULL,NULL]",2
+934,FAT,ouh la la Théophile pourquoi tu tapes papa ? [media],"[NULL,NULL,NULL]",1
+934,FAT,ouh la la Théophile pourquoi tu tapes papa ? [media],"[PAR-Initiation:Information-seeking:explanation-based,NULL,NULL]",2
+935,FAT,on va te laver ? [media],"[NULL,NULL,NULL]",1
+935,FAT,on va te laver ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+936,CHI,0. non ! [media],"[NULL,NULL,NULL]",1
+936,CHI,0. non ! [media],"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+937,FAT,ah ben je t'ai connu de meilleure humeur hein ! [media],"[NULL,NULL,NULL]",1
+937,FAT,ah ben je t'ai connu de meilleure humeur hein ! [media],"[PAR-Follow-up:Add-info,NULL,NULL]",2
+938,CHI,non ! [media],"[NULL,NULL,NULL]",1
+938,CHI,non ! [media],"[NULL,NULL,NULL]",2
+939,FAT,ouh la la \<None\> ! [media],"[NULL,NULL,NULL]",1
+939,FAT,ouh la la \<None\> ! [media],"[NULL,NULL,NULL]",2
+940,CHI,0. .,"[NULL,NULL,NULL]",1
+940,CHI,0. .,"[NULL,NULL,NULL]",2
+941,CHI,ah ! [media],"[NULL,NULL,NULL]",1
+941,CHI,ah ! [media],"[NULL,NULL,NULL]",2
+942,FAT,c'est quoi \<None\> c'est la vengeance de l'abandon ou quoi \<None\> ?,"[NULL,NULL,NULL]",1
+942,FAT,c'est quoi \<None\> c'est la vengeance de l'abandon ou quoi \<None\> ?,"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+943,CHI,non ! [media],"[NULL,NULL,NULL]",1
+943,CHI,non ! [media],"[CHI-Response:Non-answer:declarative,PAR-Follow-up:No-followup,NULL]",2
+944,CHI,non ! [media],"[NULL,NULL,NULL]",1
+944,CHI,non ! [media],"[NULL,NULL,NULL]",2
+945,FAT,0. . [media],"[NULL,NULL,NULL]",1
+945,FAT,0. . [media],"[NULL,NULL,NULL]",2
+946,CHI,yyy !,"[NULL,NULL,NULL]",1
+946,CHI,yyy !,"[NULL,NULL,NULL]",2
+947,FAT,il m'a trempé la vache . [media],"[NULL,NULL,NULL]",1
+947,FAT,il m'a trempé la vache . [media],"[NULL,NULL,NULL]",2
+948,OBS,c'est un dauphin ou un requin ? [media],"[NULL,NULL,NULL]",1
+948,OBS,c'est un dauphin ou un requin ? [media],"[NULL,NULL,NULL]",2
+949,OBS,un dauphin . [media],"[NULL,NULL,NULL]",1
+949,OBS,un dauphin . [media],"[NULL,NULL,NULL]",2
+950,FAT,dauphin . [media],"[NULL,NULL,NULL]",1
+950,FAT,dauphin . [media],"[NULL,NULL,NULL]",2
+951,FAT,il y a une histoire mais ... [media],"[NULL,NULL,NULL]",1
+951,FAT,il y a une histoire mais ... [media],"[NULL,NULL,NULL]",2
+952,FAT,elle est là . [media],"[NULL,NULL,NULL]",1
+952,FAT,elle est là . [media],"[NULL,NULL,NULL]",2
+953,FAT,c'est Séraphin le dauphin . [media],"[NULL,NULL,NULL]",1
+953,FAT,c'est Séraphin le dauphin . [media],"[NULL,NULL,NULL]",2
+954,FAT,tu veux le lire Théophile \<None\> ? [media],"[NULL,NULL,NULL]",1
+954,FAT,tu veux le lire Théophile \<None\> ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+955,FAT,tu veux le lire ? [media],"[NULL,NULL,NULL]",1
+955,FAT,tu veux le lire ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,No-response+No-follow-up]",2
+956,CHI,0. . [media],"[NULL,NULL,NULL]",1
+956,CHI,0. . [media],"[NULL,NULL,NULL]",2
+957,FAT,0. .,"[NULL,NULL,NULL]",1
+957,FAT,0. .,"[NULL,NULL,NULL]",2
+958,FAT,\<None\> ! [media],"[NULL,NULL,NULL]",1
+958,FAT,\<None\> ! [media],"[NULL,NULL,NULL]",2
+959,FAT,0. . [media],"[NULL,NULL,NULL]",1
+959,FAT,0. . [media],"[NULL,NULL,NULL]",2
+960,CHI,bah .,"[NULL,NULL,NULL]",1
+960,CHI,bah .,"[NULL,NULL,NULL]",2
+961,FAT,pas bon ?,"[NULL,NULL,NULL]",1
+961,FAT,pas bon ?,"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+962,CHI,yyy ! [media],"[NULL,NULL,NULL]",1
+962,CHI,yyy ! [media],"[CHI-Response:No-label,PAR-Follow-up:No-followup,NULL]",2
+963,CHI,yyy ! [media],"[NULL,NULL,NULL]",1
+963,CHI,yyy ! [media],"[NULL,NULL,NULL]",2
+964,CHI,yyy ! [media],"[NULL,NULL,NULL]",1
+964,CHI,yyy ! [media],"[NULL,NULL,NULL]",2
+965,FAT,0. .,"[NULL,NULL,NULL]",1
+965,FAT,0. .,"[NULL,NULL,NULL]",2
+966,FAT,boup . sur le nez . [media],"[NULL,NULL,NULL]",1
+966,FAT,boup . sur le nez . [media],"[NULL,NULL,NULL]",2
+967,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+967,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+968,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+968,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+969,CHI,0. . [media],"[NULL,NULL,NULL]",1
+969,CHI,0. . [media],"[NULL,NULL,NULL]",2
+970,CHI,miam yyy ! [media],"[NULL,NULL,NULL]",1
+970,CHI,miam yyy ! [media],"[NULL,NULL,NULL]",2
+971,CHI,miam . [media],"[NULL,NULL,NULL]",1
+971,CHI,miam . [media],"[NULL,NULL,NULL]",2
+972,FAT,un bateau .,"[NULL,NULL,NULL]",1
+972,FAT,un bateau .,"[NULL,NULL,NULL]",2
+973,CHI,miam miam yyy ! [media],"[NULL,NULL,NULL]",1
+973,CHI,miam miam yyy ! [media],"[NULL,NULL,NULL]",2
+974,FAT,miam yyy ? [media],"[NULL,NULL,NULL]",1
+974,FAT,miam yyy ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+975,FAT,c'est quoi ça ? [media],"[NULL,NULL,NULL]",1
+975,FAT,c'est quoi ça ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+976,FAT,je suis un peu perdu là . [media],"[NULL,NULL,NULL]",1
+976,FAT,je suis un peu perdu là . [media],"[PAR-Follow-up:Add-info,NULL,NULL]",2
+977,FAT,un peu perdu le fil moi Théophile hein ! [media],"[NULL,NULL,NULL]",1
+977,FAT,un peu perdu le fil moi Théophile hein ! [media],"[NULL,NULL,NULL]",2
+978,FAT,c'est quoi miam bodo ? [media],"[NULL,NULL,NULL]",1
+978,FAT,c'est quoi miam bodo ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+979,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+979,CHI,yyy . [media],"[CHI-Response:No-label,NULL,NULL]",2
+980,FAT,hein ? [media],"[NULL,NULL,NULL]",1
+980,FAT,hein ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Non-Information-seeking,NULL]",2
+981,CHI,0. . [media],"[NULL,NULL,NULL]",1
+981,CHI,0. . [media],"[NULL,NULL,NULL]",2
+982,CHI,0. . [media],"[NULL,NULL,NULL]",1
+982,CHI,0. . [media],"[NULL,NULL,NULL]",2
+983,CHI,0. . [media],"[NULL,NULL,NULL]",1
+983,CHI,0. . [media],"[NULL,NULL,NULL]",2
+984,FAT,faut le remonter avant Théophile sinon ça avance plus . [media],"[NULL,NULL,NULL]",1
+984,FAT,faut le remonter avant Théophile sinon ça avance plus . [media],"[NULL,NULL,NULL]",2
+985,CHI,0. . [media],"[NULL,NULL,NULL]",1
+985,CHI,0. . [media],"[NULL,NULL,NULL]",2
+986,FAT,tiens xxx comme un godet ! [media],"[NULL,NULL,NULL]",1
+986,FAT,tiens xxx comme un godet ! [media],"[NULL,NULL,NULL]",2
+987,FAT,hein ? [media],"[NULL,NULL,NULL]",1
+987,FAT,hein ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+988,CHI,0. .,"[NULL,NULL,NULL]",1
+988,CHI,0. .,"[NULL,NULL,NULL]",2
+989,FAT,c'est élégant ça ! [media],"[NULL,NULL,NULL]",1
+989,FAT,c'est élégant ça ! [media],"[NULL,NULL,NULL]",2
+990,CHI,0. .,"[NULL,NULL,NULL]",1
+990,CHI,0. .,"[NULL,NULL,NULL]",2
+991,CHI,0. . [media],"[NULL,NULL,NULL]",1
+991,CHI,0. . [media],"[NULL,NULL,NULL]",2
+992,CHI,beurk ! [media],"[NULL,NULL,NULL]",1
+992,CHI,beurk ! [media],"[NULL,NULL,NULL]",2
+993,CHI,0. . [media],"[NULL,NULL,NULL]",1
+993,CHI,0. . [media],"[NULL,NULL,NULL]",2
+994,FAT,ah elle est bonne celle-là elle est bonne elle est bonne !,"[NULL,NULL,NULL]",1
+994,FAT,ah elle est bonne celle-là elle est bonne elle est bonne !,"[NULL,NULL,NULL]",2
+995,CHI,0. . [media],"[NULL,NULL,NULL]",1
+995,CHI,0. . [media],"[NULL,NULL,NULL]",2
+996,OBS,c'est pas plein de savon ?,"[NULL,NULL,NULL]",1
+996,OBS,c'est pas plein de savon ?,"[NULL,NULL,NULL]",2
+997,CHI,beurk ! [media],"[NULL,NULL,NULL]",1
+997,CHI,beurk ! [media],"[NULL,NULL,NULL]",2
+998,OBS,beurk !,"[NULL,NULL,NULL]",1
+998,OBS,beurk !,"[NULL,NULL,NULL]",2
+999,FAT,beurk !,"[NULL,NULL,NULL]",1
+999,FAT,beurk !,"[NULL,NULL,NULL]",2
+1000,FAT,c'est beurk alors on en reprend . [media],"[NULL,NULL,NULL]",1
+1000,FAT,c'est beurk alors on en reprend . [media],"[NULL,NULL,NULL]",2
+1001,CHI,0. .,"[NULL,NULL,NULL]",1
+1001,CHI,0. .,"[NULL,NULL,NULL]",2
+1002,CHI,beurk ! [media],"[NULL,NULL,NULL]",1
+1002,CHI,beurk ! [media],"[NULL,NULL,NULL]",2
+1003,FAT,beurk ! [media],"[NULL,NULL,NULL]",1
+1003,FAT,beurk ! [media],"[NULL,NULL,NULL]",2
+1004,OBS,oh !,"[NULL,NULL,NULL]",1
+1004,OBS,oh !,"[NULL,NULL,NULL]",2
+1005,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1005,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1006,OBS,bouah !,"[NULL,NULL,NULL]",1
+1006,OBS,bouah !,"[NULL,NULL,NULL]",2
+1007,CHI,0. .,"[NULL,NULL,NULL]",1
+1007,CHI,0. .,"[NULL,NULL,NULL]",2
+1008,FAT,bah caca !,"[NULL,NULL,NULL]",1
+1008,FAT,bah caca !,"[NULL,NULL,NULL]",2
+1009,FAT,beurk ! [media],"[NULL,NULL,NULL]",1
+1009,FAT,beurk ! [media],"[NULL,NULL,NULL]",2
+1010,CHI,yyy ! [media],"[NULL,NULL,NULL]",1
+1010,CHI,yyy ! [media],"[NULL,NULL,NULL]",2
+1011,FAT,bah bah ! [media],"[NULL,NULL,NULL]",1
+1011,FAT,bah bah ! [media],"[NULL,NULL,NULL]",2
+1012,CHI,beurk ! [media],"[NULL,NULL,NULL]",1
+1012,CHI,beurk ! [media],"[NULL,NULL,NULL]",2
+1013,FAT,beurk ! [media],"[NULL,NULL,NULL]",1
+1013,FAT,beurk ! [media],"[NULL,NULL,NULL]",2
+1014,FAT,oh ! [media],"[NULL,NULL,NULL]",1
+1014,FAT,oh ! [media],"[NULL,NULL,NULL]",2
+1015,CHI,beurk !,"[NULL,NULL,NULL]",1
+1015,CHI,beurk !,"[NULL,NULL,NULL]",2
+1016,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1016,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1017,FAT,0. .,"[NULL,NULL,NULL]",1
+1017,FAT,0. .,"[NULL,NULL,NULL]",2
+1018,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+1018,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+1019,FAT,beurk hein . [media],"[NULL,NULL,NULL]",1
+1019,FAT,beurk hein . [media],"[NULL,NULL,NULL]",2
+1020,FAT,oh ! [media],"[NULL,NULL,NULL]",1
+1020,FAT,oh ! [media],"[NULL,NULL,NULL]",2
+1021,OBS,oh !,"[NULL,NULL,NULL]",1
+1021,OBS,oh !,"[NULL,NULL,NULL]",2
+1022,FAT,t as tout mangé ? [media],"[NULL,NULL,NULL]",1
+1022,FAT,t as tout mangé ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1023,FAT,tout miam miam ? [media],"[NULL,NULL,NULL]",1
+1023,FAT,tout miam miam ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+1024,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1024,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1025,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1025,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1026,FAT,hum c'est bon ! [media],"[NULL,NULL,NULL]",1
+1026,FAT,hum c'est bon ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+1027,CHI,c'est beurk ! [media],"[NULL,NULL,NULL]",1
+1027,CHI,c'est beurk ! [media],"[NULL,NULL,NULL]",2
+1028,FAT,c'est beurk ou c'est bon ? [media],"[NULL,NULL,NULL]",1
+1028,FAT,c'est beurk ou c'est bon ? [media],"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+1029,CHI,0. .,"[NULL,NULL,NULL]",1
+1029,CHI,0. .,"[NULL,NULL,NULL]",2
+1030,OBS,oh doucement \<None\> ! [media],"[NULL,NULL,NULL]",1
+1030,OBS,oh doucement \<None\> ! [media],"[NULL,NULL,NULL]",2
+1031,FAT,eh jette pas Théophile \<None\> .,"[NULL,NULL,NULL]",1
+1031,FAT,eh jette pas Théophile \<None\> .,"[NULL,NULL,NULL]",2
+1032,FAT,t es un peu excité encore hein . [media],"[NULL,NULL,NULL]",1
+1032,FAT,t es un peu excité encore hein . [media],"[NULL,NULL,NULL]",2
+1033,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1033,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1034,FAT,ouh la !,"[NULL,NULL,NULL]",1
+1034,FAT,ouh la !,"[NULL,NULL,NULL]",2
+1035,FAT,p excès d' humeur là ! [media],"[NULL,NULL,NULL]",1
+1035,FAT,p excès d' humeur là ! [media],"[NULL,NULL,NULL]",2
+1036,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1036,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1037,CHI,encore ! [media],"[NULL,NULL,NULL]",1
+1037,CHI,encore ! [media],"[NULL,NULL,NULL]",2
+1038,FAT,je remonte ? [media],"[NULL,NULL,NULL]",1
+1038,FAT,je remonte ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+1039,FAT,si_il_te_plaît ! [media],"[NULL,NULL,NULL]",1
+1039,FAT,si_il_te_plaît ! [media],"[PAR-Follow-up:Give-response,NULL,NULL]",2
+1040,FAT,papa . [media],"[NULL,NULL,NULL]",1
+1040,FAT,papa . [media],"[NULL,NULL,NULL]",2
+1041,FAT,hum ? [media],"[NULL,NULL,NULL]",1
+1041,FAT,hum ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1042,CHI,encore ! [media],"[NULL,NULL,NULL]",1
+1042,CHI,encore ! [media],"[NULL,NULL,NULL]",2
+1043,FAT,encore ? [media],"[NULL,NULL,NULL]",1
+1043,FAT,encore ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+1044,FAT,encore ? [media],"[NULL,NULL,NULL]",1
+1044,FAT,encore ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+1045,CHI,xxx non ! [media],"[NULL,NULL,NULL]",1
+1045,CHI,xxx non ! [media],"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+1046,CHI,non ! [media],"[NULL,NULL,NULL]",1
+1046,CHI,non ! [media],"[NULL,NULL,NULL]",2
+1047,FAT,non \<None\> ?,"[NULL,NULL,NULL]",1
+1047,FAT,non \<None\> ?,"[PAR-Follow-up:Followup-question,PAR-Initiation:Non-Information-seeking,NULL]",2
+1048,FAT,oui non \<None\> . oui ou non ? [media],"[NULL,NULL,NULL]",1
+1048,FAT,oui non \<None\> . oui ou non ? [media],"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,NULL]",2
+1049,CHI,ah !,"[NULL,NULL,NULL]",1
+1049,CHI,ah !,"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+1050,CHI,ah ah xxx ! [media],"[NULL,NULL,NULL]",1
+1050,CHI,ah ah xxx ! [media],"[NULL,NULL,NULL]",2
+1051,CHI,hé ! [media],"[NULL,NULL,NULL]",1
+1051,CHI,hé ! [media],"[NULL,NULL,NULL]",2
+1052,FAT,c'est un escargot \<None\> ça .,"[NULL,NULL,NULL]",1
+1052,FAT,c'est un escargot \<None\> ça .,"[PAR-Follow-up:other,NULL,NULL]",2
+1053,FAT,escargot . [media],"[NULL,NULL,NULL]",1
+1053,FAT,escargot . [media],"[NULL,NULL,NULL]",2
+1054,FAT,il a pas d' hélices hein l'escargot . [media],"[NULL,NULL,NULL]",1
+1054,FAT,il a pas d' hélices hein l'escargot . [media],"[NULL,NULL,NULL]",2
+1055,CHI,0. .,"[NULL,NULL,NULL]",1
+1055,CHI,0. .,"[NULL,NULL,NULL]",2
+1056,FAT,fais attention tu vas lui faire mal là . [media],"[NULL,NULL,NULL]",1
+1056,FAT,fais attention tu vas lui faire mal là . [media],"[NULL,NULL,NULL]",2
+1057,FAT,elles sont dures le parois hein tu sais . [media],"[NULL,NULL,NULL]",1
+1057,FAT,elles sont dures le parois hein tu sais . [media],"[NULL,NULL,NULL]",2
+1058,FAT,tu lui fais mal à la tête . [media],"[NULL,NULL,NULL]",1
+1058,FAT,tu lui fais mal à la tête . [media],"[NULL,NULL,NULL]",2
+1059,CHI,xxx .,"[NULL,NULL,NULL]",1
+1059,CHI,xxx .,"[NULL,NULL,NULL]",2
+1060,CHI,ah ah ah ! [media],"[NULL,NULL,NULL]",1
+1060,CHI,ah ah ah ! [media],"[NULL,NULL,NULL]",2
+1061,FAT,eh oui !,"[NULL,NULL,NULL]",1
+1061,FAT,eh oui !,"[NULL,NULL,NULL]",2
+1062,CHI,ah ah ! [media],"[NULL,NULL,NULL]",1
+1062,CHI,ah ah ! [media],"[NULL,NULL,NULL]",2
+1063,FAT,non \<None\> le jette pas le pauvre .,"[NULL,NULL,NULL]",1
+1063,FAT,non \<None\> le jette pas le pauvre .,"[NULL,NULL,NULL]",2
+1064,FAT,voilà doucement . [media],"[NULL,NULL,NULL]",1
+1064,FAT,voilà doucement . [media],"[NULL,NULL,NULL]",2
+1065,CHI,0. .,"[NULL,NULL,NULL]",1
+1065,CHI,0. .,"[NULL,NULL,NULL]",2
+1066,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1066,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1067,CHI,ah xxx ! [media],"[NULL,NULL,NULL]",1
+1067,CHI,ah xxx ! [media],"[NULL,NULL,NULL]",2
+1068,FAT,0. . [media],"[NULL,NULL,NULL]",1
+1068,FAT,0. . [media],"[NULL,NULL,NULL]",2
+1069,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1069,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1070,CHI,beurk ! [media],"[NULL,NULL,NULL]",1
+1070,CHI,beurk ! [media],"[NULL,NULL,NULL]",2
+1071,CHI,na beurk ! [media],"[NULL,NULL,NULL]",1
+1071,CHI,na beurk ! [media],"[NULL,NULL,NULL]",2
+1072,FAT,yyy yyy ! [media],"[NULL,NULL,NULL]",1
+1072,FAT,yyy yyy ! [media],"[NULL,NULL,NULL]",2
+1073,FAT,0. . [media],"[NULL,NULL,NULL]",1
+1073,FAT,0. . [media],"[NULL,NULL,NULL]",2
+1074,CHI,0. .,"[NULL,NULL,NULL]",1
+1074,CHI,0. .,"[NULL,NULL,NULL]",2
+1075,FAT,qu'est-ce qui manque là Théophile pour ouvrir \<None\> . [media],"[NULL,NULL,NULL]",1
+1075,FAT,qu'est-ce qui manque là Théophile pour ouvrir \<None\> . [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1076,CHI,clé .,"[NULL,NULL,NULL]",1
+1076,CHI,clé .,"[CHI-Response:Answer:no-explanation-needed,NULL,NULL]",2
+1077,CHI,les clés ! [media],"[NULL,NULL,NULL]",1
+1077,CHI,les clés ! [media],"[NULL,NULL,NULL]",2
+1078,FAT,ah ah bien ! [media],"[NULL,NULL,NULL]",1
+1078,FAT,ah ah bien ! [media],"[PAR-Follow-up:Signal-agreement,NULL,NULL]",2
+1079,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1079,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1080,FAT,les clés elles sont où ?,"[NULL,NULL,NULL]",1
+1080,FAT,les clés elles sont où ?,"[PAR-Follow-up:Followup-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+1081,FAT,ah mais tu les as trouvées . [media],"[NULL,NULL,NULL]",1
+1081,FAT,ah mais tu les as trouvées . [media],"[PAR-Follow-up:Add-info,NULL,NULL]",2
+1082,FAT,très bien . [media],"[NULL,NULL,NULL]",1
+1082,FAT,très bien . [media],"[NULL,NULL,NULL]",2
+1083,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+1083,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+1084,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+1084,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+1085,CHI,non . [media],"[NULL,NULL,NULL]",1
+1085,CHI,non . [media],"[NULL,NULL,NULL]",2
+1086,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+1086,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+1087,FAT,bien ! [media],"[NULL,NULL,NULL]",1
+1087,FAT,bien ! [media],"[NULL,NULL,NULL]",2
+1088,FAT,jaune avec jaune . [media],"[NULL,NULL,NULL]",1
+1088,FAT,jaune avec jaune . [media],"[NULL,NULL,NULL]",2
+1089,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+1089,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+1090,FAT,tu l'ouvres . avec la clé ? [media],"[NULL,NULL,NULL]",1
+1090,FAT,tu l'ouvres . avec la clé ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1091,FAT,Théophile ? [media],"[NULL,NULL,NULL]",1
+1091,FAT,Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1092,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1092,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1093,FAT,tu l'ouvres avec la clé ? [media],"[NULL,NULL,NULL]",1
+1093,FAT,tu l'ouvres avec la clé ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1094,CHI,non . [media],"[NULL,NULL,NULL]",1
+1094,CHI,non . [media],"[NULL,NULL,NULL]",2
+1095,FAT,non \<None\> . [media],"[NULL,NULL,NULL]",1
+1095,FAT,non \<None\> . [media],"[NULL,NULL,NULL]",2
+1096,CHI,ah !,"[NULL,NULL,NULL]",1
+1096,CHI,ah !,"[NULL,NULL,NULL]",2
+1097,CHI,e clés . [media],"[NULL,NULL,NULL]",1
+1097,CHI,e clés . [media],"[NULL,NULL,NULL]",2
+1098,CHI,ah clés ! [media],"[NULL,NULL,NULL]",1
+1098,CHI,ah clés ! [media],"[NULL,NULL,NULL]",2
+1099,FAT,eh oui les clés ! [media],"[NULL,NULL,NULL]",1
+1099,FAT,eh oui les clés ! [media],"[NULL,NULL,NULL]",2
+1100,FAT,allez ! [media],"[NULL,NULL,NULL]",1
+1100,FAT,allez ! [media],"[NULL,NULL,NULL]",2
+1101,CHI,0. .,"[NULL,NULL,NULL]",1
+1101,CHI,0. .,"[NULL,NULL,NULL]",2
+1102,FAT,voilà et on tourne . [media],"[NULL,NULL,NULL]",1
+1102,FAT,voilà et on tourne . [media],"[NULL,NULL,NULL]",2
+1103,FAT,dans l'aut sens ! [media],"[NULL,NULL,NULL]",1
+1103,FAT,dans l'aut sens ! [media],"[NULL,NULL,NULL]",2
+1104,FAT,l'aut sens . [media],"[NULL,NULL,NULL]",1
+1104,FAT,l'aut sens . [media],"[NULL,NULL,NULL]",2
+1105,FAT,l'aut sens . [media],"[NULL,NULL,NULL]",1
+1105,FAT,l'aut sens . [media],"[NULL,NULL,NULL]",2
+1106,FAT,l'autre ! [media],"[NULL,NULL,NULL]",1
+1106,FAT,l'autre ! [media],"[NULL,NULL,NULL]",2
+1107,CHI,oh ! [media],"[NULL,NULL,NULL]",1
+1107,CHI,oh ! [media],"[NULL,NULL,NULL]",2
+1108,CHI,xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+1108,CHI,xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+1109,FAT,comme ça \<None\> !,"[NULL,NULL,NULL]",1
+1109,FAT,comme ça \<None\> !,"[NULL,NULL,NULL]",2
+1110,CHI,e clés . [media],"[NULL,NULL,NULL]",1
+1110,CHI,e clés . [media],"[NULL,NULL,NULL]",2
+1111,FAT,vas_y . [media],"[NULL,NULL,NULL]",1
+1111,FAT,vas_y . [media],"[NULL,NULL,NULL]",2
+1112,FAT,mets la \<self interruption\> [media],"[NULL,NULL,NULL]",1
+1112,FAT,mets la \<self interruption\> [media],"[NULL,NULL,NULL]",2
+1113,FAT,mets la toi . [media],"[NULL,NULL,NULL]",1
+1113,FAT,mets la toi . [media],"[NULL,NULL,NULL]",2
+1114,FAT,toi Théophile . [media],"[NULL,NULL,NULL]",1
+1114,FAT,toi Théophile . [media],"[NULL,NULL,NULL]",2
+1115,CHI,0. .,"[NULL,NULL,NULL]",1
+1115,CHI,0. .,"[NULL,NULL,NULL]",2
+1116,FAT,oh t es fainéant hein ! [media],"[NULL,NULL,NULL]",1
+1116,FAT,oh t es fainéant hein ! [media],"[NULL,NULL,NULL]",2
+1117,CHI,ui clé ! [media],"[NULL,NULL,NULL]",1
+1117,CHI,ui clé ! [media],"[NULL,NULL,NULL]",2
+1118,FAT,regarde . on la met là . [media],"[NULL,NULL,NULL]",1
+1118,FAT,regarde . on la met là . [media],"[NULL,NULL,NULL]",2
+1119,FAT,et après tu tournes . comme ça ! [media],"[NULL,NULL,NULL]",1
+1119,FAT,et après tu tournes . comme ça ! [media],"[NULL,NULL,NULL]",2
+1120,FAT,vas_y . [media],"[NULL,NULL,NULL]",1
+1120,FAT,vas_y . [media],"[NULL,NULL,NULL]",2
+1121,FAT,comme ça . [media],"[NULL,NULL,NULL]",1
+1121,FAT,comme ça . [media],"[NULL,NULL,NULL]",2
+1122,FAT,voilà ! [media],"[NULL,NULL,NULL]",1
+1122,FAT,voilà ! [media],"[NULL,NULL,NULL]",2
+1123,CHI,0. .,"[NULL,NULL,NULL]",1
+1123,CHI,0. .,"[NULL,NULL,NULL]",2
+1124,FAT,bravo oui ! [media],"[NULL,NULL,NULL]",1
+1124,FAT,bravo oui ! [media],"[NULL,NULL,NULL]",2
+1125,CHI,0. .,"[NULL,NULL,NULL]",1
+1125,CHI,0. .,"[NULL,NULL,NULL]",2
+1126,CHI,yyy ! [media],"[NULL,NULL,NULL]",1
+1126,CHI,yyy ! [media],"[NULL,NULL,NULL]",2
+1127,CHI,yyy ! [media],"[NULL,NULL,NULL]",1
+1127,CHI,yyy ! [media],"[NULL,NULL,NULL]",2
+1128,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1128,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1129,FAT,qui est-ce qui t'as appris ça ? [media],"[NULL,NULL,NULL]",1
+1129,FAT,qui est-ce qui t'as appris ça ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1130,FAT,c'est papi ? [media],"[NULL,NULL,NULL]",1
+1130,FAT,c'est papi ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1131,CHI,eu papy a vroumvroum ! [media],"[NULL,NULL,NULL]",1
+1131,CHI,eu papy a vroumvroum ! [media],"[CHI-Response:Non-answer:declarative,NULL,NULL]",2
+1132,FAT,ah t as fait de la vroumvroum avec Papi hein ! [media],"[NULL,NULL,NULL]",1
+1132,FAT,ah t as fait de la vroumvroum avec Papi hein ! [media],"[PAR-Follow-up:Repeat-answer,NULL,NULL]",2
+1133,FAT,tous les soirs ! [media],"[NULL,NULL,NULL]",1
+1133,FAT,tous les soirs ! [media],"[NULL,NULL,NULL]",2
+1134,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1134,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1135,FAT,0. c'est bon ? [media],"[NULL,NULL,NULL]",1
+1135,FAT,0. c'est bon ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1136,FAT,ou c'est beurk ? [media],"[NULL,NULL,NULL]",1
+1136,FAT,ou c'est beurk ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1137,FAT,hein ? [media],"[NULL,NULL,NULL]",1
+1137,FAT,hein ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1138,FAT,c'est beurk ou c'est bon ? [media],"[NULL,NULL,NULL]",1
+1138,FAT,c'est beurk ou c'est bon ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+1139,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1139,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1140,FAT,toute l'eau elle est dans le ventrou de Théophile . [media],"[NULL,NULL,NULL]",1
+1140,FAT,toute l'eau elle est dans le ventrou de Théophile . [media],"[PAR-Follow-up:other,NULL,NULL]",2
+1141,FAT,dans le ventrou ! [media],"[NULL,NULL,NULL]",1
+1141,FAT,dans le ventrou ! [media],"[NULL,NULL,NULL]",2
+1142,FAT,dans le ventrou ! [media],"[NULL,NULL,NULL]",1
+1142,FAT,dans le ventrou ! [media],"[NULL,NULL,NULL]",2
+1143,CHI,0. .,"[NULL,NULL,NULL]",1
+1143,CHI,0. .,"[NULL,NULL,NULL]",2
+1144,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1144,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1145,FAT,bon . [media],"[NULL,NULL,NULL]",1
+1145,FAT,bon . [media],"[NULL,NULL,NULL]",2
+1146,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1146,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1147,OBS,0. .,"[NULL,NULL,NULL]",1
+1147,OBS,0. .,"[NULL,NULL,NULL]",2
+1148,CAM,il est intéressant .,"[NULL,NULL,NULL]",1
+1148,CAM,il est intéressant .,"[NULL,NULL,NULL]",2
+1149,CAM,je peux le prendre pour Olivier ? [media],"[NULL,NULL,NULL]",1
+1149,CAM,je peux le prendre pour Olivier ? [media],"[NULL,NULL,NULL]",2
+1150,FAT,ouais . [media],"[NULL,NULL,NULL]",1
+1150,FAT,ouais . [media],"[NULL,NULL,NULL]",2
+1151,FAT,allez on sort Théophile ! [media],"[NULL,NULL,NULL]",1
+1151,FAT,allez on sort Théophile ! [media],"[NULL,NULL,NULL]",2
+1152,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1152,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1153,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+1153,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+1154,FAT,ça te dit ? [media],"[NULL,NULL,NULL]",1
+1154,FAT,ça te dit ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+1155,FAT,0. brrrrr ! [media],"[NULL,NULL,NULL]",1
+1155,FAT,0. brrrrr ! [media],"[PAR-Follow-up:other,NULL,NULL]",2
+1156,CHI,0. .,"[NULL,NULL,NULL]",1
+1156,CHI,0. .,"[NULL,NULL,NULL]",2
+1157,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1157,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1158,FAT,ouais jette l'aut ! [media],"[NULL,NULL,NULL]",1
+1158,FAT,ouais jette l'aut ! [media],"[NULL,NULL,NULL]",2
+1159,FAT,le jaune . [media],"[NULL,NULL,NULL]",1
+1159,FAT,le jaune . [media],"[NULL,NULL,NULL]",2
+1160,FAT,poum ! [media],"[NULL,NULL,NULL]",1
+1160,FAT,poum ! [media],"[NULL,NULL,NULL]",2
+1161,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+1161,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+1162,FAT,0. .,"[NULL,NULL,NULL]",1
+1162,FAT,0. .,"[NULL,NULL,NULL]",2
+1163,FAT,boum ! [media],"[NULL,NULL,NULL]",1
+1163,FAT,boum ! [media],"[NULL,NULL,NULL]",2
+1164,CHI,eau . [media],"[NULL,NULL,NULL]",1
+1164,CHI,eau . [media],"[NULL,NULL,NULL]",2
+1165,CHI,eau . [media],"[NULL,NULL,NULL]",1
+1165,CHI,eau . [media],"[NULL,NULL,NULL]",2
+1166,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1166,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1167,OBS,tu veux de l'eau ? [media],"[NULL,NULL,NULL]",1
+1167,OBS,tu veux de l'eau ? [media],"[NULL,NULL,NULL]",2
+1168,CHI,hum . [media],"[NULL,NULL,NULL]",1
+1168,CHI,hum . [media],"[NULL,NULL,NULL]",2
+1169,OBS,0. . [media],"[NULL,NULL,NULL]",1
+1169,OBS,0. . [media],"[NULL,NULL,NULL]",2
+1170,CHI,ah ah ah yyy ah ah ! [media],"[NULL,NULL,NULL]",1
+1170,CHI,ah ah ah yyy ah ah ! [media],"[NULL,NULL,NULL]",2
+1171,FAT,t en mets pas partout hein ! [media],"[NULL,NULL,NULL]",1
+1171,FAT,t en mets pas partout hein ! [media],"[NULL,NULL,NULL]",2
+1172,OBS,celle-là elle est bonne ! [media],"[NULL,NULL,NULL]",1
+1172,OBS,celle-là elle est bonne ! [media],"[NULL,NULL,NULL]",2
+1173,OBS,oh oh oh ! [media],"[NULL,NULL,NULL]",1
+1173,OBS,oh oh oh ! [media],"[NULL,NULL,NULL]",2
+1174,OBS,tu bois pas coquin ! [media],"[NULL,NULL,NULL]",1
+1174,OBS,tu bois pas coquin ! [media],"[NULL,NULL,NULL]",2
+1175,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1175,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1176,FAT,0. tu te caches ! [media],"[NULL,NULL,NULL]",1
+1176,FAT,0. tu te caches ! [media],"[NULL,NULL,NULL]",2
+1177,CHI,0. .,"[NULL,NULL,NULL]",1
+1177,CHI,0. .,"[NULL,NULL,NULL]",2
+1178,FAT,il est où Théophile ? [media],"[NULL,NULL,NULL]",1
+1178,FAT,il est où Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1179,FAT,il est où \<None\> ? [media],"[NULL,NULL,NULL]",1
+1179,FAT,il est où \<None\> ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1180,FAT,il est où ? [media],"[NULL,NULL,NULL]",1
+1180,FAT,il est où ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1181,CHI,0. .,"[NULL,NULL,NULL]",1
+1181,CHI,0. .,"[NULL,NULL,NULL]",2
+1182,FAT,il est où ? [media],"[NULL,NULL,NULL]",1
+1182,FAT,il est où ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1183,FAT,oh ! [media],"[NULL,NULL,NULL]",1
+1183,FAT,oh ! [media],"[NULL,NULL,NULL]",2
+1184,CHI,0. .,"[NULL,NULL,NULL]",1
+1184,CHI,0. .,"[NULL,NULL,NULL]",2
+1185,FAT,il est là \<None\> ! [media],"[NULL,NULL,NULL]",1
+1185,FAT,il est là \<None\> ! [media],"[NULL,NULL,NULL]",2
+1186,FAT,il est où ? [media],"[NULL,NULL,NULL]",1
+1186,FAT,il est où ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1187,FAT,il est où Théophile ? [media],"[NULL,NULL,NULL]",1
+1187,FAT,il est où Théophile ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1188,FAT,il est où ? [media],"[NULL,NULL,NULL]",1
+1188,FAT,il est où ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1189,FAT,il est où ? [media],"[NULL,NULL,NULL]",1
+1189,FAT,il est où ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1190,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1190,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1191,FAT,bah ! [media],"[NULL,NULL,NULL]",1
+1191,FAT,bah ! [media],"[NULL,NULL,NULL]",2
+1192,FAT,il est où ? [media],"[NULL,NULL,NULL]",1
+1192,FAT,il est où ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1193,CHI,0. .,"[NULL,NULL,NULL]",1
+1193,CHI,0. .,"[NULL,NULL,NULL]",2
+1194,OBS,coucou \<None\> ! [media],"[NULL,NULL,NULL]",1
+1194,OBS,coucou \<None\> ! [media],"[NULL,NULL,NULL]",2
+1195,FAT,oh \<None\> il y a un oeil \<None\> !,"[NULL,NULL,NULL]",1
+1195,FAT,oh \<None\> il y a un oeil \<None\> !,"[NULL,NULL,NULL]",2
+1196,CHI,pipi !,"[NULL,NULL,NULL]",1
+1196,CHI,pipi !,"[NULL,NULL,NULL]",2
+1197,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1197,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1198,FAT,pipi ? [media],"[NULL,NULL,NULL]",1
+1198,FAT,pipi ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1199,FAT,non ? [media],"[NULL,NULL,NULL]",1
+1199,FAT,non ? [media],"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+1200,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1200,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1201,OBS,il est où le pot ? [media],"[NULL,NULL,NULL]",1
+1201,OBS,il est où le pot ? [media],"[NULL,NULL,NULL]",2
+1202,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1202,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1203,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1203,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1204,CHI,pipi . [media],"[NULL,NULL,NULL]",1
+1204,CHI,pipi . [media],"[NULL,NULL,NULL]",2
+1205,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1205,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1206,FAT,0. . [media],"[NULL,NULL,NULL]",1
+1206,FAT,0. . [media],"[NULL,NULL,NULL]",2
+1207,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1207,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1208,CHI,pipi non ! [media],"[NULL,NULL,NULL]",1
+1208,CHI,pipi non ! [media],"[NULL,NULL,NULL]",2
+1209,CHI,ah ! [media],"[NULL,NULL,NULL]",1
+1209,CHI,ah ! [media],"[NULL,NULL,NULL]",2
+1210,CHI,ah ! [media],"[NULL,NULL,NULL]",1
+1210,CHI,ah ! [media],"[NULL,NULL,NULL]",2
+1211,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1211,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1212,CHI,beurk ! [media],"[NULL,NULL,NULL]",1
+1212,CHI,beurk ! [media],"[NULL,NULL,NULL]",2
+1213,CHI,xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+1213,CHI,xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+1214,FAT,je sais \<None\> pas trop ce-que ça veut dire tout ça !,"[NULL,NULL,NULL]",1
+1214,FAT,je sais \<None\> pas trop ce-que ça veut dire tout ça !,"[NULL,NULL,NULL]",2
+1215,CHI,beurk ! [media],"[NULL,NULL,NULL]",1
+1215,CHI,beurk ! [media],"[NULL,NULL,NULL]",2
+1216,FAT,faut . décoder ! [media],"[NULL,NULL,NULL]",1
+1216,FAT,faut . décoder ! [media],"[NULL,NULL,NULL]",2
+1217,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1217,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1219,CHI,yyy ! [media],"[NULL,NULL,NULL]",1
+1219,CHI,yyy ! [media],"[NULL,NULL,NULL]",2
+1220,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1220,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1221,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1221,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1222,CHI,maman ! [media],"[NULL,NULL,NULL]",1
+1222,CHI,maman ! [media],"[NULL,NULL,NULL]",2
+1223,CHI,ouh ! [media],"[NULL,NULL,NULL]",1
+1223,CHI,ouh ! [media],"[NULL,NULL,NULL]",2
+1224,FAT,0. .,"[NULL,NULL,NULL]",1
+1224,FAT,0. .,"[NULL,NULL,NULL]",2
+1225,OBS,les bulles ! [media],"[NULL,NULL,NULL]",1
+1225,OBS,les bulles ! [media],"[NULL,NULL,NULL]",2
+1226,FAT,c'est des fff . [media],"[NULL,NULL,NULL]",1
+1226,FAT,c'est des fff . [media],"[NULL,NULL,NULL]",2
+1227,FAT,0. . [media],"[NULL,NULL,NULL]",1
+1227,FAT,0. . [media],"[NULL,NULL,NULL]",2
+1228,CHI,0. na .,"[NULL,NULL,NULL]",1
+1228,CHI,0. na .,"[NULL,NULL,NULL]",2
+1229,FAT,non non mange pas \<None\> ! [media],"[NULL,NULL,NULL]",1
+1229,FAT,non non mange pas \<None\> ! [media],"[NULL,NULL,NULL]",2
+1230,OBS,ah pas dans la \<None\> bouche hein !,"[NULL,NULL,NULL]",1
+1230,OBS,ah pas dans la \<None\> bouche hein !,"[NULL,NULL,NULL]",2
+1231,CHI,0. .,"[NULL,NULL,NULL]",1
+1231,CHI,0. .,"[NULL,NULL,NULL]",2
+1232,OBS,tu souffles ! [media],"[NULL,NULL,NULL]",1
+1232,OBS,tu souffles ! [media],"[NULL,NULL,NULL]",2
+1233,FAT,non il sait faire ! [media],"[NULL,NULL,NULL]",1
+1233,FAT,non il sait faire ! [media],"[NULL,NULL,NULL]",2
+1234,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1234,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1235,FAT,c'est bon hein ça aussi hum ! [media],"[NULL,NULL,NULL]",1
+1235,FAT,c'est bon hein ça aussi hum ! [media],"[NULL,NULL,NULL]",2
+1236,FAT,bien au fond . [media],"[NULL,NULL,NULL]",1
+1236,FAT,bien au fond . [media],"[NULL,NULL,NULL]",2
+1237,FAT,là . [media],"[NULL,NULL,NULL]",1
+1237,FAT,là . [media],"[NULL,NULL,NULL]",2
+1238,OBS,alors montre moi comment tu fais . [media],"[NULL,NULL,NULL]",1
+1238,OBS,alors montre moi comment tu fais . [media],"[NULL,NULL,NULL]",2
+1239,OBS,pas trop près pas trop près ! [media],"[NULL,NULL,NULL]",1
+1239,OBS,pas trop près pas trop près ! [media],"[NULL,NULL,NULL]",2
+1240,CHI,0. .,"[NULL,NULL,NULL]",1
+1240,CHI,0. .,"[NULL,NULL,NULL]",2
+1241,OBS,sinon ça marche pas \<None\> ! [media],"[NULL,NULL,NULL]",1
+1241,OBS,sinon ça marche pas \<None\> ! [media],"[NULL,NULL,NULL]",2
+1242,FAT,trop près \<None\> !,"[NULL,NULL,NULL]",1
+1242,FAT,trop près \<None\> !,"[NULL,NULL,NULL]",2
+1243,FAT,trop près Théophile . [media],"[NULL,NULL,NULL]",1
+1243,FAT,trop près Théophile . [media],"[NULL,NULL,NULL]",2
+1244,FAT,c'est pas bon hein ! [media],"[NULL,NULL,NULL]",1
+1244,FAT,c'est pas bon hein ! [media],"[NULL,NULL,NULL]",2
+1245,FAT,regarde . [media],"[NULL,NULL,NULL]",1
+1245,FAT,regarde . [media],"[NULL,NULL,NULL]",2
+1246,FAT,mais il y a plus de produit . [media],"[NULL,NULL,NULL]",1
+1246,FAT,mais il y a plus de produit . [media],"[NULL,NULL,NULL]",2
+1247,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1247,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1248,FAT,eh oui \<None\> !,"[NULL,NULL,NULL]",1
+1248,FAT,eh oui \<None\> !,"[NULL,NULL,NULL]",2
+1249,OBS,ben oui \<None\> !,"[NULL,NULL,NULL]",1
+1249,OBS,ben oui \<None\> !,"[NULL,NULL,NULL]",2
+1250,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1250,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1251,FAT,voilà !,"[NULL,NULL,NULL]",1
+1251,FAT,voilà !,"[NULL,NULL,NULL]",2
+1252,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1252,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1253,OBS,on va tout cracher \<None\> !,"[NULL,NULL,NULL]",1
+1253,OBS,on va tout cracher \<None\> !,"[NULL,NULL,NULL]",2
+1254,FAT,oui encore \<None\> encore !,"[NULL,NULL,NULL]",1
+1254,FAT,oui encore \<None\> encore !,"[NULL,NULL,NULL]",2
+1255,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1255,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1256,FAT,hum .,"[NULL,NULL,NULL]",1
+1256,FAT,hum .,"[NULL,NULL,NULL]",2
+1257,OBS,savon . [media],"[NULL,NULL,NULL]",1
+1257,OBS,savon . [media],"[NULL,NULL,NULL]",2
+1258,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1258,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1259,FAT,dans la tête de papa ! [media],"[NULL,NULL,NULL]",1
+1259,FAT,dans la tête de papa ! [media],"[NULL,NULL,NULL]",2
+1260,FAT,bien au fond . [media],"[NULL,NULL,NULL]",1
+1260,FAT,bien au fond . [media],"[NULL,NULL,NULL]",2
+1261,FAT,rrr on mélange on mélange ! [media],"[NULL,NULL,NULL]",1
+1261,FAT,rrr on mélange on mélange ! [media],"[NULL,NULL,NULL]",2
+1262,FAT,ah ! [media],"[NULL,NULL,NULL]",1
+1262,FAT,ah ! [media],"[NULL,NULL,NULL]",2
+1263,CHI,0. .,"[NULL,NULL,NULL]",1
+1263,CHI,0. .,"[NULL,NULL,NULL]",2
+1264,FAT,c'est quoi cette technique ! [media],"[NULL,NULL,NULL]",1
+1264,FAT,c'est quoi cette technique ! [media],"[NULL,NULL,NULL]",2
+1265,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1265,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1266,OBS,www . [media],"[NULL,NULL,NULL]",1
+1266,OBS,www . [media],"[NULL,NULL,NULL]",2
+1267,CAM,www . [media],"[NULL,NULL,NULL]",1
+1267,CAM,www . [media],"[NULL,NULL,NULL]",2
+1268,CAM,0. . [media],"[NULL,NULL,NULL]",1
+1268,CAM,0. . [media],"[NULL,NULL,NULL]",2
+1269,CAM,www . [media],"[NULL,NULL,NULL]",1
+1269,CAM,www . [media],"[NULL,NULL,NULL]",2
+1270,CHI,0. .,"[NULL,NULL,NULL]",1
+1270,CHI,0. .,"[NULL,NULL,NULL]",2
+1271,FAT,0. . [media],"[NULL,NULL,NULL]",1
+1271,FAT,0. . [media],"[NULL,NULL,NULL]",2
+1272,FAT,non c'est pas bon ! [media],"[NULL,NULL,NULL]",1
+1272,FAT,non c'est pas bon ! [media],"[NULL,NULL,NULL]",2
+1273,CHI,0. .,"[NULL,NULL,NULL]",1
+1273,CHI,0. .,"[NULL,NULL,NULL]",2
+1274,FAT,c'est beurk ! [media],"[NULL,NULL,NULL]",1
+1274,FAT,c'est beurk ! [media],"[NULL,NULL,NULL]",2
+1275,FAT,0. . [media],"[NULL,NULL,NULL]",1
+1275,FAT,0. . [media],"[NULL,NULL,NULL]",2
+1276,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1276,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1277,FAT,0. . [media],"[NULL,NULL,NULL]",1
+1277,FAT,0. . [media],"[NULL,NULL,NULL]",2
+1278,OBS,www . [media],"[NULL,NULL,NULL]",1
+1278,OBS,www . [media],"[NULL,NULL,NULL]",2
+1279,CAM,www .,"[NULL,NULL,NULL]",1
+1279,CAM,www .,"[NULL,NULL,NULL]",2
+1280,FAT,boumy ! [media],"[NULL,NULL,NULL]",1
+1280,FAT,boumy ! [media],"[NULL,NULL,NULL]",2
+1281,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1281,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1282,FAT,ouh la ! [media],"[NULL,NULL,NULL]",1
+1282,FAT,ouh la ! [media],"[NULL,NULL,NULL]",2
+1283,CHI,0. .,"[NULL,NULL,NULL]",1
+1283,CHI,0. .,"[NULL,NULL,NULL]",2
+1284,FAT,bon . [media],"[NULL,NULL,NULL]",1
+1284,FAT,bon . [media],"[NULL,NULL,NULL]",2
+1285,FAT,tu fais un peu des cochonneries là ! [media],"[NULL,NULL,NULL]",1
+1285,FAT,tu fais un peu des cochonneries là ! [media],"[NULL,NULL,NULL]",2
+1287,CHI,xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+1287,CHI,xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+1288,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1288,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1289,MOT,yyy ? [media],"[NULL,NULL,NULL]",1
+1289,MOT,yyy ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1290,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1290,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1291,FAT,xxx .,"[NULL,NULL,NULL]",1
+1291,FAT,xxx .,"[NULL,NULL,NULL]",2
+1292,FAT,ah ouais super . [media],"[NULL,NULL,NULL]",1
+1292,FAT,ah ouais super . [media],"[NULL,NULL,NULL]",2
+1293,CHI,ah non ! [media],"[NULL,NULL,NULL]",1
+1293,CHI,ah non ! [media],"[NULL,NULL,NULL]",2
+1294,MOT,han ! [media],"[NULL,NULL,NULL]",1
+1294,MOT,han ! [media],"[NULL,NULL,NULL]",2
+1295,FAT,oh Théophi !,"[NULL,NULL,NULL]",1
+1295,FAT,oh Théophi !,"[NULL,NULL,NULL]",2
+1296,MOT,regarde . t as vu . tout est tombé ! [media],"[NULL,NULL,NULL]",1
+1296,MOT,regarde . t as vu . tout est tombé ! [media],"[NULL,NULL,NULL]",2
+1297,MOT,bon je vais nettoyer parce que je sais pas ce-que c'est ce produit . [media],"[NULL,NULL,NULL]",1
+1297,MOT,bon je vais nettoyer parce que je sais pas ce-que c'est ce produit . [media],"[NULL,NULL,NULL]",2
+1298,FAT,xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+1298,FAT,xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+1299,MOT,xxx ouais \<None\> .,"[NULL,NULL,NULL]",1
+1299,MOT,xxx ouais \<None\> .,"[NULL,NULL,NULL]",2
+1300,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1300,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1301,MOT,il y en a plus . il y en a plus maint regarde .,"[NULL,NULL,NULL]",1
+1301,MOT,il y en a plus . il y en a plus maint regarde .,"[NULL,NULL,NULL]",2
+1302,FAT,xxx . [media],"[NULL,NULL,NULL]",1
+1302,FAT,xxx . [media],"[NULL,NULL,NULL]",2
+1303,OBS,www .,"[NULL,NULL,NULL]",1
+1303,OBS,www .,"[NULL,NULL,NULL]",2
+1304,MOT,tu vois . il y en a n' a plus . [media],"[NULL,NULL,NULL]",1
+1304,MOT,tu vois . il y en a n' a plus . [media],"[NULL,NULL,NULL]",2
+1305,FAT,non mais arrête Théophile .,"[NULL,NULL,NULL]",1
+1305,FAT,non mais arrête Théophile .,"[NULL,NULL,NULL]",2
+1306,MOT,ben il aura compris comme ça hein !,"[NULL,NULL,NULL]",1
+1306,MOT,ben il aura compris comme ça hein !,"[NULL,NULL,NULL]",2
+1307,MOT,voilà . il y en a plus . [media],"[NULL,NULL,NULL]",1
+1307,MOT,voilà . il y en a plus . [media],"[NULL,NULL,NULL]",2
+1308,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1308,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1309,MOT,il y en a plus ! [media],"[NULL,NULL,NULL]",1
+1309,MOT,il y en a plus ! [media],"[NULL,NULL,NULL]",2
+1310,MOT,je vais chercher du pain . [media],"[NULL,NULL,NULL]",1
+1310,MOT,je vais chercher du pain . [media],"[NULL,NULL,NULL]",2
+1311,CHI,oh eh . [media],"[NULL,NULL,NULL]",1
+1311,CHI,oh eh . [media],"[NULL,NULL,NULL]",2
+1312,FAT,mais arrête Théophile c'est pas bon c'est du savon ! [media],"[NULL,NULL,NULL]",1
+1312,FAT,mais arrête Théophile c'est pas bon c'est du savon ! [media],"[NULL,NULL,NULL]",2
+1313,CAM,www . [media],"[NULL,NULL,NULL]",1
+1313,CAM,www . [media],"[NULL,NULL,NULL]",2
+1314,OBS,c'est bizarre xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+1314,OBS,c'est bizarre xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+1315,CHI,beurk !,"[NULL,NULL,NULL]",1
+1315,CHI,beurk !,"[NULL,NULL,NULL]",2
+1316,OBS,www . [media],"[NULL,NULL,NULL]",1
+1316,OBS,www . [media],"[NULL,NULL,NULL]",2
+1317,MOT,vous entendez trop la hotte là ou pas ? [media],"[NULL,NULL,NULL]",1
+1317,MOT,vous entendez trop la hotte là ou pas ? [media],"[NULL,NULL,NULL]",2
+1318,MOT,non je peux l'éteindre main hein ! [media],"[NULL,NULL,NULL]",1
+1318,MOT,non je peux l'éteindre main hein ! [media],"[NULL,NULL,NULL]",2
+1319,OBS,ouais . [media],"[NULL,NULL,NULL]",1
+1319,OBS,ouais . [media],"[NULL,NULL,NULL]",2
+1320,MOT,je vais l'éteindre . [media],"[NULL,NULL,NULL]",1
+1320,MOT,je vais l'éteindre . [media],"[NULL,NULL,NULL]",2
+1321,CAM,non mais xxx .,"[NULL,NULL,NULL]",1
+1321,CAM,non mais xxx .,"[NULL,NULL,NULL]",2
+1322,MOT,c'était juste deux secondes . [media],"[NULL,NULL,NULL]",1
+1322,MOT,c'était juste deux secondes . [media],"[NULL,NULL,NULL]",2
+1323,FAT,c'est pas bon . [media],"[NULL,NULL,NULL]",1
+1323,FAT,c'est pas bon . [media],"[NULL,NULL,NULL]",2
+1324,FAT,Théophile . [media],"[NULL,NULL,NULL]",1
+1324,FAT,Théophile . [media],"[NULL,NULL,NULL]",2
+1325,FAT,hé ! [media],"[NULL,NULL,NULL]",1
+1325,FAT,hé ! [media],"[NULL,NULL,NULL]",2
+1326,CHI,0. .,"[NULL,NULL,NULL]",1
+1326,CHI,0. .,"[NULL,NULL,NULL]",2
+1327,FAT,tu fais le coquinou hein ! [media],"[NULL,NULL,NULL]",1
+1327,FAT,tu fais le coquinou hein ! [media],"[NULL,NULL,NULL]",2
+1328,CHI,0. .,"[NULL,NULL,NULL]",1
+1328,CHI,0. .,"[NULL,NULL,NULL]",2
+1329,FAT,papi mamie j'ai l'impression que c'était ... [media],"[NULL,NULL,NULL]",1
+1329,FAT,papi mamie j'ai l'impression que c'était ... [media],"[NULL,NULL,NULL]",2
+1330,FAT,[quote] le petit roi . [media],"[NULL,NULL,NULL]",1
+1330,FAT,[quote] le petit roi . [media],"[NULL,NULL,NULL]",2
+1331,CHI,oh ! [media],"[NULL,NULL,NULL]",1
+1331,CHI,oh ! [media],"[NULL,NULL,NULL]",2
+1332,FAT,on va serrer la vis là . [media],"[NULL,NULL,NULL]",1
+1332,FAT,on va serrer la vis là . [media],"[NULL,NULL,NULL]",2
+1333,FAT,crack ! [media],"[NULL,NULL,NULL]",1
+1333,FAT,crack ! [media],"[NULL,NULL,NULL]",2
+1334,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1334,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1335,OBS,ah !,"[NULL,NULL,NULL]",1
+1335,OBS,ah !,"[NULL,NULL,NULL]",2
+1336,OBS,beurk ouh euh . [media],"[NULL,NULL,NULL]",1
+1336,OBS,beurk ouh euh . [media],"[NULL,NULL,NULL]",2
+1337,FAT,Théophile . [media],"[NULL,NULL,NULL]",1
+1337,FAT,Théophile . [media],"[NULL,NULL,NULL]",2
+1338,FAT,non ! [media],"[NULL,NULL,NULL]",1
+1338,FAT,non ! [media],"[NULL,NULL,NULL]",2
+1339,FAT,t es coquin hein ! [media],"[NULL,NULL,NULL]",1
+1339,FAT,t es coquin hein ! [media],"[NULL,NULL,NULL]",2
+1340,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1340,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1341,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1341,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1342,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1342,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1343,CHI,ah non ! [media],"[NULL,NULL,NULL]",1
+1343,CHI,ah non ! [media],"[NULL,NULL,NULL]",2
+1344,FAT,0. .,"[NULL,NULL,NULL]",1
+1344,FAT,0. .,"[NULL,NULL,NULL]",2
+1345,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1345,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1346,FAT,si_il_te_plaît . [media],"[NULL,NULL,NULL]",1
+1346,FAT,si_il_te_plaît . [media],"[NULL,NULL,NULL]",2
+1347,FAT,t arrêtes de faire des bêtises alors . [media],"[NULL,NULL,NULL]",1
+1347,FAT,t arrêtes de faire des bêtises alors . [media],"[NULL,NULL,NULL]",2
+1348,CHI,0. .,"[NULL,NULL,NULL]",1
+1348,CHI,0. .,"[NULL,NULL,NULL]",2
+1349,FAT,tu le manges pas . [media],"[NULL,NULL,NULL]",1
+1349,FAT,tu le manges pas . [media],"[NULL,NULL,NULL]",2
+1350,FAT,Théophile ! [media],"[NULL,NULL,NULL]",1
+1350,FAT,Théophile ! [media],"[NULL,NULL,NULL]",2
+1351,FAT,tu le manges pas ! [media],"[NULL,NULL,NULL]",1
+1351,FAT,tu le manges pas ! [media],"[NULL,NULL,NULL]",2
+1352,FAT,tiens . [media],"[NULL,NULL,NULL]",1
+1352,FAT,tiens . [media],"[NULL,NULL,NULL]",2
+1353,FAT,ouais . [media],"[NULL,NULL,NULL]",1
+1353,FAT,ouais . [media],"[NULL,NULL,NULL]",2
+1354,CHI,0. .,"[NULL,NULL,NULL]",1
+1354,CHI,0. .,"[NULL,NULL,NULL]",2
+1355,FAT,0. . [media],"[NULL,NULL,NULL]",1
+1355,FAT,0. . [media],"[NULL,NULL,NULL]",2
+1356,CHI,0. .,"[NULL,NULL,NULL]",1
+1356,CHI,0. .,"[NULL,NULL,NULL]",2
+1357,FAT,xxx \<None\> . [media],"[NULL,NULL,NULL]",1
+1357,FAT,xxx \<None\> . [media],"[NULL,NULL,NULL]",2
+1358,FAT,tu vas le casser ! [media],"[NULL,NULL,NULL]",1
+1358,FAT,tu vas le casser ! [media],"[NULL,NULL,NULL]",2
+1359,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1359,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1360,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1360,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1361,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1361,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1362,CHI,c'est qui ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+1362,CHI,c'est qui ? [media],"[NULL,NULL,NULL]",2
+1363,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1363,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1364,FAT,c'est maman \<None\> . [media],"[PAR-Response:Answer:no-explanation-needed,CHI-Follow-up:No-followup,NULL]",1
+1364,FAT,c'est maman \<None\> . [media],"[NULL,NULL,NULL]",2
+1365,MOT,ça a fermé \<None\> .,"[NULL,NULL,NULL]",1
+1365,MOT,ça a fermé \<None\> .,"[NULL,NULL,NULL]",2
+1366,FAT,ils ont fermé ? [media],"[NULL,NULL,NULL]",1
+1366,FAT,ils ont fermé ? [media],"[NULL,NULL,NULL]",2
+1367,MOT,bah ouais . [media],"[NULL,NULL,NULL]",1
+1367,MOT,bah ouais . [media],"[NULL,NULL,NULL]",2
+1368,MOT,pourtant il était là ! [media],"[NULL,NULL,NULL]",1
+1368,MOT,pourtant il était là ! [media],"[NULL,NULL,NULL]",2
+1369,MOT,j'ai failli le prendre tout_à_l'heure p comme je devais aller tout_de_suite euh \<self interruption\> [media],"[NULL,NULL,NULL]",1
+1369,MOT,j'ai failli le prendre tout_à_l'heure p comme je devais aller tout_de_suite euh \<self interruption\> [media],"[NULL,NULL,NULL]",2
+1370,FAT,ton bras . [media],"[NULL,NULL,NULL]",1
+1370,FAT,ton bras . [media],"[NULL,NULL,NULL]",2
+1371,MOT,on ira demain . [media],"[NULL,NULL,NULL]",1
+1371,MOT,on ira demain . [media],"[NULL,NULL,NULL]",2
+1372,FAT,l'autre ! [media],"[NULL,NULL,NULL]",1
+1372,FAT,l'autre ! [media],"[NULL,NULL,NULL]",2
+1373,FAT,l'autre bras . [media],"[NULL,NULL,NULL]",1
+1373,FAT,l'autre bras . [media],"[NULL,NULL,NULL]",2
+1374,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1374,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1375,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1375,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1376,FAT,tu donnes l'autre bras ? [media],"[NULL,NULL,NULL]",1
+1376,FAT,tu donnes l'autre bras ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1377,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1377,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1378,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1378,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1379,CHI,e bébé ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]",1
+1379,CHI,e bébé ? [media],"[NULL,NULL,NULL]",2
+1380,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1380,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1381,FAT,c'est qui le bébé ?,"[NULL,NULL,NULL]",1
+1381,FAT,c'est qui le bébé ?,"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1382,CHI,0. papa \<None\> ! [media],"[NULL,NULL,NULL]",1
+1382,CHI,0. papa \<None\> ! [media],"[CHI-Response:Non-answer:declarative,PAR-Follow-up:No-followup,NULL]",2
+1383,CHI,beurk ! [media],"[NULL,NULL,NULL]",1
+1383,CHI,beurk ! [media],"[NULL,NULL,NULL]",2
+1384,CHI,beurk ! [media],"[NULL,NULL,NULL]",1
+1384,CHI,beurk ! [media],"[NULL,NULL,NULL]",2
+1385,CHI,eh papa \<None\> . [media],"[NULL,NULL,NULL]",1
+1385,CHI,eh papa \<None\> . [media],"[NULL,NULL,NULL]",2
+1386,MOT,yyy ? [media],"[NULL,NULL,NULL]",1
+1386,MOT,yyy ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1387,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1387,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1388,FAT,yyy .,"[NULL,NULL,NULL]",1
+1388,FAT,yyy .,"[NULL,NULL,NULL]",2
+1389,MOT,non ! [media],"[NULL,NULL,NULL]",1
+1389,MOT,non ! [media],"[NULL,NULL,NULL]",2
+1390,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1390,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1391,FAT,ah il y a plus de produit bah oui ! [media],"[NULL,NULL,NULL]",1
+1391,FAT,ah il y a plus de produit bah oui ! [media],"[NULL,NULL,NULL]",2
+1392,CHI,0. eau . [media],"[NULL,NULL,NULL]",1
+1392,CHI,0. eau . [media],"[NULL,NULL,NULL]",2
+1393,MOT,oui il y en a \<None\> plus . [media],"[NULL,NULL,NULL]",1
+1393,MOT,oui il y en a \<None\> plus . [media],"[NULL,NULL,NULL]",2
+1394,CHI,eau !,"[NULL,NULL,NULL]",1
+1394,CHI,eau !,"[NULL,NULL,NULL]",2
+1395,MOT,faut mettre de l'eau \<None\> et du produit ouais . [media],"[NULL,NULL,NULL]",1
+1395,MOT,faut mettre de l'eau \<None\> et du produit ouais . [media],"[NULL,NULL,NULL]",2
+1396,CHI,eau .,"[NULL,NULL,NULL]",1
+1396,CHI,eau .,"[NULL,NULL,NULL]",2
+1397,CHI,eau ! [media],"[NULL,NULL,NULL]",1
+1397,CHI,eau ! [media],"[NULL,NULL,NULL]",2
+1398,CHI,eau ! [media],"[NULL,NULL,NULL]",1
+1398,CHI,eau ! [media],"[NULL,NULL,NULL]",2
+1399,MOT,ouais mais que de l'eau ça marchera pas ! [media],"[NULL,NULL,NULL]",1
+1399,MOT,ouais mais que de l'eau ça marchera pas ! [media],"[NULL,NULL,NULL]",2
+1400,MOT,je vais essayer d' aller en faire . [media],"[NULL,NULL,NULL]",1
+1400,MOT,je vais essayer d' aller en faire . [media],"[NULL,NULL,NULL]",2
+1401,MOT,d'accord ? [media],"[NULL,NULL,NULL]",1
+1401,MOT,d'accord ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1402,MOT,je vais en faire ! [media],"[NULL,NULL,NULL]",1
+1402,MOT,je vais en faire ! [media],"[NULL,NULL,NULL]",2
+1403,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1403,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1404,FAT,ah mais eh \<None\> !,"[NULL,NULL,NULL]",1
+1404,FAT,ah mais eh \<None\> !,"[NULL,NULL,NULL]",2
+1405,MOT,bah il faut \<None\> Théophile !,"[NULL,NULL,NULL]",1
+1405,MOT,bah il faut \<None\> Théophile !,"[NULL,NULL,NULL]",2
+1406,MOT,je te laisse ça . et je vais mettre de l'eau ? [media],"[NULL,NULL,NULL]",1
+1406,MOT,je te laisse ça . et je vais mettre de l'eau ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1407,MOT,d'accord \<None\> ? [media],"[NULL,NULL,NULL]",1
+1407,MOT,d'accord \<None\> ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1408,FAT,comment \<None\> on le remue ?,"[NULL,NULL,NULL]",1
+1408,FAT,comment \<None\> on le remue ?,"[PAR-Initiation:Information-seeking:explanation-based,NULL,NULL]",2
+1409,MOT,hum ? [media],"[NULL,NULL,NULL]",1
+1409,MOT,hum ? [media],"[NULL,NULL,NULL]",2
+1410,CHI,non . [media],"[NULL,NULL,NULL]",1
+1410,CHI,non . [media],"[CHI-Response:Non-answer:declarative,PAR-Follow-up:No-followup,NULL]",2
+1411,CHI,oh oh na ! [media],"[NULL,NULL,NULL]",1
+1411,CHI,oh oh na ! [media],"[NULL,NULL,NULL]",2
+1412,MOT,0. .,"[NULL,NULL,NULL]",1
+1412,MOT,0. .,"[NULL,NULL,NULL]",2
+1413,CHI,yyy non . [media],"[NULL,NULL,NULL]",1
+1413,CHI,yyy non . [media],"[NULL,NULL,NULL]",2
+1414,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1414,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1415,CHI,non . [media],"[NULL,NULL,NULL]",1
+1415,CHI,non . [media],"[NULL,NULL,NULL]",2
+1416,FAT,tu fais de variations sur le non ? [media],"[NULL,NULL,NULL]",1
+1416,FAT,tu fais de variations sur le non ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1417,FAT,yyy yyy yyy yyy non ! [media],"[NULL,NULL,NULL]",1
+1417,FAT,yyy yyy yyy yyy non ! [media],"[NULL,NULL,NULL]",2
+1418,FAT,non c'est pas bon ! [media],"[NULL,NULL,NULL]",1
+1418,FAT,non c'est pas bon ! [media],"[NULL,NULL,NULL]",2
+1419,CHI,0. .,"[NULL,NULL,NULL]",1
+1419,CHI,0. .,"[NULL,NULL,NULL]",2
+1420,FAT,beurk ! [media],"[NULL,NULL,NULL]",1
+1420,FAT,beurk ! [media],"[NULL,NULL,NULL]",2
+1421,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1421,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1422,FAT,ah enfin un câlinou ! [media],"[NULL,NULL,NULL]",1
+1422,FAT,ah enfin un câlinou ! [media],"[NULL,NULL,NULL]",2
+1423,FAT,eh beh ! [media],"[NULL,NULL,NULL]",1
+1423,FAT,eh beh ! [media],"[NULL,NULL,NULL]",2
+1424,FAT,il vient de loin c hein ! [media],"[NULL,NULL,NULL]",1
+1424,FAT,il vient de loin c hein ! [media],"[NULL,NULL,NULL]",2
+1425,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1425,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1426,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1426,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1427,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1427,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1428,FAT,et oui c'est les \<None\> ! [media],"[NULL,NULL,NULL]",1
+1428,FAT,et oui c'est les \<None\> ! [media],"[NULL,NULL,NULL]",2
+1429,CHI,yyy .,"[NULL,NULL,NULL]",1
+1429,CHI,yyy .,"[NULL,NULL,NULL]",2
+1430,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1430,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1431,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1431,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1432,FAT,qu'es ce qu' y a là \<None\> ? [media],"[NULL,NULL,NULL]",1
+1432,FAT,qu'es ce qu' y a là \<None\> ? [media],"[PAR-Initiation:Information-seeking:fact-based ,Complex-long,NULL]",2
+1433,OBS,qu'est-ce \<None\> que c'est ?,"[NULL,NULL,NULL]",1
+1433,OBS,qu'est-ce \<None\> que c'est ?,"[NULL,NULL,NULL]",2
+1434,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1434,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1435,FAT,il est où Doumdé ? [media],"[NULL,NULL,NULL]",1
+1435,FAT,il est où Doumdé ? [media],"[PAR-Initiation:Information-seeking:fact-based ,NULL,NULL]",2
+1436,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+1436,CHI,\<None\> \<None\> \<None\> ! [media],"[CHI-Response:Answer:non-verbal,PAR-Follow-up:No-followup,NULL]",2
+1437,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1437,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1438,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+1438,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+1439,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1439,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1440,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+1440,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+1441,CHI,ah a toto ! [media],"[NULL,NULL,NULL]",1
+1441,CHI,ah a toto ! [media],"[NULL,NULL,NULL]",2
+1442,CHI,ma toto ! [media],"[NULL,NULL,NULL]",1
+1442,CHI,ma toto ! [media],"[NULL,NULL,NULL]",2
+1443,CHI,ma toto ! [media],"[NULL,NULL,NULL]",1
+1443,CHI,ma toto ! [media],"[NULL,NULL,NULL]",2
+1444,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1444,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1445,FAT,0. . [media],"[NULL,NULL,NULL]",1
+1445,FAT,0. . [media],"[NULL,NULL,NULL]",2
+1446,CHI,0. .,"[NULL,NULL,NULL]",1
+1446,CHI,0. .,"[NULL,NULL,NULL]",2
+1447,FAT,voilà . [media],"[NULL,NULL,NULL]",1
+1447,FAT,voilà . [media],"[NULL,NULL,NULL]",2
+1448,FAT,on met les pantoufles ? [media],"[NULL,NULL,NULL]",1
+1448,FAT,on met les pantoufles ? [media],"[PAR-Initiation:Non-Information-seeking,NULL,NULL]",2
+1449,CHI,e toto ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]",1
+1449,CHI,e toto ? [media],"[NULL,NULL,NULL]",2
+1450,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1450,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1451,FAT,pantoufles de tigre ! [media],"[NULL,NULL,NULL]",1
+1451,FAT,pantoufles de tigre ! [media],"[NULL,NULL,NULL]",2
+1452,FAT,ah tu simplifies pas la vie hein Théophile ! [media],"[NULL,NULL,NULL]",1
+1452,FAT,ah tu simplifies pas la vie hein Théophile ! [media],"[NULL,NULL,NULL]",2
+1454,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1454,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1455,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+1455,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+1456,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+1456,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+1457,OBS,oui c'est à moi merci ! [media],"[NULL,NULL,NULL]",1
+1457,OBS,oui c'est à moi merci ! [media],"[NULL,NULL,NULL]",2
+1458,FAT,c'est l'autre sens . [media],"[NULL,NULL,NULL]",1
+1458,FAT,c'est l'autre sens . [media],"[NULL,NULL,NULL]",2
+1459,CHI,0. .,"[NULL,NULL,NULL]",1
+1459,CHI,0. .,"[NULL,NULL,NULL]",2
+1460,FAT,elle va tomber ! [media],"[NULL,NULL,NULL]",1
+1460,FAT,elle va tomber ! [media],"[NULL,NULL,NULL]",2
+1461,FAT,c'est l'autre l'autre dans l'autre sens le bouton Théophile . [media],"[NULL,NULL,NULL]",1
+1461,FAT,c'est l'autre l'autre dans l'autre sens le bouton Théophile . [media],"[NULL,NULL,NULL]",2
+1462,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+1462,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+1463,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1463,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1464,CHI,a vrouvroum ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]",1
+1464,CHI,a vrouvroum ? [media],"[NULL,NULL,NULL]",2
+1465,CHI,a vrouvroum ! [media],"[NULL,NULL,NULL]",1
+1465,CHI,a vrouvroum ! [media],"[NULL,NULL,NULL]",2
+1466,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1466,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1467,CHI,na vroumvroum ! [media],"[NULL,NULL,NULL]",1
+1467,CHI,na vroumvroum ! [media],"[NULL,NULL,NULL]",2
+1468,CHI,a vroumvroum ! [media],"[NULL,NULL,NULL]",1
+1468,CHI,a vroumvroum ! [media],"[NULL,NULL,NULL]",2
+1469,FAT,je sais pas où il est le reste du tracteur . [media],"[NULL,NULL,NULL]",1
+1469,FAT,je sais pas où il est le reste du tracteur . [media],"[NULL,NULL,NULL]",2
+1470,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1470,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1471,CHI,a vrouvroum ! [media],"[NULL,NULL,NULL]",1
+1471,CHI,a vrouvroum ! [media],"[NULL,NULL,NULL]",2
+1472,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1472,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1473,FAT,il est en_bas tu crois ? [media],"[NULL,NULL,NULL]",1
+1473,FAT,il est en_bas tu crois ? [media],"[PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response,NULL]",2
+1474,FAT,il est en_bas ? [media],"[NULL,NULL,NULL]",1
+1474,FAT,il est en_bas ? [media],"[PAR-Follow-up:Re-ask-initial-question,PAR-Initiation:Information-seeking:fact-based ,CHI-Response:No-response]",2
+1475,FAT,je crois pas hein ! [media],"[NULL,NULL,NULL]",1
+1475,FAT,je crois pas hein ! [media],"[PAR-Follow-up:Give-response,NULL,NULL]",2
+1476,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1476,CHI,0. . [media],"[NULL,NULL,NULL]",2

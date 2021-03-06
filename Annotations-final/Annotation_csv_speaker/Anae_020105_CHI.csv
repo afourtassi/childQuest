@@ -1,0 +1,3097 @@
+ID,Speaker,utterance,annotation,list-ID
+5,BR1,et le dinosaure . [media],"[NULL,NULL,NULL]",1
+5,BR1,et le dinosaure . [media],"[NULL,NULL,NULL]",2
+6,CHI,yyy .,"[NULL,NULL,NULL]",1
+6,CHI,yyy .,"[NULL,NULL,NULL]",2
+7,OBS,on est le vingt neuf août deux mille huit et Anaé a deux ans et un mois . [media],"[NULL,NULL,NULL]",1
+7,OBS,on est le vingt neuf août deux mille huit et Anaé a deux ans et un mois . [media],"[NULL,NULL,NULL]",2
+8,CHI,[quote] yyy là là !,"[NULL,NULL,NULL]",1
+8,CHI,[quote] yyy là là !,"[NULL,NULL,NULL]",2
+9,CHI,xxx yyy . [media],"[NULL,NULL,NULL]",1
+9,CHI,xxx yyy . [media],"[NULL,NULL,NULL]",2
+10,CHI,0. . [media],"[NULL,NULL,NULL]",1
+10,CHI,0. . [media],"[NULL,NULL,NULL]",2
+11,BR1,0. . [media],"[NULL,NULL,NULL]",1
+11,BR1,0. . [media],"[NULL,NULL,NULL]",2
+12,CHI,yyy .,"[NULL,NULL,NULL]",1
+12,CHI,yyy .,"[NULL,NULL,NULL]",2
+13,CHI,0. aïe ! [media],"[NULL,NULL,NULL]",1
+13,CHI,0. aïe ! [media],"[NULL,NULL,NULL]",2
+14,CHI,0. . [media],"[NULL,NULL,NULL]",1
+14,CHI,0. . [media],"[NULL,NULL,NULL]",2
+15,CHI,ouille ! [media],"[NULL,NULL,NULL]",1
+15,CHI,ouille ! [media],"[NULL,NULL,NULL]",2
+16,MOT,[quote] à quoi tu joues Anaé ?,"[NULL,NULL,NULL]",1
+16,MOT,[quote] à quoi tu joues Anaé ?,"[NULL,NULL,NULL]",2
+17,MOT,qu'est-ce que c'est ça ? [media],"[NULL,NULL,NULL]",1
+17,MOT,qu'est-ce que c'est ça ? [media],"[NULL,NULL,NULL]",2
+18,CHI,e poupée . [media],"[NULL,NULL,NULL]",1
+18,CHI,e poupée . [media],"[NULL,NULL,NULL]",2
+19,MOT,non mais ça parterre . [media],"[NULL,NULL,NULL]",1
+19,MOT,non mais ça parterre . [media],"[NULL,NULL,NULL]",2
+20,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+20,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+21,CHI,œ dinosaure . [media],"[NULL,NULL,NULL]",1
+21,CHI,œ dinosaure . [media],"[NULL,NULL,NULL]",2
+22,MOT,et qui est-ce qui te l'a donné ? [media],"[NULL,NULL,NULL]",1
+22,MOT,et qui est-ce qui te l'a donné ? [media],"[NULL,NULL,NULL]",2
+23,MOT,qui est-ce qui te l'a donné ce dinosaure ? [media],"[NULL,NULL,NULL]",1
+23,MOT,qui est-ce qui te l'a donné ce dinosaure ? [media],"[NULL,NULL,NULL]",2
+24,CHI,c'est Arthur . [media],"[NULL,NULL,NULL]",1
+24,CHI,c'est Arthur . [media],"[NULL,NULL,NULL]",2
+25,MOT,il l'a ramené d'où ? [media],"[NULL,NULL,NULL]",1
+25,MOT,il l'a ramené d'où ? [media],"[NULL,NULL,NULL]",2
+26,MOT,tu sais ? [media],"[NULL,NULL,NULL]",1
+26,MOT,tu sais ? [media],"[NULL,NULL,NULL]",2
+27,CHI,oh oh ! [media],"[NULL,NULL,NULL]",1
+27,CHI,oh oh ! [media],"[NULL,NULL,NULL]",2
+28,MOT,oh oh . [media],"[NULL,NULL,NULL]",1
+28,MOT,oh oh . [media],"[NULL,NULL,NULL]",2
+29,MOT,alors la poupée . [media],"[NULL,NULL,NULL]",1
+29,MOT,alors la poupée . [media],"[NULL,NULL,NULL]",2
+30,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+30,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+31,CHI,poupée . [media],"[NULL,NULL,NULL]",1
+31,CHI,poupée . [media],"[NULL,NULL,NULL]",2
+32,OBS,elle est au fond la poupée ? [media],"[NULL,NULL,NULL]",1
+32,OBS,elle est au fond la poupée ? [media],"[NULL,NULL,NULL]",2
+33,CHI,hé oh . [media],"[NULL,NULL,NULL]",1
+33,CHI,hé oh . [media],"[NULL,NULL,NULL]",2
+34,OBS,[quote] tu la prends ?,"[NULL,NULL,NULL]",1
+34,OBS,[quote] tu la prends ?,"[NULL,NULL,NULL]",2
+35,OBS,voilà . [media],"[NULL,NULL,NULL]",1
+35,OBS,voilà . [media],"[NULL,NULL,NULL]",2
+36,MOT,il faut que tu racontes à Aliyah tout ce qu'on a fait pendant les vacances . [media],"[NULL,NULL,NULL]",1
+36,MOT,il faut que tu racontes à Aliyah tout ce qu'on a fait pendant les vacances . [media],"[NULL,NULL,NULL]",2
+37,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+37,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+38,MOT,on était où en vacances ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+38,MOT,on était où en vacances ? [media],"[NULL,NULL,NULL]",2
+39,MOT,où est-ce qu'on est allé . avec Anouk ? [media],"[NULL,NULL,NULL]",1
+39,MOT,où est-ce qu'on est allé . avec Anouk ? [media],"[NULL,NULL,NULL]",2
+40,CHI,oh oh ! [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+40,CHI,oh oh ! [media],"[NULL,NULL,NULL]",2
+41,CHI,elle est où poupée ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,Complex-long]",1
+41,CHI,elle est où poupée ? [media],"[NULL,NULL,NULL]",2
+42,CHI,0. . [media],"[NULL,NULL,NULL]",1
+42,CHI,0. . [media],"[NULL,NULL,NULL]",2
+43,OBS,mais c'est qui Anouk ?,"[NULL,NULL,NULL]",1
+43,OBS,mais c'est qui Anouk ?,"[NULL,NULL,NULL]",2
+44,OBS,Anaé . c'est qui Anouk ? [media],"[NULL,NULL,NULL]",1
+44,OBS,Anaé . c'est qui Anouk ? [media],"[NULL,NULL,NULL]",2
+45,MOT,tu dis à Aliyah \<None\> ? [media],"[NULL,NULL,NULL]",1
+45,MOT,tu dis à Aliyah \<None\> ? [media],"[NULL,NULL,NULL]",2
+46,OBS,je la connais pas moi \<None\> !,"[NULL,NULL,NULL]",1
+46,OBS,je la connais pas moi \<None\> !,"[NULL,NULL,NULL]",2
+47,MOT,c'est qui Anouk ? [media],"[NULL,NULL,NULL]",1
+47,MOT,c'est qui Anouk ? [media],"[NULL,NULL,NULL]",2
+48,MOT,c'est ta \<trail off question\> [media],"[NULL,NULL,NULL]",1
+48,MOT,c'est ta \<trail off question\> [media],"[NULL,NULL,NULL]",2
+49,CHI,se attrapé . [media],"[NULL,NULL,NULL]",1
+49,CHI,se attrapé . [media],"[NULL,NULL,NULL]",2
+50,MOT,tu l'as attrapée ouais c'est qui Anouk ? [media],"[NULL,NULL,NULL]",1
+50,MOT,tu l'as attrapée ouais c'est qui Anouk ? [media],"[NULL,NULL,NULL]",2
+51,MOT,c'est ta cousine ! [media],"[NULL,NULL,NULL]",1
+51,MOT,c'est ta cousine ! [media],"[NULL,NULL,NULL]",2
+52,CHI,ma cousine . [media],"[NULL,NULL,NULL]",1
+52,CHI,ma cousine . [media],"[NULL,NULL,NULL]",2
+53,MOT,et où est-ce qu'on est allé avec Anouk ? [media],"[NULL,NULL,NULL]",1
+53,MOT,et où est-ce qu'on est allé avec Anouk ? [media],"[NULL,NULL,NULL]",2
+54,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+54,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+55,MOT,on est allé où avec Anouk ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+55,MOT,on est allé où avec Anouk ? [media],"[NULL,NULL,NULL]",2
+56,CHI,yyy . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+56,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+57,MOT,[quote] on est allé à la mer ?,"[NULL,NULL,NULL]",1
+57,MOT,[quote] on est allé à la mer ?,"[NULL,NULL,NULL]",2
+58,CHI,ho ho maman ! [media],"[NULL,NULL,NULL]",1
+58,CHI,ho ho maman ! [media],"[NULL,NULL,NULL]",2
+59,MOT,oui ? [media],"[NULL,NULL,NULL]",1
+59,MOT,oui ? [media],"[NULL,NULL,NULL]",2
+60,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+60,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+61,CHI,là ! [media],"[NULL,NULL,NULL]",1
+61,CHI,là ! [media],"[NULL,NULL,NULL]",2
+62,MOT,[quote] qu'est-ce qui s passe ?,"[NULL,NULL,NULL]",1
+62,MOT,[quote] qu'est-ce qui s passe ?,"[NULL,NULL,NULL]",2
+63,MOT,qu'est-ce qu'il y a ? [media],"[NULL,NULL,NULL]",1
+63,MOT,qu'est-ce qu'il y a ? [media],"[NULL,NULL,NULL]",2
+64,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+64,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+65,MOT,et qu'est-ce qu'il y a là ? [media],"[NULL,NULL,NULL]",1
+65,MOT,et qu'est-ce qu'il y a là ? [media],"[NULL,NULL,NULL]",2
+66,CHI,là . [media],"[NULL,NULL,NULL]",1
+66,CHI,là . [media],"[NULL,NULL,NULL]",2
+67,MOT,boh . [media],"[NULL,NULL,NULL]",1
+67,MOT,boh . [media],"[NULL,NULL,NULL]",2
+68,MOT,qu'est-ce que tu promènes dans ta poussette ? [media],"[NULL,NULL,NULL]",1
+68,MOT,qu'est-ce que tu promènes dans ta poussette ? [media],"[NULL,NULL,NULL]",2
+69,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+69,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+70,MOT,xxx .,"[NULL,NULL,NULL]",1
+70,MOT,xxx .,"[NULL,NULL,NULL]",2
+71,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+71,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+72,CHI,a yyy . [media],"[NULL,NULL,NULL]",1
+72,CHI,a yyy . [media],"[NULL,NULL,NULL]",2
+73,MOT,un liv de quoi ? [media],"[NULL,NULL,NULL]",1
+73,MOT,un liv de quoi ? [media],"[NULL,NULL,NULL]",2
+74,CHI,de oui oui . [media],"[NULL,NULL,NULL]",1
+74,CHI,de oui oui . [media],"[NULL,NULL,NULL]",2
+75,CHI,oh le chien ! [media],"[NULL,NULL,NULL]",1
+75,CHI,oh le chien ! [media],"[NULL,NULL,NULL]",2
+76,MOT,tu veux le lire ? [media],"[NULL,NULL,NULL]",1
+76,MOT,tu veux le lire ? [media],"[NULL,NULL,NULL]",2
+77,CHI,0. . [media],"[NULL,NULL,NULL]",1
+77,CHI,0. . [media],"[NULL,NULL,NULL]",2
+78,MOT,c'est toi qui me le lis ? [media],"[NULL,NULL,NULL]",1
+78,MOT,c'est toi qui me le lis ? [media],"[NULL,NULL,NULL]",2
+79,MOT,tu me le racontes ? [media],"[NULL,NULL,NULL]",1
+79,MOT,tu me le racontes ? [media],"[NULL,NULL,NULL]",2
+80,MOT,vas_y mets toi sur la table tu fais attention aux thés parce qu'ils sont très chauds . [media],"[NULL,NULL,NULL]",1
+80,MOT,vas_y mets toi sur la table tu fais attention aux thés parce qu'ils sont très chauds . [media],"[NULL,NULL,NULL]",2
+81,MOT,vas_y mets toi là . [media],"[NULL,NULL,NULL]",1
+81,MOT,vas_y mets toi là . [media],"[NULL,NULL,NULL]",2
+82,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+82,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+83,MOT,c'est quoi \<None\> ? [media],"[NULL,NULL,NULL]",1
+83,MOT,c'est quoi \<None\> ? [media],"[NULL,NULL,NULL]",2
+84,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+84,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+85,MOT,c'est l'histoire de quoi alors ? [media],"[NULL,NULL,NULL]",1
+85,MOT,c'est l'histoire de quoi alors ? [media],"[NULL,NULL,NULL]",2
+86,MOT,c'est déjà fini ? [media],"[NULL,NULL,NULL]",1
+86,MOT,c'est déjà fini ? [media],"[NULL,NULL,NULL]",2
+87,MOT,merci . [media],"[NULL,NULL,NULL]",1
+87,MOT,merci . [media],"[NULL,NULL,NULL]",2
+88,MOT,tu préfères celui-là ? [media],"[NULL,NULL,NULL]",1
+88,MOT,tu préfères celui-là ? [media],"[NULL,NULL,NULL]",2
+89,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+89,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+90,MOT,ouais \<None\> ? [media],"[NULL,NULL,NULL]",1
+90,MOT,ouais \<None\> ? [media],"[NULL,NULL,NULL]",2
+91,MOT,comment il s'appelle celui-là ? [media],"[NULL,NULL,NULL]",1
+91,MOT,comment il s'appelle celui-là ? [media],"[NULL,NULL,NULL]",2
+92,CHI,yyy yyy maman . [media],"[NULL,NULL,NULL]",1
+92,CHI,yyy yyy maman . [media],"[NULL,NULL,NULL]",2
+93,MOT,tu lis à maman ? [media],"[NULL,NULL,NULL]",1
+93,MOT,tu lis à maman ? [media],"[NULL,NULL,NULL]",2
+94,MOT,vas_y ! [media],"[NULL,NULL,NULL]",1
+94,MOT,vas_y ! [media],"[NULL,NULL,NULL]",2
+95,CHI,lapin . [media],"[NULL,NULL,NULL]",1
+95,CHI,lapin . [media],"[NULL,NULL,NULL]",2
+96,MOT,oui \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+96,MOT,oui \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+97,MOT,qu'est-ce qu'il fait le lapin ? [media],"[NULL,NULL,NULL]",1
+97,MOT,qu'est-ce qu'il fait le lapin ? [media],"[NULL,NULL,NULL]",2
+98,CHI,\<None\> \<None\> \<None\> \<None\> e monte . [media],"[NULL,NULL,NULL]",1
+98,CHI,\<None\> \<None\> \<None\> \<None\> e monte . [media],"[NULL,NULL,NULL]",2
+99,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+99,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+100,CHI,le lapin yyy monter monter monte . [media],"[NULL,NULL,NULL]",1
+100,CHI,le lapin yyy monter monter monte . [media],"[NULL,NULL,NULL]",2
+101,MOT,0. .,"[NULL,NULL,NULL]",1
+101,MOT,0. .,"[NULL,NULL,NULL]",2
+102,CHI,et et ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+102,CHI,et et ça ? [media],"[NULL,NULL,NULL]",2
+103,MOT,qu'est-ce que c'est ça ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+103,MOT,qu'est-ce que c'est ça ? [media],"[NULL,NULL,NULL]",2
+104,MOT,on en a vu plein en vacances c'est le \<trail off question\> [media],"[NULL,NULL,NULL]",1
+104,MOT,on en a vu plein en vacances c'est le \<trail off question\> [media],"[NULL,NULL,NULL]",2
+105,CHI,le \<trail off question\> [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1
+105,CHI,le \<trail off question\> [media],"[NULL,NULL,NULL]",2
+106,MOT,m \<trail off question\> [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+106,MOT,m \<trail off question\> [media],"[NULL,NULL,NULL]",2
+107,CHI,[quote] mouton \<None\> \<None\> \<None\> \<None\> il monte .,"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+107,CHI,[quote] mouton \<None\> \<None\> \<None\> \<None\> il monte .,"[NULL,NULL,NULL]",2
+108,MOT,0. voilà \<None\> .,"[NULL,NULL,NULL]",1
+108,MOT,0. voilà \<None\> .,"[NULL,NULL,NULL]",2
+109,CHI,le cochon \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",1
+109,CHI,le cochon \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",2
+110,MOT,hum hum \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+110,MOT,hum hum \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+111,CHI,et la chèvre \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",1
+111,CHI,et la chèvre \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",2
+112,CHI,et l'écureuil \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",1
+112,CHI,et l'écureuil \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",2
+113,MOT,et l'écureuil oui \<None\> .,"[NULL,NULL,NULL]",1
+113,MOT,et l'écureuil oui \<None\> .,"[NULL,NULL,NULL]",2
+114,CHI,le yyy \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",1
+114,CHI,le yyy \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",2
+115,CHI,la souris \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",1
+115,CHI,la souris \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",2
+116,MOT,hum hum \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+116,MOT,hum hum \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+117,CHI,et puis la bête \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",1
+117,CHI,et puis la bête \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",2
+118,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+118,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+119,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+119,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+120,MOT,han . [media],"[NULL,NULL,NULL]",1
+120,MOT,han . [media],"[NULL,NULL,NULL]",2
+121,CHI,0. . [media],"[NULL,NULL,NULL]",1
+121,CHI,0. . [media],"[NULL,NULL,NULL]",2
+122,MOT,la grosse bête elle se . réveille et \<trail off question\> [media],"[NULL,NULL,NULL]",1
+122,MOT,la grosse bête elle se . réveille et \<trail off question\> [media],"[NULL,NULL,NULL]",2
+123,CHI,boum . [media],"[NULL,NULL,NULL]",1
+123,CHI,boum . [media],"[NULL,NULL,NULL]",2
+124,MOT,et boum \<None\> . [media],"[NULL,NULL,NULL]",1
+124,MOT,et boum \<None\> . [media],"[NULL,NULL,NULL]",2
+125,CHI,boum . [media],"[NULL,NULL,NULL]",1
+125,CHI,boum . [media],"[NULL,NULL,NULL]",2
+126,MOT,oh \<None\> ils lui font peur . et elle tombe la grosse bête .,"[NULL,NULL,NULL]",1
+126,MOT,oh \<None\> ils lui font peur . et elle tombe la grosse bête .,"[NULL,NULL,NULL]",2
+127,MOT,et elle redescend . [media],"[NULL,NULL,NULL]",1
+127,MOT,et elle redescend . [media],"[NULL,NULL,NULL]",2
+128,CHI,et moi sais lire l'autre . [media],"[NULL,NULL,NULL]",1
+128,CHI,et moi sais lire l'autre . [media],"[NULL,NULL,NULL]",2
+129,CHI,0. . [media],"[NULL,NULL,NULL]",1
+129,CHI,0. . [media],"[NULL,NULL,NULL]",2
+130,MOT,c'est c'est lequel celui-là ?,"[NULL,NULL,NULL]",1
+130,MOT,c'est c'est lequel celui-là ?,"[NULL,NULL,NULL]",2
+131,CHI,yyy yyy yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+131,CHI,yyy yyy yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+132,CHI,c'est la bête \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",1
+132,CHI,c'est la bête \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",2
+133,CHI,c'est la bête \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",1
+133,CHI,c'est la bête \<None\> \<None\> il monte . [media],"[NULL,NULL,NULL]",2
+134,OBS,c'est la bête qui monte qui monte .,"[NULL,NULL,NULL]",1
+134,OBS,c'est la bête qui monte qui monte .,"[NULL,NULL,NULL]",2
+135,MOT,tu crois que c'est la bête qui monte qui monte celui-là ? [media],"[NULL,NULL,NULL]",1
+135,MOT,tu crois que c'est la bête qui monte qui monte celui-là ? [media],"[NULL,NULL,NULL]",2
+136,MOT,non . [media],"[NULL,NULL,NULL]",1
+136,MOT,non . [media],"[NULL,NULL,NULL]",2
+137,CHI,non . [media],"[NULL,NULL,NULL]",1
+137,CHI,non . [media],"[NULL,NULL,NULL]",2
+138,MOT,oui oui a un bonnet bleu . [media],"[NULL,NULL,NULL]",1
+138,MOT,oui oui a un bonnet bleu . [media],"[NULL,NULL,NULL]",2
+139,CHI,0. . [media],"[NULL,NULL,NULL]",1
+139,CHI,0. . [media],"[NULL,NULL,NULL]",2
+140,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+140,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+141,MOT,il est où son bonnet ? [media],"[NULL,NULL,NULL]",1
+141,MOT,il est où son bonnet ? [media],"[NULL,NULL,NULL]",2
+142,CHI,là ! [media],"[NULL,NULL,NULL]",1
+142,CHI,là ! [media],"[NULL,NULL,NULL]",2
+143,MOT,hum hum \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+143,MOT,hum hum \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+144,MOT,oh qu'est-ce que c'est ça ? [media],"[NULL,NULL,NULL]",1
+144,MOT,oh qu'est-ce que c'est ça ? [media],"[NULL,NULL,NULL]",2
+145,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+145,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+146,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+146,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+147,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+147,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+148,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+148,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+149,CHI,0. . [media],"[NULL,NULL,NULL]",1
+149,CHI,0. . [media],"[NULL,NULL,NULL]",2
+150,MOT,une che \<trail off question\>,"[NULL,NULL,NULL]",1
+150,MOT,une che \<trail off question\>,"[NULL,NULL,NULL]",2
+151,CHI,[quote] . [media],"[NULL,NULL,NULL]",1
+151,CHI,[quote] . [media],"[NULL,NULL,NULL]",2
+152,MOT,ah oui \<None\> . [media],"[NULL,NULL,NULL]",1
+152,MOT,ah oui \<None\> . [media],"[NULL,NULL,NULL]",2
+153,CHI,et ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+153,CHI,et ça ? [media],"[NULL,NULL,NULL]",2
+154,MOT,oh . [media],"[NULL,NULL,NULL]",1
+154,MOT,oh . [media],"[NULL,NULL,NULL]",2
+155,MOT,qu'est-ce qui s'est passé là ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+155,MOT,qu'est-ce qui s'est passé là ? [media],"[NULL,NULL,NULL]",2
+156,MOT,qui est-ce qui a dessiné sur le livre ? [media],"[NULL,NULL,NULL]",1
+156,MOT,qui est-ce qui a dessiné sur le livre ? [media],"[NULL,NULL,NULL]",2
+157,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+157,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+158,CHI,quoi ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1
+158,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+159,MOT,qui est-ce qui a dessiné sur le livre ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+159,MOT,qui est-ce qui a dessiné sur le livre ? [media],"[NULL,NULL,NULL]",2
+160,MOT,là ! [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]",1
+160,MOT,là ! [media],"[NULL,NULL,NULL]",2
+161,CHI,c'est Anaé . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+161,CHI,c'est Anaé . [media],"[NULL,NULL,NULL]",2
+162,MOT,nan je crois que c'est Mara . [media],"[NULL,NULL,NULL]",1
+162,MOT,nan je crois que c'est Mara . [media],"[NULL,NULL,NULL]",2
+163,MOT,0. . [media],"[NULL,NULL,NULL]",1
+163,MOT,0. . [media],"[NULL,NULL,NULL]",2
+164,CHI,0. .,"[NULL,NULL,NULL]",1
+164,CHI,0. .,"[NULL,NULL,NULL]",2
+165,CHI,Mara . [media],"[NULL,NULL,NULL]",1
+165,CHI,Mara . [media],"[NULL,NULL,NULL]",2
+166,MOT,c'est Mara qui a dessiné sur ton livre \<None\> . [media],"[NULL,NULL,NULL]",1
+166,MOT,c'est Mara qui a dessiné sur ton livre \<None\> . [media],"[NULL,NULL,NULL]",2
+167,MOT,oh il est coquin ! [media],"[NULL,NULL,NULL]",1
+167,MOT,oh il est coquin ! [media],"[NULL,NULL,NULL]",2
+168,MOT,c'est quelle couleur ça ? [media],"[NULL,NULL,NULL]",1
+168,MOT,c'est quelle couleur ça ? [media],"[NULL,NULL,NULL]",2
+169,CHI,bleu . [media],"[NULL,NULL,NULL]",1
+169,CHI,bleu . [media],"[NULL,NULL,NULL]",2
+170,MOT,ah bon \<None\> ? [media],"[NULL,NULL,NULL]",1
+170,MOT,ah bon \<None\> ? [media],"[NULL,NULL,NULL]",2
+171,CHI,oh ça c'est bleu .,"[NULL,NULL,NULL]",1
+171,CHI,oh ça c'est bleu .,"[NULL,NULL,NULL]",2
+172,MOT,non ça c'est vert . [media],"[NULL,NULL,NULL]",1
+172,MOT,non ça c'est vert . [media],"[NULL,NULL,NULL]",2
+173,CHI,veux lire avec Anaé . [media],"[NULL,NULL,NULL]",1
+173,CHI,veux lire avec Anaé . [media],"[NULL,NULL,NULL]",2
+174,MOT,tu veux pas un autre plutôt ? [media],"[NULL,NULL,NULL]",1
+174,MOT,tu veux pas un autre plutôt ? [media],"[NULL,NULL,NULL]",2
+175,MOT,va chercher un autre . [media],"[NULL,NULL,NULL]",1
+175,MOT,va chercher un autre . [media],"[NULL,NULL,NULL]",2
+176,CHI,0. . [media],"[NULL,NULL,NULL]",1
+176,CHI,0. . [media],"[NULL,NULL,NULL]",2
+177,MOT,c'est un coloriage celui-là .,"[NULL,NULL,NULL]",1
+177,MOT,c'est un coloriage celui-là .,"[NULL,NULL,NULL]",2
+178,CHI,ça c'est Anaé ça . [media],"[NULL,NULL,NULL]",1
+178,CHI,ça c'est Anaé ça . [media],"[NULL,NULL,NULL]",2
+179,MOT,hum .,"[NULL,NULL,NULL]",1
+179,MOT,hum .,"[NULL,NULL,NULL]",2
+180,MOT,c'est pour faire le coloriage . [media],"[NULL,NULL,NULL]",1
+180,MOT,c'est pour faire le coloriage . [media],"[NULL,NULL,NULL]",2
+181,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+181,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+182,MOT,0. . [media],"[NULL,NULL,NULL]",1
+182,MOT,0. . [media],"[NULL,NULL,NULL]",2
+183,CHI,0. . [media],"[NULL,NULL,NULL]",1
+183,CHI,0. . [media],"[NULL,NULL,NULL]",2
+184,MOT,oh !,"[NULL,NULL,NULL]",1
+184,MOT,oh !,"[NULL,NULL,NULL]",2
+185,MOT,et ça qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+185,MOT,et ça qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+186,CHI,a café . [media],"[NULL,NULL,NULL]",1
+186,CHI,a café . [media],"[NULL,NULL,NULL]",2
+187,MOT,nan ça \<None\> . [media],"[NULL,NULL,NULL]",1
+187,MOT,nan ça \<None\> . [media],"[NULL,NULL,NULL]",2
+188,CHI,ça c'est a puzzle . [media],"[NULL,NULL,NULL]",1
+188,CHI,ça c'est a puzzle . [media],"[NULL,NULL,NULL]",2
+189,MOT,c'est un puzzle ? [media],"[NULL,NULL,NULL]",1
+189,MOT,c'est un puzzle ? [media],"[NULL,NULL,NULL]",2
+190,MOT,c'est le puzzle de qui ? [media],"[NULL,NULL,NULL]",1
+190,MOT,c'est le puzzle de qui ? [media],"[NULL,NULL,NULL]",2
+191,CHI,tø Anaé . [media],"[NULL,NULL,NULL]",1
+191,CHI,tø Anaé . [media],"[NULL,NULL,NULL]",2
+192,MOT,qu'est-ce qu'il y a dessus \<None\> ? [media],"[NULL,NULL,NULL]",1
+192,MOT,qu'est-ce qu'il y a dessus \<None\> ? [media],"[NULL,NULL,NULL]",2
+193,CHI,les yyy . [media],"[NULL,NULL,NULL]",1
+193,CHI,les yyy . [media],"[NULL,NULL,NULL]",2
+194,MOT,Petit_Ours_Brun . [media],"[NULL,NULL,NULL]",1
+194,MOT,Petit_Ours_Brun . [media],"[NULL,NULL,NULL]",2
+195,MOT,alors on met les cartes ? [media],"[NULL,NULL,NULL]",1
+195,MOT,alors on met les cartes ? [media],"[NULL,NULL,NULL]",2
+196,CHI,les cartes . [media],"[NULL,NULL,NULL]",1
+196,CHI,les cartes . [media],"[NULL,NULL,NULL]",2
+197,CHI,les cartes i sont sont yyy les cartes . [media],"[NULL,NULL,NULL]",1
+197,CHI,les cartes i sont sont yyy les cartes . [media],"[NULL,NULL,NULL]",2
+198,MOT,hum hum .,"[NULL,NULL,NULL]",1
+198,MOT,hum hum .,"[NULL,NULL,NULL]",2
+199,MOT,tu veux lesquelles toi ? [media],"[NULL,NULL,NULL]",1
+199,MOT,tu veux lesquelles toi ? [media],"[NULL,NULL,NULL]",2
+200,CHI,yyy lesquelles euh maman . [media],"[NULL,NULL,NULL]",1
+200,CHI,yyy lesquelles euh maman . [media],"[NULL,NULL,NULL]",2
+201,MOT,euh moi je veux bien celle-là . [media],"[NULL,NULL,NULL]",1
+201,MOT,euh moi je veux bien celle-là . [media],"[NULL,NULL,NULL]",2
+202,MOT,merci . [media],"[NULL,NULL,NULL]",1
+202,MOT,merci . [media],"[NULL,NULL,NULL]",2
+203,MOT,pour qui celle-là ? [media],"[NULL,NULL,NULL]",1
+203,MOT,pour qui celle-là ? [media],"[NULL,NULL,NULL]",2
+204,CHI,[quote] pour .,"[NULL,NULL,NULL]",1
+204,CHI,[quote] pour .,"[NULL,NULL,NULL]",2
+205,CHI,c'est Anaé . [media],"[NULL,NULL,NULL]",1
+205,CHI,c'est Anaé . [media],"[NULL,NULL,NULL]",2
+206,MOT,hum hum .,"[NULL,NULL,NULL]",1
+206,MOT,hum hum .,"[NULL,NULL,NULL]",2
+207,CHI,et ça c'est pour yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+207,CHI,et ça c'est pour yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+208,BR1,[quote] 0. .,"[NULL,NULL,NULL]",1
+208,BR1,[quote] 0. .,"[NULL,NULL,NULL]",2
+209,MOT,pour qui ? [media],"[NULL,NULL,NULL]",1
+209,MOT,pour qui ? [media],"[NULL,NULL,NULL]",2
+210,BR1,[quote] 0. .,"[NULL,NULL,NULL]",1
+210,BR1,[quote] 0. .,"[NULL,NULL,NULL]",2
+211,CHI,pour \<self interruption\> [media],"[NULL,NULL,NULL]",1
+211,CHI,pour \<self interruption\> [media],"[NULL,NULL,NULL]",2
+212,MOT,pour \<trail off question\> [media],"[NULL,NULL,NULL]",1
+212,MOT,pour \<trail off question\> [media],"[NULL,NULL,NULL]",2
+213,CHI,[quote] on met là .,"[NULL,NULL,NULL]",1
+213,CHI,[quote] on met là .,"[NULL,NULL,NULL]",2
+214,MOT,ouais pour toi . [media],"[NULL,NULL,NULL]",1
+214,MOT,ouais pour toi . [media],"[NULL,NULL,NULL]",2
+215,CHI,pour moi ça . [media],"[NULL,NULL,NULL]",1
+215,CHI,pour moi ça . [media],"[NULL,NULL,NULL]",2
+216,MOT,et euh une autre pour moi ? [media],"[NULL,NULL,NULL]",1
+216,MOT,et euh une autre pour moi ? [media],"[NULL,NULL,NULL]",2
+217,MOT,ou une pour Arthur ? [media],"[NULL,NULL,NULL]",1
+217,MOT,ou une pour Arthur ? [media],"[NULL,NULL,NULL]",2
+218,CHI,pour Arthur . [media],"[NULL,NULL,NULL]",1
+218,CHI,pour Arthur . [media],"[NULL,NULL,NULL]",2
+219,MOT,alors tu lui dis Arthur viens jouer avec nous . [media],"[NULL,NULL,NULL]",1
+219,MOT,alors tu lui dis Arthur viens jouer avec nous . [media],"[NULL,NULL,NULL]",2
+220,BR1,[quote] oh !,"[NULL,NULL,NULL]",1
+220,BR1,[quote] oh !,"[NULL,NULL,NULL]",2
+221,MOT,allez tu te mets là . [media],"[NULL,NULL,NULL]",1
+221,MOT,allez tu te mets là . [media],"[NULL,NULL,NULL]",2
+222,MOT,alors on prend une carte au milieu . [media],"[NULL,NULL,NULL]",1
+222,MOT,alors on prend une carte au milieu . [media],"[NULL,NULL,NULL]",2
+223,MOT,et on dit pour qui c'est . [media],"[NULL,NULL,NULL]",1
+223,MOT,et on dit pour qui c'est . [media],"[NULL,NULL,NULL]",2
+224,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+224,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+225,MOT,alors . [media],"[NULL,NULL,NULL]",1
+225,MOT,alors . [media],"[NULL,NULL,NULL]",2
+226,MOT,Petit_Ours_Brun ... [media],"[NULL,NULL,NULL]",1
+226,MOT,Petit_Ours_Brun ... [media],"[NULL,NULL,NULL]",2
+227,MOT,qu'est-ce qu'il fait là ? [media],"[NULL,NULL,NULL]",1
+227,MOT,qu'est-ce qu'il fait là ? [media],"[NULL,NULL,NULL]",2
+228,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+228,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+229,CHI,à moi . [media],"[NULL,NULL,NULL]",1
+229,CHI,à moi . [media],"[NULL,NULL,NULL]",2
+230,MOT,c'est à toi celui-là ? [media],"[NULL,NULL,NULL]",1
+230,MOT,c'est à toi celui-là ? [media],"[NULL,NULL,NULL]",2
+231,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+231,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+232,MOT,il va où ? [media],"[NULL,NULL,NULL]",1
+232,MOT,il va où ? [media],"[NULL,NULL,NULL]",2
+233,CHI,va . [media],"[NULL,NULL,NULL]",1
+233,CHI,va . [media],"[NULL,NULL,NULL]",2
+234,CHI,euh . [media],"[NULL,NULL,NULL]",1
+234,CHI,euh . [media],"[NULL,NULL,NULL]",2
+235,CHI,là . [media],"[NULL,NULL,NULL]",1
+235,CHI,là . [media],"[NULL,NULL,NULL]",2
+236,MOT,oui . [media],"[NULL,NULL,NULL]",1
+236,MOT,oui . [media],"[NULL,NULL,NULL]",2
+237,MOT,qu'est-ce qui fait Petit_Ours_Brun là ? [media],"[NULL,NULL,NULL]",1
+237,MOT,qu'est-ce qui fait Petit_Ours_Brun là ? [media],"[NULL,NULL,NULL]",2
+238,MOT,il est où ? [media],"[NULL,NULL,NULL]",1
+238,MOT,il est où ? [media],"[NULL,NULL,NULL]",2
+239,CHI,il est là . [media],"[NULL,NULL,NULL]",1
+239,CHI,il est là . [media],"[NULL,NULL,NULL]",2
+240,MOT,oui \<None\> il est où ? [media],"[NULL,NULL,NULL]",1
+240,MOT,oui \<None\> il est où ? [media],"[NULL,NULL,NULL]",2
+241,MOT,regarde qu'est-ce que c'est derrière ? [media],"[NULL,NULL,NULL]",1
+241,MOT,regarde qu'est-ce que c'est derrière ? [media],"[NULL,NULL,NULL]",2
+242,CHI,der c'est la mer . [media],"[NULL,NULL,NULL]",1
+242,CHI,der c'est la mer . [media],"[NULL,NULL,NULL]",2
+243,MOT,c'est la mer \<None\> ? [media],"[NULL,NULL,NULL]",1
+243,MOT,c'est la mer \<None\> ? [media],"[NULL,NULL,NULL]",2
+244,CHI,oui . [media],"[NULL,NULL,NULL]",1
+244,CHI,oui . [media],"[NULL,NULL,NULL]",2
+245,MOT,[quote] et il marche dans le sable \<None\> .,"[NULL,NULL,NULL]",1
+245,MOT,[quote] et il marche dans le sable \<None\> .,"[NULL,NULL,NULL]",2
+246,MOT,toi aussi tu es allée à la mer . [media],"[NULL,NULL,NULL]",1
+246,MOT,toi aussi tu es allée à la mer . [media],"[NULL,NULL,NULL]",2
+247,MOT,qu'est-ce qu'on fait à la mer ? [media],"[NULL,NULL,NULL]",1
+247,MOT,qu'est-ce qu'on fait à la mer ? [media],"[NULL,NULL,NULL]",2
+248,CHI,nager . [media],"[NULL,NULL,NULL]",1
+248,CHI,nager . [media],"[NULL,NULL,NULL]",2
+249,MOT,on nage comment ? [media],"[NULL,NULL,NULL]",1
+249,MOT,on nage comment ? [media],"[NULL,NULL,NULL]",2
+250,MOT,tu nous montres comment tu nages ? [media],"[NULL,NULL,NULL]",1
+250,MOT,tu nous montres comment tu nages ? [media],"[NULL,NULL,NULL]",2
+251,BR1,avec les mains . [media],"[NULL,NULL,NULL]",1
+251,BR1,avec les mains . [media],"[NULL,NULL,NULL]",2
+252,MOT,comment tu nages avec tes mains ? [media],"[NULL,NULL,NULL]",1
+252,MOT,comment tu nages avec tes mains ? [media],"[NULL,NULL,NULL]",2
+253,CHI,non ça c'est à toi . [media],"[NULL,NULL,NULL]",1
+253,CHI,non ça c'est à toi . [media],"[NULL,NULL,NULL]",2
+254,MOT,c'est à moi celle-là ? [media],"[NULL,NULL,NULL]",1
+254,MOT,c'est à moi celle-là ? [media],"[NULL,NULL,NULL]",2
+255,MOT,alors une autre carte . [media],"[NULL,NULL,NULL]",1
+255,MOT,alors une autre carte . [media],"[NULL,NULL,NULL]",2
+256,CHI,ça c'est Anaé ça . [media],"[NULL,NULL,NULL]",1
+256,CHI,ça c'est Anaé ça . [media],"[NULL,NULL,NULL]",2
+257,MOT,Petit_Ours_Brun dans une bouée . [media],"[NULL,NULL,NULL]",1
+257,MOT,Petit_Ours_Brun dans une bouée . [media],"[NULL,NULL,NULL]",2
+258,MOT,ah mais c'est à moi aussi . [media],"[NULL,NULL,NULL]",1
+258,MOT,ah mais c'est à moi aussi . [media],"[NULL,NULL,NULL]",2
+259,MOT,je vais gagner ! [media],"[NULL,NULL,NULL]",1
+259,MOT,je vais gagner ! [media],"[NULL,NULL,NULL]",2
+260,CHI,oh . [media],"[NULL,NULL,NULL]",1
+260,CHI,oh . [media],"[NULL,NULL,NULL]",2
+261,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+261,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+262,CHI,à moi . [media],"[NULL,NULL,NULL]",1
+262,CHI,à moi . [media],"[NULL,NULL,NULL]",2
+263,MOT,0. .,"[NULL,NULL,NULL]",1
+263,MOT,0. .,"[NULL,NULL,NULL]",2
+264,CHI,ah c'est à toi . [media],"[NULL,NULL,NULL]",1
+264,CHI,ah c'est à toi . [media],"[NULL,NULL,NULL]",2
+265,MOT,Petit_Ours_Brun qui mange des fraises c'est à moi aussi . [media],"[NULL,NULL,NULL]",1
+265,MOT,Petit_Ours_Brun qui mange des fraises c'est à moi aussi . [media],"[NULL,NULL,NULL]",2
+266,CHI,0. . [media],"[NULL,NULL,NULL]",1
+266,CHI,0. . [media],"[NULL,NULL,NULL]",2
+267,MOT,0. . [media],"[NULL,NULL,NULL]",1
+267,MOT,0. . [media],"[NULL,NULL,NULL]",2
+268,MOT,euh Petit_Ours_Brun qui fait du coloriage . [media],"[NULL,NULL,NULL]",1
+268,MOT,euh Petit_Ours_Brun qui fait du coloriage . [media],"[NULL,NULL,NULL]",2
+269,CHI,[quote] ça c'est à moi .,"[NULL,NULL,NULL]",1
+269,CHI,[quote] ça c'est à moi .,"[NULL,NULL,NULL]",2
+270,MOT,c'est à moi aussi . [media],"[NULL,NULL,NULL]",1
+270,MOT,c'est à moi aussi . [media],"[NULL,NULL,NULL]",2
+271,BR1,0. . [media],"[NULL,NULL,NULL]",1
+271,BR1,0. . [media],"[NULL,NULL,NULL]",2
+272,CHI,yyy .,"[NULL,NULL,NULL]",1
+272,CHI,yyy .,"[NULL,NULL,NULL]",2
+273,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+273,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+274,MOT,à toi . [media],"[NULL,NULL,NULL]",1
+274,MOT,à toi . [media],"[NULL,NULL,NULL]",2
+275,MOT,alors qu'est-ce qu'il fait là . Petit_Ours_Brun ? [media],"[NULL,NULL,NULL]",1
+275,MOT,alors qu'est-ce qu'il fait là . Petit_Ours_Brun ? [media],"[NULL,NULL,NULL]",2
+276,CHI,[quote] xxx .,"[NULL,NULL,NULL]",1
+276,CHI,[quote] xxx .,"[NULL,NULL,NULL]",2
+277,BR1,[quote] xxx .,"[NULL,NULL,NULL]",1
+277,BR1,[quote] xxx .,"[NULL,NULL,NULL]",2
+278,CHI,e yyy épaules à à papa . [media],"[NULL,NULL,NULL]",1
+278,CHI,e yyy épaules à à papa . [media],"[NULL,NULL,NULL]",2
+279,BR1,et c'est pour qui \<None\> ?,"[NULL,NULL,NULL]",1
+279,BR1,et c'est pour qui \<None\> ?,"[NULL,NULL,NULL]",2
+280,MOT,il est \<None\> sur les épaules de papa et c'est pour qui ?,"[NULL,NULL,NULL]",1
+280,MOT,il est \<None\> sur les épaules de papa et c'est pour qui ?,"[NULL,NULL,NULL]",2
+281,CHI,pour Anaé . [media],"[NULL,NULL,NULL]",1
+281,CHI,pour Anaé . [media],"[NULL,NULL,NULL]",2
+282,MOT,regarde . est-ce que tu l'as cette image toi ? [media],"[NULL,NULL,NULL]",1
+282,MOT,regarde . est-ce que tu l'as cette image toi ? [media],"[NULL,NULL,NULL]",2
+283,BR1,[quote] non . regarde !,"[NULL,NULL,NULL]",1
+283,BR1,[quote] non . regarde !,"[NULL,NULL,NULL]",2
+284,BR1,0. . [media],"[NULL,NULL,NULL]",1
+284,BR1,0. . [media],"[NULL,NULL,NULL]",2
+285,CHI,là .,"[NULL,NULL,NULL]",1
+285,CHI,là .,"[NULL,NULL,NULL]",2
+286,MOT,non regarde bien . [media],"[NULL,NULL,NULL]",1
+286,MOT,non regarde bien . [media],"[NULL,NULL,NULL]",2
+287,BR1,[quote] non .,"[NULL,NULL,NULL]",1
+287,BR1,[quote] non .,"[NULL,NULL,NULL]",2
+288,CHI,là . [media],"[NULL,NULL,NULL]",1
+288,CHI,là . [media],"[NULL,NULL,NULL]",2
+289,MOT,oui . c'est pour qui alors ? [media],"[NULL,NULL,NULL]",1
+289,MOT,oui . c'est pour qui alors ? [media],"[NULL,NULL,NULL]",2
+290,CHI,yyy pour Arthur . [media],"[NULL,NULL,NULL]",1
+290,CHI,yyy pour Arthur . [media],"[NULL,NULL,NULL]",2
+291,MOT,très bien . [media],"[NULL,NULL,NULL]",1
+291,MOT,très bien . [media],"[NULL,NULL,NULL]",2
+292,MOT,on prend une autre vas_y prends une autre . [media],"[NULL,NULL,NULL]",1
+292,MOT,on prend une autre vas_y prends une autre . [media],"[NULL,NULL,NULL]",2
+293,CHI,pour maman . [media],"[NULL,NULL,NULL]",1
+293,CHI,pour maman . [media],"[NULL,NULL,NULL]",2
+294,MOT,mais non regarde ce qu' y a dessus déjà ! [media],"[NULL,NULL,NULL]",1
+294,MOT,mais non regarde ce qu' y a dessus déjà ! [media],"[NULL,NULL,NULL]",2
+295,MOT,qu'est-ce que c'est ?,"[NULL,NULL,NULL]",1
+295,MOT,qu'est-ce que c'est ?,"[NULL,NULL,NULL]",2
+296,CHI,[quote] \<None\> \<None\> \<None\> c'est Anaé ça . [media],"[NULL,NULL,NULL]",1
+296,CHI,[quote] \<None\> \<None\> \<None\> c'est Anaé ça . [media],"[NULL,NULL,NULL]",2
+297,MOT,mm .,"[NULL,NULL,NULL]",1
+297,MOT,mm .,"[NULL,NULL,NULL]",2
+298,MOT,ben non je crois pas . [media],"[NULL,NULL,NULL]",1
+298,MOT,ben non je crois pas . [media],"[NULL,NULL,NULL]",2
+299,BR1,[quote] t es sûre ?,"[NULL,NULL,NULL]",1
+299,BR1,[quote] t es sûre ?,"[NULL,NULL,NULL]",2
+300,MOT,qu'est-ce qu'il fait Petit_Ours_Brun là ? [media],"[NULL,NULL,NULL]",1
+300,MOT,qu'est-ce qu'il fait Petit_Ours_Brun là ? [media],"[NULL,NULL,NULL]",2
+301,CHI,[quote] yyy .,"[NULL,NULL,NULL]",1
+301,CHI,[quote] yyy .,"[NULL,NULL,NULL]",2
+302,CHI,c'est Anaé ça . [media],"[NULL,NULL,NULL]",1
+302,CHI,c'est Anaé ça . [media],"[NULL,NULL,NULL]",2
+303,MOT,Petit_Ours_Brun il saute ... [media],"[NULL,NULL,NULL]",1
+303,MOT,Petit_Ours_Brun il saute ... [media],"[NULL,NULL,NULL]",2
+304,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+304,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+305,MOT,il saute où ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+305,MOT,il saute où ? [media],"[NULL,NULL,NULL]",2
+306,CHI,sur la mer ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1
+306,CHI,sur la mer ? [media],"[NULL,NULL,NULL]",2
+307,MOT,il saute sur la mer ?,"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+307,MOT,il saute sur la mer ?,"[NULL,NULL,NULL]",2
+308,MOT,non je pense que c'est une flaque d' eau . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+308,MOT,non je pense que c'est une flaque d' eau . [media],"[NULL,NULL,NULL]",2
+309,MOT,parce que regarde il a ses bottes . [media],"[PAR-Response:Answer:with-explanation-high-quality,CHI-Follow-up:No-followup,NULL]",1
+309,MOT,parce que regarde il a ses bottes . [media],"[NULL,NULL,NULL]",2
+310,MOT,il saute dans la flaque d' eau . [media],"[NULL,NULL,NULL]",1
+310,MOT,il saute dans la flaque d' eau . [media],"[NULL,NULL,NULL]",2
+311,MOT,hum je crois que c'est pour Arthur . [media],"[NULL,NULL,NULL]",1
+311,MOT,hum je crois que c'est pour Arthur . [media],"[NULL,NULL,NULL]",2
+312,CHI,hein ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+312,CHI,hein ? [media],"[NULL,NULL,NULL]",2
+313,MOT,regarde . [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]",1
+313,MOT,regarde . [media],"[NULL,NULL,NULL]",2
+314,CHI,là . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+314,CHI,là . [media],"[NULL,NULL,NULL]",2
+315,MOT,ah il est là .,"[NULL,NULL,NULL]",1
+315,MOT,ah il est là .,"[NULL,NULL,NULL]",2
+316,MOT,une autre ? [media],"[NULL,NULL,NULL]",1
+316,MOT,une autre ? [media],"[NULL,NULL,NULL]",2
+317,MOT,tu prends une autre ? [media],"[NULL,NULL,NULL]",1
+317,MOT,tu prends une autre ? [media],"[NULL,NULL,NULL]",2
+318,CHI,yyy ! [media],"[NULL,NULL,NULL]",1
+318,CHI,yyy ! [media],"[NULL,NULL,NULL]",2
+319,CHI,yyy yyy euh oh c'est Arthur ça . [media],"[NULL,NULL,NULL]",1
+319,CHI,yyy yyy euh oh c'est Arthur ça . [media],"[NULL,NULL,NULL]",2
+320,BR1,[quote] 0. .,"[NULL,NULL,NULL]",1
+320,BR1,[quote] 0. .,"[NULL,NULL,NULL]",2
+321,CHI,c'est Arthur ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+321,CHI,c'est Arthur ça ? [media],"[NULL,NULL,NULL]",2
+322,MOT,oui \<None\> .,"[PAR-Response:Answer:no-explanation-needed,CHI-Follow-up:No-followup,NULL]",1
+322,MOT,oui \<None\> .,"[NULL,NULL,NULL]",2
+323,BR1,[quote] 0. .,"[NULL,NULL,NULL]",1
+323,BR1,[quote] 0. .,"[NULL,NULL,NULL]",2
+324,MOT,tu prends une autre ? [media],"[NULL,NULL,NULL]",1
+324,MOT,tu prends une autre ? [media],"[NULL,NULL,NULL]",2
+325,CHI,yyy nounours . [media],"[NULL,NULL,NULL]",1
+325,CHI,yyy nounours . [media],"[NULL,NULL,NULL]",2
+326,MOT,ah Petit_Ours_Brun qui fait quoi ? [media],"[NULL,NULL,NULL]",1
+326,MOT,ah Petit_Ours_Brun qui fait quoi ? [media],"[NULL,NULL,NULL]",2
+327,CHI,du vélo . [media],"[NULL,NULL,NULL]",1
+327,CHI,du vélo . [media],"[NULL,NULL,NULL]",2
+328,MOT,alors il va où Petit_Ours_Brun qui fait du vélo ? [media],"[NULL,NULL,NULL]",1
+328,MOT,alors il va où Petit_Ours_Brun qui fait du vélo ? [media],"[NULL,NULL,NULL]",2
+329,CHI,c'est là . [media],"[NULL,NULL,NULL]",1
+329,CHI,c'est là . [media],"[NULL,NULL,NULL]",2
+330,MOT,non regarde bien ! [media],"[NULL,NULL,NULL]",1
+330,MOT,non regarde bien ! [media],"[NULL,NULL,NULL]",2
+331,CHI,yyy là . [media],"[NULL,NULL,NULL]",1
+331,CHI,yyy là . [media],"[NULL,NULL,NULL]",2
+332,MOT,voilà . [media],"[NULL,NULL,NULL]",1
+332,MOT,voilà . [media],"[NULL,NULL,NULL]",2
+333,MOT,une autre . [media],"[NULL,NULL,NULL]",1
+333,MOT,une autre . [media],"[NULL,NULL,NULL]",2
+334,CHI,une aut . [media],"[NULL,NULL,NULL]",1
+334,CHI,une aut . [media],"[NULL,NULL,NULL]",2
+335,CHI,ça ça va où ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1
+335,CHI,ça ça va où ? [media],"[NULL,NULL,NULL]",2
+336,BR1,oh moi je sais . [media],"[NULL,NULL,NULL]",1
+336,BR1,oh moi je sais . [media],"[NULL,NULL,NULL]",2
+337,CHI,[quote] là .,"[NULL,NULL,NULL]",1
+337,CHI,[quote] là .,"[NULL,NULL,NULL]",2
+338,BR1,ouais .,"[NULL,NULL,NULL]",1
+338,BR1,ouais .,"[NULL,NULL,NULL]",2
+339,MOT,[quote] ho c'est pour Anaé !,"[NULL,NULL,NULL]",1
+339,MOT,[quote] ho c'est pour Anaé !,"[NULL,NULL,NULL]",2
+340,MOT,Petit_Ours_Brun qui court dans la ... [media],"[NULL,NULL,NULL]",1
+340,MOT,Petit_Ours_Brun qui court dans la ... [media],"[NULL,NULL,NULL]",2
+341,CHI,la ... [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1
+341,CHI,la ... [media],"[NULL,NULL,NULL]",2
+342,MOT,c'est tout blanc qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+342,MOT,c'est tout blanc qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+343,MOT,c'est tout blanc et tout froid . [media],"[NULL,NULL,NULL]",1
+343,MOT,c'est tout blanc et tout froid . [media],"[NULL,NULL,NULL]",2
+344,MOT,comment ça s'appelle ? [media],"[NULL,NULL,NULL]",1
+344,MOT,comment ça s'appelle ? [media],"[NULL,NULL,NULL]",2
+345,BR1,[quote] tu sais comme au ski .,"[NULL,NULL,NULL]",1
+345,BR1,[quote] tu sais comme au ski .,"[NULL,NULL,NULL]",2
+346,MOT,de la ... [media],"[NULL,NULL,NULL]",1
+346,MOT,de la ... [media],"[NULL,NULL,NULL]",2
+347,MOT,[quote] neige . [media],"[NULL,NULL,NULL]",1
+347,MOT,[quote] neige . [media],"[NULL,NULL,NULL]",2
+348,CHI,zzz la neige . [media],"[NULL,NULL,NULL]",1
+348,CHI,zzz la neige . [media],"[NULL,NULL,NULL]",2
+349,CHI,ça va où ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+349,CHI,ça va où ? [media],"[NULL,NULL,NULL]",2
+350,MOT,qu'est-ce que c'est ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+350,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+351,CHI,ça va où ? [media],"[CHI-Follow-up:Re-ask-initial-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1
+351,CHI,ça va où ? [media],"[NULL,NULL,NULL]",2
+352,MOT,regarde bien par là-bas . [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]",1
+352,MOT,regarde bien par là-bas . [media],"[NULL,NULL,NULL]",2
+353,CHI,par-là . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+353,CHI,par-là . [media],"[NULL,NULL,NULL]",2
+354,MOT,hum .,"[NULL,NULL,NULL]",1
+354,MOT,hum .,"[NULL,NULL,NULL]",2
+355,MOT,c'est Petit_Ours_Brun et son copain . [media],"[NULL,NULL,NULL]",1
+355,MOT,c'est Petit_Ours_Brun et son copain . [media],"[NULL,NULL,NULL]",2
+356,BR1,allez à mon tour de piocher . Anaé ? [media],"[NULL,NULL,NULL]",1
+356,BR1,allez à mon tour de piocher . Anaé ? [media],"[NULL,NULL,NULL]",2
+357,MOT,[quote] avec un ballon de foot .,"[NULL,NULL,NULL]",1
+357,MOT,[quote] avec un ballon de foot .,"[NULL,NULL,NULL]",2
+358,CHI,[quote] ça c'est Anaé .,"[NULL,NULL,NULL]",1
+358,CHI,[quote] ça c'est Anaé .,"[NULL,NULL,NULL]",2
+359,MOT,c'est à maman ça tu crois ? [media],"[NULL,NULL,NULL]",1
+359,MOT,c'est à maman ça tu crois ? [media],"[NULL,NULL,NULL]",2
+360,BR1,[quote] c'est pour qui ça ?,"[NULL,NULL,NULL]",1
+360,BR1,[quote] c'est pour qui ça ?,"[NULL,NULL,NULL]",2
+361,CHI,pour Anaé . [media],"[NULL,NULL,NULL]",1
+361,CHI,pour Anaé . [media],"[NULL,NULL,NULL]",2
+362,BR1,non . je crois pas . [media],"[NULL,NULL,NULL]",1
+362,BR1,non . je crois pas . [media],"[NULL,NULL,NULL]",2
+363,BR1,il a quoi sur ses bras ? [media],"[NULL,NULL,NULL]",1
+363,BR1,il a quoi sur ses bras ? [media],"[NULL,NULL,NULL]",2
+364,BR1,il a comme toi . [media],"[NULL,NULL,NULL]",1
+364,BR1,il a comme toi . [media],"[NULL,NULL,NULL]",2
+365,BR1,il a des ... [media],"[NULL,NULL,NULL]",1
+365,BR1,il a des ... [media],"[NULL,NULL,NULL]",2
+366,CHI,ça c'est à maman . [media],"[NULL,NULL,NULL]",1
+366,CHI,ça c'est à maman . [media],"[NULL,NULL,NULL]",2
+367,BR1,il a des brassards . [media],"[NULL,NULL,NULL]",1
+367,BR1,il a des brassards . [media],"[NULL,NULL,NULL]",2
+368,MOT,[quote] mais il a pas de brassards Arthur !,"[NULL,NULL,NULL]",1
+368,MOT,[quote] mais il a pas de brassards Arthur !,"[NULL,NULL,NULL]",2
+369,BR1,ah bon ? [media],"[NULL,NULL,NULL]",1
+369,BR1,ah bon ? [media],"[NULL,NULL,NULL]",2
+370,CHI,[quote] ah ça c'est à maman .,"[NULL,NULL,NULL]",1
+370,CHI,[quote] ah ça c'est à maman .,"[NULL,NULL,NULL]",2
+371,MOT,[quote] mais non !,"[NULL,NULL,NULL]",1
+371,MOT,[quote] mais non !,"[NULL,NULL,NULL]",2
+372,BR1,ah c'est c'est un seau c'est un seau \<None\> . [media],"[NULL,NULL,NULL]",1
+372,BR1,ah c'est c'est un seau c'est un seau \<None\> . [media],"[NULL,NULL,NULL]",2
+373,CHI,[quote] roh !,"[NULL,NULL,NULL]",1
+373,CHI,[quote] roh !,"[NULL,NULL,NULL]",2
+374,CHI,[quote] roh tout cassé !,"[NULL,NULL,NULL]",1
+374,CHI,[quote] roh tout cassé !,"[NULL,NULL,NULL]",2
+375,MOT,[quote] c'est un seau !,"[NULL,NULL,NULL]",1
+375,MOT,[quote] c'est un seau !,"[NULL,NULL,NULL]",2
+376,CHI,oh tout cassé . [media],"[NULL,NULL,NULL]",1
+376,CHI,oh tout cassé . [media],"[NULL,NULL,NULL]",2
+377,BR1,[quote] il a un seau là ?,"[NULL,NULL,NULL]",1
+377,BR1,[quote] il a un seau là ?,"[NULL,NULL,NULL]",2
+378,MOT,t as tout cassé c'est pas grave ! [media],"[NULL,NULL,NULL]",1
+378,MOT,t as tout cassé c'est pas grave ! [media],"[NULL,NULL,NULL]",2
+379,MOT,on remet regarde ! [media],"[NULL,NULL,NULL]",1
+379,MOT,on remet regarde ! [media],"[NULL,NULL,NULL]",2
+380,MOT,voilà . [media],"[NULL,NULL,NULL]",1
+380,MOT,voilà . [media],"[NULL,NULL,NULL]",2
+381,MOT,ah Petit_Ours_Brun avec ... [media],"[NULL,NULL,NULL]",1
+381,MOT,ah Petit_Ours_Brun avec ... [media],"[NULL,NULL,NULL]",2
+382,MOT,qu'est-ce qu'il a regarde dans la main là ?,"[NULL,NULL,NULL]",1
+382,MOT,qu'est-ce qu'il a regarde dans la main là ?,"[NULL,NULL,NULL]",2
+383,CHI,[quote] yyy .,"[NULL,NULL,NULL]",1
+383,CHI,[quote] yyy .,"[NULL,NULL,NULL]",2
+384,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+384,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+385,MOT,qu'est-ce qu'il fait Petit_Ours_Brun ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+385,MOT,qu'est-ce qu'il fait Petit_Ours_Brun ? [media],"[NULL,NULL,NULL]",2
+386,CHI,[quote] ça c'est moi !,"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+386,CHI,[quote] ça c'est moi !,"[NULL,NULL,NULL]",2
+387,MOT,0. . [media],"[NULL,NULL,NULL]",1
+387,MOT,0. . [media],"[NULL,NULL,NULL]",2
+388,BR1,[quote] 0. .,"[NULL,NULL,NULL]",1
+388,BR1,[quote] 0. .,"[NULL,NULL,NULL]",2
+389,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+389,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+390,CHI,c'est à maman ça . [media],"[NULL,NULL,NULL]",1
+390,CHI,c'est à maman ça . [media],"[NULL,NULL,NULL]",2
+391,MOT,vas_y mets le . [media],"[NULL,NULL,NULL]",1
+391,MOT,vas_y mets le . [media],"[NULL,NULL,NULL]",2
+392,CHI,c'est là . [media],"[NULL,NULL,NULL]",1
+392,CHI,c'est là . [media],"[NULL,NULL,NULL]",2
+393,MOT,très bien ! [media],"[NULL,NULL,NULL]",1
+393,MOT,très bien ! [media],"[NULL,NULL,NULL]",2
+394,MOT,encore un . [media],"[NULL,NULL,NULL]",1
+394,MOT,encore un . [media],"[NULL,NULL,NULL]",2
+395,CHI,ça va où ? [media],"[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]",1
+395,CHI,ça va où ? [media],"[NULL,NULL,NULL]",2
+396,CHI,ça ça va où ? [media],"[CHI-Follow-up:Re-ask-initial-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1
+396,CHI,ça ça va où ? [media],"[NULL,NULL,NULL]",2
+397,MOT,je n sais pas regarde . [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]",1
+397,MOT,je n sais pas regarde . [media],"[NULL,NULL,NULL]",2
+398,CHI,yyy là . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+398,CHI,yyy là . [media],"[NULL,NULL,NULL]",2
+399,MOT,non ! [media],"[NULL,NULL,NULL]",1
+399,MOT,non ! [media],"[NULL,NULL,NULL]",2
+400,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+400,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+401,MOT,regarde sur celui d' Arthur . [media],"[NULL,NULL,NULL]",1
+401,MOT,regarde sur celui d' Arthur . [media],"[NULL,NULL,NULL]",2
+402,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]",1
+402,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+403,CHI,yyy là . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+403,CHI,yyy là . [media],"[NULL,NULL,NULL]",2
+404,MOT,hum hum !,"[NULL,NULL,NULL]",1
+404,MOT,hum hum !,"[NULL,NULL,NULL]",2
+405,MOT,encore . [media],"[NULL,NULL,NULL]",1
+405,MOT,encore . [media],"[NULL,NULL,NULL]",2
+406,CHI,ça ça va où ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+406,CHI,ça ça va où ? [media],"[NULL,NULL,NULL]",2
+407,MOT,oh . qu'est-ce qu'i font ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+407,MOT,oh . qu'est-ce qu'i font ? [media],"[NULL,NULL,NULL]",2
+408,CHI,ça c'est Anaé ça . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+408,CHI,ça c'est Anaé ça . [media],"[NULL,NULL,NULL]",2
+409,MOT,tu crois ? [media],"[NULL,NULL,NULL]",1
+409,MOT,tu crois ? [media],"[NULL,NULL,NULL]",2
+410,CHI,yyy maman . [media],"[NULL,NULL,NULL]",1
+410,CHI,yyy maman . [media],"[NULL,NULL,NULL]",2
+411,MOT,là regarde . [media],"[NULL,NULL,NULL]",1
+411,MOT,là regarde . [media],"[NULL,NULL,NULL]",2
+412,CHI,yyy .,"[NULL,NULL,NULL]",1
+412,CHI,yyy .,"[NULL,NULL,NULL]",2
+413,MOT,i jouent avec les raquettes et la balle . [media],"[NULL,NULL,NULL]",1
+413,MOT,i jouent avec les raquettes et la balle . [media],"[NULL,NULL,NULL]",2
+414,CHI,sa à moi ça . [media],"[NULL,NULL,NULL]",1
+414,CHI,sa à moi ça . [media],"[NULL,NULL,NULL]",2
+415,MOT,ouais . [media],"[NULL,NULL,NULL]",1
+415,MOT,ouais . [media],"[NULL,NULL,NULL]",2
+416,CHI,sa moi . [media],"[NULL,NULL,NULL]",1
+416,CHI,sa moi . [media],"[NULL,NULL,NULL]",2
+417,MOT,tu tu veux prendre celle-là ? [media],"[NULL,NULL,NULL]",1
+417,MOT,tu tu veux prendre celle-là ? [media],"[NULL,NULL,NULL]",2
+418,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+418,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+419,MOT,tu vas tout faire tomber ! [media],"[NULL,NULL,NULL]",1
+419,MOT,tu vas tout faire tomber ! [media],"[NULL,NULL,NULL]",2
+420,CHI,yyy tomber . [media],"[NULL,NULL,NULL]",1
+420,CHI,yyy tomber . [media],"[NULL,NULL,NULL]",2
+421,CHI,\<None\> \<None\> . je vais l'mettre . [media],"[NULL,NULL,NULL]",1
+421,CHI,\<None\> \<None\> . je vais l'mettre . [media],"[NULL,NULL,NULL]",2
+422,MOT,qu'est-ce que tu fais ? [media],"[NULL,NULL,NULL]",1
+422,MOT,qu'est-ce que tu fais ? [media],"[NULL,NULL,NULL]",2
+423,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+423,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+424,MOT,qu'est-ce que tu fais ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+424,MOT,qu'est-ce que tu fais ? [media],"[NULL,NULL,NULL]",2
+425,CHI,sø quoi ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response]",1
+425,CHI,sø quoi ? [media],"[NULL,NULL,NULL]",2
+426,CHI,sa maman yyy . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+426,CHI,sa maman yyy . [media],"[NULL,NULL,NULL]",2
+427,CHI,ça c'est à maman . [media],"[NULL,NULL,NULL]",1
+427,CHI,ça c'est à maman . [media],"[NULL,NULL,NULL]",2
+428,MOT,non regarde il va là .,"[NULL,NULL,NULL]",1
+428,MOT,non regarde il va là .,"[NULL,NULL,NULL]",2
+429,MOT,dans la bouée . [media],"[NULL,NULL,NULL]",1
+429,MOT,dans la bouée . [media],"[NULL,NULL,NULL]",2
+430,CHI,dans la bouée ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+430,CHI,dans la bouée ? [media],"[NULL,NULL,NULL]",2
+431,MOT,hum hum .,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+431,MOT,hum hum .,"[NULL,NULL,NULL]",2
+432,CHI,c'est là ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1
+432,CHI,c'est là ? [media],"[NULL,NULL,NULL]",2
+433,MOT,ouais . très bien ! [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+433,MOT,ouais . très bien ! [media],"[NULL,NULL,NULL]",2
+434,CHI,yyy yyy . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+434,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+435,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+435,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+436,MOT,tu comptes combien tu en as . combien tu en as . de cartes . [media],"[NULL,NULL,NULL]",1
+436,MOT,tu comptes combien tu en as . combien tu en as . de cartes . [media],"[NULL,NULL,NULL]",2
+437,CHI,[quote] xxx .,"[NULL,NULL,NULL]",1
+437,CHI,[quote] xxx .,"[NULL,NULL,NULL]",2
+438,CHI,celles-là ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+438,CHI,celles-là ? [media],"[NULL,NULL,NULL]",2
+439,MOT,oui compte . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+439,MOT,oui compte . [media],"[NULL,NULL,NULL]",2
+440,MOT,compte combien tu en as ! [media],"[NULL,NULL,NULL]",1
+440,MOT,compte combien tu en as ! [media],"[NULL,NULL,NULL]",2
+441,CHI,yyy ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1
+441,CHI,yyy ? [media],"[NULL,NULL,NULL]",2
+442,MOT,oui .,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+442,MOT,oui .,"[NULL,NULL,NULL]",2
+443,MOT,il y en a combien ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+443,MOT,il y en a combien ? [media],"[NULL,NULL,NULL]",2
+444,CHI,yyy deux deux et quatre . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+444,CHI,yyy deux deux et quatre . [media],"[NULL,NULL,NULL]",2
+445,MOT,deux deux et quatre ? [media],"[NULL,NULL,NULL]",1
+445,MOT,deux deux et quatre ? [media],"[NULL,NULL,NULL]",2
+446,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+446,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+447,MOT,0. . [media],"[NULL,NULL,NULL]",1
+447,MOT,0. . [media],"[NULL,NULL,NULL]",2
+448,MOT,et ça fait combien alors ? [media],"[NULL,NULL,NULL]",1
+448,MOT,et ça fait combien alors ? [media],"[NULL,NULL,NULL]",2
+449,MOT,voilà . [media],"[NULL,NULL,NULL]",1
+449,MOT,voilà . [media],"[NULL,NULL,NULL]",2
+450,MOT,ensuite . [media],"[NULL,NULL,NULL]",1
+450,MOT,ensuite . [media],"[NULL,NULL,NULL]",2
+451,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+451,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+452,MOT,il y en a pas parterre ? [media],"[NULL,NULL,NULL]",1
+452,MOT,il y en a pas parterre ? [media],"[NULL,NULL,NULL]",2
+453,CHI,non ! [media],"[NULL,NULL,NULL]",1
+453,CHI,non ! [media],"[NULL,NULL,NULL]",2
+454,MOT,t es sûre ? [media],"[NULL,NULL,NULL]",1
+454,MOT,t es sûre ? [media],"[NULL,NULL,NULL]",2
+455,MOT,oh regarde Petit_Ours_Brun et son papa qui font de la luge . [media],"[NULL,NULL,NULL]",1
+455,MOT,oh regarde Petit_Ours_Brun et son papa qui font de la luge . [media],"[NULL,NULL,NULL]",2
+456,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+456,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+457,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+457,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+458,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+458,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+459,CHI,à moi ! [media],"[NULL,NULL,NULL]",1
+459,CHI,à moi ! [media],"[NULL,NULL,NULL]",2
+460,MOT,ouais . regarde bien . [media],"[NULL,NULL,NULL]",1
+460,MOT,ouais . regarde bien . [media],"[NULL,NULL,NULL]",2
+461,MOT,oh . [media],"[NULL,NULL,NULL]",1
+461,MOT,oh . [media],"[NULL,NULL,NULL]",2
+462,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+462,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+463,MOT,on joue à autre chose ? [media],"[NULL,NULL,NULL]",1
+463,MOT,on joue à autre chose ? [media],"[NULL,NULL,NULL]",2
+464,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+464,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+465,MOT,tu nous fais à manger ? [media],"[NULL,NULL,NULL]",1
+465,MOT,tu nous fais à manger ? [media],"[NULL,NULL,NULL]",2
+466,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+466,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+467,MOT,allez . va nous faire à manger . [media],"[NULL,NULL,NULL]",1
+467,MOT,allez . va nous faire à manger . [media],"[NULL,NULL,NULL]",2
+468,MOT,qu'est-ce que tu nous fais à manger aujourd'hui ? [media],"[NULL,NULL,NULL]",1
+468,MOT,qu'est-ce que tu nous fais à manger aujourd'hui ? [media],"[NULL,NULL,NULL]",2
+469,CHI,te pâtes . [media],"[NULL,NULL,NULL]",1
+469,CHI,te pâtes . [media],"[NULL,NULL,NULL]",2
+470,MOT,encore !,"[NULL,NULL,NULL]",1
+470,MOT,encore !,"[NULL,NULL,NULL]",2
+471,CHI,0. . [media],"[NULL,NULL,NULL]",1
+471,CHI,0. . [media],"[NULL,NULL,NULL]",2
+472,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+472,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+473,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+473,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+474,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+474,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+475,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+475,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+476,MOT,ton livre ? [media],"[NULL,NULL,NULL]",1
+476,MOT,ton livre ? [media],"[NULL,NULL,NULL]",2
+477,CHI,c'est mon yyy ça . [media],"[NULL,NULL,NULL]",1
+477,CHI,c'est mon yyy ça . [media],"[NULL,NULL,NULL]",2
+478,MOT,ah oui moi je l'aime bien celui-là on le regarde ? [media],"[NULL,NULL,NULL]",1
+478,MOT,ah oui moi je l'aime bien celui-là on le regarde ? [media],"[NULL,NULL,NULL]",2
+479,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+479,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+480,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+480,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+481,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+481,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+482,MOT,[quote] c'est le livre des ...,"[NULL,NULL,NULL]",1
+482,MOT,[quote] c'est le livre des ...,"[NULL,NULL,NULL]",2
+483,MOT,le livre de xxx oh . [media],"[NULL,NULL,NULL]",1
+483,MOT,le livre de xxx oh . [media],"[NULL,NULL,NULL]",2
+484,CHI,[quote] yyy yyy .,"[NULL,NULL,NULL]",1
+484,CHI,[quote] yyy yyy .,"[NULL,NULL,NULL]",2
+485,CHI,li chiens . [media],"[NULL,NULL,NULL]",1
+485,CHI,li chiens . [media],"[NULL,NULL,NULL]",2
+486,CHI,i chat . [media],"[NULL,NULL,NULL]",1
+486,CHI,i chat . [media],"[NULL,NULL,NULL]",2
+487,CHI,i chat . [media],"[NULL,NULL,NULL]",1
+487,CHI,i chat . [media],"[NULL,NULL,NULL]",2
+488,MOT,ouais . [media],"[NULL,NULL,NULL]",1
+488,MOT,ouais . [media],"[NULL,NULL,NULL]",2
+489,CHI,et ça c'est le zazeau . [media],"[NULL,NULL,NULL]",1
+489,CHI,et ça c'est le zazeau . [media],"[NULL,NULL,NULL]",2
+490,MOT,ouais . [media],"[NULL,NULL,NULL]",1
+490,MOT,ouais . [media],"[NULL,NULL,NULL]",2
+491,CHI,les chiens ça c'est les chiens .,"[NULL,NULL,NULL]",1
+491,CHI,les chiens ça c'est les chiens .,"[NULL,NULL,NULL]",2
+492,MOT,ouais . c'est la maman chien et le ... [media],"[NULL,NULL,NULL]",1
+492,MOT,ouais . c'est la maman chien et le ... [media],"[NULL,NULL,NULL]",2
+493,CHI,le ... [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+493,CHI,le ... [media],"[NULL,NULL,NULL]",2
+494,MOT,[quote] bébé chien .,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+494,MOT,[quote] bébé chien .,"[NULL,NULL,NULL]",2
+495,CHI,bébé chien . [media],"[CHI-Follow-up:Repeat-answer,NULL,NULL]",1
+495,CHI,bébé chien . [media],"[NULL,NULL,NULL]",2
+496,MOT,après qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+496,MOT,après qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+497,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+497,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+498,CHI,ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+498,CHI,ça ? [media],"[NULL,NULL,NULL]",2
+499,MOT,tu sais ça ! [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]",1
+499,MOT,tu sais ça ! [media],"[NULL,NULL,NULL]",2
+500,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+500,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+501,MOT,une ...,"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+501,MOT,une ...,"[NULL,NULL,NULL]",2
+502,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+502,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+503,MOT,tor ... [media],"[NULL,NULL,NULL]",1
+503,MOT,tor ... [media],"[NULL,NULL,NULL]",2
+504,CHI,[quote] ! [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+504,CHI,[quote] ! [media],"[NULL,NULL,NULL]",2
+505,MOT,0. . [media],"[NULL,NULL,NULL]",1
+505,MOT,0. . [media],"[NULL,NULL,NULL]",2
+506,CHI,le chat . [media],"[NULL,NULL,NULL]",1
+506,CHI,le chat . [media],"[NULL,NULL,NULL]",2
+507,MOT,nan c'est un cochon . [media],"[NULL,NULL,NULL]",1
+507,MOT,nan c'est un cochon . [media],"[NULL,NULL,NULL]",2
+508,CHI,non c'est un chat . [media],"[NULL,NULL,NULL]",1
+508,CHI,non c'est un chat . [media],"[NULL,NULL,NULL]",2
+509,MOT,ben non c'est un cochon ! [media],"[NULL,NULL,NULL]",1
+509,MOT,ben non c'est un cochon ! [media],"[NULL,NULL,NULL]",2
+510,CHI,0. . [media],"[NULL,NULL,NULL]",1
+510,CHI,0. . [media],"[NULL,NULL,NULL]",2
+511,MOT,0. oui oui c'est un chat c'est un chat . [media],"[NULL,NULL,NULL]",1
+511,MOT,0. oui oui c'est un chat c'est un chat . [media],"[NULL,NULL,NULL]",2
+512,MOT,et çà qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+512,MOT,et çà qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+513,CHI,0. . [media],"[NULL,NULL,NULL]",1
+513,CHI,0. . [media],"[NULL,NULL,NULL]",2
+514,MOT,[quote] ça c'est un hamster . comme Léa .,"[NULL,NULL,NULL]",1
+514,MOT,[quote] ça c'est un hamster . comme Léa .,"[NULL,NULL,NULL]",2
+515,MOT,tu sais Léa elle en a un . dans sa maison . [media],"[NULL,NULL,NULL]",1
+515,MOT,tu sais Léa elle en a un . dans sa maison . [media],"[NULL,NULL,NULL]",2
+516,MOT,hum \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+516,MOT,hum \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+517,CHI,Anaé aussi Anaé ! [media],"[NULL,NULL,NULL]",1
+517,CHI,Anaé aussi Anaé ! [media],"[NULL,NULL,NULL]",2
+518,MOT,Anaé elle a un hamster dans sa maison ? [media],"[NULL,NULL,NULL]",1
+518,MOT,Anaé elle a un hamster dans sa maison ? [media],"[NULL,NULL,NULL]",2
+519,MOT,non non !,"[NULL,NULL,NULL]",1
+519,MOT,non non !,"[NULL,NULL,NULL]",2
+520,OBS,0. .,"[NULL,NULL,NULL]",1
+520,OBS,0. .,"[NULL,NULL,NULL]",2
+521,OBS,et ça ? [media],"[NULL,NULL,NULL]",1
+521,OBS,et ça ? [media],"[NULL,NULL,NULL]",2
+522,CHI,les poissons . [media],"[NULL,NULL,NULL]",1
+522,CHI,les poissons . [media],"[NULL,NULL,NULL]",2
+523,MOT,qu'est-ce qu'elle a eu Agathe à son anniversaire dans la cage tu te rappelles ? [media],"[NULL,NULL,NULL]",1
+523,MOT,qu'est-ce qu'elle a eu Agathe à son anniversaire dans la cage tu te rappelles ? [media],"[NULL,NULL,NULL]",2
+524,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+524,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+525,MOT,[quote] Agathe elle a eu un petit lapin !,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+525,MOT,[quote] Agathe elle a eu un petit lapin !,"[NULL,NULL,NULL]",2
+526,CHI,0. . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+526,CHI,0. . [media],"[NULL,NULL,NULL]",2
+527,MOT,est-ce que tu te souviens comment il s'appelle son petit lapin ?,"[NULL,NULL,NULL]",1
+527,MOT,est-ce que tu te souviens comment il s'appelle son petit lapin ?,"[NULL,NULL,NULL]",2
+528,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+528,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+529,MOT,le lapin de d' Agathe il s'appelle comment ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+529,MOT,le lapin de d' Agathe il s'appelle comment ? [media],"[NULL,NULL,NULL]",2
+530,MOT,Pé ... [media],"[NULL,NULL,NULL]",1
+530,MOT,Pé ... [media],"[NULL,NULL,NULL]",2
+531,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+531,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+532,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+532,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+533,MOT,[quote] . [media],"[NULL,NULL,NULL]",1
+533,MOT,[quote] . [media],"[NULL,NULL,NULL]",2
+534,CHI,chocolat . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+534,CHI,chocolat . [media],"[NULL,NULL,NULL]",2
+535,MOT,non \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+535,MOT,non \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+536,BR1,[quote] 0. .,"[NULL,NULL,NULL]",1
+536,BR1,[quote] 0. .,"[NULL,NULL,NULL]",2
+537,MOT,Pépi . [media],"[NULL,NULL,NULL]",1
+537,MOT,Pépi . [media],"[NULL,NULL,NULL]",2
+538,CHI,[quote] !,"[NULL,NULL,NULL]",1
+538,CHI,[quote] !,"[NULL,NULL,NULL]",2
+539,MOT,oui \<None\> .,"[NULL,NULL,NULL]",1
+539,MOT,oui \<None\> .,"[NULL,NULL,NULL]",2
+540,MOT,0. . [media],"[NULL,NULL,NULL]",1
+540,MOT,0. . [media],"[NULL,NULL,NULL]",2
+541,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+541,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+542,CHI,yyy xxx . [media],"[NULL,NULL,NULL]",1
+542,CHI,yyy xxx . [media],"[NULL,NULL,NULL]",2
+543,MOT,[quote] et ton poney il s'appelait comment ?,"[NULL,NULL,NULL]",1
+543,MOT,[quote] et ton poney il s'appelait comment ?,"[NULL,NULL,NULL]",2
+544,CHI,qui ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1
+544,CHI,qui ? [media],"[NULL,NULL,NULL]",2
+545,BR1,[quote] quand t as fait du poney .,"[NULL,NULL,NULL]",1
+545,BR1,[quote] quand t as fait du poney .,"[NULL,NULL,NULL]",2
+546,MOT,tu racontes à Aliyah que t as fait du poney pendant les vacances ?,"[NULL,NULL,NULL]",1
+546,MOT,tu racontes à Aliyah que t as fait du poney pendant les vacances ?,"[NULL,NULL,NULL]",2
+547,OBS,[quote] han !,"[NULL,NULL,NULL]",1
+547,OBS,[quote] han !,"[NULL,NULL,NULL]",2
+548,CHI,yyy ty poney . [media],"[NULL,NULL,NULL]",1
+548,CHI,yyy ty poney . [media],"[NULL,NULL,NULL]",2
+549,MOT,comment tu as fait ? [media],"[NULL,NULL,NULL]",1
+549,MOT,comment tu as fait ? [media],"[NULL,NULL,NULL]",2
+550,OBS,[quote] du poney !,"[NULL,NULL,NULL]",1
+550,OBS,[quote] du poney !,"[NULL,NULL,NULL]",2
+551,CHI,hu hu ! [media],"[NULL,NULL,NULL]",1
+551,CHI,hu hu ! [media],"[NULL,NULL,NULL]",2
+552,MOT,0. et il s'appelait comment le poney ? [media],"[NULL,NULL,NULL]",1
+552,MOT,0. et il s'appelait comment le poney ? [media],"[NULL,NULL,NULL]",2
+553,CHI,Anaé ! [media],"[NULL,NULL,NULL]",1
+553,CHI,Anaé ! [media],"[NULL,NULL,NULL]",2
+554,MOT,[quote] Anaé ?,"[NULL,NULL,NULL]",1
+554,MOT,[quote] Anaé ?,"[NULL,NULL,NULL]",2
+555,MOT,non . le poney il s'appelait pas Anaé ! [media],"[NULL,NULL,NULL]",1
+555,MOT,non . le poney il s'appelait pas Anaé ! [media],"[NULL,NULL,NULL]",2
+556,CHI,0. . [media],"[NULL,NULL,NULL]",1
+556,CHI,0. . [media],"[NULL,NULL,NULL]",2
+557,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+557,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+558,MOT,comment il s'appelait ? [media],"[NULL,NULL,NULL]",1
+558,MOT,comment il s'appelait ? [media],"[NULL,NULL,NULL]",2
+559,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+559,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+560,CHI,0. . [media],"[NULL,NULL,NULL]",1
+560,CHI,0. . [media],"[NULL,NULL,NULL]",2
+561,MOT,ca ...,"[NULL,NULL,NULL]",1
+561,MOT,ca ...,"[NULL,NULL,NULL]",2
+562,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+562,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+563,MOT,ca ... [media],"[NULL,NULL,NULL]",1
+563,MOT,ca ... [media],"[NULL,NULL,NULL]",2
+564,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+564,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+565,MOT,non \<None\> . [media],"[NULL,NULL,NULL]",1
+565,MOT,non \<None\> . [media],"[NULL,NULL,NULL]",2
+566,MOT,0. cacao . [media],"[NULL,NULL,NULL]",1
+566,MOT,0. cacao . [media],"[NULL,NULL,NULL]",2
+567,CHI,cacao . [media],"[NULL,NULL,NULL]",1
+567,CHI,cacao . [media],"[NULL,NULL,NULL]",2
+568,MOT,et hier on a vu plein de chevaux aussi à la mer de sable . [media],"[NULL,NULL,NULL]",1
+568,MOT,et hier on a vu plein de chevaux aussi à la mer de sable . [media],"[NULL,NULL,NULL]",2
+569,OBS,des vrais chevaux ? [media],"[NULL,NULL,NULL]",1
+569,OBS,des vrais chevaux ? [media],"[NULL,NULL,NULL]",2
+570,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+570,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+571,MOT,hum \<None\> y avait un spectacle de chevaux .,"[NULL,NULL,NULL]",1
+571,MOT,hum \<None\> y avait un spectacle de chevaux .,"[NULL,NULL,NULL]",2
+572,MOT,c'était les cow et les indiens . [media],"[NULL,NULL,NULL]",1
+572,MOT,c'était les cow et les indiens . [media],"[NULL,NULL,NULL]",2
+573,CHI,yyy www . [media],"[NULL,NULL,NULL]",1
+573,CHI,yyy www . [media],"[NULL,NULL,NULL]",2
+574,MOT,[quote] 0. c'était bien hein ?,"[NULL,NULL,NULL]",1
+574,MOT,[quote] 0. c'était bien hein ?,"[NULL,NULL,NULL]",2
+575,BR1,[quote] c'est c'est beau ce qu'i font hein ?,"[NULL,NULL,NULL]",1
+575,BR1,[quote] c'est c'est beau ce qu'i font hein ?,"[NULL,NULL,NULL]",2
+576,MOT,hum .,"[NULL,NULL,NULL]",1
+576,MOT,hum .,"[NULL,NULL,NULL]",2
+577,BR1,c'est le même que l'année dernière . [media],"[NULL,NULL,NULL]",1
+577,BR1,c'est le même que l'année dernière . [media],"[NULL,NULL,NULL]",2
+578,OBS,toi t as vu le même spectacle ? [media],"[NULL,NULL,NULL]",1
+578,OBS,toi t as vu le même spectacle ? [media],"[NULL,NULL,NULL]",2
+579,BR1,[quote] 0. .,"[NULL,NULL,NULL]",1
+579,BR1,[quote] 0. .,"[NULL,NULL,NULL]",2
+580,OBS,tu te caches \<None\> ?,"[NULL,NULL,NULL]",1
+580,OBS,tu te caches \<None\> ?,"[NULL,NULL,NULL]",2
+581,MOT,ben tu veux pas lire les animaux ? [media],"[NULL,NULL,NULL]",1
+581,MOT,ben tu veux pas lire les animaux ? [media],"[NULL,NULL,NULL]",2
+582,CHI,0. . [media],"[NULL,NULL,NULL]",1
+582,CHI,0. . [media],"[NULL,NULL,NULL]",2
+583,MOT,celui-là ?,"[NULL,NULL,NULL]",1
+583,MOT,celui-là ?,"[NULL,NULL,NULL]",2
+584,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+584,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+585,MOT,cache dans la jungle .,"[NULL,NULL,NULL]",1
+585,MOT,cache dans la jungle .,"[NULL,NULL,NULL]",2
+586,OBS,je pense qu'il y a quand_même des animaux . [media],"[NULL,NULL,NULL]",1
+586,OBS,je pense qu'il y a quand_même des animaux . [media],"[NULL,NULL,NULL]",2
+587,CHI,[quote] quoi ?,"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+587,CHI,[quote] quoi ?,"[NULL,NULL,NULL]",2
+588,CHI,yyy ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+588,CHI,yyy ? [media],"[NULL,NULL,NULL]",2
+589,MOT,cache dans la jungle .,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+589,MOT,cache dans la jungle .,"[NULL,NULL,NULL]",2
+590,CHI,yyy . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+590,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+591,MOT,oh . [media],"[NULL,NULL,NULL]",1
+591,MOT,oh . [media],"[NULL,NULL,NULL]",2
+592,CHI,[quote] yyy .,"[NULL,NULL,NULL]",1
+592,CHI,[quote] yyy .,"[NULL,NULL,NULL]",2
+593,CHI,tombé le livre . [media],"[NULL,NULL,NULL]",1
+593,CHI,tombé le livre . [media],"[NULL,NULL,NULL]",2
+594,MOT,il est tombé le livre . [media],"[NULL,NULL,NULL]",1
+594,MOT,il est tombé le livre . [media],"[NULL,NULL,NULL]",2
+595,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+595,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+596,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+596,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+597,MOT,c'est qui lui ?,"[NULL,NULL,NULL]",1
+597,MOT,c'est qui lui ?,"[NULL,NULL,NULL]",2
+598,CHI,c'est yyy . [media],"[NULL,NULL,NULL]",1
+598,CHI,c'est yyy . [media],"[NULL,NULL,NULL]",2
+599,MOT,comment ? [media],"[NULL,NULL,NULL]",1
+599,MOT,comment ? [media],"[NULL,NULL,NULL]",2
+600,CHI,potame . [media],"[NULL,NULL,NULL]",1
+600,CHI,potame . [media],"[NULL,NULL,NULL]",2
+601,MOT,hippo . [media],"[NULL,NULL,NULL]",1
+601,MOT,hippo . [media],"[NULL,NULL,NULL]",2
+602,CHI,[quote] . [media],"[NULL,NULL,NULL]",1
+602,CHI,[quote] . [media],"[NULL,NULL,NULL]",2
+603,CHI,[quote] yyy . [media],"[NULL,NULL,NULL]",1
+603,CHI,[quote] yyy . [media],"[NULL,NULL,NULL]",2
+604,MOT,hippopo . [media],"[NULL,NULL,NULL]",1
+604,MOT,hippopo . [media],"[NULL,NULL,NULL]",2
+605,CHI,[quote] . [media],"[NULL,NULL,NULL]",1
+605,CHI,[quote] . [media],"[NULL,NULL,NULL]",2
+606,MOT,0. .,"[NULL,NULL,NULL]",1
+606,MOT,0. .,"[NULL,NULL,NULL]",2
+607,MOT,ouais tu dis hippopotame ? [media],"[NULL,NULL,NULL]",1
+607,MOT,ouais tu dis hippopotame ? [media],"[NULL,NULL,NULL]",2
+608,CHI,yyy la bouche . [media],"[NULL,NULL,NULL]",1
+608,CHI,yyy la bouche . [media],"[NULL,NULL,NULL]",2
+609,MOT,hum . [media],"[NULL,NULL,NULL]",1
+609,MOT,hum . [media],"[NULL,NULL,NULL]",2
+610,MOT,il a une grande bouche hein ! [media],"[NULL,NULL,NULL]",1
+610,MOT,il a une grande bouche hein ! [media],"[NULL,NULL,NULL]",2
+611,CHI,c'est caché yyy . [media],"[NULL,NULL,NULL]",1
+611,CHI,c'est caché yyy . [media],"[NULL,NULL,NULL]",2
+612,MOT,c'est caché dans l'herbe ? [media],"[NULL,NULL,NULL]",1
+612,MOT,c'est caché dans l'herbe ? [media],"[NULL,NULL,NULL]",2
+613,MOT,c'est qui ? [media],"[NULL,NULL,NULL]",1
+613,MOT,c'est qui ? [media],"[NULL,NULL,NULL]",2
+614,CHI,yyy c'est qui ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+614,CHI,yyy c'est qui ? [media],"[NULL,NULL,NULL]",2
+615,MOT,tu le connais lui . [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]",1
+615,MOT,tu le connais lui . [media],"[NULL,NULL,NULL]",2
+616,MOT,on en a vu plein hier . [media],"[NULL,NULL,NULL]",1
+616,MOT,on en a vu plein hier . [media],"[NULL,NULL,NULL]",2
+617,MOT,qu'est-ce que c'est ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+617,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+618,CHI,0. . [media],"[NULL,NULL,NULL]",1
+618,CHI,0. . [media],"[NULL,NULL,NULL]",2
+619,MOT,tu lui fais un bisou ?,"[NULL,NULL,NULL]",1
+619,MOT,tu lui fais un bisou ?,"[NULL,NULL,NULL]",2
+620,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+620,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+621,MOT,c'est le ... [media],"[NULL,NULL,NULL]",1
+621,MOT,c'est le ... [media],"[NULL,NULL,NULL]",2
+622,CHI,le singe . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+622,CHI,le singe . [media],"[NULL,NULL,NULL]",2
+623,MOT,et on en a vu plein hier quand on était dans le bateau . [media],"[NULL,NULL,NULL]",1
+623,MOT,et on en a vu plein hier quand on était dans le bateau . [media],"[NULL,NULL,NULL]",2
+624,MOT,y avait des singes partout partout . [media],"[NULL,NULL,NULL]",1
+624,MOT,y avait des singes partout partout . [media],"[NULL,NULL,NULL]",2
+625,CHI,0. . [media],"[NULL,NULL,NULL]",1
+625,CHI,0. . [media],"[NULL,NULL,NULL]",2
+626,MOT,[quote] avec la musique .,"[NULL,NULL,NULL]",1
+626,MOT,[quote] avec la musique .,"[NULL,NULL,NULL]",2
+627,MOT,c'était bien ? [media],"[NULL,NULL,NULL]",1
+627,MOT,c'était bien ? [media],"[NULL,NULL,NULL]",2
+628,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+628,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+629,MOT,c'était des marionnettes ? [media],"[NULL,NULL,NULL]",1
+629,MOT,c'était des marionnettes ? [media],"[NULL,NULL,NULL]",2
+630,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+630,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+631,MOT,hum . [media],"[NULL,NULL,NULL]",1
+631,MOT,hum . [media],"[NULL,NULL,NULL]",2
+632,BR1,elles dansaient . [media],"[NULL,NULL,NULL]",1
+632,BR1,elles dansaient . [media],"[NULL,NULL,NULL]",2
+633,CHI,0. www \<None\> oh ! [media],"[NULL,NULL,NULL]",1
+633,CHI,0. www \<None\> oh ! [media],"[NULL,NULL,NULL]",2
+634,MOT,[quote] ils dansaient les singes ?,"[NULL,NULL,NULL]",1
+634,MOT,[quote] ils dansaient les singes ?,"[NULL,NULL,NULL]",2
+635,CHI,maman il y a quoi subɛb ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+635,CHI,maman il y a quoi subɛb ? [media],"[NULL,NULL,NULL]",2
+636,MOT,[quote] hum ?,"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+636,MOT,[quote] hum ?,"[NULL,NULL,NULL]",2
+637,CHI,c'est yyy . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+637,CHI,c'est yyy . [media],"[NULL,NULL,NULL]",2
+638,CHI,câlin câlin . [media],"[NULL,NULL,NULL]",1
+638,CHI,câlin câlin . [media],"[NULL,NULL,NULL]",2
+639,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+639,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+640,CHI,câlin . [media],"[NULL,NULL,NULL]",1
+640,CHI,câlin . [media],"[NULL,NULL,NULL]",2
+641,MOT,câlin à l'éléphant . [media],"[NULL,NULL,NULL]",1
+641,MOT,câlin à l'éléphant . [media],"[NULL,NULL,NULL]",2
+642,CHI,il est où ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]",1
+642,CHI,il est où ? [media],"[NULL,NULL,NULL]",2
+643,MOT,0. . [media],"[NULL,NULL,NULL]",1
+643,MOT,0. . [media],"[NULL,NULL,NULL]",2
+644,CHI,est caché ?,"[CHI-Initiation:Non-information-seeking,NULL,NULL]",1
+644,CHI,est caché ?,"[NULL,NULL,NULL]",2
+645,MOT,hum !,"[NULL,NULL,NULL]",1
+645,MOT,hum !,"[NULL,NULL,NULL]",2
+646,MOT,il est parti peut-être ! [media],"[NULL,NULL,NULL]",1
+646,MOT,il est parti peut-être ! [media],"[NULL,NULL,NULL]",2
+647,MOT,oh . [media],"[NULL,NULL,NULL]",1
+647,MOT,oh . [media],"[NULL,NULL,NULL]",2
+648,CHI,le crocodile . [media],"[NULL,NULL,NULL]",1
+648,CHI,le crocodile . [media],"[NULL,NULL,NULL]",2
+649,MOT,et là qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+649,MOT,et là qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+650,CHI,e grenouille . [media],"[NULL,NULL,NULL]",1
+650,CHI,e grenouille . [media],"[NULL,NULL,NULL]",2
+651,MOT,une grenouille ! [media],"[NULL,NULL,NULL]",1
+651,MOT,une grenouille ! [media],"[NULL,NULL,NULL]",2
+652,MOT,oh oh qui est-ce qui a un grand cou ? [media],"[NULL,NULL,NULL]",1
+652,MOT,oh oh qui est-ce qui a un grand cou ? [media],"[NULL,NULL,NULL]",2
+653,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+653,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+654,CHI,yyy ɛ cou ! [media],"[NULL,NULL,NULL]",1
+654,CHI,yyy ɛ cou ! [media],"[NULL,NULL,NULL]",2
+655,CHI,ɛ cou . [media],"[NULL,NULL,NULL]",1
+655,CHI,ɛ cou . [media],"[NULL,NULL,NULL]",2
+656,MOT,c'est qui ?,"[NULL,NULL,NULL]",1
+656,MOT,c'est qui ?,"[NULL,NULL,NULL]",2
+657,CHI,c'est girafe ! [media],"[NULL,NULL,NULL]",1
+657,CHI,c'est girafe ! [media],"[NULL,NULL,NULL]",2
+658,MOT,la girafe ouais . [media],"[NULL,NULL,NULL]",1
+658,MOT,la girafe ouais . [media],"[NULL,NULL,NULL]",2
+659,CHI,girafe . [media],"[NULL,NULL,NULL]",1
+659,CHI,girafe . [media],"[NULL,NULL,NULL]",2
+660,CHI,girafe . [media],"[NULL,NULL,NULL]",1
+660,CHI,girafe . [media],"[NULL,NULL,NULL]",2
+661,MOT,hum hum . [media],"[NULL,NULL,NULL]",1
+661,MOT,hum hum . [media],"[NULL,NULL,NULL]",2
+662,CHI,et on tourne la page . [media],"[NULL,NULL,NULL]",1
+662,CHI,et on tourne la page . [media],"[NULL,NULL,NULL]",2
+663,CHI,oh oh ! [media],"[NULL,NULL,NULL]",1
+663,CHI,oh oh ! [media],"[NULL,NULL,NULL]",2
+664,CHI,yyy quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]",1
+664,CHI,yyy quoi ? [media],"[NULL,NULL,NULL]",2
+665,CHI,tigre . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+665,CHI,tigre . [media],"[NULL,NULL,NULL]",2
+666,MOT,le tigre ? [media],"[NULL,NULL,NULL]",1
+666,MOT,le tigre ? [media],"[NULL,NULL,NULL]",2
+667,CHI,le tigre . [media],"[NULL,NULL,NULL]",1
+667,CHI,le tigre . [media],"[NULL,NULL,NULL]",2
+668,MOT,est-ce que tu crois que Ael il a il est habillé maint ? [media],"[NULL,NULL,NULL]",1
+668,MOT,est-ce que tu crois que Ael il a il est habillé maint ? [media],"[NULL,NULL,NULL]",2
+669,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+669,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+670,MOT,tu vas lui demander ?,"[NULL,NULL,NULL]",1
+670,MOT,tu vas lui demander ?,"[NULL,NULL,NULL]",2
+671,CHI,Ael . [media],"[NULL,NULL,NULL]",1
+671,CHI,Ael . [media],"[NULL,NULL,NULL]",2
+672,CHI,est où ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1
+672,CHI,est où ? [media],"[NULL,NULL,NULL]",2
+673,BRO,[quote] quoi ?,"[NULL,NULL,NULL]",1
+673,BRO,[quote] quoi ?,"[NULL,NULL,NULL]",2
+674,MOT,il est dans la chambre je crois .,"[NULL,NULL,NULL]",1
+674,MOT,il est dans la chambre je crois .,"[NULL,NULL,NULL]",2
+675,MOT,il t'a répondu . tu lui demandes si il est habillé ? [media],"[NULL,NULL,NULL]",1
+675,MOT,il t'a répondu . tu lui demandes si il est habillé ? [media],"[NULL,NULL,NULL]",2
+676,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+676,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+677,BRO,[quote] quoi ?,"[NULL,NULL,NULL]",1
+677,BRO,[quote] quoi ?,"[NULL,NULL,NULL]",2
+678,CHI,bébé ça . [media],"[NULL,NULL,NULL]",1
+678,CHI,bébé ça . [media],"[NULL,NULL,NULL]",2
+679,MOT,tu demandes à Ael ?,"[NULL,NULL,NULL]",1
+679,MOT,tu demandes à Ael ?,"[NULL,NULL,NULL]",2
+680,CHI,bébé . [media],"[NULL,NULL,NULL]",1
+680,CHI,bébé . [media],"[NULL,NULL,NULL]",2
+681,MOT,ouais .,"[NULL,NULL,NULL]",1
+681,MOT,ouais .,"[NULL,NULL,NULL]",2
+682,CHI,e bébé . [media],"[NULL,NULL,NULL]",1
+682,CHI,e bébé . [media],"[NULL,NULL,NULL]",2
+683,MOT,tu es habillé \<None\> ? [media],"[NULL,NULL,NULL]",1
+683,MOT,tu es habillé \<None\> ? [media],"[NULL,NULL,NULL]",2
+684,BRO,oui . [media],"[NULL,NULL,NULL]",1
+684,BRO,oui . [media],"[NULL,NULL,NULL]",2
+685,MOT,tu viens dire bonjour à Aliyah ? [media],"[NULL,NULL,NULL]",1
+685,MOT,tu viens dire bonjour à Aliyah ? [media],"[NULL,NULL,NULL]",2
+686,MOT,tu mettras des chaussures aussi . [media],"[NULL,NULL,NULL]",1
+686,MOT,tu mettras des chaussures aussi . [media],"[NULL,NULL,NULL]",2
+687,MOT,je crois qu'elles sont dans la salle tes chaussures . [media],"[NULL,NULL,NULL]",1
+687,MOT,je crois qu'elles sont dans la salle tes chaussures . [media],"[NULL,NULL,NULL]",2
+688,BRO,bonjour . [media],"[NULL,NULL,NULL]",1
+688,BRO,bonjour . [media],"[NULL,NULL,NULL]",2
+689,OBS,bonjour Ael . [media],"[NULL,NULL,NULL]",1
+689,OBS,bonjour Ael . [media],"[NULL,NULL,NULL]",2
+690,OBS,ça va ? [media],"[NULL,NULL,NULL]",1
+690,OBS,ça va ? [media],"[NULL,NULL,NULL]",2
+691,BRO,oui . [media],"[NULL,NULL,NULL]",1
+691,BRO,oui . [media],"[NULL,NULL,NULL]",2
+692,OBS,les vacances ont été bonnes ?,"[NULL,NULL,NULL]",1
+692,OBS,les vacances ont été bonnes ?,"[NULL,NULL,NULL]",2
+693,BRO,oui . [media],"[NULL,NULL,NULL]",1
+693,BRO,oui . [media],"[NULL,NULL,NULL]",2
+694,OBS,coucou .,"[NULL,NULL,NULL]",1
+694,OBS,coucou .,"[NULL,NULL,NULL]",2
+695,OBS,et que nous fait Anaé là ? [media],"[NULL,NULL,NULL]",1
+695,OBS,et que nous fait Anaé là ? [media],"[NULL,NULL,NULL]",2
+696,CHI,pousse toi !,"[NULL,NULL,NULL]",1
+696,CHI,pousse toi !,"[NULL,NULL,NULL]",2
+697,MOT,pousse toi \<None\> . [media],"[NULL,NULL,NULL]",1
+697,MOT,pousse toi \<None\> . [media],"[NULL,NULL,NULL]",2
+698,MOT,on dit pardon Anaé ! [media],"[NULL,NULL,NULL]",1
+698,MOT,on dit pardon Anaé ! [media],"[NULL,NULL,NULL]",2
+699,MOT,on dit pardon pas pousse toi . [media],"[NULL,NULL,NULL]",1
+699,MOT,on dit pardon pas pousse toi . [media],"[NULL,NULL,NULL]",2
+700,MOT,tu promènes qui là ? [media],"[NULL,NULL,NULL]",1
+700,MOT,tu promènes qui là ? [media],"[NULL,NULL,NULL]",2
+701,MOT,ils sont où ses habits à ta poupée ? [media],"[NULL,NULL,NULL]",1
+701,MOT,ils sont où ses habits à ta poupée ? [media],"[NULL,NULL,NULL]",2
+702,BR1,0. . [media],"[NULL,NULL,NULL]",1
+702,BR1,0. . [media],"[NULL,NULL,NULL]",2
+703,MOT,elle est toute nue regarde .,"[NULL,NULL,NULL]",1
+703,MOT,elle est toute nue regarde .,"[NULL,NULL,NULL]",2
+704,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1
+704,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+705,MOT,[quote] elle est toute nue !,"[NULL,NULL,NULL]",1
+705,MOT,[quote] elle est toute nue !,"[NULL,NULL,NULL]",2
+706,MOT,faut p l'habiller non ? [media],"[NULL,NULL,NULL]",1
+706,MOT,faut p l'habiller non ? [media],"[NULL,NULL,NULL]",2
+707,BR1,[quote] il y a un body .,"[NULL,NULL,NULL]",1
+707,BR1,[quote] il y a un body .,"[NULL,NULL,NULL]",2
+708,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+708,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+709,MOT,ils sont où ses habits ?,"[NULL,NULL,NULL]",1
+709,MOT,ils sont où ses habits ?,"[NULL,NULL,NULL]",2
+710,CHI,i sont a maison ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1
+710,CHI,i sont a maison ? [media],"[NULL,NULL,NULL]",2
+711,OBS,ils sont pas dans la valise ? [media],"[NULL,NULL,NULL]",1
+711,OBS,ils sont pas dans la valise ? [media],"[NULL,NULL,NULL]",2
+712,CHI,euh ouais ! [media],"[NULL,NULL,NULL]",1
+712,CHI,euh ouais ! [media],"[NULL,NULL,NULL]",2
+713,MOT,elle est où la valise ? [media],"[NULL,NULL,NULL]",1
+713,MOT,elle est où la valise ? [media],"[NULL,NULL,NULL]",2
+714,BRO,la valise blanche . [media],"[NULL,NULL,NULL]",1
+714,BRO,la valise blanche . [media],"[NULL,NULL,NULL]",2
+715,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+715,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+716,CHI,yyy ! [media],"[NULL,NULL,NULL]",1
+716,CHI,yyy ! [media],"[NULL,NULL,NULL]",2
+717,CHI,est là ! [media],"[NULL,NULL,NULL]",1
+717,CHI,est là ! [media],"[NULL,NULL,NULL]",2
+718,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+718,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+719,CHI,valise . [media],"[NULL,NULL,NULL]",1
+719,CHI,valise . [media],"[NULL,NULL,NULL]",2
+720,MOT,la va la valise de qui ?,"[NULL,NULL,NULL]",1
+720,MOT,la va la valise de qui ?,"[NULL,NULL,NULL]",2
+721,CHI,Anaé yyy . [media],"[NULL,NULL,NULL]",1
+721,CHI,Anaé yyy . [media],"[NULL,NULL,NULL]",2
+722,MOT,et qu'est-ce qu' y a dessiné dessus ?,"[NULL,NULL,NULL]",1
+722,MOT,et qu'est-ce qu' y a dessiné dessus ?,"[NULL,NULL,NULL]",2
+723,CHI,e fleurs han ! [media],"[NULL,NULL,NULL]",1
+723,CHI,e fleurs han ! [media],"[NULL,NULL,NULL]",2
+724,CHI,il y a plus . [media],"[NULL,NULL,NULL]",1
+724,CHI,il y a plus . [media],"[NULL,NULL,NULL]",2
+725,MOT,0. . [media],"[NULL,NULL,NULL]",1
+725,MOT,0. . [media],"[NULL,NULL,NULL]",2
+726,OBS,il y a plus ?,"[NULL,NULL,NULL]",1
+726,OBS,il y a plus ?,"[NULL,NULL,NULL]",2
+727,BRO,c'est dans celle-là Anaé \<None\> !,"[NULL,NULL,NULL]",1
+727,BRO,c'est dans celle-là Anaé \<None\> !,"[NULL,NULL,NULL]",2
+728,MOT,non non non je crois pas . non ! [media],"[NULL,NULL,NULL]",1
+728,MOT,non non non je crois pas . non ! [media],"[NULL,NULL,NULL]",2
+729,BRO,c'est dans celle-là \<None\> .,"[NULL,NULL,NULL]",1
+729,BRO,c'est dans celle-là \<None\> .,"[NULL,NULL,NULL]",2
+730,MOT,je pense pas . ça doit être dans le . le truc rose .,"[NULL,NULL,NULL]",1
+730,MOT,je pense pas . ça doit être dans le . le truc rose .,"[NULL,NULL,NULL]",2
+731,BRO,0. . [media],"[NULL,NULL,NULL]",1
+731,BRO,0. . [media],"[NULL,NULL,NULL]",2
+732,MOT,[quote] ça c'est les habits des autres bébés .,"[NULL,NULL,NULL]",1
+732,MOT,[quote] ça c'est les habits des autres bébés .,"[NULL,NULL,NULL]",2
+733,MOT,c'est pour les plus grands . [media],"[NULL,NULL,NULL]",1
+733,MOT,c'est pour les plus grands . [media],"[NULL,NULL,NULL]",2
+734,MOT,pour les plus gros bébés ça . [media],"[NULL,NULL,NULL]",1
+734,MOT,pour les plus gros bébés ça . [media],"[NULL,NULL,NULL]",2
+735,MOT,oh dis_donc . c'est lourd ? [media],"[NULL,NULL,NULL]",1
+735,MOT,oh dis_donc . c'est lourd ? [media],"[NULL,NULL,NULL]",2
+736,CHI,0. . [media],"[NULL,NULL,NULL]",1
+736,CHI,0. . [media],"[NULL,NULL,NULL]",2
+737,MOT,tu pars en voyage ?,"[NULL,NULL,NULL]",1
+737,MOT,tu pars en voyage ?,"[NULL,NULL,NULL]",2
+738,CHI,0. . [media],"[NULL,NULL,NULL]",1
+738,CHI,0. . [media],"[NULL,NULL,NULL]",2
+739,MOT,attends on va la mettre parterre .,"[NULL,NULL,NULL]",1
+739,MOT,attends on va la mettre parterre .,"[NULL,NULL,NULL]",2
+740,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+740,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+741,MOT,tu veux l'ouvrir ?,"[NULL,NULL,NULL]",1
+741,MOT,tu veux l'ouvrir ?,"[NULL,NULL,NULL]",2
+742,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+742,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+743,MOT,oui .,"[NULL,NULL,NULL]",1
+743,MOT,oui .,"[NULL,NULL,NULL]",2
+744,BRO,on ouvre la valise d' Anaé ? [media],"[NULL,NULL,NULL]",1
+744,BRO,on ouvre la valise d' Anaé ? [media],"[NULL,NULL,NULL]",2
+745,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+745,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+746,BRO,les habits de poupée !,"[NULL,NULL,NULL]",1
+746,BRO,les habits de poupée !,"[NULL,NULL,NULL]",2
+747,BRO,c'est des habits de poupée . [media],"[NULL,NULL,NULL]",1
+747,BRO,c'est des habits de poupée . [media],"[NULL,NULL,NULL]",2
+748,CHI,veux a bébé ! [media],"[NULL,NULL,NULL]",1
+748,CHI,veux a bébé ! [media],"[NULL,NULL,NULL]",2
+749,MOT,tu veux un bébé ben regarde si il y en a pas un dans la poussette ou dans le lit là-bas . [media],"[NULL,NULL,NULL]",1
+749,MOT,tu veux un bébé ben regarde si il y en a pas un dans la poussette ou dans le lit là-bas . [media],"[NULL,NULL,NULL]",2
+750,BRO,il y en a un dans le ... [media],"[NULL,NULL,NULL]",1
+750,BRO,il y en a un dans le ... [media],"[NULL,NULL,NULL]",2
+751,BRO,[quote] xxx . [media],"[NULL,NULL,NULL]",1
+751,BRO,[quote] xxx . [media],"[NULL,NULL,NULL]",2
+752,CHI,0. . [media],"[NULL,NULL,NULL]",1
+752,CHI,0. . [media],"[NULL,NULL,NULL]",2
+753,BRO,il y en a pas dans la poussette .,"[NULL,NULL,NULL]",1
+753,BRO,il y en a pas dans la poussette .,"[NULL,NULL,NULL]",2
+754,MOT,alors qu'est-ce qu'on va lui mettre à ce bébé ? [media],"[NULL,NULL,NULL]",1
+754,MOT,alors qu'est-ce qu'on va lui mettre à ce bébé ? [media],"[NULL,NULL,NULL]",2
+755,BRO,au bébé . [media],"[NULL,NULL,NULL]",1
+755,BRO,au bébé . [media],"[NULL,NULL,NULL]",2
+756,MOT,un peu grand ça pour lui . [media],"[NULL,NULL,NULL]",1
+756,MOT,un peu grand ça pour lui . [media],"[NULL,NULL,NULL]",2
+757,MOT,un pantalon comme ça ? [media],"[NULL,NULL,NULL]",1
+757,MOT,un pantalon comme ça ? [media],"[NULL,NULL,NULL]",2
+758,CHI,[quote] xxx .,"[NULL,NULL,NULL]",1
+758,CHI,[quote] xxx .,"[NULL,NULL,NULL]",2
+759,CHI,0. . [media],"[NULL,NULL,NULL]",1
+759,CHI,0. . [media],"[NULL,NULL,NULL]",2
+760,BRO,oh ça c'est un collant pour les . bébés . [media],"[NULL,NULL,NULL]",1
+760,BRO,oh ça c'est un collant pour les . bébés . [media],"[NULL,NULL,NULL]",2
+761,MOT,[quote] nan ça c'est trop grand .,"[NULL,NULL,NULL]",1
+761,MOT,[quote] nan ça c'est trop grand .,"[NULL,NULL,NULL]",2
+762,BRO,pour les bébés d' Anaé . [media],"[NULL,NULL,NULL]",1
+762,BRO,pour les bébés d' Anaé . [media],"[NULL,NULL,NULL]",2
+763,BR1,déjà le pantalon .,"[NULL,NULL,NULL]",1
+763,BR1,déjà le pantalon .,"[NULL,NULL,NULL]",2
+764,MOT,hum . [media],"[NULL,NULL,NULL]",1
+764,MOT,hum . [media],"[NULL,NULL,NULL]",2
+765,BRO,on peut mettre . à Lala celui-là hein ? [media],"[NULL,NULL,NULL]",1
+765,BRO,on peut mettre . à Lala celui-là hein ? [media],"[NULL,NULL,NULL]",2
+766,CHI,yyy ça .,"[NULL,NULL,NULL]",1
+766,CHI,yyy ça .,"[NULL,NULL,NULL]",2
+767,MOT,ça ?,"[NULL,NULL,NULL]",1
+767,MOT,ça ?,"[NULL,NULL,NULL]",2
+768,BRO,on peut en mettre à Lala aussi . [media],"[NULL,NULL,NULL]",1
+768,BRO,on peut en mettre à Lala aussi . [media],"[NULL,NULL,NULL]",2
+769,MOT,ça ça va être c'est trop petit ça Anaé peut-être . [media],"[NULL,NULL,NULL]",1
+769,MOT,ça ça va être c'est trop petit ça Anaé peut-être . [media],"[NULL,NULL,NULL]",2
+770,BR1,trop grand et trop petit . [media],"[NULL,NULL,NULL]",1
+770,BR1,trop grand et trop petit . [media],"[NULL,NULL,NULL]",2
+771,MOT,c'est à la souris ça tu sais . [media],"[NULL,NULL,NULL]",1
+771,MOT,c'est à la souris ça tu sais . [media],"[NULL,NULL,NULL]",2
+772,MOT,trop petit ! [media],"[NULL,NULL,NULL]",1
+772,MOT,trop petit ! [media],"[NULL,NULL,NULL]",2
+773,BR1,[quote] moi je vais dans la xxx .,"[NULL,NULL,NULL]",1
+773,BR1,[quote] moi je vais dans la xxx .,"[NULL,NULL,NULL]",2
+774,BRO,[quote] 0. .,"[NULL,NULL,NULL]",1
+774,BRO,[quote] 0. .,"[NULL,NULL,NULL]",2
+775,CHI,non . [media],"[NULL,NULL,NULL]",1
+775,CHI,non . [media],"[NULL,NULL,NULL]",2
+776,BRO,[quote] et des trucs à Lala .,"[NULL,NULL,NULL]",1
+776,BRO,[quote] et des trucs à Lala .,"[NULL,NULL,NULL]",2
+777,MOT,[quote] tu ranges un p peu tout ça .,"[NULL,NULL,NULL]",1
+777,MOT,[quote] tu ranges un p peu tout ça .,"[NULL,NULL,NULL]",2
+778,MOT,ouais .,"[NULL,NULL,NULL]",1
+778,MOT,ouais .,"[NULL,NULL,NULL]",2
+779,MOT,attends \<None\> va la poser là-bas . [media],"[NULL,NULL,NULL]",1
+779,MOT,attends \<None\> va la poser là-bas . [media],"[NULL,NULL,NULL]",2
+780,BRO,allez tu le mets dans la poussette le bébé ? [media],"[NULL,NULL,NULL]",1
+780,BRO,allez tu le mets dans la poussette le bébé ? [media],"[NULL,NULL,NULL]",2
+781,CHI,veux ça ! [media],"[NULL,NULL,NULL]",1
+781,CHI,veux ça ! [media],"[NULL,NULL,NULL]",2
+782,MOT,c'est grand ça c'est trop grand pour lui ça on peut le mettre à Kirikou peut-être . [media],"[NULL,NULL,NULL]",1
+782,MOT,c'est grand ça c'est trop grand pour lui ça on peut le mettre à Kirikou peut-être . [media],"[NULL,NULL,NULL]",2
+783,MOT,Ael tu veux bien aller voir dans la chambre d' Anaé si tu trouves Kirikou ? [media],"[NULL,NULL,NULL]",1
+783,MOT,Ael tu veux bien aller voir dans la chambre d' Anaé si tu trouves Kirikou ? [media],"[NULL,NULL,NULL]",2
+784,CHI,ça c'est quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+784,CHI,ça c'est quoi ? [media],"[NULL,NULL,NULL]",2
+785,MOT,c'est . une robe . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+785,MOT,c'est . une robe . [media],"[NULL,NULL,NULL]",2
+786,CHI,pour Kirikou . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+786,CHI,pour Kirikou . [media],"[NULL,NULL,NULL]",2
+787,MOT,ouais !,"[NULL,NULL,NULL]",1
+787,MOT,ouais !,"[NULL,NULL,NULL]",2
+788,OBS,0. ça va être Kirikette . [media],"[NULL,NULL,NULL]",1
+788,OBS,0. ça va être Kirikette . [media],"[NULL,NULL,NULL]",2
+789,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+789,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+790,MOT,c'est Kirikou la plus grosse poupée alors . [media],"[NULL,NULL,NULL]",1
+790,MOT,c'est Kirikou la plus grosse poupée alors . [media],"[NULL,NULL,NULL]",2
+791,CHI,\<None\> \<None\> ça c'est quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+791,CHI,\<None\> \<None\> ça c'est quoi ? [media],"[NULL,NULL,NULL]",2
+792,MOT,c'est une jolie robe ! [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+792,MOT,c'est une jolie robe ! [media],"[NULL,NULL,NULL]",2
+793,MOT,mais elle est trop petite pour toi . [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]",1
+793,MOT,mais elle est trop petite pour toi . [media],"[NULL,NULL,NULL]",2
+794,CHI,ouais . [media],"[CHI-Follow-up:Signal-agreement,NULL,NULL]",1
+794,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+795,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+795,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+796,UNI,0. .,"[NULL,NULL,NULL]",1
+796,UNI,0. .,"[NULL,NULL,NULL]",2
+797,MOT,toi tu peux pas la mettre ! [media],"[NULL,NULL,NULL]",1
+797,MOT,toi tu peux pas la mettre ! [media],"[NULL,NULL,NULL]",2
+798,CHI,la attacher . [media],"[NULL,NULL,NULL]",1
+798,CHI,la attacher . [media],"[NULL,NULL,NULL]",2
+799,MOT,ouais . [media],"[NULL,NULL,NULL]",1
+799,MOT,ouais . [media],"[NULL,NULL,NULL]",2
+800,CHI,\<None\> \<None\> \<None\> pas pas mettre . [media],"[NULL,NULL,NULL]",1
+800,CHI,\<None\> \<None\> \<None\> pas pas mettre . [media],"[NULL,NULL,NULL]",2
+801,CHI,la attacher . [media],"[NULL,NULL,NULL]",1
+801,CHI,la attacher . [media],"[NULL,NULL,NULL]",2
+802,MOT,hum hum . [media],"[NULL,NULL,NULL]",1
+802,MOT,hum hum . [media],"[NULL,NULL,NULL]",2
+803,CHI,ə veux ouvrir .,"[NULL,NULL,NULL]",1
+803,CHI,ə veux ouvrir .,"[NULL,NULL,NULL]",2
+804,CHI,0. ø ouvrir . [media],"[NULL,NULL,NULL]",1
+804,CHI,0. ø ouvrir . [media],"[NULL,NULL,NULL]",2
+805,MOT,comment on demande ? [media],"[NULL,NULL,NULL]",1
+805,MOT,comment on demande ? [media],"[NULL,NULL,NULL]",2
+806,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+806,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+807,CHI,0. . [media],"[NULL,NULL,NULL]",1
+807,CHI,0. . [media],"[NULL,NULL,NULL]",2
+808,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+808,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+809,CHI,il y a quoi maman là dans . [media],"[NULL,NULL,NULL]",1
+809,CHI,il y a quoi maman là dans . [media],"[NULL,NULL,NULL]",2
+810,MOT,ben rien faut qu'on le mette . à la poupée ! [media],"[NULL,NULL,NULL]",1
+810,MOT,ben rien faut qu'on le mette . à la poupée ! [media],"[NULL,NULL,NULL]",2
+811,CHI,à la Kirikou ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+811,CHI,à la Kirikou ? [media],"[NULL,NULL,NULL]",2
+812,MOT,à Kirikou ouais ! [media],"[PAR-Response:Answer:no-explanation-needed,CHI-Follow-up:No-followup,NULL]",1
+812,MOT,à Kirikou ouais ! [media],"[NULL,NULL,NULL]",2
+813,MOT,Ael il est parti le chercher . [media],"[NULL,NULL,NULL]",1
+813,MOT,Ael il est parti le chercher . [media],"[NULL,NULL,NULL]",2
+814,MOT,mais peut-être Kirikou il est là en fait . [media],"[NULL,NULL,NULL]",1
+814,MOT,mais peut-être Kirikou il est là en fait . [media],"[NULL,NULL,NULL]",2
+815,MOT,je vais regarder . [media],"[NULL,NULL,NULL]",1
+815,MOT,je vais regarder . [media],"[NULL,NULL,NULL]",2
+816,MOT,[quote] si je le vois . [media],"[NULL,NULL,NULL]",1
+816,MOT,[quote] si je le vois . [media],"[NULL,NULL,NULL]",2
+817,CHI,est où ?,"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+817,CHI,est où ?,"[NULL,NULL,NULL]",2
+818,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+818,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+819,MOT,ah oui il est là !,"[PAR-Response:Answer:no-explanation-needed,CHI-Follow-up:No-followup,NULL]",1
+819,MOT,ah oui il est là !,"[NULL,NULL,NULL]",2
+820,MOT,Ael c'est bon il est en_bas \<None\> ! [media],"[NULL,NULL,NULL]",1
+820,MOT,Ael c'est bon il est en_bas \<None\> ! [media],"[NULL,NULL,NULL]",2
+821,MOT,tu vas lui dire Arthur . si tu montes dans la chambre tu lui dis dans les escaliers ? [media],"[NULL,NULL,NULL]",1
+821,MOT,tu vas lui dire Arthur . si tu montes dans la chambre tu lui dis dans les escaliers ? [media],"[NULL,NULL,NULL]",2
+822,BR1,[quote] xxx .,"[NULL,NULL,NULL]",1
+822,BR1,[quote] xxx .,"[NULL,NULL,NULL]",2
+823,CHI,et \<None\> \<None\> on va va mettre la robe ! [media],"[NULL,NULL,NULL]",1
+823,CHI,et \<None\> \<None\> on va va mettre la robe ! [media],"[NULL,NULL,NULL]",2
+824,CHI,veux mettre la robe Kirikou . [media],"[NULL,NULL,NULL]",1
+824,CHI,veux mettre la robe Kirikou . [media],"[NULL,NULL,NULL]",2
+825,MOT,il veut mettre la robe ? [media],"[NULL,NULL,NULL]",1
+825,MOT,il veut mettre la robe ? [media],"[NULL,NULL,NULL]",2
+826,CHI,ouais .,"[NULL,NULL,NULL]",1
+826,CHI,ouais .,"[NULL,NULL,NULL]",2
+827,MOT,c'est lui qui te l'a dit ? [media],"[NULL,NULL,NULL]",1
+827,MOT,c'est lui qui te l'a dit ? [media],"[NULL,NULL,NULL]",2
+828,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+828,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+829,MOT,cacher son zizi . [media],"[NULL,NULL,NULL]",1
+829,MOT,cacher son zizi . [media],"[NULL,NULL,NULL]",2
+830,MOT,hop . [media],"[NULL,NULL,NULL]",1
+830,MOT,hop . [media],"[NULL,NULL,NULL]",2
+831,MOT,oh dis_donc il est très beau comme ça Kirikou . [media],"[NULL,NULL,NULL]",1
+831,MOT,oh dis_donc il est très beau comme ça Kirikou . [media],"[NULL,NULL,NULL]",2
+832,MOT,regarde . [media],"[NULL,NULL,NULL]",1
+832,MOT,regarde . [media],"[NULL,NULL,NULL]",2
+833,MOT,regarde comme il est beau . [media],"[NULL,NULL,NULL]",1
+833,MOT,regarde comme il est beau . [media],"[NULL,NULL,NULL]",2
+834,BR1,0. . [media],"[NULL,NULL,NULL]",1
+834,BR1,0. . [media],"[NULL,NULL,NULL]",2
+835,MOT,[quote] il est beau ?,"[NULL,NULL,NULL]",1
+835,MOT,[quote] il est beau ?,"[NULL,NULL,NULL]",2
+836,CHI,non yyy pas . [media],"[NULL,NULL,NULL]",1
+836,CHI,non yyy pas . [media],"[NULL,NULL,NULL]",2
+837,CHI,câlin . [media],"[NULL,NULL,NULL]",1
+837,CHI,câlin . [media],"[NULL,NULL,NULL]",2
+838,CHI,câlin . [media],"[NULL,NULL,NULL]",1
+838,CHI,câlin . [media],"[NULL,NULL,NULL]",2
+839,MOT,faut que tu lui fasses à manger maintenant . [media],"[NULL,NULL,NULL]",1
+839,MOT,faut que tu lui fasses à manger maintenant . [media],"[NULL,NULL,NULL]",2
+840,MOT,tu lui fais à manger ? [media],"[NULL,NULL,NULL]",1
+840,MOT,tu lui fais à manger ? [media],"[NULL,NULL,NULL]",2
+841,CHI,0. . [media],"[NULL,NULL,NULL]",1
+841,CHI,0. . [media],"[NULL,NULL,NULL]",2
+842,MOT,[quote] tiens regarde on va l'asseoir là .,"[NULL,NULL,NULL]",1
+842,MOT,[quote] tiens regarde on va l'asseoir là .,"[NULL,NULL,NULL]",2
+843,CHI,l'asseoir . [media],"[NULL,NULL,NULL]",1
+843,CHI,l'asseoir . [media],"[NULL,NULL,NULL]",2
+844,MOT,[quote] on l'assoit sur la table et toi tu vas lui préparer à manger .,"[NULL,NULL,NULL]",1
+844,MOT,[quote] on l'assoit sur la table et toi tu vas lui préparer à manger .,"[NULL,NULL,NULL]",2
+845,MOT,d'accord ? [media],"[NULL,NULL,NULL]",1
+845,MOT,d'accord ? [media],"[NULL,NULL,NULL]",2
+846,CHI,veux à manger . [media],"[NULL,NULL,NULL]",1
+846,CHI,veux à manger . [media],"[NULL,NULL,NULL]",2
+847,MOT,tu lui prépares à manger tu prends dans le panier là-bas ? [media],"[NULL,NULL,NULL]",1
+847,MOT,tu lui prépares à manger tu prends dans le panier là-bas ? [media],"[NULL,NULL,NULL]",2
+848,CHI,e panier là ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1
+848,CHI,e panier là ? [media],"[NULL,NULL,NULL]",2
+849,BRO,[quote] maman .,"[NULL,NULL,NULL]",1
+849,BRO,[quote] maman .,"[NULL,NULL,NULL]",2
+850,MOT,c'est bon on l'a trouvé Ael ! [media],"[NULL,NULL,NULL]",1
+850,MOT,c'est bon on l'a trouvé Ael ! [media],"[NULL,NULL,NULL]",2
+851,MOT,il était en_bas ! [media],"[NULL,NULL,NULL]",1
+851,MOT,il était en_bas ! [media],"[NULL,NULL,NULL]",2
+852,BRO,j'ai pas trouvé . [media],"[NULL,NULL,NULL]",1
+852,BRO,j'ai pas trouvé . [media],"[NULL,NULL,NULL]",2
+853,MOT,non le pa le panier .,"[NULL,NULL,NULL]",1
+853,MOT,non le pa le panier .,"[NULL,NULL,NULL]",2
+854,CHI,là ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1
+854,CHI,là ? [media],"[NULL,NULL,NULL]",2
+855,BRO,[quote] maman regarde ce-que j'ai trouvé !,"[NULL,NULL,NULL]",1
+855,BRO,[quote] maman regarde ce-que j'ai trouvé !,"[NULL,NULL,NULL]",2
+856,MOT,oui .,"[NULL,NULL,NULL]",1
+856,MOT,oui .,"[NULL,NULL,NULL]",2
+857,MOT,ouais . [media],"[NULL,NULL,NULL]",1
+857,MOT,ouais . [media],"[NULL,NULL,NULL]",2
+858,BRO,[quote] 0. .,"[NULL,NULL,NULL]",1
+858,BRO,[quote] 0. .,"[NULL,NULL,NULL]",2
+859,CHI,[quote] 0. xxx comme ça hein .,"[NULL,NULL,NULL]",1
+859,CHI,[quote] 0. xxx comme ça hein .,"[NULL,NULL,NULL]",2
+860,MOT,attention . [media],"[NULL,NULL,NULL]",1
+860,MOT,attention . [media],"[NULL,NULL,NULL]",2
+861,BR1,Anaé !,"[NULL,NULL,NULL]",1
+861,BR1,Anaé !,"[NULL,NULL,NULL]",2
+862,BR1,Ael il est déguisé en quoi ? [media],"[NULL,NULL,NULL]",1
+862,BR1,Ael il est déguisé en quoi ? [media],"[NULL,NULL,NULL]",2
+863,MOT,regarde Ael . Anaé ! [media],"[NULL,NULL,NULL]",1
+863,MOT,regarde Ael . Anaé ! [media],"[NULL,NULL,NULL]",2
+864,BRO,wouaf wouaf wouaf wouaf wouaf wouaf ! [media],"[NULL,NULL,NULL]",1
+864,BRO,wouaf wouaf wouaf wouaf wouaf wouaf ! [media],"[NULL,NULL,NULL]",2
+865,BRO,wouaf wouaf . [media],"[NULL,NULL,NULL]",1
+865,BRO,wouaf wouaf . [media],"[NULL,NULL,NULL]",2
+866,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+866,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+867,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+867,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+868,CHI,0. www \<None\> . [media],"[NULL,NULL,NULL]",1
+868,CHI,0. www \<None\> . [media],"[NULL,NULL,NULL]",2
+869,MOT,[quote] mets le parterre mets le parterre le panier .,"[NULL,NULL,NULL]",1
+869,MOT,[quote] mets le parterre mets le parterre le panier .,"[NULL,NULL,NULL]",2
+870,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+870,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+871,MOT,[quote] oh_hisse ouf .,"[NULL,NULL,NULL]",1
+871,MOT,[quote] oh_hisse ouf .,"[NULL,NULL,NULL]",2
+872,MOT,tiens on va lui mettre ça peut-être à Kirikou pour manger . [media],"[NULL,NULL,NULL]",1
+872,MOT,tiens on va lui mettre ça peut-être à Kirikou pour manger . [media],"[NULL,NULL,NULL]",2
+873,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+873,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+874,MOT,on lui met une serviette ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+874,MOT,on lui met une serviette ? [media],"[NULL,NULL,NULL]",2
+875,CHI,ø attacher . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+875,CHI,ø attacher . [media],"[NULL,NULL,NULL]",2
+876,MOT,voilà . [media],"[NULL,NULL,NULL]",1
+876,MOT,voilà . [media],"[NULL,NULL,NULL]",2
+877,BRO,je vais aller voir Omer .,"[NULL,NULL,NULL]",1
+877,BRO,je vais aller voir Omer .,"[NULL,NULL,NULL]",2
+878,BRO,je vais aller voir Omer Arthur . [media],"[NULL,NULL,NULL]",1
+878,BRO,je vais aller voir Omer Arthur . [media],"[NULL,NULL,NULL]",2
+879,MOT,[quote] allez tu lui prépares à manger ?,"[NULL,NULL,NULL]",1
+879,MOT,[quote] allez tu lui prépares à manger ?,"[NULL,NULL,NULL]",2
+880,BRO,d'accord ? [media],"[NULL,NULL,NULL]",1
+880,BRO,d'accord ? [media],"[NULL,NULL,NULL]",2
+881,MOT,[quote] qu'est-ce que tu lui fais à manger ?,"[NULL,NULL,NULL]",1
+881,MOT,[quote] qu'est-ce que tu lui fais à manger ?,"[NULL,NULL,NULL]",2
+882,BRO,où il est Omer ? [media],"[NULL,NULL,NULL]",1
+882,BRO,où il est Omer ? [media],"[NULL,NULL,NULL]",2
+883,MOT,je ne sais pas Ael . [media],"[NULL,NULL,NULL]",1
+883,MOT,je ne sais pas Ael . [media],"[NULL,NULL,NULL]",2
+884,BRO,[quote] je vais le voir .,"[NULL,NULL,NULL]",1
+884,BRO,[quote] je vais le voir .,"[NULL,NULL,NULL]",2
+885,MOT,va là-haut un p peu . [media],"[NULL,NULL,NULL]",1
+885,MOT,va là-haut un p peu . [media],"[NULL,NULL,NULL]",2
+886,MOT,regarde dans le panier ce-que tu peux lui faire à manger . [media],"[NULL,NULL,NULL]",1
+886,MOT,regarde dans le panier ce-que tu peux lui faire à manger . [media],"[NULL,NULL,NULL]",2
+887,CHI,0. . [media],"[NULL,NULL,NULL]",1
+887,CHI,0. . [media],"[NULL,NULL,NULL]",2
+888,CHI,kiki . [media],"[NULL,NULL,NULL]",1
+888,CHI,kiki . [media],"[NULL,NULL,NULL]",2
+889,MOT,ben non tu vas pas lui faire manger kiki quand_même !,"[NULL,NULL,NULL]",1
+889,MOT,ben non tu vas pas lui faire manger kiki quand_même !,"[NULL,NULL,NULL]",2
+890,CHI,ma tétine . [media],"[NULL,NULL,NULL]",1
+890,CHI,ma tétine . [media],"[NULL,NULL,NULL]",2
+891,CHI,mets la tétine . [media],"[NULL,NULL,NULL]",1
+891,CHI,mets la tétine . [media],"[NULL,NULL,NULL]",2
+892,MOT,[quote] bon Arthur monte dans la chambre .,"[NULL,NULL,NULL]",1
+892,MOT,[quote] bon Arthur monte dans la chambre .,"[NULL,NULL,NULL]",2
+893,CHI,yyy kiki à Kirikou . [media],"[NULL,NULL,NULL]",1
+893,CHI,yyy kiki à Kirikou . [media],"[NULL,NULL,NULL]",2
+894,MOT,hum hum .,"[NULL,NULL,NULL]",1
+894,MOT,hum hum .,"[NULL,NULL,NULL]",2
+895,CHI,assis toi . [media],"[NULL,NULL,NULL]",1
+895,CHI,assis toi . [media],"[NULL,NULL,NULL]",2
+896,MOT,0. . [media],"[NULL,NULL,NULL]",1
+896,MOT,0. . [media],"[NULL,NULL,NULL]",2
+897,CHI,veux assir kiki !,"[NULL,NULL,NULL]",1
+897,CHI,veux assir kiki !,"[NULL,NULL,NULL]",2
+898,MOT,ah je sais pas si il tient assis moi tu sais . [media],"[NULL,NULL,NULL]",1
+898,MOT,ah je sais pas si il tient assis moi tu sais . [media],"[NULL,NULL,NULL]",2
+899,MOT,peut-être là entre la valise ouais . [media],"[NULL,NULL,NULL]",1
+899,MOT,peut-être là entre la valise ouais . [media],"[NULL,NULL,NULL]",2
+900,BRO,[quote] on va lui faire à manger ?,"[NULL,NULL,NULL]",1
+900,BRO,[quote] on va lui faire à manger ?,"[NULL,NULL,NULL]",2
+901,MOT,Ael Ael ? [media],"[NULL,NULL,NULL]",1
+901,MOT,Ael Ael ? [media],"[NULL,NULL,NULL]",2
+902,BRO,tu lui donnes à manger . [media],"[NULL,NULL,NULL]",1
+902,BRO,tu lui donnes à manger . [media],"[NULL,NULL,NULL]",2
+903,MOT,tu vas ramener le masque là-haut ? [media],"[NULL,NULL,NULL]",1
+903,MOT,tu vas ramener le masque là-haut ? [media],"[NULL,NULL,NULL]",2
+904,BRO,non c'est je le mets . [media],"[NULL,NULL,NULL]",1
+904,BRO,non c'est je le mets . [media],"[NULL,NULL,NULL]",2
+905,CHI,[quote] moi veux a fourchette .,"[NULL,NULL,NULL]",1
+905,CHI,[quote] moi veux a fourchette .,"[NULL,NULL,NULL]",2
+906,MOT,ben va va jouer dans la chambre alors .,"[NULL,NULL,NULL]",1
+906,MOT,ben va va jouer dans la chambre alors .,"[NULL,NULL,NULL]",2
+907,CHI,oh yyy fourchette xxx fourchette . [media],"[NULL,NULL,NULL]",1
+907,CHI,oh yyy fourchette xxx fourchette . [media],"[NULL,NULL,NULL]",2
+908,BRO,[quote] wouaf wouaf . wouaf wouaf .,"[NULL,NULL,NULL]",1
+908,BRO,[quote] wouaf wouaf . wouaf wouaf .,"[NULL,NULL,NULL]",2
+909,BR1,je vais faire des moi . [media],"[NULL,NULL,NULL]",1
+909,BR1,je vais faire des moi . [media],"[NULL,NULL,NULL]",2
+910,MOT,allez montez les garçons .,"[NULL,NULL,NULL]",1
+910,MOT,allez montez les garçons .,"[NULL,NULL,NULL]",2
+911,CHI,l'est où le couteau où maman ?,"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+911,CHI,l'est où le couteau où maman ?,"[NULL,NULL,NULL]",2
+912,MOT,cherche il doit être dans le panier .,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+912,MOT,cherche il doit être dans le panier .,"[NULL,NULL,NULL]",2
+913,CHI,l'est là ? [media],"[CHI-Follow-up:Followup-question,CHI-Initiation:Information-seeking:fact-based,NULL]",1
+913,CHI,l'est là ? [media],"[NULL,NULL,NULL]",2
+914,MOT,hum .,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+914,MOT,hum .,"[NULL,NULL,NULL]",2
+915,CHI,yyy poupée . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+915,CHI,yyy poupée . [media],"[NULL,NULL,NULL]",2
+916,MOT,ah la petite fée ! [media],"[NULL,NULL,NULL]",1
+916,MOT,ah la petite fée ! [media],"[NULL,NULL,NULL]",2
+917,CHI,petite fée . [media],"[NULL,NULL,NULL]",1
+917,CHI,petite fée . [media],"[NULL,NULL,NULL]",2
+918,CHI,et kiki et kiki ! [media],"[NULL,NULL,NULL]",1
+918,CHI,et kiki et kiki ! [media],"[NULL,NULL,NULL]",2
+919,MOT,Fifi .,"[NULL,NULL,NULL]",1
+919,MOT,Fifi .,"[NULL,NULL,NULL]",2
+920,CHI,Fifi . [media],"[NULL,NULL,NULL]",1
+920,CHI,Fifi . [media],"[NULL,NULL,NULL]",2
+921,CHI,Fifi ! [media],"[NULL,NULL,NULL]",1
+921,CHI,Fifi ! [media],"[NULL,NULL,NULL]",2
+922,TOY,bonjour .,"[NULL,NULL,NULL]",1
+922,TOY,bonjour .,"[NULL,NULL,NULL]",2
+923,CHI,bonjour . [media],"[NULL,NULL,NULL]",1
+923,CHI,bonjour . [media],"[NULL,NULL,NULL]",2
+924,TOY,je me présente je m'appelle Fifi .,"[NULL,NULL,NULL]",1
+924,TOY,je me présente je m'appelle Fifi .,"[NULL,NULL,NULL]",2
+925,MOT,oh ! [media],"[NULL,NULL,NULL]",1
+925,MOT,oh ! [media],"[NULL,NULL,NULL]",2
+926,CHI,kiki .,"[NULL,NULL,NULL]",1
+926,CHI,kiki .,"[NULL,NULL,NULL]",2
+927,MOT,Fifi . [media],"[NULL,NULL,NULL]",1
+927,MOT,Fifi . [media],"[NULL,NULL,NULL]",2
+928,CHI,Fifi .,"[NULL,NULL,NULL]",1
+928,CHI,Fifi .,"[NULL,NULL,NULL]",2
+929,TOY,nom d' un petit bouton d' or . [media],"[NULL,NULL,NULL]",1
+929,TOY,nom d' un petit bouton d' or . [media],"[NULL,NULL,NULL]",2
+930,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+930,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+931,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+931,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+932,TOY,on est les meilleures amies du monde on est les meilleures amies du monde . [media],"[NULL,NULL,NULL]",1
+932,TOY,on est les meilleures amies du monde on est les meilleures amies du monde . [media],"[NULL,NULL,NULL]",2
+933,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+933,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+934,TOY,0. . [media],"[NULL,NULL,NULL]",1
+934,TOY,0. . [media],"[NULL,NULL,NULL]",2
+935,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+935,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+936,MOT,0. . [media],"[NULL,NULL,NULL]",1
+936,MOT,0. . [media],"[NULL,NULL,NULL]",2
+937,CHI,[quote] yyy .,"[NULL,NULL,NULL]",1
+937,CHI,[quote] yyy .,"[NULL,NULL,NULL]",2
+938,TOY,viens jouer avec moi viens jouer avec moi . [media],"[NULL,NULL,NULL]",1
+938,TOY,viens jouer avec moi viens jouer avec moi . [media],"[NULL,NULL,NULL]",2
+939,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+939,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+940,TOY,oh zut zut et rezut . [media],"[NULL,NULL,NULL]",1
+940,TOY,oh zut zut et rezut . [media],"[NULL,NULL,NULL]",2
+941,CHI,e parle .,"[NULL,NULL,NULL]",1
+941,CHI,e parle .,"[NULL,NULL,NULL]",2
+942,MOT,e parle ?,"[NULL,NULL,NULL]",1
+942,MOT,e parle ?,"[NULL,NULL,NULL]",2
+943,TOY,j'ai oublié . [media],"[NULL,NULL,NULL]",1
+943,TOY,j'ai oublié . [media],"[NULL,NULL,NULL]",2
+944,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+944,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+945,MOT,[quote] oh \<None\> !,"[NULL,NULL,NULL]",1
+945,MOT,[quote] oh \<None\> !,"[NULL,NULL,NULL]",2
+946,MOT,j'ai oublié ! [media],"[NULL,NULL,NULL]",1
+946,MOT,j'ai oublié ! [media],"[NULL,NULL,NULL]",2
+947,TOY,bonjour . [media],"[NULL,NULL,NULL]",1
+947,TOY,bonjour . [media],"[NULL,NULL,NULL]",2
+948,CHI,bonjour .,"[NULL,NULL,NULL]",1
+948,CHI,bonjour .,"[NULL,NULL,NULL]",2
+949,MOT,0. allez on la pose . [media],"[NULL,NULL,NULL]",1
+949,MOT,0. allez on la pose . [media],"[NULL,NULL,NULL]",2
+950,TOY,[quote] 0. .,"[NULL,NULL,NULL]",1
+950,TOY,[quote] 0. .,"[NULL,NULL,NULL]",2
+951,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+951,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+952,MOT,cherche le cou cherche le couteau .,"[NULL,NULL,NULL]",1
+952,MOT,cherche le cou cherche le couteau .,"[NULL,NULL,NULL]",2
+953,MOT,0. cherche le couteau . [media],"[NULL,NULL,NULL]",1
+953,MOT,0. cherche le couteau . [media],"[NULL,NULL,NULL]",2
+954,CHI,peut-être euh moi ze trouvé ça . [media],"[NULL,NULL,NULL]",1
+954,CHI,peut-être euh moi ze trouvé ça . [media],"[NULL,NULL,NULL]",2
+955,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+955,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+956,MOT,qu'est-ce que c'est ça ? [media],"[NULL,NULL,NULL]",1
+956,MOT,qu'est-ce que c'est ça ? [media],"[NULL,NULL,NULL]",2
+957,CHI,zə coupe avec la la les fourchettes . [media],"[NULL,NULL,NULL]",1
+957,CHI,zə coupe avec la la les fourchettes . [media],"[NULL,NULL,NULL]",2
+958,MOT,ben ça va pas être très pratique tu veux pas essayer de trouver un couteau plutôt ? [media],"[NULL,NULL,NULL]",1
+958,MOT,ben ça va pas être très pratique tu veux pas essayer de trouver un couteau plutôt ? [media],"[NULL,NULL,NULL]",2
+959,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1
+959,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+960,MOT,le couteau il est où ? [media],"[NULL,NULL,NULL]",1
+960,MOT,le couteau il est où ? [media],"[NULL,NULL,NULL]",2
+961,TOY,j'espère vous retrouver .,"[NULL,NULL,NULL]",1
+961,TOY,j'espère vous retrouver .,"[NULL,NULL,NULL]",2
+962,TOY,[quote] très vite au_revoir ! [media],"[NULL,NULL,NULL]",1
+962,TOY,[quote] très vite au_revoir ! [media],"[NULL,NULL,NULL]",2
+963,MOT,[quote] 0. www \<None\> .,"[NULL,NULL,NULL]",1
+963,MOT,[quote] 0. www \<None\> .,"[NULL,NULL,NULL]",2
+964,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+964,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+965,CHI,au_revoir . [media],"[NULL,NULL,NULL]",1
+965,CHI,au_revoir . [media],"[NULL,NULL,NULL]",2
+966,MOT,au_revoir Fifi . [media],"[NULL,NULL,NULL]",1
+966,MOT,au_revoir Fifi . [media],"[NULL,NULL,NULL]",2
+967,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+967,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+968,CHI,veux Fifi . [media],"[NULL,NULL,NULL]",1
+968,CHI,veux Fifi . [media],"[NULL,NULL,NULL]",2
+969,TOY,bonjour je me présente . [media],"[NULL,NULL,NULL]",1
+969,TOY,bonjour je me présente . [media],"[NULL,NULL,NULL]",2
+970,CHI,[quote] bonjour .,"[NULL,NULL,NULL]",1
+970,CHI,[quote] bonjour .,"[NULL,NULL,NULL]",2
+971,TOY,je m'appelle Fifi . [media],"[NULL,NULL,NULL]",1
+971,TOY,je m'appelle Fifi . [media],"[NULL,NULL,NULL]",2
+972,CHI,Fifi .,"[NULL,NULL,NULL]",1
+972,CHI,Fifi .,"[NULL,NULL,NULL]",2
+973,MOT,Fifi . [media],"[NULL,NULL,NULL]",1
+973,MOT,Fifi . [media],"[NULL,NULL,NULL]",2
+974,CHI,Fifi . [media],"[NULL,NULL,NULL]",1
+974,CHI,Fifi . [media],"[NULL,NULL,NULL]",2
+975,TOY,nom d' un petit bouton d' or . [media],"[NULL,NULL,NULL]",1
+975,TOY,nom d' un petit bouton d' or . [media],"[NULL,NULL,NULL]",2
+976,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+976,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+977,MOT,qu'est-ce qu'elle dit ? [media],"[NULL,NULL,NULL]",1
+977,MOT,qu'est-ce qu'elle dit ? [media],"[NULL,NULL,NULL]",2
+978,CHI,ɛ dit euh yyy yyy . [media],"[NULL,NULL,NULL]",1
+978,CHI,ɛ dit euh yyy yyy . [media],"[NULL,NULL,NULL]",2
+979,MOT,0. .,"[NULL,NULL,NULL]",1
+979,MOT,0. .,"[NULL,NULL,NULL]",2
+980,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+980,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+981,MOT,ouais \<None\> . petit bouton d' or .,"[NULL,NULL,NULL]",1
+981,MOT,ouais \<None\> . petit bouton d' or .,"[NULL,NULL,NULL]",2
+982,TOY,on est les meilleures amies du monde . [media],"[NULL,NULL,NULL]",1
+982,TOY,on est les meilleures amies du monde . [media],"[NULL,NULL,NULL]",2
+983,TOY,on est les meilleures amies du monde . [media],"[NULL,NULL,NULL]",1
+983,TOY,on est les meilleures amies du monde . [media],"[NULL,NULL,NULL]",2
+984,MOT,et là qu'est-ce qu'elle dit ?,"[NULL,NULL,NULL]",1
+984,MOT,et là qu'est-ce qu'elle dit ?,"[NULL,NULL,NULL]",2
+985,TOY,0. . [media],"[NULL,NULL,NULL]",1
+985,TOY,0. . [media],"[NULL,NULL,NULL]",2
+986,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+986,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+987,MOT,0. .,"[NULL,NULL,NULL]",1
+987,MOT,0. .,"[NULL,NULL,NULL]",2
+988,MOT,0. . [media],"[NULL,NULL,NULL]",1
+988,MOT,0. . [media],"[NULL,NULL,NULL]",2
+989,TOY,viens jouer avec moi .,"[NULL,NULL,NULL]",1
+989,TOY,viens jouer avec moi .,"[NULL,NULL,NULL]",2
+990,TOY,viens jouer avec moi . [media],"[NULL,NULL,NULL]",1
+990,TOY,viens jouer avec moi . [media],"[NULL,NULL,NULL]",2
+991,CHI,oh !,"[NULL,NULL,NULL]",1
+991,CHI,oh !,"[NULL,NULL,NULL]",2
+992,MOT,0. .,"[NULL,NULL,NULL]",1
+992,MOT,0. .,"[NULL,NULL,NULL]",2
+993,MOT,qu'est-ce qu'elle a dit ? [media],"[NULL,NULL,NULL]",1
+993,MOT,qu'est-ce qu'elle a dit ? [media],"[NULL,NULL,NULL]",2
+994,CHI,yyy va yyy yyy va jouer avec moi . [media],"[NULL,NULL,NULL]",1
+994,CHI,yyy va yyy yyy va jouer avec moi . [media],"[NULL,NULL,NULL]",2
+995,MOT,oh !,"[NULL,NULL,NULL]",1
+995,MOT,oh !,"[NULL,NULL,NULL]",2
+996,TOY,oh zut zut et rezut ! [media],"[NULL,NULL,NULL]",1
+996,TOY,oh zut zut et rezut ! [media],"[NULL,NULL,NULL]",2
+997,CHI,0. .,"[NULL,NULL,NULL]",1
+997,CHI,0. .,"[NULL,NULL,NULL]",2
+998,TOY,j'ai oublié . [media],"[NULL,NULL,NULL]",1
+998,TOY,j'ai oublié . [media],"[NULL,NULL,NULL]",2
+999,MOT,et là qu'est-ce qu'elle a dit ?,"[NULL,NULL,NULL]",1
+999,MOT,et là qu'est-ce qu'elle a dit ?,"[NULL,NULL,NULL]",2
+1000,CHI,là . [media],"[NULL,NULL,NULL]",1
+1000,CHI,là . [media],"[NULL,NULL,NULL]",2
+1001,MOT,allez moi je lui fais un câlin et toi tu fais manger Kirikou . d'accord ? [media],"[NULL,NULL,NULL]",1
+1001,MOT,allez moi je lui fais un câlin et toi tu fais manger Kirikou . d'accord ? [media],"[NULL,NULL,NULL]",2
+1002,BRO,coucou Anaé coucou coucou Anaé coucou coucou . [media],"[NULL,NULL,NULL]",1
+1002,BRO,coucou Anaé coucou coucou Anaé coucou coucou . [media],"[NULL,NULL,NULL]",2
+1003,MOT,ah mais c'est pas vrai \<None\> !,"[NULL,NULL,NULL]",1
+1003,MOT,ah mais c'est pas vrai \<None\> !,"[NULL,NULL,NULL]",2
+1004,CHI,yyy a trouvé quoi Ael ? [media],"[NULL,NULL,NULL]",1
+1004,CHI,yyy a trouvé quoi Ael ? [media],"[NULL,NULL,NULL]",2
+1005,BRO,un truc de Télétubbies .,"[NULL,NULL,NULL]",1
+1005,BRO,un truc de Télétubbies .,"[NULL,NULL,NULL]",2
+1006,MOT,[quote] qu'est-ce que c'est ?,"[NULL,NULL,NULL]",1
+1006,MOT,[quote] qu'est-ce que c'est ?,"[NULL,NULL,NULL]",2
+1007,MOT,tu veux l'essayer ? [media],"[NULL,NULL,NULL]",1
+1007,MOT,tu veux l'essayer ? [media],"[NULL,NULL,NULL]",2
+1008,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1008,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1009,BRO,tu veux essayer Anaé ? [media],"[NULL,NULL,NULL]",1
+1009,BRO,tu veux essayer Anaé ? [media],"[NULL,NULL,NULL]",2
+1010,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+1010,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+1011,BRO,la tête de Télétubbies ? [media],"[NULL,NULL,NULL]",1
+1011,BRO,la tête de Télétubbies ? [media],"[NULL,NULL,NULL]",2
+1012,TOY,j'espère vous retrouver très vite au_revoir ! [media],"[NULL,NULL,NULL]",1
+1012,TOY,j'espère vous retrouver très vite au_revoir ! [media],"[NULL,NULL,NULL]",2
+1013,CHI,0. .,"[NULL,NULL,NULL]",1
+1013,CHI,0. .,"[NULL,NULL,NULL]",2
+1014,MOT,oh .,"[NULL,NULL,NULL]",1
+1014,MOT,oh .,"[NULL,NULL,NULL]",2
+1015,OBS,[quote] oh .,"[NULL,NULL,NULL]",1
+1015,OBS,[quote] oh .,"[NULL,NULL,NULL]",2
+1016,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+1016,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+1017,MOT,0. et maintenant faut que tu parles comme les Télétubbies . [media],"[NULL,NULL,NULL]",1
+1017,MOT,0. et maintenant faut que tu parles comme les Télétubbies . [media],"[NULL,NULL,NULL]",2
+1018,MOT,qu'est-ce qu'i disent les Télétubbies ?,"[NULL,NULL,NULL]",1
+1018,MOT,qu'est-ce qu'i disent les Télétubbies ?,"[NULL,NULL,NULL]",2
+1019,BRO,tu dis topitoun . [media],"[NULL,NULL,NULL]",1
+1019,BRO,tu dis topitoun . [media],"[NULL,NULL,NULL]",2
+1020,CHI,non . [media],"[NULL,NULL,NULL]",1
+1020,CHI,non . [media],"[NULL,NULL,NULL]",2
+1021,MOT,0. .,"[NULL,NULL,NULL]",1
+1021,MOT,0. .,"[NULL,NULL,NULL]",2
+1022,BRO,xxx xxx xxx . [media],"[NULL,NULL,NULL]",1
+1022,BRO,xxx xxx xxx . [media],"[NULL,NULL,NULL]",2
+1023,MOT,[quote] aïe Ael allez calme toi calme toi hop . va dans ta chambre .,"[NULL,NULL,NULL]",1
+1023,MOT,[quote] aïe Ael allez calme toi calme toi hop . va dans ta chambre .,"[NULL,NULL,NULL]",2
+1024,MOT,tu veux l'enlever ? [media],"[NULL,NULL,NULL]",1
+1024,MOT,tu veux l'enlever ? [media],"[NULL,NULL,NULL]",2
+1025,MOT,faut détacher là . [media],"[NULL,NULL,NULL]",1
+1025,MOT,faut détacher là . [media],"[NULL,NULL,NULL]",2
+1026,FAT,j'y vais Marie ! [media],"[NULL,NULL,NULL]",1
+1026,FAT,j'y vais Marie ! [media],"[NULL,NULL,NULL]",2
+1027,MOT,tu vas où ? [media],"[NULL,NULL,NULL]",1
+1027,MOT,tu vas où ? [media],"[NULL,NULL,NULL]",2
+1028,FAT,la voiture et acheter des clopes . [media],"[NULL,NULL,NULL]",1
+1028,FAT,la voiture et acheter des clopes . [media],"[NULL,NULL,NULL]",2
+1029,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+1029,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+1030,MOT,mais non mais je crois que c'est là les couteaux Anaé . [media],"[NULL,NULL,NULL]",1
+1030,MOT,mais non mais je crois que c'est là les couteaux Anaé . [media],"[NULL,NULL,NULL]",2
+1031,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+1031,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+1032,MOT,tiens . [media],"[NULL,NULL,NULL]",1
+1032,MOT,tiens . [media],"[NULL,NULL,NULL]",2
+1033,CHI,0. yyy yyy trouvé un couteau . [media],"[NULL,NULL,NULL]",1
+1033,CHI,0. yyy yyy trouvé un couteau . [media],"[NULL,NULL,NULL]",2
+1034,MOT,hum .,"[NULL,NULL,NULL]",1
+1034,MOT,hum .,"[NULL,NULL,NULL]",2
+1035,MOT,tiens tu montres à Aliyah ton petit sac ? [media],"[NULL,NULL,NULL]",1
+1035,MOT,tiens tu montres à Aliyah ton petit sac ? [media],"[NULL,NULL,NULL]",2
+1036,MOT,[quote] que papa et maman i t'ont ramené ? [media],"[NULL,NULL,NULL]",1
+1036,MOT,[quote] que papa et maman i t'ont ramené ? [media],"[NULL,NULL,NULL]",2
+1037,MOT,Anaé ? [media],"[NULL,NULL,NULL]",1
+1037,MOT,Anaé ? [media],"[NULL,NULL,NULL]",2
+1038,MOT,montre le petit sac vert . [media],"[NULL,NULL,NULL]",1
+1038,MOT,montre le petit sac vert . [media],"[NULL,NULL,NULL]",2
+1039,MOT,[quote] à Aliyah . [media],"[NULL,NULL,NULL]",1
+1039,MOT,[quote] à Aliyah . [media],"[NULL,NULL,NULL]",2
+1040,MOT,là là là là là . [media],"[NULL,NULL,NULL]",1
+1040,MOT,là là là là là . [media],"[NULL,NULL,NULL]",2
+1041,MOT,0. 0. donne . [media],"[NULL,NULL,NULL]",1
+1041,MOT,0. 0. donne . [media],"[NULL,NULL,NULL]",2
+1042,MOT,le petit sac . le petit sac du Loch_Ness ! [media],"[NULL,NULL,NULL]",1
+1042,MOT,le petit sac . le petit sac du Loch_Ness ! [media],"[NULL,NULL,NULL]",2
+1043,OBS,[quote] ohlàlà .,"[NULL,NULL,NULL]",1
+1043,OBS,[quote] ohlàlà .,"[NULL,NULL,NULL]",2
+1044,OBS,0. . [media],"[NULL,NULL,NULL]",1
+1044,OBS,0. . [media],"[NULL,NULL,NULL]",2
+1045,MOT,[quote] allez . tu fais manger Kirikou ?,"[NULL,NULL,NULL]",1
+1045,MOT,[quote] allez . tu fais manger Kirikou ?,"[NULL,NULL,NULL]",2
+1046,MOT,parce qu'il a très très faim . [media],"[NULL,NULL,NULL]",1
+1046,MOT,parce qu'il a très très faim . [media],"[NULL,NULL,NULL]",2
+1047,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1047,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1048,MOT,qu'est-ce que c'est qu'il mange ?,"[NULL,NULL,NULL]",1
+1048,MOT,qu'est-ce que c'est qu'il mange ?,"[NULL,NULL,NULL]",2
+1049,CHI,se coupe là avec la fourchette et la couteau . [media],"[NULL,NULL,NULL]",1
+1049,CHI,se coupe là avec la fourchette et la couteau . [media],"[NULL,NULL,NULL]",2
+1050,MOT,et qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+1050,MOT,et qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+1051,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",1
+1051,MOT,qu'est-ce que c'est ? [media],"[NULL,NULL,NULL]",2
+1052,CHI,à manger . [media],"[NULL,NULL,NULL]",1
+1052,CHI,à manger . [media],"[NULL,NULL,NULL]",2
+1053,MOT,0. . [media],"[NULL,NULL,NULL]",1
+1053,MOT,0. . [media],"[NULL,NULL,NULL]",2
+1054,BRO,Anaé . xxx . [media],"[NULL,NULL,NULL]",1
+1054,BRO,Anaé . xxx . [media],"[NULL,NULL,NULL]",2
+1055,MOT,non non non non non Ael tu remontes ça tout_d .,"[NULL,NULL,NULL]",1
+1055,MOT,non non non non non Ael tu remontes ça tout_d .,"[NULL,NULL,NULL]",2
+1056,BRO,pourquoi ? [media],"[NULL,NULL,NULL]",1
+1056,BRO,pourquoi ? [media],"[NULL,NULL,NULL]",2
+1057,MOT,on verra ça plus tard .,"[NULL,NULL,NULL]",1
+1057,MOT,on verra ça plus tard .,"[NULL,NULL,NULL]",2
+1058,CHI,veux à manger . [media],"[NULL,NULL,NULL]",1
+1058,CHI,veux à manger . [media],"[NULL,NULL,NULL]",2
+1059,CHI,tiens . [media],"[NULL,NULL,NULL]",1
+1059,CHI,tiens . [media],"[NULL,NULL,NULL]",2
+1060,CHI,yyy avec moi . [media],"[NULL,NULL,NULL]",1
+1060,CHI,yyy avec moi . [media],"[NULL,NULL,NULL]",2
+1061,MOT,hum hum \<None\> .,"[NULL,NULL,NULL]",1
+1061,MOT,hum hum \<None\> .,"[NULL,NULL,NULL]",2
+1062,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1062,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1063,CHI,yyy bouge pas han ! [media],"[NULL,NULL,NULL]",1
+1063,CHI,yyy bouge pas han ! [media],"[NULL,NULL,NULL]",2
+1064,CHI,e tombée ! [media],"[NULL,NULL,NULL]",1
+1064,CHI,e tombée ! [media],"[NULL,NULL,NULL]",2
+1065,CHI,tiens . [media],"[NULL,NULL,NULL]",1
+1065,CHI,tiens . [media],"[NULL,NULL,NULL]",2
+1066,CHI,\<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+1066,CHI,\<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+1067,OBS,[quote] mmh .,"[NULL,NULL,NULL]",1
+1067,OBS,[quote] mmh .,"[NULL,NULL,NULL]",2
+1068,MOT,il dit que c'est bon ? [media],"[NULL,NULL,NULL]",1
+1068,MOT,il dit que c'est bon ? [media],"[NULL,NULL,NULL]",2
+1069,CHI,0. www \<None\> . [media],"[NULL,NULL,NULL]",1
+1069,CHI,0. www \<None\> . [media],"[NULL,NULL,NULL]",2
+1070,MOT,oh il est sage ton bébé hein !,"[NULL,NULL,NULL]",1
+1070,MOT,oh il est sage ton bébé hein !,"[NULL,NULL,NULL]",2
+1071,MOT,Ael \<None\> non . va dans ta chambre ! [media],"[NULL,NULL,NULL]",1
+1071,MOT,Ael \<None\> non . va dans ta chambre ! [media],"[NULL,NULL,NULL]",2
+1072,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1072,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1073,MOT,il vient sur mes genoux . pour manger ? [media],"[NULL,NULL,NULL]",1
+1073,MOT,il vient sur mes genoux . pour manger ? [media],"[NULL,NULL,NULL]",2
+1074,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+1074,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+1075,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1075,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1076,CHI,avec ses genoux . [media],"[NULL,NULL,NULL]",1
+1076,CHI,avec ses genoux . [media],"[NULL,NULL,NULL]",2
+1077,MOT,sur mes genoux . [media],"[NULL,NULL,NULL]",1
+1077,MOT,sur mes genoux . [media],"[NULL,NULL,NULL]",2
+1078,BRO,Anaé regarde Ael ! [media],"[NULL,NULL,NULL]",1
+1078,BRO,Anaé regarde Ael ! [media],"[NULL,NULL,NULL]",2
+1079,MOT,0. .,"[NULL,NULL,NULL]",1
+1079,MOT,0. .,"[NULL,NULL,NULL]",2
+1080,MOT,elle est occupée Anaé . va dans la chambre . [media],"[NULL,NULL,NULL]",1
+1080,MOT,elle est occupée Anaé . va dans la chambre . [media],"[NULL,NULL,NULL]",2
+1081,MOT,va donc ranger ton bazard à-côté de ton lit . [media],"[NULL,NULL,NULL]",1
+1081,MOT,va donc ranger ton bazard à-côté de ton lit . [media],"[NULL,NULL,NULL]",2
+1082,CHI,\<None\> \<None\> si toi maman . [media],"[NULL,NULL,NULL]",1
+1082,CHI,\<None\> \<None\> si toi maman . [media],"[NULL,NULL,NULL]",2
+1083,MOT,c'est moi qui quoi ? [media],"[NULL,NULL,NULL]",1
+1083,MOT,c'est moi qui quoi ? [media],"[NULL,NULL,NULL]",2
+1084,BRO,pourquoi ? [media],"[NULL,NULL,NULL]",1
+1084,BRO,pourquoi ? [media],"[NULL,NULL,NULL]",2
+1085,CHI,[quote] manger Kirikou .,"[NULL,NULL,NULL]",1
+1085,CHI,[quote] manger Kirikou .,"[NULL,NULL,NULL]",2
+1086,MOT,parce que . [media],"[NULL,NULL,NULL]",1
+1086,MOT,parce que . [media],"[NULL,NULL,NULL]",2
+1087,CHI,[quote] tiens .,"[NULL,NULL,NULL]",1
+1087,CHI,[quote] tiens .,"[NULL,NULL,NULL]",2
+1088,MOT,allez mange Kirikou . [media],"[NULL,NULL,NULL]",1
+1088,MOT,allez mange Kirikou . [media],"[NULL,NULL,NULL]",2
+1089,MOT,tptptp ptptptpt han je crois qu'il a fait caca . [media],"[NULL,NULL,NULL]",1
+1089,MOT,tptptp ptptptpt han je crois qu'il a fait caca . [media],"[NULL,NULL,NULL]",2
+1090,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1090,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1091,CHI,yyy fait caca . [media],"[NULL,NULL,NULL]",1
+1091,CHI,yyy fait caca . [media],"[NULL,NULL,NULL]",2
+1092,MOT,qu'est-ce que tu fais ? [media],"[NULL,NULL,NULL]",1
+1092,MOT,qu'est-ce que tu fais ? [media],"[NULL,NULL,NULL]",2
+1093,CHI,yyy caca . [media],"[NULL,NULL,NULL]",1
+1093,CHI,yyy caca . [media],"[NULL,NULL,NULL]",2
+1094,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1094,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1095,CHI,0. c'est dur ! [media],"[NULL,NULL,NULL]",1
+1095,CHI,0. c'est dur ! [media],"[NULL,NULL,NULL]",2
+1096,CHI,0. yyy . [media],"[NULL,NULL,NULL]",1
+1096,CHI,0. yyy . [media],"[NULL,NULL,NULL]",2
+1097,CHI,0. yyy fait caca e Kirikou . [media],"[NULL,NULL,NULL]",1
+1097,CHI,0. yyy fait caca e Kirikou . [media],"[NULL,NULL,NULL]",2
+1098,CHI,Kirikou fait caca . [media],"[NULL,NULL,NULL]",1
+1098,CHI,Kirikou fait caca . [media],"[NULL,NULL,NULL]",2
+1099,MOT,0. . [media],"[NULL,NULL,NULL]",1
+1099,MOT,0. . [media],"[NULL,NULL,NULL]",2
+1100,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+1100,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+1101,CHI,0. yyy . [media],"[NULL,NULL,NULL]",1
+1101,CHI,0. yyy . [media],"[NULL,NULL,NULL]",2
+1102,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+1102,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+1103,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+1103,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+1104,CHI,sa main . [media],"[NULL,NULL,NULL]",1
+1104,CHI,sa main . [media],"[NULL,NULL,NULL]",2
+1105,CHI,xxx yyy veux un mouchoir . [media],"[NULL,NULL,NULL]",1
+1105,CHI,xxx yyy veux un mouchoir . [media],"[NULL,NULL,NULL]",2
+1106,MOT,tu veux un mouchoir ou une lingette ? [media],"[NULL,NULL,NULL]",1
+1106,MOT,tu veux un mouchoir ou une lingette ? [media],"[NULL,NULL,NULL]",2
+1107,CHI,lingette . [media],"[NULL,NULL,NULL]",1
+1107,CHI,lingette . [media],"[NULL,NULL,NULL]",2
+1108,MOT,je vais te chercher une lingette . [media],"[NULL,NULL,NULL]",1
+1108,MOT,je vais te chercher une lingette . [media],"[NULL,NULL,NULL]",2
+1109,CHI,y caca . [media],"[NULL,NULL,NULL]",1
+1109,CHI,y caca . [media],"[NULL,NULL,NULL]",2
+1110,OBS,tu vas faire quoi avec la lingette . Anaé ? [media],"[NULL,NULL,NULL]",1
+1110,OBS,tu vas faire quoi avec la lingette . Anaé ? [media],"[NULL,NULL,NULL]",2
+1111,CHI,ca il yyy caca . [media],"[NULL,NULL,NULL]",1
+1111,CHI,ca il yyy caca . [media],"[NULL,NULL,NULL]",2
+1112,OBS,tu vas . nettoyer ?,"[NULL,NULL,NULL]",1
+1112,OBS,tu vas . nettoyer ?,"[NULL,NULL,NULL]",2
+1113,CHI,yyy caca . [media],"[NULL,NULL,NULL]",1
+1113,CHI,yyy caca . [media],"[NULL,NULL,NULL]",2
+1114,OBS,tu vas nettoyer le caca ? [media],"[NULL,NULL,NULL]",1
+1114,OBS,tu vas nettoyer le caca ? [media],"[NULL,NULL,NULL]",2
+1115,CHI,ouais ! [media],"[NULL,NULL,NULL]",1
+1115,CHI,ouais ! [media],"[NULL,NULL,NULL]",2
+1116,OBS,[quote] ouais \<None\> .,"[NULL,NULL,NULL]",1
+1116,OBS,[quote] ouais \<None\> .,"[NULL,NULL,NULL]",2
+1117,CHI,\<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+1117,CHI,\<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+1118,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+1118,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+1119,CHI,\<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+1119,CHI,\<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+1120,MOT,tiens . [media],"[PAR-Response:Non-answer:declarative,NULL,NULL]",1
+1120,MOT,tiens . [media],"[NULL,NULL,NULL]",2
+1121,CHI,yyy yyy fais caca yyy . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+1121,CHI,yyy yyy fais caca yyy . [media],"[NULL,NULL,NULL]",2
+1122,CHI,fait caca sur euh ... [media],"[NULL,NULL,NULL]",1
+1122,CHI,fait caca sur euh ... [media],"[NULL,NULL,NULL]",2
+1123,CHI,[quote] c'est \<None\> \<None\> \<None\> sur a table . [media],"[NULL,NULL,NULL]",1
+1123,CHI,[quote] c'est \<None\> \<None\> \<None\> sur a table . [media],"[NULL,NULL,NULL]",2
+1124,MOT,sur la table . [media],"[NULL,NULL,NULL]",1
+1124,MOT,sur la table . [media],"[NULL,NULL,NULL]",2
+1125,CHI,enlever yyy yyy sur a a sur lingette . [media],"[NULL,NULL,NULL]",1
+1125,CHI,enlever yyy yyy sur a a sur lingette . [media],"[NULL,NULL,NULL]",2
+1126,CHI,yyy lingette ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]",1
+1126,CHI,yyy lingette ? [media],"[NULL,NULL,NULL]",2
+1127,CHI,xxx ə bébé . [media],"[NULL,NULL,NULL]",1
+1127,CHI,xxx ə bébé . [media],"[NULL,NULL,NULL]",2
+1128,CHI,0. nettoie ɛ ɛ ɛ pieds à à Kirikou . [media],"[NULL,NULL,NULL]",1
+1128,CHI,0. nettoie ɛ ɛ ɛ pieds à à Kirikou . [media],"[NULL,NULL,NULL]",2
+1129,MOT,tu nettoies ses pieds ? [media],"[NULL,NULL,NULL]",1
+1129,MOT,tu nettoies ses pieds ? [media],"[NULL,NULL,NULL]",2
+1130,CHI,[quote] a du sable .,"[NULL,NULL,NULL]",1
+1130,CHI,[quote] a du sable .,"[NULL,NULL,NULL]",2
+1131,MOT,il y a du sable sur ses pieds ? [media],"[NULL,NULL,NULL]",1
+1131,MOT,il y a du sable sur ses pieds ? [media],"[NULL,NULL,NULL]",2
+1132,MOT,parce qu'il est allé à la mer de sable ? [media],"[NULL,NULL,NULL]",1
+1132,MOT,parce qu'il est allé à la mer de sable ? [media],"[NULL,NULL,NULL]",2
+1133,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+1133,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+1134,CHI,yyy les jambes . [media],"[NULL,NULL,NULL]",1
+1134,CHI,yyy les jambes . [media],"[NULL,NULL,NULL]",2
+1135,MOT,il va être bien propre . [media],"[NULL,NULL,NULL]",1
+1135,MOT,il va être bien propre . [media],"[NULL,NULL,NULL]",2
+1136,CHI,le bidon .,"[NULL,NULL,NULL]",1
+1136,CHI,le bidon .,"[NULL,NULL,NULL]",2
+1137,MOT,ouais . [media],"[NULL,NULL,NULL]",1
+1137,MOT,ouais . [media],"[NULL,NULL,NULL]",2
+1138,MOT,qu'est-ce que c'est ça ? [media],"[NULL,NULL,NULL]",1
+1138,MOT,qu'est-ce que c'est ça ? [media],"[NULL,NULL,NULL]",2
+1139,CHI,le bidon . [media],"[NULL,NULL,NULL]",1
+1139,CHI,le bidon . [media],"[NULL,NULL,NULL]",2
+1140,MOT,oui mais le trou là dans le bidon . [media],"[NULL,NULL,NULL]",1
+1140,MOT,oui mais le trou là dans le bidon . [media],"[NULL,NULL,NULL]",2
+1141,MOT,là . [media],"[NULL,NULL,NULL]",1
+1141,MOT,là . [media],"[NULL,NULL,NULL]",2
+1142,MOT,c'est quoi ça ? [media],"[NULL,NULL,NULL]",1
+1142,MOT,c'est quoi ça ? [media],"[NULL,NULL,NULL]",2
+1143,CHI,mon bidon . [media],"[NULL,NULL,NULL]",1
+1143,CHI,mon bidon . [media],"[NULL,NULL,NULL]",2
+1144,MOT,le nombril . [media],"[NULL,NULL,NULL]",1
+1144,MOT,le nombril . [media],"[NULL,NULL,NULL]",2
+1145,CHI,e tété . [media],"[NULL,NULL,NULL]",1
+1145,CHI,e tété . [media],"[NULL,NULL,NULL]",2
+1146,MOT,hum hum . [media],"[NULL,NULL,NULL]",1
+1146,MOT,hum hum . [media],"[NULL,NULL,NULL]",2
+1147,CHI,des tété \<None\> \<None\> à Kirikou . [media],"[NULL,NULL,NULL]",1
+1147,CHI,des tété \<None\> \<None\> à Kirikou . [media],"[NULL,NULL,NULL]",2
+1148,CHI,tété à Kirikou là . [media],"[NULL,NULL,NULL]",1
+1148,CHI,tété à Kirikou là . [media],"[NULL,NULL,NULL]",2
+1149,MOT,ouais . [media],"[NULL,NULL,NULL]",1
+1149,MOT,ouais . [media],"[NULL,NULL,NULL]",2
+1150,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1150,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1151,MOT,on nettoie . [media],"[NULL,NULL,NULL]",1
+1151,MOT,on nettoie . [media],"[NULL,NULL,NULL]",2
+1152,CHI,oh le le yyy là . [media],"[NULL,NULL,NULL]",1
+1152,CHI,oh le le yyy là . [media],"[NULL,NULL,NULL]",2
+1153,BRO,[quote] maman ?,"[NULL,NULL,NULL]",1
+1153,BRO,[quote] maman ?,"[NULL,NULL,NULL]",2
+1154,MOT,oui le nombril . [media],"[NULL,NULL,NULL]",1
+1154,MOT,oui le nombril . [media],"[NULL,NULL,NULL]",2
+1155,CHI,[quote] à Kirikou .,"[NULL,NULL,NULL]",1
+1155,CHI,[quote] à Kirikou .,"[NULL,NULL,NULL]",2
+1156,BRO,maman ? [media],"[NULL,NULL,NULL]",1
+1156,BRO,maman ? [media],"[NULL,NULL,NULL]",2
+1157,MOT,oui ?,"[NULL,NULL,NULL]",1
+1157,MOT,oui ?,"[NULL,NULL,NULL]",2
+1158,BRO,tu sais que j'avais une petite xxx . [media],"[NULL,NULL,NULL]",1
+1158,BRO,tu sais que j'avais une petite xxx . [media],"[NULL,NULL,NULL]",2
+1159,MOT,oui ?,"[NULL,NULL,NULL]",1
+1159,MOT,oui ?,"[NULL,NULL,NULL]",2
+1160,BRO,où i sont maint ? [media],"[NULL,NULL,NULL]",1
+1160,BRO,où i sont maint ? [media],"[NULL,NULL,NULL]",2
+1161,MOT,elles sont dans les affaires de ta soeur je crois . [media],"[NULL,NULL,NULL]",1
+1161,MOT,elles sont dans les affaires de ta soeur je crois . [media],"[NULL,NULL,NULL]",2
+1162,MOT,euh je les ai vues hier . [media],"[NULL,NULL,NULL]",1
+1162,MOT,euh je les ai vues hier . [media],"[NULL,NULL,NULL]",2
+1163,BRO,[quote] mes petites xxx .,"[NULL,NULL,NULL]",1
+1163,BRO,[quote] mes petites xxx .,"[NULL,NULL,NULL]",2
+1164,MOT,je les ai vues hier regarde dans le gros panier ça doit être dans non avec les livres . [media],"[NULL,NULL,NULL]",1
+1164,MOT,je les ai vues hier regarde dans le gros panier ça doit être dans non avec les livres . [media],"[NULL,NULL,NULL]",2
+1165,MOT,avec les livres dans une pochette euh . en plastique . [media],"[NULL,NULL,NULL]",1
+1165,MOT,avec les livres dans une pochette euh . en plastique . [media],"[NULL,NULL,NULL]",2
+1166,BRO,i sont là ? [media],"[NULL,NULL,NULL]",1
+1166,BRO,i sont là ? [media],"[NULL,NULL,NULL]",2
+1167,MOT,ouais .,"[NULL,NULL,NULL]",1
+1167,MOT,ouais .,"[NULL,NULL,NULL]",2
+1168,MOT,tu les vois ? [media],"[NULL,NULL,NULL]",1
+1168,MOT,tu les vois ? [media],"[NULL,NULL,NULL]",2
+1169,BRO,oui . [media],"[NULL,NULL,NULL]",1
+1169,BRO,oui . [media],"[NULL,NULL,NULL]",2
+1170,CHI,ɛ le vois .,"[NULL,NULL,NULL]",1
+1170,CHI,ɛ le vois .,"[NULL,NULL,NULL]",2
+1171,MOT,hum .,"[NULL,NULL,NULL]",1
+1171,MOT,hum .,"[NULL,NULL,NULL]",2
+1172,MOT,et peut-être faut lui nettoyer euh . le visage ? [media],"[NULL,NULL,NULL]",1
+1172,MOT,et peut-être faut lui nettoyer euh . le visage ? [media],"[NULL,NULL,NULL]",2
+1173,MOT,regarde . sur les joues il a les joues toutes sales Kirikou ! [media],"[NULL,NULL,NULL]",1
+1173,MOT,regarde . sur les joues il a les joues toutes sales Kirikou ! [media],"[NULL,NULL,NULL]",2
+1174,MOT,il a mangé comme un cochon . [media],"[NULL,NULL,NULL]",1
+1174,MOT,il a mangé comme un cochon . [media],"[NULL,NULL,NULL]",2
+1175,CHI,h il a mangé yyy un cochon . [media],"[NULL,NULL,NULL]",1
+1175,CHI,h il a mangé yyy un cochon . [media],"[NULL,NULL,NULL]",2
+1176,CHI,sur \<None\> \<None\> la la la la la tête à Kirikou . [media],"[NULL,NULL,NULL]",1
+1176,CHI,sur \<None\> \<None\> la la la la la tête à Kirikou . [media],"[NULL,NULL,NULL]",2
+1177,MOT,hum . [media],"[NULL,NULL,NULL]",1
+1177,MOT,hum . [media],"[NULL,NULL,NULL]",2
+1178,CHI,les oreilles .,"[NULL,NULL,NULL]",1
+1178,CHI,les oreilles .,"[NULL,NULL,NULL]",2
+1179,CHI,les yyy les sale les yyy à Kirikou . [media],"[NULL,NULL,NULL]",1
+1179,CHI,les yyy les sale les yyy à Kirikou . [media],"[NULL,NULL,NULL]",2
+1180,MOT,les quoi ? [media],"[NULL,NULL,NULL]",1
+1180,MOT,les quoi ? [media],"[NULL,NULL,NULL]",2
+1181,MOT,les oreilles ? [media],"[NULL,NULL,NULL]",1
+1181,MOT,les oreilles ? [media],"[NULL,NULL,NULL]",2
+1182,CHI,le bobo . [media],"[NULL,NULL,NULL]",1
+1182,CHI,le bobo . [media],"[NULL,NULL,NULL]",2
+1183,CHI,c'est a bobo yyy à Kirikou ja bobo . [media],"[NULL,NULL,NULL]",1
+1183,CHI,c'est a bobo yyy à Kirikou ja bobo . [media],"[NULL,NULL,NULL]",2
+1184,MOT,il a un bobo Kirikou ?,"[NULL,NULL,NULL]",1
+1184,MOT,il a un bobo Kirikou ?,"[NULL,NULL,NULL]",2
+1185,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1185,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1186,MOT,attends je vais changer de chaussures \<None\> . [media],"[NULL,NULL,NULL]",1
+1186,MOT,attends je vais changer de chaussures \<None\> . [media],"[NULL,NULL,NULL]",2
+1187,CHI,a bidon . [media],"[NULL,NULL,NULL]",1
+1187,CHI,a bidon . [media],"[NULL,NULL,NULL]",2
+1188,CHI,yyy moi yyy yyy moi yyy nettoie . [media],"[NULL,NULL,NULL]",1
+1188,CHI,yyy moi yyy yyy moi yyy nettoie . [media],"[NULL,NULL,NULL]",2
+1189,CHI,han ! [media],"[NULL,NULL,NULL]",1
+1189,CHI,han ! [media],"[NULL,NULL,NULL]",2
+1190,CHI,ə chaussure . [media],"[NULL,NULL,NULL]",1
+1190,CHI,ə chaussure . [media],"[NULL,NULL,NULL]",2
+1191,CHI,sa trouvé le chaussure . [media],"[NULL,NULL,NULL]",1
+1191,CHI,sa trouvé le chaussure . [media],"[NULL,NULL,NULL]",2
+1192,CHI,l'est où \<None\> \<None\> ma poupée ? [media],"[NULL,NULL,NULL]",1
+1192,CHI,l'est où \<None\> \<None\> ma poupée ? [media],"[NULL,NULL,NULL]",2
+1193,OBS,laquelle ? [media],"[NULL,NULL,NULL]",1
+1193,OBS,laquelle ? [media],"[NULL,NULL,NULL]",2
+1194,OBS,la Fifi non . celle avec les tresses ? [media],"[NULL,NULL,NULL]",1
+1194,OBS,la Fifi non . celle avec les tresses ? [media],"[NULL,NULL,NULL]",2
+1195,CHI,euh ouais ça . [media],"[NULL,NULL,NULL]",1
+1195,CHI,euh ouais ça . [media],"[NULL,NULL,NULL]",2
+1196,OBS,comment elle s'appelle ?,"[NULL,NULL,NULL]",1
+1196,OBS,comment elle s'appelle ?,"[NULL,NULL,NULL]",2
+1197,CHI,\<None\> \<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+1197,CHI,\<None\> \<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+1198,OBS,elle s'appelle mon bébé ? [media],"[NULL,NULL,NULL]",1
+1198,OBS,elle s'appelle mon bébé ? [media],"[NULL,NULL,NULL]",2
+1199,OBS,0. . [media],"[NULL,NULL,NULL]",1
+1199,OBS,0. . [media],"[NULL,NULL,NULL]",2
+1200,CHI,va asseoir poupée . [media],"[NULL,NULL,NULL]",1
+1200,CHI,va asseoir poupée . [media],"[NULL,NULL,NULL]",2
+1201,OBS,ah c'est sa chaussure ?,"[NULL,NULL,NULL]",1
+1201,OBS,ah c'est sa chaussure ?,"[NULL,NULL,NULL]",2
+1202,OBS,oh sa poussette ! [media],"[NULL,NULL,NULL]",1
+1202,OBS,oh sa poussette ! [media],"[NULL,NULL,NULL]",2
+1203,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1203,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1204,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1204,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1205,OBS,ça marche ? [media],"[NULL,NULL,NULL]",1
+1205,OBS,ça marche ? [media],"[NULL,NULL,NULL]",2
+1206,CHI,[quote] 0. .,"[NULL,NULL,NULL]",1
+1206,CHI,[quote] 0. .,"[NULL,NULL,NULL]",2
+1207,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1207,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1208,OBS,[quote] 0. .,"[NULL,NULL,NULL]",1
+1208,OBS,[quote] 0. .,"[NULL,NULL,NULL]",2
+1209,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1209,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1210,OBS,[quote] ça rentre ?,"[NULL,NULL,NULL]",1
+1210,OBS,[quote] ça rentre ?,"[NULL,NULL,NULL]",2
+1211,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1211,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1212,CHI,yyy yyy yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+1212,CHI,yyy yyy yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+1213,CHI,yyy la chaussure ɛ rentre pas . [media],"[NULL,NULL,NULL]",1
+1213,CHI,yyy la chaussure ɛ rentre pas . [media],"[NULL,NULL,NULL]",2
+1214,OBS,elle rentre pas la chaussure ?,"[NULL,NULL,NULL]",1
+1214,OBS,elle rentre pas la chaussure ?,"[NULL,NULL,NULL]",2
+1215,OBS,peut-être que Ael peut t'aider ? [media],"[NULL,NULL,NULL]",1
+1215,OBS,peut-être que Ael peut t'aider ? [media],"[NULL,NULL,NULL]",2
+1216,OBS,demande à Ael de t'aider .,"[NULL,NULL,NULL]",1
+1216,OBS,demande à Ael de t'aider .,"[NULL,NULL,NULL]",2
+1217,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1217,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1218,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1218,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1219,OBS,demande à Ael parce que moi j'ai la caméra .,"[NULL,NULL,NULL]",1
+1219,OBS,demande à Ael parce que moi j'ai la caméra .,"[NULL,NULL,NULL]",2
+1220,OBS,Ael \<None\> !,"[NULL,NULL,NULL]",1
+1220,OBS,Ael \<None\> !,"[NULL,NULL,NULL]",2
+1221,OBS,tu peux aider Anaé ? [media],"[NULL,NULL,NULL]",1
+1221,OBS,tu peux aider Anaé ? [media],"[NULL,NULL,NULL]",2
+1222,BRO,[quote] quoi ?,"[NULL,NULL,NULL]",1
+1222,BRO,[quote] quoi ?,"[NULL,NULL,NULL]",2
+1223,OBS,[quote] à mettre la chaussure sur bébé ? [media],"[NULL,NULL,NULL]",1
+1223,OBS,[quote] à mettre la chaussure sur bébé ? [media],"[NULL,NULL,NULL]",2
+1224,BRO,tiens . [media],"[NULL,NULL,NULL]",1
+1224,BRO,tiens . [media],"[NULL,NULL,NULL]",2
+1225,OBS,et l'autre elle est où l'autre chaussure ? [media],"[NULL,NULL,NULL]",1
+1225,OBS,et l'autre elle est où l'autre chaussure ? [media],"[NULL,NULL,NULL]",2
+1226,MOT,[quote] oh l'autre elle doit être sous la table sûrement .,"[NULL,NULL,NULL]",1
+1226,MOT,[quote] oh l'autre elle doit être sous la table sûrement .,"[NULL,NULL,NULL]",2
+1227,MOT,on la cherch tout_à_l'heure . [media],"[NULL,NULL,NULL]",1
+1227,MOT,on la cherch tout_à_l'heure . [media],"[NULL,NULL,NULL]",2
+1228,MOT,regarde vous avez reçu une carte postale de Fred et Véro . [media],"[NULL,NULL,NULL]",1
+1228,MOT,regarde vous avez reçu une carte postale de Fred et Véro . [media],"[NULL,NULL,NULL]",2
+1229,MOT,regarde . Anaé ! [media],"[NULL,NULL,NULL]",1
+1229,MOT,regarde . Anaé ! [media],"[NULL,NULL,NULL]",2
+1230,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1230,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1231,MOT,qu'est-ce que c'est ?,"[NULL,NULL,NULL]",1
+1231,MOT,qu'est-ce que c'est ?,"[NULL,NULL,NULL]",2
+1232,CHI,quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+1232,CHI,quoi ? [media],"[NULL,NULL,NULL]",2
+1233,MOT,c'est des chèvres ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+1233,MOT,c'est des chèvres ? [media],"[NULL,NULL,NULL]",2
+1234,CHI,des chèvres . [media],"[CHI-Follow-up:Repeat-answer,NULL,NULL]",1
+1234,CHI,des chèvres . [media],"[NULL,NULL,NULL]",2
+1235,MOT,c'est Fred et Véro qui te l'ont envoyée . [media],"[NULL,NULL,NULL]",1
+1235,MOT,c'est Fred et Véro qui te l'ont envoyée . [media],"[NULL,NULL,NULL]",2
+1236,MOT,c'est joli ? [media],"[NULL,NULL,NULL]",1
+1236,MOT,c'est joli ? [media],"[NULL,NULL,NULL]",2
+1237,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+1237,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+1238,MOT,ouais ?,"[NULL,NULL,NULL]",1
+1238,MOT,ouais ?,"[NULL,NULL,NULL]",2
+1239,CHI,et ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+1239,CHI,et ça ? [media],"[NULL,NULL,NULL]",2
+1240,MOT,ça c'est pour maman . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+1240,MOT,ça c'est pour maman . [media],"[NULL,NULL,NULL]",2
+1241,CHI,veux ouvrir . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+1241,CHI,veux ouvrir . [media],"[NULL,NULL,NULL]",2
+1242,MOT,ben tu peux ouvrir si tu veux mais à mon avis c'est pas passionnant hein ! [media],"[NULL,NULL,NULL]",1
+1242,MOT,ben tu peux ouvrir si tu veux mais à mon avis c'est pas passionnant hein ! [media],"[NULL,NULL,NULL]",2
+1243,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1243,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1244,MOT,attends . [media],"[NULL,NULL,NULL]",1
+1244,MOT,attends . [media],"[NULL,NULL,NULL]",2
+1245,CHI,ma donner quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,Complex-long,NULL]",1
+1245,CHI,ma donner quoi ? [media],"[NULL,NULL,NULL]",2
+1246,BRO,[quote] maman ?,"[NULL,NULL,NULL]",1
+1246,BRO,[quote] maman ?,"[NULL,NULL,NULL]",2
+1247,MOT,je t'ai rien donné du tout . je te prête . [media],"[NULL,NULL,NULL]",1
+1247,MOT,je t'ai rien donné du tout . je te prête . [media],"[NULL,NULL,NULL]",2
+1248,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1248,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1249,MOT,c'est ma carte .,"[NULL,NULL,NULL]",1
+1249,MOT,c'est ma carte .,"[NULL,NULL,NULL]",2
+1250,CHI,ma carte . [media],"[NULL,NULL,NULL]",1
+1250,CHI,ma carte . [media],"[NULL,NULL,NULL]",2
+1251,MOT,hum .,"[NULL,NULL,NULL]",1
+1251,MOT,hum .,"[NULL,NULL,NULL]",2
+1252,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1252,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1253,MOT,attends !,"[NULL,NULL,NULL]",1
+1253,MOT,attends !,"[NULL,NULL,NULL]",2
+1254,CHI,a carte ! [media],"[NULL,NULL,NULL]",1
+1254,CHI,a carte ! [media],"[NULL,NULL,NULL]",2
+1255,MOT,attends !,"[NULL,NULL,NULL]",1
+1255,MOT,attends !,"[NULL,NULL,NULL]",2
+1256,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1256,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1257,CHI,et on ouvre ça ! [media],"[NULL,NULL,NULL]",1
+1257,CHI,et on ouvre ça ! [media],"[NULL,NULL,NULL]",2
+1258,CHI,c'est quoi ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+1258,CHI,c'est quoi ça ? [media],"[NULL,NULL,NULL]",2
+1259,MOT,ça explique ce qu'on peut faire avec la carte . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+1259,MOT,ça explique ce qu'on peut faire avec la carte . [media],"[NULL,NULL,NULL]",2
+1260,CHI,\<None\> \<None\> \<None\> ! [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+1260,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+1261,MOT,vas_y . [media],"[NULL,NULL,NULL]",1
+1261,MOT,vas_y . [media],"[NULL,NULL,NULL]",2
+1262,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1262,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1263,MOT,je suis pas sûre que ce soit très intéressant Anaé hein ! [media],"[NULL,NULL,NULL]",1
+1263,MOT,je suis pas sûre que ce soit très intéressant Anaé hein ! [media],"[NULL,NULL,NULL]",2
+1264,CHI,ça ɛ peux lire ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+1264,CHI,ça ɛ peux lire ? [media],"[NULL,NULL,NULL]",2
+1265,MOT,vas_y . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+1265,MOT,vas_y . [media],"[NULL,NULL,NULL]",2
+1266,CHI,si toi . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+1266,CHI,si toi . [media],"[NULL,NULL,NULL]",2
+1267,MOT,hum hum hum ! [media],"[NULL,NULL,NULL]",1
+1267,MOT,hum hum hum ! [media],"[NULL,NULL,NULL]",2
+1268,MOT,ça on va mettre à la poubelle de toute façon . [media],"[NULL,NULL,NULL]",1
+1268,MOT,ça on va mettre à la poubelle de toute façon . [media],"[NULL,NULL,NULL]",2
+1269,MOT,et ça ... [media],"[NULL,NULL,NULL]",1
+1269,MOT,et ça ... [media],"[NULL,NULL,NULL]",2
+1270,MOT,[quote] c'est . le conservatoire . [media],"[NULL,NULL,NULL]",1
+1270,MOT,[quote] c'est . le conservatoire . [media],"[NULL,NULL,NULL]",2
+1271,CHI,maman . [media],"[NULL,NULL,NULL]",1
+1271,CHI,maman . [media],"[NULL,NULL,NULL]",2
+1272,MOT,oui .,"[NULL,NULL,NULL]",1
+1272,MOT,oui .,"[NULL,NULL,NULL]",2
+1273,CHI,moi va lire ça . [media],"[NULL,NULL,NULL]",1
+1273,CHI,moi va lire ça . [media],"[NULL,NULL,NULL]",2
+1274,CHI,\<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+1274,CHI,\<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+1275,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1275,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1276,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1276,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1277,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1277,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1278,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1278,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1279,CHI,\<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+1279,CHI,\<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+1280,CHI,les voitures elles font vroum vroum vroum .,"[NULL,NULL,NULL]",1
+1280,CHI,les voitures elles font vroum vroum vroum .,"[NULL,NULL,NULL]",2
+1281,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> c'est quoi ça ? [media],"[CHI-Initiation:Information-seeking:fact-based,No-response+No-follow-up,NULL]",1
+1281,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> c'est quoi ça ? [media],"[NULL,NULL,NULL]",2
+1282,CHI,yyy yyy yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+1282,CHI,yyy yyy yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+1283,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1283,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1284,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+1284,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+1285,CHI,yyy yyy yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+1285,CHI,yyy yyy yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+1286,MOT,[quote] treize heures quinze quatorze heures trente xxx .,"[NULL,NULL,NULL]",1
+1286,MOT,[quote] treize heures quinze quatorze heures trente xxx .,"[NULL,NULL,NULL]",2
+1287,CHI,\<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+1287,CHI,\<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+1288,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1288,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1289,CHI,\<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+1289,CHI,\<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+1290,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+1290,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+1291,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+1291,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+1292,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1292,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1293,CHI,\<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+1293,CHI,\<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+1294,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",1
+1294,CHI,\<None\> \<None\> \<None\> \<None\> \<None\> \<None\> . [media],"[NULL,NULL,NULL]",2
+1295,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",1
+1295,CHI,\<None\> \<None\> \<None\> ! [media],"[NULL,NULL,NULL]",2
+1296,MOT,0. . [media],"[NULL,NULL,NULL]",1
+1296,MOT,0. . [media],"[NULL,NULL,NULL]",2
+1297,OBS,[quote] t as fini ?,"[NULL,NULL,NULL]",1
+1297,OBS,[quote] t as fini ?,"[NULL,NULL,NULL]",2
+1298,CHI,ça c'est jaune .,"[NULL,NULL,NULL]",1
+1298,CHI,ça c'est jaune .,"[NULL,NULL,NULL]",2
+1299,MOT,non . Anaé ça c'est pas jaune . regarde bien . [media],"[NULL,NULL,NULL]",1
+1299,MOT,non . Anaé ça c'est pas jaune . regarde bien . [media],"[NULL,NULL,NULL]",2
+1300,MOT,c'est quelle couleur ça ? [media],"[NULL,NULL,NULL]",1
+1300,MOT,c'est quelle couleur ça ? [media],"[NULL,NULL,NULL]",2
+1301,CHI,vert . [media],"[NULL,NULL,NULL]",1
+1301,CHI,vert . [media],"[NULL,NULL,NULL]",2
+1302,MOT,non .,"[NULL,NULL,NULL]",1
+1302,MOT,non .,"[NULL,NULL,NULL]",2
+1303,CHI,non . [media],"[NULL,NULL,NULL]",1
+1303,CHI,non . [media],"[NULL,NULL,NULL]",2
+1304,MOT,c'est bleu . [media],"[NULL,NULL,NULL]",1
+1304,MOT,c'est bleu . [media],"[NULL,NULL,NULL]",2
+1305,CHI,bleu . [media],"[NULL,NULL,NULL]",1
+1305,CHI,bleu . [media],"[NULL,NULL,NULL]",2
+1306,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+1306,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+1307,CHI,et moi \<None\> \<None\> moi c'est ça . [media],"[NULL,NULL,NULL]",1
+1307,CHI,et moi \<None\> \<None\> moi c'est ça . [media],"[NULL,NULL,NULL]",2
+1308,MOT,il y a rien dedans tiens . [media],"[NULL,NULL,NULL]",1
+1308,MOT,il y a rien dedans tiens . [media],"[NULL,NULL,NULL]",2
+1309,MOT,tu peux prendre celui-là si tu veux . [media],"[NULL,NULL,NULL]",1
+1309,MOT,tu peux prendre celui-là si tu veux . [media],"[NULL,NULL,NULL]",2
+1310,CHI,yyy .,"[NULL,NULL,NULL]",1
+1310,CHI,yyy .,"[NULL,NULL,NULL]",2
+1311,MOT,et puis tu peux lire la carte postale que Fred et Véro t'ont envoyée . [media],"[NULL,NULL,NULL]",1
+1311,MOT,et puis tu peux lire la carte postale que Fred et Véro t'ont envoyée . [media],"[NULL,NULL,NULL]",2
+1312,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1312,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1313,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+1313,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+1314,CHI,ça si lit ça . [media],"[NULL,NULL,NULL]",1
+1314,CHI,ça si lit ça . [media],"[NULL,NULL,NULL]",2
+1315,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1315,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1316,OBS,[quote] qu'est-ce qu'ils t'ont écrit Fred et Caro ?,"[NULL,NULL,NULL]",1
+1316,OBS,[quote] qu'est-ce qu'ils t'ont écrit Fred et Caro ?,"[NULL,NULL,NULL]",2
+1317,OBS,ils t'ont envoyé des bisous ? [media],"[NULL,NULL,NULL]",1
+1317,OBS,ils t'ont envoyé des bisous ? [media],"[NULL,NULL,NULL]",2
+1318,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+1318,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+1319,MOT,0. . [media],"[NULL,NULL,NULL]",1
+1319,MOT,0. . [media],"[NULL,NULL,NULL]",2
+1320,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1320,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1321,CHI,han se trouvé le gilet . [media],"[NULL,NULL,NULL]",1
+1321,CHI,han se trouvé le gilet . [media],"[NULL,NULL,NULL]",2
+1322,MOT,oh super ! [media],"[NULL,NULL,NULL]",1
+1322,MOT,oh super ! [media],"[NULL,NULL,NULL]",2
+1323,MOT,ben vite mets le ! [media],"[NULL,NULL,NULL]",1
+1323,MOT,ben vite mets le ! [media],"[NULL,NULL,NULL]",2
+1324,MOT,mets le à ta poupée le gilet ! [media],"[NULL,NULL,NULL]",1
+1324,MOT,mets le à ta poupée le gilet ! [media],"[NULL,NULL,NULL]",2
+1325,CHI,e a perdu l yyy chaussure . [media],"[NULL,NULL,NULL]",1
+1325,CHI,e a perdu l yyy chaussure . [media],"[NULL,NULL,NULL]",2
+1326,MOT,0. . [media],"[NULL,NULL,NULL]",1
+1326,MOT,0. . [media],"[NULL,NULL,NULL]",2
+1327,CHI,[quote] a perdu so chaussure .,"[NULL,NULL,NULL]",1
+1327,CHI,[quote] a perdu so chaussure .,"[NULL,NULL,NULL]",2
+1328,MOT,ben on la cherchera tout_à_l'heure elle doit être sous le canapé ou sous la table . [media],"[NULL,NULL,NULL]",1
+1328,MOT,ben on la cherchera tout_à_l'heure elle doit être sous le canapé ou sous la table . [media],"[NULL,NULL,NULL]",2
+1329,CHI,. [media],"[NULL,NULL,NULL]",1
+1329,CHI,. [media],"[NULL,NULL,NULL]",2
+1330,MOT,hum . tu peux regarder si tu veux ! [media],"[NULL,NULL,NULL]",1
+1330,MOT,hum . tu peux regarder si tu veux ! [media],"[NULL,NULL,NULL]",2
+1331,CHI,0. se pousse . [media],"[NULL,NULL,NULL]",1
+1331,CHI,0. se pousse . [media],"[NULL,NULL,NULL]",2
+1332,MOT,[quote] non mais regarde en_dessous \<None\> .,"[NULL,NULL,NULL]",1
+1332,MOT,[quote] non mais regarde en_dessous \<None\> .,"[NULL,NULL,NULL]",2
+1333,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1333,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1334,CHI,c'est quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,PAR-Response:No-response,NULL]",1
+1334,CHI,c'est quoi ? [media],"[NULL,NULL,NULL]",2
+1335,CHI,ja pas . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+1335,CHI,ja pas . [media],"[NULL,NULL,NULL]",2
+1336,CHI,en a pas . [media],"[NULL,NULL,NULL]",1
+1336,CHI,en a pas . [media],"[NULL,NULL,NULL]",2
+1337,MOT,il y en a pas ? [media],"[NULL,NULL,NULL]",1
+1337,MOT,il y en a pas ? [media],"[NULL,NULL,NULL]",2
+1338,MOT,regarde sous la table . [media],"[NULL,NULL,NULL]",1
+1338,MOT,regarde sous la table . [media],"[NULL,NULL,NULL]",2
+1339,CHI,a fourchette . [media],"[NULL,NULL,NULL]",1
+1339,CHI,a fourchette . [media],"[NULL,NULL,NULL]",2
+1340,MOT,ah il y a une fourchette ben tu vois t auras pas tout perdu ! [media],"[NULL,NULL,NULL]",1
+1340,MOT,ah il y a une fourchette ben tu vois t auras pas tout perdu ! [media],"[NULL,NULL,NULL]",2
+1341,CHI,yyy yyy yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+1341,CHI,yyy yyy yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+1342,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1342,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1343,MOT,qu'est-ce que tu trouves ? [media],"[NULL,NULL,NULL]",1
+1343,MOT,qu'est-ce que tu trouves ? [media],"[NULL,NULL,NULL]",2
+1344,CHI,dø chaussures . [media],"[NULL,NULL,NULL]",1
+1344,CHI,dø chaussures . [media],"[NULL,NULL,NULL]",2
+1345,MOT,et ben regarde donne moi ton petit balai . et je vais je vais essayer d' attraper la chaussure . [media],"[NULL,NULL,NULL]",1
+1345,MOT,et ben regarde donne moi ton petit balai . et je vais je vais essayer d' attraper la chaussure . [media],"[NULL,NULL,NULL]",2
+1346,MOT,si elle est en_dessous . [media],"[NULL,NULL,NULL]",1
+1346,MOT,si elle est en_dessous . [media],"[NULL,NULL,NULL]",2
+1347,MOT,fais voir . [media],"[NULL,NULL,NULL]",1
+1347,MOT,fais voir . [media],"[NULL,NULL,NULL]",2
+1348,MOT,je suis sûre qu'on va trouver des trésors . là dessous . [media],"[NULL,NULL,NULL]",1
+1348,MOT,je suis sûre qu'on va trouver des trésors . là dessous . [media],"[NULL,NULL,NULL]",2
+1349,MOT,un crayon . [media],"[NULL,NULL,NULL]",1
+1349,MOT,un crayon . [media],"[NULL,NULL,NULL]",2
+1350,MOT,des livres . [media],"[NULL,NULL,NULL]",1
+1350,MOT,des livres . [media],"[NULL,NULL,NULL]",2
+1351,MOT,tiens regarde . un pantalon de poupée . [media],"[NULL,NULL,NULL]",1
+1351,MOT,tiens regarde . un pantalon de poupée . [media],"[NULL,NULL,NULL]",2
+1352,MOT,de la poussière . [media],"[NULL,NULL,NULL]",1
+1352,MOT,de la poussière . [media],"[NULL,NULL,NULL]",2
+1353,MOT,une céréale . [media],"[NULL,NULL,NULL]",1
+1353,MOT,une céréale . [media],"[NULL,NULL,NULL]",2
+1354,MOT,0. . [media],"[NULL,NULL,NULL]",1
+1354,MOT,0. . [media],"[NULL,NULL,NULL]",2
+1355,MOT,tiens regarde tu ramasses les livres ? [media],"[NULL,NULL,NULL]",1
+1355,MOT,tiens regarde tu ramasses les livres ? [media],"[NULL,NULL,NULL]",2
+1356,MOT,une autre céréale . [media],"[NULL,NULL,NULL]",1
+1356,MOT,une autre céréale . [media],"[NULL,NULL,NULL]",2
+1357,CHI,ø manger . [media],"[NULL,NULL,NULL]",1
+1357,CHI,ø manger . [media],"[NULL,NULL,NULL]",2
+1358,MOT,non ben non elles sont sales . [media],"[NULL,NULL,NULL]",1
+1358,MOT,non ben non elles sont sales . [media],"[NULL,NULL,NULL]",2
+1359,CHI,sont sales . [media],"[NULL,NULL,NULL]",1
+1359,CHI,sont sales . [media],"[NULL,NULL,NULL]",2
+1360,MOT,encore un livre oh ben dis_donc il y a une collection de livres sous cette table . [media],"[NULL,NULL,NULL]",1
+1360,MOT,encore un livre oh ben dis_donc il y a une collection de livres sous cette table . [media],"[NULL,NULL,NULL]",2
+1361,MOT,et de céréales . [media],"[NULL,NULL,NULL]",1
+1361,MOT,et de céréales . [media],"[NULL,NULL,NULL]",2
+1362,MOT,hum oh ! [media],"[NULL,NULL,NULL]",1
+1362,MOT,hum oh ! [media],"[NULL,NULL,NULL]",2
+1363,CHI,xxx .,"[NULL,NULL,NULL]",1
+1363,CHI,xxx .,"[NULL,NULL,NULL]",2
+1364,MOT,ça s remplit vite la dessous ! [media],"[NULL,NULL,NULL]",1
+1364,MOT,ça s remplit vite la dessous ! [media],"[NULL,NULL,NULL]",2
+1365,MOT,regarde c'est tes livres . [media],"[NULL,NULL,NULL]",1
+1365,MOT,regarde c'est tes livres . [media],"[NULL,NULL,NULL]",2
+1366,MOT,mais il y a pas de chaussures il y a le pantalon . [media],"[NULL,NULL,NULL]",1
+1366,MOT,mais il y a pas de chaussures il y a le pantalon . [media],"[NULL,NULL,NULL]",2
+1367,MOT,tu lui mets son pantalon et son gilet ?,"[NULL,NULL,NULL]",1
+1367,MOT,tu lui mets son pantalon et son gilet ?,"[NULL,NULL,NULL]",2
+1368,MOT,[quote] à ta poupée ? [media],"[NULL,NULL,NULL]",1
+1368,MOT,[quote] à ta poupée ? [media],"[NULL,NULL,NULL]",2
+1369,CHI,0. . . [media],"[NULL,NULL,NULL]",1
+1369,CHI,0. . . [media],"[NULL,NULL,NULL]",2
+1370,CHI,. [media],"[NULL,NULL,NULL]",1
+1370,CHI,. [media],"[NULL,NULL,NULL]",2
+1371,CHI,le . [media],"[NULL,NULL,NULL]",1
+1371,CHI,le . [media],"[NULL,NULL,NULL]",2
+1372,CHI,0. se trouve pas les yyy . [media],"[NULL,NULL,NULL]",1
+1372,CHI,0. se trouve pas les yyy . [media],"[NULL,NULL,NULL]",2
+1373,CHI,oh ici c'est un yyy . [media],"[NULL,NULL,NULL]",1
+1373,CHI,oh ici c'est un yyy . [media],"[NULL,NULL,NULL]",2
+1374,CHI,yyy yyy pas . [media],"[NULL,NULL,NULL]",1
+1374,CHI,yyy yyy pas . [media],"[NULL,NULL,NULL]",2
+1375,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1375,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1376,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1376,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1377,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+1377,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+1378,CHI,pour mettre . [media],"[NULL,NULL,NULL]",1
+1378,CHI,pour mettre . [media],"[NULL,NULL,NULL]",2
+1379,CHI,xxx . [media],"[NULL,NULL,NULL]",1
+1379,CHI,xxx . [media],"[NULL,NULL,NULL]",2
+1380,CHI,yyy les mains . [media],"[NULL,NULL,NULL]",1
+1380,CHI,yyy les mains . [media],"[NULL,NULL,NULL]",2
+1381,CHI,on met le gilet ve froid . [media],"[NULL,NULL,NULL]",1
+1381,CHI,on met le gilet ve froid . [media],"[NULL,NULL,NULL]",2
+1382,CHI,ø ve froid . [media],"[NULL,NULL,NULL]",1
+1382,CHI,ø ve froid . [media],"[NULL,NULL,NULL]",2
+1383,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1383,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1384,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1384,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1385,CHI,non . [media],"[NULL,NULL,NULL]",1
+1385,CHI,non . [media],"[NULL,NULL,NULL]",2
+1386,CHI,oh non toi ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]",1
+1386,CHI,oh non toi ? [media],"[NULL,NULL,NULL]",2
+1387,CHI,c'est chaud veux yyy sur les bras . [media],"[NULL,NULL,NULL]",1
+1387,CHI,c'est chaud veux yyy sur les bras . [media],"[NULL,NULL,NULL]",2
+1388,MOT,dans les bras . [media],"[NULL,NULL,NULL]",1
+1388,MOT,dans les bras . [media],"[NULL,NULL,NULL]",2
+1389,CHI,dans les bras . [media],"[NULL,NULL,NULL]",1
+1389,CHI,dans les bras . [media],"[NULL,NULL,NULL]",2
+1390,CHI,fais dodo . [media],"[NULL,NULL,NULL]",1
+1390,CHI,fais dodo . [media],"[NULL,NULL,NULL]",2
+1391,MOT,ah bon . [media],"[NULL,NULL,NULL]",1
+1391,MOT,ah bon . [media],"[NULL,NULL,NULL]",2
+1392,CHI,yyy va au dodo va va mettre le gilet va yyy dodo . [media],"[NULL,NULL,NULL]",1
+1392,CHI,yyy va au dodo va va mettre le gilet va yyy dodo . [media],"[NULL,NULL,NULL]",2
+1393,MOT,hum hum . [media],"[NULL,NULL,NULL]",1
+1393,MOT,hum hum . [media],"[NULL,NULL,NULL]",2
+1394,MOT,on met le gilet pour faire dodo ? [media],"[NULL,NULL,NULL]",1
+1394,MOT,on met le gilet pour faire dodo ? [media],"[NULL,NULL,NULL]",2
+1395,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+1395,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+1396,MOT,ouais ? [media],"[NULL,NULL,NULL]",1
+1396,MOT,ouais ? [media],"[NULL,NULL,NULL]",2
+1397,CHI,yyy yyy dodo e e e poupée dort . [media],"[NULL,NULL,NULL]",1
+1397,CHI,yyy yyy dodo e e e poupée dort . [media],"[NULL,NULL,NULL]",2
+1398,MOT,moi j'ai deux ans et la poupée elle dort ?,"[NULL,NULL,NULL]",1
+1398,MOT,moi j'ai deux ans et la poupée elle dort ?,"[NULL,NULL,NULL]",2
+1399,MOT,quel est le quel est le rapport ? [media],"[NULL,NULL,NULL]",1
+1399,MOT,quel est le quel est le rapport ? [media],"[NULL,NULL,NULL]",2
+1400,CHI,toi yyy yyy deux ans . [media],"[NULL,NULL,NULL]",1
+1400,CHI,toi yyy yyy deux ans . [media],"[NULL,NULL,NULL]",2
+1401,CHI,yyy veux mettre . [media],"[NULL,NULL,NULL]",1
+1401,CHI,yyy veux mettre . [media],"[NULL,NULL,NULL]",2
+1402,CHI,yyy yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+1402,CHI,yyy yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+1403,MOT,0. . [media],"[NULL,NULL,NULL]",1
+1403,MOT,0. . [media],"[NULL,NULL,NULL]",2
+1404,CHI,non . [media],"[NULL,NULL,NULL]",1
+1404,CHI,non . [media],"[NULL,NULL,NULL]",2
+1405,MOT,ben t'énerve pas !,"[NULL,NULL,NULL]",1
+1405,MOT,ben t'énerve pas !,"[NULL,NULL,NULL]",2
+1406,MOT,hop on le met bien ? [media],"[NULL,NULL,NULL]",1
+1406,MOT,hop on le met bien ? [media],"[NULL,NULL,NULL]",2
+1407,MOT,on le met à l'endroit ! [media],"[NULL,NULL,NULL]",1
+1407,MOT,on le met à l'endroit ! [media],"[NULL,NULL,NULL]",2
+1408,MOT,voilà . [media],"[NULL,NULL,NULL]",1
+1408,MOT,voilà . [media],"[NULL,NULL,NULL]",2
+1409,MOT,et on met le pantalon ? [media],"[NULL,NULL,NULL]",1
+1409,MOT,et on met le pantalon ? [media],"[NULL,NULL,NULL]",2
+1410,CHI,la chaussure . [media],"[NULL,NULL,NULL]",1
+1410,CHI,la chaussure . [media],"[NULL,NULL,NULL]",2
+1411,MOT,0. . [media],"[NULL,NULL,NULL]",1
+1411,MOT,0. . [media],"[NULL,NULL,NULL]",2
+1412,CHI,là ?,"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+1412,CHI,là ?,"[NULL,NULL,NULL]",2
+1413,MOT,hum hum !,"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+1413,MOT,hum hum !,"[NULL,NULL,NULL]",2
+1414,CHI,yyy petite là . [media],"[CHI-Follow-up:Own-explanation,NULL,NULL]",1
+1414,CHI,yyy petite là . [media],"[NULL,NULL,NULL]",2
+1415,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+1415,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+1416,MOT,bravo ! [media],"[NULL,NULL,NULL]",1
+1416,MOT,bravo ! [media],"[NULL,NULL,NULL]",2
+1417,CHI,[quote] yyy !,"[NULL,NULL,NULL]",1
+1417,CHI,[quote] yyy !,"[NULL,NULL,NULL]",2
+1418,CHI,voilà si là . [media],"[NULL,NULL,NULL]",1
+1418,CHI,voilà si là . [media],"[NULL,NULL,NULL]",2
+1419,MOT,c'est bien ! [media],"[NULL,NULL,NULL]",1
+1419,MOT,c'est bien ! [media],"[NULL,NULL,NULL]",2
+1420,MOT,tu lui donnes à manger ? [media],"[NULL,NULL,NULL]",1
+1420,MOT,tu lui donnes à manger ? [media],"[NULL,NULL,NULL]",2
+1421,CHI,ouais . [media],"[NULL,NULL,NULL]",1
+1421,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+1422,CHI,le . [media],"[NULL,NULL,NULL]",1
+1422,CHI,le . [media],"[NULL,NULL,NULL]",2
+1423,MOT,le pantalon . [media],"[NULL,NULL,NULL]",1
+1423,MOT,le pantalon . [media],"[NULL,NULL,NULL]",2
+1424,CHI,veux mettre le ! [media],"[NULL,NULL,NULL]",1
+1424,CHI,veux mettre le ! [media],"[NULL,NULL,NULL]",2
+1425,MOT,le pantalon . [media],"[NULL,NULL,NULL]",1
+1425,MOT,le pantalon . [media],"[NULL,NULL,NULL]",2
+1426,MOT,tu dis le pantalon ? [media],"[NULL,NULL,NULL]",1
+1426,MOT,tu dis le pantalon ? [media],"[NULL,NULL,NULL]",2
+1427,MOT,Anaé . [media],"[NULL,NULL,NULL]",1
+1427,MOT,Anaé . [media],"[NULL,NULL,NULL]",2
+1428,CHI,. [media],"[NULL,NULL,NULL]",1
+1428,CHI,. [media],"[NULL,NULL,NULL]",2
+1429,MOT,le pantalon . [media],"[NULL,NULL,NULL]",1
+1429,MOT,le pantalon . [media],"[NULL,NULL,NULL]",2
+1430,CHI,[quote] [quote] .,"[NULL,NULL,NULL]",1
+1430,CHI,[quote] [quote] .,"[NULL,NULL,NULL]",2
+1431,MOT,tu dis ? [media],"[NULL,NULL,NULL]",1
+1431,MOT,tu dis ? [media],"[NULL,NULL,NULL]",2
+1432,CHI,. [media],"[NULL,NULL,NULL]",1
+1432,CHI,. [media],"[NULL,NULL,NULL]",2
+1433,MOT,[quote] 0. .,"[NULL,NULL,NULL]",1
+1433,MOT,[quote] 0. .,"[NULL,NULL,NULL]",2
+1434,CHI,pantalon . [media],"[NULL,NULL,NULL]",1
+1434,CHI,pantalon . [media],"[NULL,NULL,NULL]",2
+1435,MOT,oh dis_donc !,"[NULL,NULL,NULL]",1
+1435,MOT,oh dis_donc !,"[NULL,NULL,NULL]",2
+1436,MOT,elle bouge elle veut pas que je lui mette son pantalon ! [media],"[NULL,NULL,NULL]",1
+1436,MOT,elle bouge elle veut pas que je lui mette son pantalon ! [media],"[NULL,NULL,NULL]",2
+1437,MOT,hop ! [media],"[NULL,NULL,NULL]",1
+1437,MOT,hop ! [media],"[NULL,NULL,NULL]",2
+1438,MOT,voilà ! [media],"[NULL,NULL,NULL]",1
+1438,MOT,voilà ! [media],"[NULL,NULL,NULL]",2
+1439,CHI,[quote] \<None\> \<None\> \<None\> .,"[NULL,NULL,NULL]",1
+1439,CHI,[quote] \<None\> \<None\> \<None\> .,"[NULL,NULL,NULL]",2
+1440,MOT,bouge pas bébé . [media],"[NULL,NULL,NULL]",1
+1440,MOT,bouge pas bébé . [media],"[NULL,NULL,NULL]",2
+1441,CHI,bouge pas . [media],"[NULL,NULL,NULL]",1
+1441,CHI,bouge pas . [media],"[NULL,NULL,NULL]",2
+1442,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",1
+1442,CHI,yyy yyy yyy . [media],"[NULL,NULL,NULL]",2
+1443,CHI,yyy le chaussure ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]",1
+1443,CHI,yyy le chaussure ? [media],"[NULL,NULL,NULL]",2
+1444,MOT,hum hum .,"[NULL,NULL,NULL]",1
+1444,MOT,hum hum .,"[NULL,NULL,NULL]",2
+1445,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1445,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1446,CHI,balai . [media],"[NULL,NULL,NULL]",1
+1446,CHI,balai . [media],"[NULL,NULL,NULL]",2
+1447,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1447,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1448,MOT,tu fais la majorette ? [media],"[NULL,NULL,NULL]",1
+1448,MOT,tu fais la majorette ? [media],"[NULL,NULL,NULL]",2
+1449,MOT,qu'est-ce que c'est ça Anaé ? [media],"[NULL,NULL,NULL]",1
+1449,MOT,qu'est-ce que c'est ça Anaé ? [media],"[NULL,NULL,NULL]",2
+1450,MOT,[quote] qu'est-ce que ça fait dans tes affaires ?,"[NULL,NULL,NULL]",1
+1450,MOT,[quote] qu'est-ce que ça fait dans tes affaires ?,"[NULL,NULL,NULL]",2
+1451,MOT,Anaé . c'est quoi ça ? [media],"[NULL,NULL,NULL]",1
+1451,MOT,Anaé . c'est quoi ça ? [media],"[NULL,NULL,NULL]",2
+1452,MOT,Anaé ! [media],"[NULL,NULL,NULL]",1
+1452,MOT,Anaé ! [media],"[NULL,NULL,NULL]",2
+1453,CHI,a de la poussière . [media],"[NULL,NULL,NULL]",1
+1453,CHI,a de la poussière . [media],"[NULL,NULL,NULL]",2
+1454,MOT,de la poussière ? [media],"[NULL,NULL,NULL]",1
+1454,MOT,de la poussière ? [media],"[NULL,NULL,NULL]",2
+1455,CHI,de la poussière là . [media],"[NULL,NULL,NULL]",1
+1455,CHI,de la poussière là . [media],"[NULL,NULL,NULL]",2
+1456,CHI,kə la poussière là . [media],"[NULL,NULL,NULL]",1
+1456,CHI,kə la poussière là . [media],"[NULL,NULL,NULL]",2
+1457,CHI,ekə la poussière là . [media],"[NULL,NULL,NULL]",1
+1457,CHI,ekə la poussière là . [media],"[NULL,NULL,NULL]",2
+1458,MOT,ouais . je vais aller la mettre à la poubelle la poussière c'est des poils de chien .,"[NULL,NULL,NULL]",1
+1458,MOT,ouais . je vais aller la mettre à la poubelle la poussière c'est des poils de chien .,"[NULL,NULL,NULL]",2
+1459,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1459,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1460,MOT,hum .,"[NULL,NULL,NULL]",1
+1460,MOT,hum .,"[NULL,NULL,NULL]",2
+1461,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1461,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1462,MOT,de pas casser ton balai . attends .,"[NULL,NULL,NULL]",1
+1462,MOT,de pas casser ton balai . attends .,"[NULL,NULL,NULL]",2
+1463,MOT,tu vas le casser comme ça . [media],"[NULL,NULL,NULL]",1
+1463,MOT,tu vas le casser comme ça . [media],"[NULL,NULL,NULL]",2
+1464,MOT,alors qu'est-ce qu' y a là-d ? [media],"[NULL,NULL,NULL]",1
+1464,MOT,alors qu'est-ce qu' y a là-d ? [media],"[NULL,NULL,NULL]",2
+1465,MOT,regarde ! [media],"[NULL,NULL,NULL]",1
+1465,MOT,regarde ! [media],"[NULL,NULL,NULL]",2
+1466,CHI,se trouvé quoi ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+1466,CHI,se trouvé quoi ? [media],"[NULL,NULL,NULL]",2
+1467,MOT,le kangourou ! [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+1467,MOT,le kangourou ! [media],"[NULL,NULL,NULL]",2
+1468,MOT,on lui met son bébé dans sa poche ? [media],"[PAR-Response:Non-answer:interrogative,NULL,NULL]",1
+1468,MOT,on lui met son bébé dans sa poche ? [media],"[NULL,NULL,NULL]",2
+1469,CHI,ouais . [media],"[CHI-Follow-up:Signal-agreement,NULL,NULL]",1
+1469,CHI,ouais . [media],"[NULL,NULL,NULL]",2
+1470,MOT,hop ! [media],"[NULL,NULL,NULL]",1
+1470,MOT,hop ! [media],"[NULL,NULL,NULL]",2
+1471,MOT,et il y a aussi ... [media],"[NULL,NULL,NULL]",1
+1471,MOT,et il y a aussi ... [media],"[NULL,NULL,NULL]",2
+1472,MOT,. le koala ! [media],"[NULL,NULL,NULL]",1
+1472,MOT,. le koala ! [media],"[NULL,NULL,NULL]",2
+1473,CHI,oh bébé ! [media],"[NULL,NULL,NULL]",1
+1473,CHI,oh bébé ! [media],"[NULL,NULL,NULL]",2
+1474,MOT,hum .,"[NULL,NULL,NULL]",1
+1474,MOT,hum .,"[NULL,NULL,NULL]",2
+1475,CHI,le bébé . [media],"[NULL,NULL,NULL]",1
+1475,CHI,le bébé . [media],"[NULL,NULL,NULL]",2
+1476,MOT,il se met où le bébé koala ? [media],"[NULL,NULL,NULL]",1
+1476,MOT,il se met où le bébé koala ? [media],"[NULL,NULL,NULL]",2
+1477,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",1
+1477,CHI,yyy yyy . [media],"[NULL,NULL,NULL]",2
+1478,MOT,hum hum .,"[NULL,NULL,NULL]",1
+1478,MOT,hum hum .,"[NULL,NULL,NULL]",2
+1479,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1479,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1480,CHI,a mangé ? [media],"[CHI-Initiation:Non-information-seeking,NULL,NULL]",1
+1480,CHI,a mangé ? [media],"[NULL,NULL,NULL]",2
+1481,CHI,va manger ! [media],"[NULL,NULL,NULL]",1
+1481,CHI,va manger ! [media],"[NULL,NULL,NULL]",2
+1482,CHI,yyy \<None\> \<None\> ø veux manger yyy ! [media],"[NULL,NULL,NULL]",1
+1482,CHI,yyy \<None\> \<None\> ø veux manger yyy ! [media],"[NULL,NULL,NULL]",2
+1483,CHI,ø veux manger . [media],"[NULL,NULL,NULL]",1
+1483,CHI,ø veux manger . [media],"[NULL,NULL,NULL]",2
+1484,CHI,veux veux manger sa maman . [media],"[NULL,NULL,NULL]",1
+1484,CHI,veux veux manger sa maman . [media],"[NULL,NULL,NULL]",2
+1485,MOT,hum hum . [media],"[NULL,NULL,NULL]",1
+1485,MOT,hum hum . [media],"[NULL,NULL,NULL]",2
+1486,CHI,0. veux l'manger yyy sa maman . [media],"[NULL,NULL,NULL]",1
+1486,CHI,0. veux l'manger yyy sa maman . [media],"[NULL,NULL,NULL]",2
+1487,CHI,yyy sa maman . [media],"[NULL,NULL,NULL]",1
+1487,CHI,yyy sa maman . [media],"[NULL,NULL,NULL]",2
+1488,CHI,manger yyy yyy veux manger sa maman ! [media],"[NULL,NULL,NULL]",1
+1488,CHI,manger yyy yyy veux manger sa maman ! [media],"[NULL,NULL,NULL]",2
+1489,MOT,qu'est-ce qu'elle veut manger ? [media],"[NULL,NULL,NULL]",1
+1489,MOT,qu'est-ce qu'elle veut manger ? [media],"[NULL,NULL,NULL]",2
+1490,CHI,yyy ɛ veut des pâtes . [media],"[NULL,NULL,NULL]",1
+1490,CHI,yyy ɛ veut des pâtes . [media],"[NULL,NULL,NULL]",2
+1491,MOT,ah bon ?,"[NULL,NULL,NULL]",1
+1491,MOT,ah bon ?,"[NULL,NULL,NULL]",2
+1492,CHI,l'est où le café maman ? [media],"[CHI-Initiation:Information-seeking:fact-based,NULL,NULL]",1
+1492,CHI,l'est où le café maman ? [media],"[NULL,NULL,NULL]",2
+1493,MOT,il est là-bas mais je peux te donner une petite tasse tiens . regarde . [media],"[PAR-Response:Answer:no-explanation-needed,NULL,NULL]",1
+1493,MOT,il est là-bas mais je peux te donner une petite tasse tiens . regarde . [media],"[NULL,NULL,NULL]",2
+1494,CHI,yyy . [media],"[CHI-Follow-up:Otherwise,NULL,NULL]",1
+1494,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1495,MOT,! [media],"[NULL,NULL,NULL]",1
+1495,MOT,! [media],"[NULL,NULL,NULL]",2
+1496,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1496,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1497,MOT,[quote] tiens .,"[NULL,NULL,NULL]",1
+1497,MOT,[quote] tiens .,"[NULL,NULL,NULL]",2
+1498,CHI,\<None\> \<None\> \<None\> \<None\> .,"[NULL,NULL,NULL]",1
+1498,CHI,\<None\> \<None\> \<None\> \<None\> .,"[NULL,NULL,NULL]",2
+1499,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1499,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1500,CHI,\<None\> \<None\> \<None\> ça c'est un petit café . [media],"[NULL,NULL,NULL]",1
+1500,CHI,\<None\> \<None\> \<None\> ça c'est un petit café . [media],"[NULL,NULL,NULL]",2
+1501,MOT,hum \<None\> .,"[NULL,NULL,NULL]",1
+1501,MOT,hum \<None\> .,"[NULL,NULL,NULL]",2
+1502,CHI,zzz . [media],"[NULL,NULL,NULL]",1
+1502,CHI,zzz . [media],"[NULL,NULL,NULL]",2
+1503,CHI,zzz . [media],"[NULL,NULL,NULL]",1
+1503,CHI,zzz . [media],"[NULL,NULL,NULL]",2
+1504,CHI,zzz . [media],"[NULL,NULL,NULL]",1
+1504,CHI,zzz . [media],"[NULL,NULL,NULL]",2
+1505,CHI,voilà . [media],"[NULL,NULL,NULL]",1
+1505,CHI,voilà . [media],"[NULL,NULL,NULL]",2
+1506,CHI,yyy . [media],"[NULL,NULL,NULL]",1
+1506,CHI,yyy . [media],"[NULL,NULL,NULL]",2
+1507,CHI,le biberon . [media],"[NULL,NULL,NULL]",1
+1507,CHI,le biberon . [media],"[NULL,NULL,NULL]",2
+1508,CHI,euh yyy yyy yyy ma poupée veut manger ! [media],"[NULL,NULL,NULL]",1
+1508,CHI,euh yyy yyy yyy ma poupée veut manger ! [media],"[NULL,NULL,NULL]",2
+1509,CHI,ø veux enlever le gilet . [media],"[NULL,NULL,NULL]",1
+1509,CHI,ø veux enlever le gilet . [media],"[NULL,NULL,NULL]",2
+1510,CHI,0. . [media],"[NULL,NULL,NULL]",1
+1510,CHI,0. . [media],"[NULL,NULL,NULL]",2
+1511,CHI,zzz . [media],"[NULL,NULL,NULL]",1
+1511,CHI,zzz . [media],"[NULL,NULL,NULL]",2
+1512,CHI,veux veux yyy boire le biberon . [media],"[NULL,NULL,NULL]",1
+1512,CHI,veux veux yyy boire le biberon . [media],"[NULL,NULL,NULL]",2
+1513,MOT,tiens bébé . [media],"[NULL,NULL,NULL]",1
+1513,MOT,tiens bébé . [media],"[NULL,NULL,NULL]",2
+1514,MOT,comment elle s'appelle ta poupée ? [media],"[NULL,NULL,NULL]",1
+1514,MOT,comment elle s'appelle ta poupée ? [media],"[NULL,NULL,NULL]",2
+1515,CHI,moi yyy ə biberon . [media],"[NULL,NULL,NULL]",1
+1515,CHI,moi yyy ə biberon . [media],"[NULL,NULL,NULL]",2
+1516,MOT,[quote] comment elle s'appelle ?,"[NULL,NULL,NULL]",1
+1516,MOT,[quote] comment elle s'appelle ?,"[NULL,NULL,NULL]",2
+1517,CHI,i sur toi . [media],"[NULL,NULL,NULL]",1
+1517,CHI,i sur toi . [media],"[NULL,NULL,NULL]",2
+1518,MOT,elle est sur moi ouais .,"[NULL,NULL,NULL]",1
+1518,MOT,elle est sur moi ouais .,"[NULL,NULL,NULL]",2
+1519,CHI,veux avec les tètè . [media],"[NULL,NULL,NULL]",1
+1519,CHI,veux avec les tètè . [media],"[NULL,NULL,NULL]",2
+1520,MOT,0. elle faut qu'elle tête ?,"[NULL,NULL,NULL]",1
+1520,MOT,0. elle faut qu'elle tête ?,"[NULL,NULL,NULL]",2
+1521,MOT,ptptptpt . [media],"[NULL,NULL,NULL]",1
+1521,MOT,ptptptpt . [media],"[NULL,NULL,NULL]",2
+1522,MOT,comme Rose ? [media],"[NULL,NULL,NULL]",1
+1522,MOT,comme Rose ? [media],"[NULL,NULL,NULL]",2
+1523,CHI,ouais .,"[NULL,NULL,NULL]",1
+1523,CHI,ouais .,"[NULL,NULL,NULL]",2
+1524,MOT,Rose elle tète sa maman ? [media],"[NULL,NULL,NULL]",1
+1524,MOT,Rose elle tète sa maman ? [media],"[NULL,NULL,NULL]",2
+1525,MOT,qu'est-ce qu'il y a dans les tètè de sa maman ? [media],"[NULL,NULL,NULL]",1
+1525,MOT,qu'est-ce qu'il y a dans les tètè de sa maman ? [media],"[NULL,NULL,NULL]",2
+1526,CHI,a ly lait . [media],"[NULL,NULL,NULL]",1
+1526,CHI,a ly lait . [media],"[NULL,NULL,NULL]",2
+1527,MOT,il y a du lait ? [media],"[NULL,NULL,NULL]",1
+1527,MOT,il y a du lait ? [media],"[NULL,NULL,NULL]",2
+1528,MOT,wow Ael ! [media],"[NULL,NULL,NULL]",1
+1528,MOT,wow Ael ! [media],"[NULL,NULL,NULL]",2
+1529,MOT,c'est super beau ! [media],"[NULL,NULL,NULL]",1
+1529,MOT,c'est super beau ! [media],"[NULL,NULL,NULL]",2
+1530,MOT,c'est quoi ça ? [media],"[NULL,NULL,NULL]",1
+1530,MOT,c'est quoi ça ? [media],"[NULL,NULL,NULL]",2
+1531,MOT,c'est quoi comme animal ? [media],"[NULL,NULL,NULL]",1
+1531,MOT,c'est quoi comme animal ? [media],"[NULL,NULL,NULL]",2
+1532,MOT,qu'est-ce que c'est comme animal ? [media],"[NULL,NULL,NULL]",1
+1532,MOT,qu'est-ce que c'est comme animal ? [media],"[NULL,NULL,NULL]",2
+1533,CHI,[quote] mon puzzle oh .,"[NULL,NULL,NULL]",1
+1533,CHI,[quote] mon puzzle oh .,"[NULL,NULL,NULL]",2
+1534,MOT,fais voir ? [media],"[NULL,NULL,NULL]",1
+1534,MOT,fais voir ? [media],"[NULL,NULL,NULL]",2
+1535,CHI,[quote] oh .,"[NULL,NULL,NULL]",1
+1535,CHI,[quote] oh .,"[NULL,NULL,NULL]",2
+1536,CHI,mon puzzle . [media],"[NULL,NULL,NULL]",1
+1536,CHI,mon puzzle . [media],"[NULL,NULL,NULL]",2
+1537,BRO,un castor ! [media],"[NULL,NULL,NULL]",1
+1537,BRO,un castor ! [media],"[NULL,NULL,NULL]",2
+1538,CHI,[quote] mon puzzle .,"[NULL,NULL,NULL]",1
+1538,CHI,[quote] mon puzzle .,"[NULL,NULL,NULL]",2
+1539,MOT,ah d'accord !,"[NULL,NULL,NULL]",1
+1539,MOT,ah d'accord !,"[NULL,NULL,NULL]",2
+1540,MOT,c'est très beau . [media],"[NULL,NULL,NULL]",1
+1540,MOT,c'est très beau . [media],"[NULL,NULL,NULL]",2
+1541,CHI,[quote] xxx .,"[NULL,NULL,NULL]",1
+1541,CHI,[quote] xxx .,"[NULL,NULL,NULL]",2
+1542,CHI,regarde mon puzzle . [media],"[NULL,NULL,NULL]",1
+1542,CHI,regarde mon puzzle . [media],"[NULL,NULL,NULL]",2
+1543,MOT,oui tu veux le faire le puzzle ?,"[NULL,NULL,NULL]",1
+1543,MOT,oui tu veux le faire le puzzle ?,"[NULL,NULL,NULL]",2
+1544,MOT,attends on va faire de la place sur la table . [media],"[NULL,NULL,NULL]",1
+1544,MOT,attends on va faire de la place sur la table . [media],"[NULL,NULL,NULL]",2
+1545,CHI,tə la place . [media],"[NULL,NULL,NULL]",1
+1545,CHI,tə la place . [media],"[NULL,NULL,NULL]",2
+1546,MOT,de la \<interruption\> [media],"[NULL,NULL,NULL]",1
+1546,MOT,de la \<interruption\> [media],"[NULL,NULL,NULL]",2
+1547,CHI,[quote] de la place .,"[NULL,NULL,NULL]",1
+1547,CHI,[quote] de la place .,"[NULL,NULL,NULL]",2
+1548,MOT,[quote] ouais .,"[NULL,NULL,NULL]",1
+1548,MOT,[quote] ouais .,"[NULL,NULL,NULL]",2
+1549,BRO,[quote] parce qu'il est plongé . le castor .,"[NULL,NULL,NULL]",1
+1549,BRO,[quote] parce qu'il est plongé . le castor .,"[NULL,NULL,NULL]",2
+1550,MOT,ah oui oui . [media],"[NULL,NULL,NULL]",1
+1550,MOT,ah oui oui . [media],"[NULL,NULL,NULL]",2
+1551,CHI,la place . [media],"[NULL,NULL,NULL]",1
+1551,CHI,la place . [media],"[NULL,NULL,NULL]",2
+1552,BRO,[quote] là c'est sa queue !,"[NULL,NULL,NULL]",1
+1552,BRO,[quote] là c'est sa queue !,"[NULL,NULL,NULL]",2

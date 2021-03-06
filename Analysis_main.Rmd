@@ -33,215 +33,444 @@ library(readr)
 
 
 ```{r}
-
-
-### dara For Adrien
+### dara For Theophile
 ###################
 
-theo_020020 <-  read_csv("Annotations-final/Annotation_csv/Théophile/Paris_Theophile_020020.json") %>%
-  mutate(child = "Adrien",
+Theophile <-  read_csv("Annotations-final/Annotation_csv_speaker/Theophile_020020.csv") %>%
+  mutate(child = "Theophile",
          age = 2,
-         file = "020222")
-
-### dara For Adrien
-###################
-
-Y_020222 <-  read_csv("compare_annotations/Yamaguchi_020222.csv") %>%
-  mutate(child = "Adrien",
-         age = 2,
-         file = "020222")
-Y_020328 <-  read_csv("compare_annotations/Yamaguchi_020328.csv") %>%
-  mutate(child = "Adrien",
-         age = 2,
-         file = "020328")
-Y_030015 <-  read_csv("compare_annotations/Yamaguchi_030015.csv") %>%
-  mutate(child = "Adrien",
-         age = 3,
-         file = "030015")
+         file = "020020") %>%
   
-Y_030212 <-  read_csv("compare_annotations/Yamaguchi_030212.csv") %>%
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Theophile_020208.csv") %>%
+  mutate(child = "Theophile",
+         age = 2,
+         file = "020208")) %>%
+  
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Theophile_030200.csv") %>%
+  mutate(child = "Theophile",
+         age = 3,
+         file = "030200")) %>%
+  
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Theophile_030410.csv") %>%
+  mutate(child = "Theophile",
+         age = 3,
+         file = "030410")) %>%
+  
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Theophile_040329.csv") %>%
+  mutate(child = "Theophile",
+         age = 4,
+         file = "040329")) %>%
+  
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Theophile_040620.csv") %>%
+  mutate(child = "Theophile",
+         age = 4,
+         file = "040620")) 
+
+
+### dara For Madeleine
+######################
+
+Madeleine <-  read_csv("Annotations-final/Annotation_csv_speaker/Madeleine_020102.csv") %>%
+  mutate(child = "Madeleine",
+         age = 2,
+         file = "020102") %>%
+  
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Madeleine_020206.csv") %>%
+  mutate(child = "Madeleine",
+         age = 2,
+         file = "020206")) %>%
+  
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Madeleine_030028.csv") %>%
+  mutate(child = "Madeleine",
+         age = 3,
+         file = "030028")) %>%
+  
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Madeleine_030302.csv") %>%
+  mutate(child = "Madeleine",
+         age = 3,
+         file = "030302")) %>%
+  
+   bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Madeleine_041003.csv") %>%
+  mutate(child = "Madeleine",
+         age = 4,
+         file = "041003")) %>%
+  
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Madeleine_050105.csv") %>%
+  mutate(child = "Madeleine",
+         age = 4,
+         file = "050105"))
+  
+  
+### dara For Adrien
+######################
+
+Adrien_020222  <-  read_csv("Annotations-final/Annotation_csv_speaker/Adrien_020222.csv") %>%
+  mutate(child = "Adrien",
+         age = 2,
+         file = "020222")
+  
+Adrien_020328 <-  read_csv("Annotations-final/Annotation_csv_speaker/Adrien_020328_CHI.csv") %>%
+  mutate(child = "Adrien",
+         age = 2,
+         file = "020328") %>%
+  filter(`list-ID` == 1) %>%
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Adrien_020328_PAR.csv") %>%
+  mutate(child = "Adrien",
+         age = 2,
+         file = "020328") %>%
+    filter(`list-ID` == 2)) 
+
+
+Adrien_030015 <-  read_csv("Annotations-final/Annotation_csv_speaker/Adrien_030015_CHI.csv") %>%
   mutate(child = "Adrien",
          age = 3,
-         file = "030212")
+         file = "030015") %>%
+  filter(`list-ID` == 1) %>%
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Adrien_030015_PAR.csv") %>%
+  mutate(child = "Adrien",
+         age = 3,
+         file = "030015") %>%
+    filter(`list-ID` == 2)) 
 
-Y_030909 <-  read_csv("compare_annotations/Yamaguchi_030909.csv") %>%
+
+Adrien_030212 <-  read_csv("Annotations-final/Annotation_csv_speaker/Adrien_030212_CHI.csv") %>%
+  mutate(child = "Adrien",
+         age = 3,
+         file = "030212") %>%
+  filter(`list-ID` == 1) %>%
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Adrien_030212_PAR.csv") %>%
+  mutate(child = "Adrien",
+         age = 3,
+         file = "030212") %>%
+    filter(`list-ID` == 2)) 
+
+
+Adrien_030909 <-  read_csv("Annotations-final/Annotation_csv_speaker/Adrien_030909_CHI.csv") %>%
   mutate(child = "Adrien",
          age = 4,
-         file = "030909")
-
-Y_031113 <-  read_csv("compare_annotations/Yamaguchi_031113.csv") %>%
+         file = "030909") %>%
+  filter(`list-ID` == 1) %>%
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Adrien_030909_PAR.csv") %>%
   mutate(child = "Adrien",
          age = 4,
-         file = "031113")
+         file = "030909") %>%
+    filter(`list-ID` == 2)) 
 
 
-Y_031113_PAR <-  read_csv("compare_annotations/Yamaguchi_031113_PAR.csv") %>%
+Adrien_031113 <-  read_csv("Annotations-final/Annotation_csv_speaker/Adrien_031113_CHI.csv") %>%
   mutate(child = "Adrien",
          age = 4,
-         file = "031113_PAR")
+         file = "031113") %>%
+  filter(`list-ID` == 1) %>%
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Adrien_031113_PAR.csv") %>%
+  mutate(child = "Adrien",
+         age = 4,
+         file = "031113") %>%
+    filter(`list-ID` == 2)) 
 
-### Data for Anaé
-#################
-A_020025 <- read_csv("compare_annotations/Paris_Anae_020025.csv") %>%
+Adrien <- Adrien_020222 %>%
+  bind_rows(Adrien_020328) %>%
+  bind_rows(Adrien_030015) %>%
+  bind_rows(Adrien_030212) %>%
+  bind_rows(Adrien_030909) %>%
+  bind_rows(Adrien_031113) 
+
+
+### dara For Anae
+##################
+
+Anae_020025 <-  read_csv("Annotations-final/Annotation_csv_speaker/Anae_020025_CHI.csv") %>%
   mutate(child = "Anae",
          age = 2,
-         file = "020025")
-A_020105 <- read_csv("compare_annotations/Paris_Anae_020105.csv") %>%
+         file = "020025") %>%
+  filter(`list-ID` == 1) %>%
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Anae_020025_PAR.csv") %>%
   mutate(child = "Anae",
          age = 2,
-         file = "020025")
-A_030522 <- read_csv("compare_annotations/Paris_Anae_030522.csv") %>%
+         file = "020025") %>%
+    filter(`list-ID` == 2)) 
+
+
+Anae_020105 <-  read_csv("Annotations-final/Annotation_csv_speaker/Anae_020105_CHI.csv") %>%
+  mutate(child = "Anae",
+         age = 2,
+         file = "020105") %>%
+  filter(`list-ID` == 1) %>%
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Anae_020105_PAR.csv") %>%
+  mutate(child = "Anae",
+         age = 2,
+         file = "020105") %>%
+    filter(`list-ID` == 2)) 
+
+Anae_021122  <-  read_csv("Annotations-final/Annotation_csv_speaker/Anae_021122.csv") %>%
   mutate(child = "Anae",
          age = 3,
-         file = "030522")
-A_031000 <- read_csv("compare_annotations/Paris_Anae_031000.csv") %>%
+         file = "021122")
+
+Anae_030522 <-  read_csv("Annotations-final/Annotation_csv_speaker/Anae_030522_CHI.csv") %>%
+  mutate(child = "Anae",
+         age = 3,
+         file = "030522") %>%
+  filter(`list-ID` == 1) %>%
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Anae_030522_PAR.csv") %>%
+  mutate(child = "Anae",
+         age = 3,
+         file = "030522") %>%
+    filter(`list-ID` == 2))
+
+Anae_031000 <-  read_csv("Annotations-final/Annotation_csv_speaker/Anae_031000_CHI.csv") %>%
   mutate(child = "Anae",
          age = 4,
-         file = "031000")
-A_040012 <-  read_csv("compare_annotations/Paris_Anae_040012.csv") %>%
-mutate(child = "Anae",
+         file = "031000") %>%
+  filter(`list-ID` == 1) %>%
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Anae_031000_PAR.csv") %>%
+  mutate(child = "Anae",
+         age = 4,
+         file = "031000") %>%
+    filter(`list-ID` == 2))
+
+Anae_040012  <-  read_csv("Annotations-final/Annotation_csv_speaker/Anae_040012.csv") %>%
+  mutate(child = "Anae",
          age = 4,
          file = "040012")
-A_040523 <-  read_csv("compare_annotations/Paris_Anae_040523.csv") %>%
-mutate(child = "Anae",
-         age = 4,
-         file = "040523")
 
-#Parents
-
-A_020025_PAR <- read_csv("compare_annotations/Paris_Anae_020025_PAR.csv") %>%
+Anae_040523 <-  read_csv("Annotations-final/Annotation_csv_speaker/Anae_040523_CHI.csv") %>%
   mutate(child = "Anae",
          age = 4,
-         file = "020025_PAR")
+         file = "040523") %>%
+  filter(`list-ID` == 1) %>%
+  bind_rows(read_csv("Annotations-final/Annotation_csv_speaker/Anae_040523_PAR.csv") %>%
+  mutate(child = "Anae",
+         age = 4,
+         file = "040523") %>%
+    filter(`list-ID` == 2))
+
+
+Anae <- Anae_020025 %>%
+  bind_rows(Anae_020105) %>%
+  bind_rows(Anae_021122) %>%
+  bind_rows(Anae_030522) %>%
+  bind_rows(Anae_031000) %>%
+  bind_rows(Anae_040012) %>%
+  bind_rows(Anae_040523) 
 
 
 ###ALL DATA:
 
-data <- A_020025 %>%
-  bind_rows(A_020105) %>%
-  bind_rows(A_030522) %>%
-  bind_rows(A_031000) %>%
-  bind_rows(A_040012) %>%
-  bind_rows(A_040523) %>%
-  bind_rows(Y_020222) %>%
-  bind_rows(Y_020328) %>%
-  bind_rows(Y_030015) %>%
-  bind_rows(Y_030212) %>%
-  bind_rows(Y_030909) %>%
-  bind_rows(Y_031113) %>%
-  bind_rows(Y_031113_PAR) %>%
-  bind_rows(A_020025_PAR)
-
-##Calcul kappa
-##############
-
-Analysis_new <- data %>%
-  rename(charlie = `annotation-charlie`,
-         morgane = `annotation-morgane`, 
-         myID = `list-ID`) %>%
-  #filter(file == "031113_PAR") %>%
-  filter(charlie != "[NULL,NULL,NULL]" , morgane != "[NULL,NULL,NULL]") %>%  # Keep only questions
-  rowwise() %>% 
-  mutate(inter = intersect(str_remove(str_remove(unlist(strsplit(charlie, ',')),"\\["), "]"),
-                              str_remove(str_remove(unlist(strsplit(morgane, ',')),"\\["), "]"))[1]
-         ) %>%
-  mutate(charlie_new=if_else(!is.na(inter) & inter != "NULL", inter, str_remove(str_remove(unlist(strsplit(charlie, ',')),"\\["), "]")[1]),
-         morgane_new=if_else(!is.na(inter) & inter != "NULL", inter, str_remove(str_remove(unlist(strsplit(morgane, ',')),"\\["), "]")[1])) %>%
-  mutate(agree = if_else(!is.na(inter) & inter != "NULL", 1, 0)) %>%
-  ungroup %>%
-  rename(intersection = inter)
+data <- Anae %>%
+  bind_rows(Adrien) %>%
+  bind_rows(Madeleine) %>%
+  bind_rows(Theophile)
 
 
-Analysis_new %>%
-  filter(myID == "2") %>%
-  select(charlie_new, morgane_new) %>%
-  kappa2(weight = "unweighted")
+#Date
+convertDate  <- function(dateString) {
+  y = as.numeric(substr(dateString, 1, 2))
+  m = as.numeric(substr(dateString, 3, 4))
+  d = as.numeric(substr(dateString, 5, 6))
+  mydate <- y*365 + m *30 + d
+  mydate <- round(mydate/365,1)
+  return(mydate)
+}
+```
 
 
-write_csv(Analysis_new, 'comparison_test1.csv')
-
-
-#Second file for Morgane/charlue
-
-data <- A_020025 %>%
-  bind_rows(A_020105) %>%
-  bind_rows(A_030522) %>%
-  bind_rows(A_031000) %>%
-  bind_rows(A_040012) %>%
-  bind_rows(A_040523) %>%
-  bind_rows(Y_020222) %>%
-  bind_rows(Y_020328) %>%
-  bind_rows(Y_030015) %>%
-  bind_rows(Y_030212) %>%
-  bind_rows(Y_030909) %>%
-  bind_rows(Y_031113) 
-
-
-
-sym_diff <- function(a,b) setdiff(union(a,b), intersect(a,b))
-
-Analysis_new <- Y_031113_PAR %>%
-  rename(charlie = `annotation-charlie`,
-         morgane = `annotation-morgane`) %>%
-  filter(charlie != "[NULL,NULL,NULL]" | morgane != "[NULL,NULL,NULL]") %>%  # Keep only questions
-  rowwise() %>% 
-   mutate(similar = paste(intersect(str_remove(str_remove(unlist(strsplit(charlie, ',')),"\\["), "]"),
-                              str_remove(str_remove(unlist(strsplit(morgane, ',')),"\\["), "]")), collapse = ' , ' )
-         ) %>%
-  mutate(different = paste(sym_diff(str_remove(str_remove(unlist(strsplit(charlie, ',')),"\\["), "]"),
-                              str_remove(str_remove(unlist(strsplit(morgane, ',')),"\\["), "]")), collapse = ' , ' )
-         ) %>%
-
+```{r}
+#numner of turns by speaker by file
+data_turns <-  data %>%
+  rename(listID = `list-ID`) %>%
+  group_by(listID, child, age, file, Speaker) %>%
+  summarise(N_turns = n()) %>%
   ungroup()
-  
-write_csv(Analysis_new, 'comparison_Y_031113_PAR.csv')
 
-
-
-#Statistics:
-agreement <- Analysis_new %>%
-  group_by(`list-ID`) %>%
-  summarise(rate = mean(agree))
-  
-  
-#Kappa
-Kappa <- Analysis_new %>%
-select(charlie_new, morgane_new) %>%
-  kappa2(weight = "unweighted")
-  
-Analysis_list1  <- Analysis %>%
-  filter(label == "list1") 
-
-stats <- Analysis %>% 
-  group_by(label,) %>%
-  summarise(n= n())
-  
-Analysis_simple <- Analysis_list1 %>%
-  rowwise() %>%
-  mutate(charlie_simp = unlist(strsplit(charlie, ':'))[1],
-         morgane_simp = unlist(strsplit(morgane, ':'))[1]) %>%
+data_turns_sum <- data_turns %>%
+  filter(listID == 1) %>% # number are same in both list
+  mutate(Role = if_else(Speaker =='FAT' | Speaker =='MOT', 'PAR', if_else(Speaker =='CHI', 'CHI', 'OTHER'))) %>%
+  group_by(child, age, Role) %>%
+  summarise(Turns_avg = mean(N_turns)) %>%
   ungroup() 
+            
+ggplot(data_turns_sum,  aes(age, Turns_avg, col= Role))+
+  geom_line()+
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=7, angle = 45),
+        strip.text.x = element_text(size=7),
+        strip.text.y = element_text(size=6)
+        ) +
+  xlab("Age") +ylab("Turns") +
+  facet_grid(.~child, scales= "free_y")
+```
+
+Process data 
+```{r}
+
+number_turns <-  data %>%
+  rename(listID = `list-ID`) %>%
+  mutate(Role = if_else(Speaker =='FAT' | Speaker =='MOT', 'PAR', if_else(Speaker =='CHI', 'CHI', 'OTHER'))) %>%
+  group_by(listID, child, age, file, Role) %>%
+  summarise(N_turns = n()) %>%
+  ungroup()
+
+data_processed <- data %>%
+  rename(listID = `list-ID`) %>%
+  mutate(Role = if_else(Speaker =='FAT' | Speaker =='MOT', 'PAR', if_else(Speaker =='CHI', 'CHI', 'OTHER'))) %>%
+  left_join(number_turns) %>%
+  filter(annotation != "[NULL,NULL,NULL]") %>%
+  group_by(listID, child, age, file, N_turns, Role) %>%
+  rowwise() %>% 
+  mutate(lab1 = str_remove(str_remove(unlist(strsplit(annotation, ',')),"\\["), "]")[1], #For prelimiary results we focus on the first label only
+         lab2 = str_remove(str_remove(unlist(strsplit(annotation, ',')),"\\["), "]")[2],
+         lab3 = str_remove(str_remove(unlist(strsplit(annotation, ',')),"\\["), "]")[3]
+         ) %>%
+  ungroup() %>%
+  #here make each lable in separate line
+  gather(label_number, label_full, lab1, lab2, lab3) %>%
+  rowwise() %>% 
+  mutate(label = unlist(strsplit(label_full, ':'))[1],
+         label_type = unlist(strsplit(label_full, ':'))[2] ,
+         label_subtype = unlist(strsplit(label_full, ':'))[3]
+         ) %>%
+  select(-label_full, -annotation) %>%
+  filter(label != 'NULL')
+```
+
+
+Question
+```{r}
+questions<- data_processed %>%
+  filter(Role != "OTHER") %>%
+  filter(label == 'CHI-Initiation' | label == 'PAR-Initiation') %>%
+  group_by(child, age, file, N_turns, Role) %>%
+  summarise(quest_per_file = n()) %>%
+  ungroup() %>%
+  mutate(quest_per_turn  = quest_per_file/N_turns) %>%
+  rowwise() %>%
+  mutate(age2 = convertDate(file)) #%>%
+  #gather(measure, value,  quest_per_file, quest_per_turn)
+
+
+ggplot(questions,  aes(age2, quest_per_turn, col= child ))+
+  geom_point()+
+  geom_smooth(method = lm, se = FALSE)+
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=7, angle = 45),
+        strip.text.x = element_text(size=7),
+        strip.text.y = element_text(size=6)
+        ) +
+  xlab("Age") +ylab("Questions / turn") +
+  facet_grid(.~Role, scales= "free_y")
+
+#Model 
+
+model_quest_par <- lmer(formula = quest_per_turn ~ age2  +  (1 | child), 
+             data = questions %>% filter(Role == "PAR"))
+
+model_quest_chi <- lmer(formula = quest_per_turn ~ age2  +  (1 | child), 
+             data = questions %>% filter(Role == "CHI"))
+
+```
+
+
+```{r}
+questions_sum <- questions %>%
+  group_by(age, Role, measure) %>%
+  summarise(mean = mean(value))
+
+ summarise(quest_total = sum(N_questions),
+            files_total = n(),
+            turn_total = sum(N_turns)) %>%
+  ungroup() %>%
+  mutate(quest_per_file = quest_total/files_total,
+         quest_per_turn = quest_total/turn_total) %>%
+  gather(measure, value,  quest_per_file, quest_per_turn)
+
+ggplot(questions_sum,  aes(age, mean, col= Role))+
+  geom_line()+
+  #geom_text(data = child_adult_questions, aes(age, label=child), size = 2.5)+
+  geom_point(data = questions, aes(age, value))+ 
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=7, angle = 45),
+        strip.text.x = element_text(size=7),
+        strip.text.y = element_text(size=6)) +
+  xlab("Age") +ylab("Question") +
+  facet_grid(measure~., scales= "free")
+
+```
+
+
+```{r}
+
+
+#Date
+convertDate  <- function(dateString) {
+  y = as.numeric(substr(dateString, 1, 2))
+  m = as.numeric(substr(dateString, 3, 4))
+  d = as.numeric(substr(dateString, 5, 6))
+  mydate <- y*365 + m *30 + d
+  mydate <- round(mydate/365, 1)
+  return(mydate)
+}
+
+#Number of question out of all utterances by the speaker 
+questions_by_file_over_total <- data %>%
+  rename(listID = `list-ID`) %>%
+  #filter(turn == 'Initiation') %>%
+  #filter(speaker!='Complex') %>%
+  #mutate(Speaker2 = if_else(Speaker =="MOT" | Speaker =="FAT", "PAR", Speaker)) %>% 
+  #filter(Speaker2 !="OBS", 
+  #       Speaker2 !="INV",
+  #       Speaker2 !="COM") %>%
+  #select(-Speaker) %>%
+  #dplyr::rename(speaker = Speaker2) %>%
+  group_by(listID, child, age, file, Speaker) %>%
+  summarise(N = n()) %>%
+  ungroup() %>%
+  group_by(myID, child, age, speaker) %>%
+  summarise(N_tot = sum(N),
+            n_files = n()) %>%
+  mutate(N_avg = N_tot/n_files) %>%
   
-myKappa <- 
+
+
+
+ggplot(questions_by_file,  aes(age, N_avg, col= speaker))+
+  geom_line()+
   
-  hi <- Analysis_simple %>%
-  filter(label == "list1") %>%
-  filter(!(charlie_simp == "NULL" | charlie_simp == "NULL")) %>%
-  #filter(age == 2) %>%
-  #filter(child == "Adrien") %>%
-  select(charlie_simp, morgane_simp) %>%
-  kappa2(weight = "unweighted")
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=7, angle = 45),
+        strip.text.x = element_text(size=7),
+        strip.text.y = element_text(size=6)
+        ) +
+  xlab("Age") +ylab("Questio") +
+  facet_grid(.~child, scales= "free_y") 
 
-myKappa
+
+child_adult_questions_sum <- questions_by_file_over_total  %>%
+  group_by(myID, age, speaker) %>%
+  summarise(mean = mean(N_avg))
 
 
-kappa2(select(Analysis, charlie, morgane), weight = "unweighted")
+ggplot(questions_by_file_over_total,  aes(age, mean, col= speaker))+
+  geom_line()+
+  #geom_text(data = child_adult_questions, aes(age, label=child), size = 2.5)+
+  geom_point(data = child_adult_questions, aes(age, N_avg))+ 
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=7, angle = 45),
+        strip.text.x = element_text(size=7),
+        strip.text.y = element_text(size=6)) +
+  xlab("Age") +ylab("Questio") +
+  facet_grid(.~child, scales= "free_y") 
+```
 
-ch_ad_real <- read.csv("data_part/chi_par.csv", header = F) 
 
-names(ch_ad_real) <- c("s2v","w2v","age","gender","transcript","corpus",
-                         "edit","vocab","len_adult","len_child","unknown_adult", 
-                         "unknown_child", "utt_child", "utt_adult") 
+```{r}
+xlab("Age") +ylab("Questions") #+
+  #facet_grid(.~child, scales= "free_y") 
 
 
 ```

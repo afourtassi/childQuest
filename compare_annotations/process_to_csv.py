@@ -28,11 +28,6 @@ with open(args.jsonInput, 'r') as f:
     annotation_data = json.load(f)
 
 
-
-###########################
-# Part 2: do the comparison
-
-
 result = []
 
 for i, annotation_i in enumerate(annotation_data['documents']):
@@ -41,7 +36,8 @@ for i, annotation_i in enumerate(annotation_data['documents']):
 
     labels_1 = '[' + ','.join([annotation_i['label_1_a'], annotation_i['label_1_b'], annotation_i['label_1_c']]) + ']'
     result.append([
-        i,                          # ID
+        i, # utterance ID
+	annotation_i['subject'],  # Speaker
         annotation_i['turn'],     # utterance
         labels_1,                 # annotation-C
         1,                          # list-ID, 1 or 2
@@ -50,6 +46,7 @@ for i, annotation_i in enumerate(annotation_data['documents']):
     labels_2 = '[' + ','.join([annotation_i['label_2_a'], annotation_i['label_2_b'], annotation_i['label_2_c']]) + ']'
     result.append([
         i,                          # ID
+	annotation_i['subject'],  # Speaker
         annotation_i['turn'],     # utterance
         labels_2,                 # annotation-C
         2,                          # list-ID, 1 or 2
@@ -59,5 +56,5 @@ for i, annotation_i in enumerate(annotation_data['documents']):
 with open(args.csvpath, 'w', newline='') as csvfile:
     #spamwriter = csv.writer(csvfile, delimiter=',')
     spamwriter = csv.writer(csvfile)
-    spamwriter.writerow(['ID', 'utterance', 'annotation', 'list-ID'])
+    spamwriter.writerow(['ID', 'Speaker','utterance', 'annotation', 'list-ID'])
     spamwriter.writerows(result)
