@@ -310,20 +310,23 @@ number_turns <-  data %>%
   mutate(Role = if_else(Speaker =='FAT' | Speaker =='MOT', 'PAR', if_else(Speaker =='CHI', 'CHI', 'OTHER'))) %>%
   group_by(listID, child, age, file, Role) %>%
   summarise(N_turns = n()) %>%
-  ungroup()
+  ungroup() %>%
+  filter(listID == "1")%>%
+  select(-listID) #it's the same number in both
+  
 
 data_processed <- data %>%
   rename(listID = `list-ID`) %>%
   mutate(Role = if_else(Speaker =='FAT' | Speaker =='MOT', 'PAR', if_else(Speaker =='CHI', 'CHI', 'OTHER'))) %>%
-  left_join(number_turns) %>%
+  #left_join(number_turns) %>%
   filter(annotation != "[NULL,NULL,NULL]") %>%
-  group_by(listID, child, age, file, N_turns, Role) %>%
+  #group_by(listID, child, age, file, N_turns, Role) %>%
   rowwise() %>% 
-  mutate(lab1 = str_remove(str_remove(unlist(strsplit(annotation, ',')),"\\["), "]")[1], #For prelimiary results we focus on the first label only
+  mutate(lab1 = str_remove(str_remove(unlist(strsplit(annotation, ',')),"\\["), "]")[1], 
          lab2 = str_remove(str_remove(unlist(strsplit(annotation, ',')),"\\["), "]")[2],
          lab3 = str_remove(str_remove(unlist(strsplit(annotation, ',')),"\\["), "]")[3]
          ) %>%
-  ungroup() %>%
+  #ungroup() %>%
   #here make each lable in separate line
   gather(label_number, label_full, lab1, lab2, lab3) %>%
   rowwise() %>% 
@@ -331,6 +334,7 @@ data_processed <- data %>%
          label_type = unlist(strsplit(label_full, ':'))[2] ,
          label_subtype = unlist(strsplit(label_full, ':'))[3]
          ) %>%
+  mutate(Role_annot = unlist(strsplit(label, '-'))[1]) %>%
   select(-label_full, -annotation) %>%
   filter(label != 'NULL')
 ```
@@ -341,14 +345,16 @@ Question
 questions<- data_processed %>%
   filter(Role != "OTHER") %>%
   filter(label == 'CHI-Initiation' | label == 'PAR-Initiation') %>%
-  group_by(child, age, file, N_turns, Role) %>%
+  mutate(Role_annot = unlist(strsplit(label, '-'))[1] ) %>% # We do this because sometimes we annotate an upcoming of the interlocutor within the curreny turn with (e.g.,response:no-response)
+  group_by(child, file, Role_annot) %>% 
   summarise(quest_per_file = n()) %>%
   ungroup() %>%
+  dplyr::rename(Role = Role_annot) %>%
+  left_join(number_turns %>% filter(Role != "OTHER")) %>%
   mutate(quest_per_turn  = quest_per_file/N_turns) %>%
   rowwise() %>%
   mutate(age2 = convertDate(file)) #%>%
   #gather(measure, value,  quest_per_file, quest_per_turn)
-
 
 ggplot(questions,  aes(age2, quest_per_turn, col= child ))+
   geom_point()+
@@ -371,6 +377,168 @@ model_quest_chi <- lmer(formula = quest_per_turn ~ age2  +  (1 | child),
              data = questions %>% filter(Role == "CHI"))
 
 ```
+Question categoris 
+```{r}
+
+question_types <- data_processed %>%
+  filter(Role != "OTHER") %>%
+  filter(label == 'CHI-Initiation' | label == 'PAR-Initiation') %>%
+  mutate(Role_annot = unlist(strsplit(label, '-'))[1] ) %>%
+  group_by(child, file, Role_annot,  label, label_type, label_subtype) %>%
+  summarise(quest_type = n()) %>%
+  ungroup() %>%
+  dplyr::rename(Role = Role_annot) %>%
+  left_join(questions) %>%
+  mutate(type = if_else(!is.na(label_subtype),label_subtype, label_type)) %>%
+  mutate(type_per_total_quest = quest_type/quest_per_file,
+         type_per_total_turn = quest_type/N_turns) %>%
+  mutate(type= tolower(type)) %>%
+  mutate(type= if_else(type == "explanation-seeking", "explanation-based", type))%>%
+  mutate(type= if_else(type == "fact-based ", "fact-based", type))
+  
+
+ggplot(question_types %>% filter(quest_per_file > 1),  aes(age2, type_per_total_quest, col= type))+
+  geom_point()+
+  geom_smooth(method = lm, se = FALSE)+
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=7, angle = 45),
+        strip.text.x = element_text(size=7),
+        strip.text.y = element_text(size=6)
+        ) +
+  xlab("Age") +ylab("Type / Total questions") +
+  facet_grid(.~Role, scales= "free_y")
+
+question_types %>% filter(quest_per_file > 1)  %>%
+  filter(Role == "CHI") %>%
+  filter(type == "explanation-based")
+
+```
+
+Responses
+
+```{r}
+response_types <- data_processed %>%
+  filter(Role != "OTHER") %>%
+  filter(label == 'CHI-Response' | label == 'PAR-Response') %>%
+  #filter(label_type != 'No-label') %>% # What does "No-lable" mean
+  mutate(Role_annot = unlist(strsplit(label, '-'))[1] ) %>%
+  group_by(child, file, Role_annot, label, label_type) %>%
+  summarise(type_per_file = n()) %>%
+  ungroup() %>%
+  mutate(res_broad = if_else(label_type == "No-response", "No-response", "Response")) %>%
+  group_by(child, file, Role_annot, label) %>%
+  mutate(res_total = sum(type_per_file)) %>%
+  ungroup() %>%
+  group_by(child, file, Role_annot, res_broad) %>%
+  mutate(value_res_broad = sum(type_per_file)) %>%
+  ungroup() %>%
+  dplyr::rename(Role = Role_annot) %>%
+  left_join(number_turns %>% filter(Role != "OTHER")) %>%
+  rowwise() %>%
+  mutate(age2 = convertDate(file)) %>%
+  mutate( resp_per_file = res_total/N_turns,
+          type_per_total_resp = type_per_file/res_total,
+          type_per_total_turn = type_per_file/N_turns,
+          broad_per_total_resp = value_res_broad/res_total,
+          broad_per_total_turn = value_res_broad/N_turns) #%>%
+  #gather(measure, value, type_per_total_resp, type_per_tot#al_turn,broad_per_total_resp, broad_per_total_turn)
+```
+
+The percent of repsonses (and no responses) from all turns
+
+```{r}
+#Graph total
+
+ggplot(response_types ,  
+       aes(age2, broad_per_total_turn , col= res_broad))+
+  geom_point()+
+  geom_smooth(method = lm, se = FALSE)+
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=7, angle = 45),
+        strip.text.x = element_text(size=7),
+        strip.text.y = element_text(size=6)
+        ) +
+  xlab("Age") +ylab("% out of all turns") +
+  facet_grid(.~Role, scales= "free_y")
+
+
+```
+
+The percent of repsonses from all response opportunities 
+(response opportunities  = responses + no-responses)
+Note that "response" does not necessarily mean this response is contingent
+```{r}
+#Graph borad 
+
+data_res_broad <- response_types %>%
+         filter(res_broad == 'Response')
+                
+ggplot(data_res_broad, aes(age2, broad_per_total_resp))+
+  geom_point()+
+  geom_smooth(method = lm, se = FALSE, size = 0.3)+
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=7, angle = 45),
+        strip.text.x = element_text(size=7),
+        strip.text.y = element_text(size=6)
+        ) +
+  xlab("Age") +ylab("% of responses out of total opportunities") +
+  facet_grid(.~Role, scales= "free_y")
+
+model_res_par <- lmer(formula = broad_per_total_resp ~ age2  +  (1 | child), 
+             data = data_res_broad %>% filter(Role == "PAR"))
+
+model_res_chi <- lmer(formula = broad_per_total_resp ~ age2  +  (1 | child), 
+             data = data_res_broad %>% filter(Role == "CHI"))
+
+
+```
+
+```{r}
+ggplot(data_res_broad, aes(age2, broad_per_total_resp, col = child))+
+  geom_point()+
+  geom_smooth(method = lm, se = FALSE, size = 0.3)+
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=7, angle = 45),
+        strip.text.x = element_text(size=7),
+        strip.text.y = element_text(size=6)
+        ) +
+  xlab("Age") +ylab("% of responses out of total opportunities") +
+  facet_grid(.~Role, scales= "free_y")
+
+```
+
+Contingency
+```{r}
+
+response_contingent <-  response_types %>%
+  filter(label_type != "No-response") %>% 
+  mutate(resp_cont = type_per_file/value_res_broad) %>%
+  mutate(label_type = if_else(label_type== "Answer", "Contingent", if_else(label_type== "Non-answer", "Non-contingent", label_type)))
+
+ggplot(response_contingent,  
+       aes(age2, resp_cont , col= label_type))+
+  geom_point()+
+  geom_smooth(method = lm, se = FALSE)+
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=7, angle = 45),
+        strip.text.x = element_text(size=7),
+        strip.text.y = element_text(size=6)
+        ) +
+  xlab("Age") +ylab("% out of total responses") +
+  facet_grid(.~Role, scales= "free_y")
+
+```
+What are Contingent response made of ?
+
+```{r}
+
+```
+
 
 
 ```{r}
