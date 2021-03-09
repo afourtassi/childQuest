@@ -447,6 +447,8 @@ response_types <- data_processed %>%
 
 The percent of repsonses (and no responses) from all turns
 
+(are we really have a good estimate of all non-answers?)
+
 ```{r}
 #Graph total
 
@@ -533,12 +535,69 @@ ggplot(response_contingent,
   facet_grid(.~Role, scales= "free_y")
 
 ```
-What are Contingent response made of ?
+What are Contingent responses made of ?
 
 ```{r}
 
+response_subtypes <- data_processed %>%
+  filter(Role != "OTHER") %>%
+  filter(label == 'CHI-Response' | label == 'PAR-Response') %>%
+  mutate(Role_annot = unlist(strsplit(label, '-'))[1] ) %>%
+  filter(label_type =="Answer" | label_type =="Non-answer") %>%
+  group_by(child, file, Role_annot, label, label_type, label_subtype) %>%
+  summarise(subtype_per_file = n()) %>%
+  ungroup() %>%
+  group_by(child, file, Role_annot, label, label_type) %>%
+  mutate(type_total = sum(subtype_per_file)) %>%
+  ungroup() %>%
+  dplyr::rename(Role = Role_annot) %>%
+  rowwise() %>%
+  mutate(age2 = convertDate(file)) %>%
+  mutate(subtype_per_type = subtype_per_file/type_total)
+
+ggplot(response_subtypes %>% filter(label_type =='Answer'),  
+       aes(age2, subtype_per_type , col= label_subtype))+
+  geom_point()+
+  geom_smooth(method = lm, se = FALSE)+
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=7, angle = 45),
+        strip.text.x = element_text(size=7),
+        strip.text.y = element_text(size=6)
+        ) +
+  xlab("Age") +ylab("% out of all contigent responses") +
+  facet_grid(.~Role, scales= "free_y")
+
+
 ```
 
+Follow-ups
+
+```{r}
+follow_types <- data_processed %>%
+  filter(Role != "OTHER") %>%
+  filter(label == 'CHI-Follow-up' | label == 'PAR-Follow-up') %>%
+  mutate(Role_annot = unlist(strsplit(label, '-'))[1] ) %>%
+  group_by(child, file, Role_annot, label, label_type) %>%
+  summarise(type_per_file = n()) %>%
+  ungroup() %>%
+  mutate(res_broad = if_else(label_type == "No-followup" | label_type == "No-followup"   "No-response", "Response")) %>%
+  group_by(child, file, Role_annot, label) %>%
+  mutate(res_total = sum(type_per_file)) %>%
+  ungroup() %>%
+  group_by(child, file, Role_annot, res_broad) %>%
+  mutate(value_res_broad = sum(type_per_file)) %>%
+  ungroup() %>%
+  dplyr::rename(Role = Role_annot) %>%
+  left_join(number_turns %>% filter(Role != "OTHER")) %>%
+  rowwise() %>%
+  mutate(age2 = convertDate(file)) %>%
+  mutate( resp_per_file = res_total/N_turns,
+          type_per_total_resp = type_per_file/res_total,
+          type_per_total_turn = type_per_file/N_turns,
+          broad_per_total_resp = value_res_broad/res_total,
+          broad_per_total_turn = value_res_broad/N_turns)
+```
 
 
 ```{r}
