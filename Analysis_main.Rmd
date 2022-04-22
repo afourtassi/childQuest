@@ -28,6 +28,7 @@ library(xlsx)
 library(irr)
 
 library(readr)
+library(cowplot)
 
 ```
 
@@ -277,50 +278,64 @@ convertDate  <- function(dateString) {
 
 ```{r}
 #numner of turns by speaker by file
-data_turns <-  data %>%
+data_age <-  data %>%
   rename(listID = `list-ID`) %>%
-  group_by(listID, child, age, file, Speaker) %>%
-  summarise(N_turns = n()) %>%
-  ungroup()
+  rowwise() %>%
+  mutate(age2 = convertDate(file)) %>%
+  mutate(Role = if_else(Speaker =='FAT' | Speaker =='MOT', 'PAR', if_else(Speaker =='CHI', 'CHI', 'OTHER')))
 
-data_turns_sum <- data_turns %>%
-  filter(listID == 1) %>% # number are same in both list
-  mutate(Role = if_else(Speaker =='FAT' | Speaker =='MOT', 'PAR', if_else(Speaker =='CHI', 'CHI', 'OTHER'))) %>%
-  group_by(child, age, Role) %>%
-  summarise(Turns_avg = mean(N_turns)) %>%
+data_turns_sum <- data_age %>%
+  filter(listID == 1) %>% # turns are duplicated in list1 and list2
+  group_by(child, Role, age2, file) %>%
+  summarise(Turns_sum = n()) %>%
   ungroup() 
-            
-ggplot(data_turns_sum,  aes(age, Turns_avg, col= Role))+
-  geom_line()+
-  theme_few()+
+
+data_turns_sum$Role = factor(data_turns_sum$Role, levels = c("CHI", "PAR", "OTHER"))
+```
+
+```{r}
+
+ggplot(data_turns_sum,  aes(age2, Turns_sum, col= Role))+
+   geom_point(size=2 ,alpha= 0.3)+
+  geom_smooth(method = lm, se = T, alpha=0.15,aes(fill=Role))+
+   theme_few()+
   theme(aspect.ratio = 0.7, 
-        axis.text=element_text(size=7, angle = 45),
-        strip.text.x = element_text(size=7),
-        strip.text.y = element_text(size=6)
-        ) +
-  xlab("Age") +ylab("Turns") +
-  facet_grid(.~child, scales= "free_y")
+        axis.text.x=element_text(size=15),
+        axis.text.y=element_text(size=15),
+        strip.text.x = element_text(size=15),
+        strip.text.y = element_text(size=15),
+        axis.title=element_text(size=15),
+        legend.title = element_blank(),
+        legend.position="bottom"
+        
+        )  +
+  xlab("Child age (years)") +ylab("Turns per transcript")
+
+```
+
+```{r}
+#Models about number of turns per year 
+model_turn_chi <- lmer(formula = Turns_avg ~ age2  +  (1 | child), 
+             data =data_turns_sum %>% filter(Role == "CHI"))
+
+model_turn_par <- lmer(formula = Turns_avg ~ age2  +  (1 | child), 
+             data =data_turns_sum %>% filter(Role == "PAR"))
+
+model_turn_other <- lmer(formula = Turns_avg ~ age2  +  (1 | child), 
+             data =data_turns_sum %>% filter(Role == "OTHER"))
+
+
+summary(model_turn_chi)
+summary(model_turn_par)
+summary(model_turn_other)
 ```
 
 Process data 
 ```{r}
+# Here process annotation 
 
-number_turns <-  data %>%
-  rename(listID = `list-ID`) %>%
-  mutate(Role = if_else(Speaker =='FAT' | Speaker =='MOT', 'PAR', if_else(Speaker =='CHI', 'CHI', 'OTHER'))) %>%
-  group_by(listID, child, age, file, Role) %>%
-  summarise(N_turns = n()) %>%
-  ungroup() %>%
-  filter(listID == "1")%>%
-  select(-listID) #it's the same number in both
-  
-
-data_processed <- data %>%
-  rename(listID = `list-ID`) %>%
-  mutate(Role = if_else(Speaker =='FAT' | Speaker =='MOT', 'PAR', if_else(Speaker =='CHI', 'CHI', 'OTHER'))) %>%
-  #left_join(number_turns) %>%
+data_processed <- data_age %>%
   filter(annotation != "[NULL,NULL,NULL]") %>%
-  #group_by(listID, child, age, file, N_turns, Role) %>%
   rowwise() %>% 
   mutate(lab1 = str_remove(str_remove(unlist(strsplit(annotation, ',')),"\\["), "]")[1], 
          lab2 = str_remove(str_remove(unlist(strsplit(annotation, ',')),"\\["), "]")[2],
@@ -339,366 +354,566 @@ data_processed <- data %>%
   filter(label != 'NULL')
 ```
 
-
-Question
+Child-initiation
 ```{r}
-questions<- data_processed %>%
+##Dependency measures: F->R for chidlren 
+
+##First put data in the right format
+child <- data_processed %>%
+  filter(label =='CHI-Initiation' | label =='PAR-Response' | label =='CHI-Follow-up') %>%
+  mutate(RoleID = if_else(label =='CHI-Initiation', 1, 
+                 if_else(label =='PAR-Response', 2, 3))) %>%
+  group_by(child, file) %>%
+  arrange(ID, .by_group = TRUE) %>%
+  ungroup()
+
+#this removes label successive dupplicates (quesion followed with another question)
+child <- child[cumsum(rle(as.character(child$label))$lengths), ]
+
+#this rkeeps only the QRF sequences (this is to remive cases when annotators forgot to annoatate the whole sequence), we lose only 15 datapoints over around 1200 in total)
+child <- child %>%
+ mutate(unit = row_number() %in% ((grepRaw("1,2,3",
+                            paste0(c(0, RoleID, 0), collapse = ","),
+                            all = TRUE,
+                            fixed = TRUE) - 1) / 2)) %>%
+ group_by(unit = cumsum(unit)) %>%
+ filter(unit != 0) %>% 
+ slice(1:3) 
+  
+child <- child %>%
+  select(child, age2, file, label, label_type, unit) %>%
+  spread(label, label_type)
+  
+#now categories into
+
+child_dep <- child %>%
+  mutate(Response = if_else(`PAR-Response` == "No-response" | `PAR-Response` == "No-label" | `PAR-Response` == "Non-answer", "No-response", "Response")) %>%
+  mutate(Feedback = if_else(`CHI-Follow-up` == "No-followup" | `CHI-Follow-up` == "other" | `CHI-Follow-up` == "Otherwise" | `CHI-Follow-up` == "laugh", "No-Followup", "Followup")) %>%
+  group_by(age2, file, Response, Feedback) %>%
+  summarise(n =n()) %>%
+  spread(Feedback, n) %>%
+  mutate(value = 100* `Followup` /(`Followup` + `No-Followup`)) %>%
+  #mutate(sample = `Followup` + `No-Followup`) %>%
+  select(-`Followup`, -`No-Followup`) %>%
+  #spread(Response, value) %>%
+  #mutate(feedback = `Response` - `No-response`)%>%
+  #select(-`Response`, -`No-response`) %>%
+  mutate(Role = "Child")
+
+
+ggplot(child_dep,  aes(child, feedback))+
+   geom_point(size=2 ,alpha= 0.3)+
+  #geom_smooth(method = lm, se = T, alpha=0.15)+
+   theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text.x=element_text(size=15),
+        axis.text.y=element_text(size=15),
+        strip.text.x = element_text(size=15),
+        strip.text.y = element_text(size=15),
+        axis.title=element_text(size=15),
+        legend.title = element_blank(),
+        legend.position="bottom"
+        
+        )  +
+  xlab("Child age (years)") +ylab("Turns per transcript")
+
+###Caregiver 
+
+caregiver <- data_processed %>%
+  filter(label =='PAR-Initiation' | label =='CHI-Response' | label =='PAR-Follow-up') %>%
+  mutate(RoleID = if_else(label =='PAR-Initiation', 1, 
+                 if_else(label =='CHI-Response', 2, 3))) %>%
+  group_by(child, file) %>%
+  arrange(ID, .by_group = TRUE) %>%
+  ungroup()
+
+caregiver <- caregiver[cumsum(rle(as.character(caregiver$label))$lengths), ]
+
+#this rkeeps only the QRF sequences (this is to remive cases when annotators forgot to annoatate the whole sequence), we lose only 15 datapoints over around 1200 in total)
+caregiver <- caregiver %>%
+ mutate(unit = row_number() %in% ((grepRaw("1,2,3",
+                            paste0(c(0, RoleID, 0), collapse = ","),
+                            all = TRUE,
+                            fixed = TRUE) - 1) / 2)) %>%
+ group_by(unit = cumsum(unit)) %>%
+ filter(unit != 0) %>% 
+ slice(1:3) 
+  
+caregiver <- caregiver %>%
+  select(child, age2, file, label, label_type, unit) %>%
+  spread(label, label_type)
+  
+caregiver_dep <- caregiver %>%
+  mutate(Response = if_else(`CHI-Response` == "No-response" | `CHI-Response` == "No-label" | `CHI-Response` == "Non-answer", "No-response", "Response")) %>%
+  mutate(Feedback = if_else(`PAR-Follow-up` == "No-followup" | `PAR-Follow-up` == "other" | `PAR-Follow-up` == "Otherwise" | `PAR-Follow-up` == "laugh", "No-Followup", "Followup")) %>%
+  group_by(age2, file, Response, Feedback) %>%
+  summarise(n =n()) %>%
+  spread(Feedback, n) %>%
+  mutate(value = 100* `Followup` /(`Followup` + `No-Followup`)) %>%
+  #mutate(sample = `Followup` + `No-Followup`) %>%
+  select(-`Followup`, -`No-Followup`) %>%
+  spread(Response, value) %>%
+  mutate(feedback = `Response` - `No-response`) %>%
+ select(-`Response`, -`No-response`) %>%
+  mutate(Role = "Cargiver")
+
+all_dep <- child_dep %>%
+  bind_rows(caregiver_dep)
+  
+  
+ggplot(all_dep,  aes(age2, feedback, col=Role))+
+   geom_point(size=2 ,alpha= 0.3)+
+  geom_smooth(method = lm, se = T, alpha=0.15, aes(fill=Role))+
+  geom_hline(yintercept=0, linetype="dashed", 
+                color = "black", size=1)+
+   theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text.x=element_text(size=15),
+        axis.text.y=element_text(size=15),
+        strip.text.x = element_text(size=15),
+        strip.text.y = element_text(size=15),
+        axis.title=element_text(size=15),
+        legend.title = element_blank(),
+        legend.position="bottom"
+        
+        )  +
+  xlab("Child age (years)") +ylab("Turns per transcript")
+
+summary(lm(feedback ~ age2, data=all_dep %>% filter(Role=="Cargiver")))
+
+```
+
+```{r}
+
+child_dep <- child %>%
+  mutate(Response = if_else(`PAR-Response` == "No-response" | `PAR-Response` == "No-label" | `PAR-Response` == "Non-answer", "No-response", "Response")) %>%
+  mutate(Feedback = if_else(`CHI-Follow-up` == "No-followup" | `CHI-Follow-up` == "other" | `CHI-Follow-up` == "Otherwise" | `CHI-Follow-up` == "laugh", 0, 1)) %>%
+  select(-`CHI-Follow-up`, -`CHI-Initiation`, -`PAR-Response`) %>%
+  mutate(Role = "Child")
+
+caregiver_dep <- caregiver %>%
+  mutate(Response = if_else(`CHI-Response` == "No-response" | `CHI-Response` == "No-label" | `CHI-Response` == "Non-answer", "No-response", "Response")) %>%
+  mutate(Feedback = if_else(`PAR-Follow-up` == "No-followup" | `PAR-Follow-up` == "other" | `PAR-Follow-up` == "Otherwise" | `PAR-Follow-up` == "laugh", 0, 1)) %>%
+  select(-`CHI-Response`, -`PAR-Follow-up`, -`PAR-Initiation`) %>%
+  mutate(Role = "Caregiver")
+
+all_dep <- child_dep %>%
+  bind_rows(caregiver_dep)
+
+ggplot(all_dep,  aes(Response, Feedback))+
+  stat_summary(fun.y=mean,position=position_dodge(width=1),geom="bar", fill ="grey")+
+  stat_summary(fun.data=mean_cl_normal,position=position_dodge(width=1),geom="pointrange",size=0.5) + 
+  #geom_point(position=position_dodge(width=1), size = 2, alpha = 0.3) +
+  #stat_summary(fun.data = mean_cl_normal, geom="pointrange", size=0.2, aes(group = Role))+
+  #geom_smooth(method = lm, se = FALSE)+
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text.x=element_text(size=17),
+        axis.text.y=element_text(size=15),
+        strip.text.x = element_text(size=15),
+        strip.text.y = element_text(size=15),
+        axis.title=element_text(size=20),
+        legend.title = element_blank(),
+           plot.title = element_text(size=20, face="bold",hjust = 0.5)
+        )  +
+  ggtitle("Follow-up by Children")+
+      
+  xlab("Follow-up type") +ylab("Type per follow-up") +
+  facet_grid(child~Role, scales= "free_y")
+
+
+
+summary(glmer(Feedback ~ Response * age2 + (1|child), data = child_dep, family = binomial))
+summary(glmer(Feedback ~ Response * age2 + (1|child), data = caregiver_dep, family = binomial))
+
+
+#summary(glm(Feedback ~ Response * age2 , data = child_dep, family = binomial))
+
+```
+
+Eexrtact info about Questions, responses, and followups
+```{r}
+responses <- data_processed %>%
   filter(Role != "OTHER") %>%
+  filter(label == 'CHI-Response' | label == 'PAR-Response') %>%
+  select(ID, child, Role_annot, age2, file,label, label_type) %>% 
+  dplyr::rename(Role = Role_annot) %>%
+  mutate(contingency = if_else(label_type == "No-response" | label_type == "No-label" | label_type == "Non-answer", 0, 1)) %>%
+  select(-label, -label_type) %>%
+  mutate(type = "response")
+  
+followups <- data_processed %>%
+  filter(Role != "OTHER") %>%
+  filter(label == 'CHI-Follow-up' | label == 'PAR-Follow-up') %>%
+  select(ID, child, Role_annot, age2, file,label,label_type) %>% 
+  dplyr::rename(Role = Role_annot) %>%
+  mutate(contingency = if_else(label_type == "No-followup" | label_type == "other" | label_type == "Otherwise" |label_type == "laugh", 0, 1)) %>%
+  select(-label, -label_type) %>%
+  mutate(type = "feedback")
+
+contingency_all <- responses %>%
+  bind_rows(followups)
+  
+contingency_all$type = factor(contingency_all$type, levels = c("response", "feedback"))
+
+ggplot(contingency_all,  aes(age2, contingency, col=Role))+
+  #geom_point(size=1 ,alpha= 0.3)+
+  geom_smooth(method = lm, se = T, alpha=0.15,aes(fill=Role))+
+   theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text.x=element_text(size=10),
+        axis.text.y=element_text(size=10),
+        strip.text.x = element_text(size=10),
+        strip.text.y = element_text(size=10),
+        axis.title=element_text(size=10),
+        legend.title = element_blank()#,
+        #legend.position="bottom"
+        
+        )  +
+  xlab("Child age (years)") +ylab("% given opportunity")  +
+  facet_grid(child~type)
+
+```
+
+Eexrtact info about Questions, responses, and followups
+```{r}
+
+questions<- data_processed %>%
+  #filter(Role != "OTHER") %>%
   filter(label == 'CHI-Initiation' | label == 'PAR-Initiation') %>%
-  mutate(Role_annot = unlist(strsplit(label, '-'))[1] ) %>% # We do this because sometimes we annotate an upcoming of the interlocutor within the curreny turn with (e.g.,response:no-response)
-  group_by(child, file, Role_annot) %>% 
+  group_by(child, Role_annot, age2, file) %>% 
   summarise(quest_per_file = n()) %>%
   ungroup() %>%
   dplyr::rename(Role = Role_annot) %>%
-  left_join(number_turns %>% filter(Role != "OTHER")) %>%
-  mutate(quest_per_turn  = quest_per_file/N_turns) %>%
-  rowwise() %>%
-  mutate(age2 = convertDate(file)) #%>%
+  left_join(data_turns_sum %>% filter(Role != "OTHER")) %>%
+  mutate(Questions  = quest_per_file/Turns_sum) %>%
+  select(-quest_per_file, -Turns_sum)
   #gather(measure, value,  quest_per_file, quest_per_turn)
 
-ggplot(questions,  aes(age2, quest_per_turn, col= child ))+
-  geom_point()+
-  geom_smooth(method = lm, se = FALSE)+
-  theme_few()+
+responses <- data_processed %>%
+  filter(Role != "OTHER") %>%
+  filter(label == 'CHI-Response' | label == 'PAR-Response') %>%
+  group_by(child, Role_annot, age2, file,label, label_type) %>% 
+  summarise(res_per_file = n()) %>%
+  ungroup() %>%
+  dplyr::rename(Role = Role_annot) %>%
+  mutate(res_broad = if_else(label_type == "No-response" | label_type == "No-label" | label_type == "Non-answer", "No-response", "Response")) %>%
+  group_by(child, Role, age2, file, res_broad) %>%
+  summarise(value_res_broad = sum(res_per_file)) %>%
+  #select(-label_type) %>%
+  spread(res_broad, value_res_broad)
+
+responses[is.na(responses)] <- 0
+responses <-responses %>%
+  mutate(all_responses =  `No-response` + Response)%>%
+  mutate(Responses = Response / all_responses) %>%
+  select(-Response, -`No-response`, -all_responses)
+
+
+followups <- data_processed %>%
+  filter(Role != "OTHER") %>%
+  filter(label == 'CHI-Follow-up' | label == 'PAR-Follow-up') %>%
+  group_by(child, Role_annot, age2, file,label,label_type) %>% 
+  summarise(follow_per_file = n()) %>%
+  ungroup() %>%
+  dplyr::rename(Role = Role_annot) %>%
+  mutate(Follow_broad = if_else(label_type == "No-followup" | label_type == "other" | label_type == "Otherwise" |label_type == "laugh", "No-Followup", "Followup")) %>% # this decision has to be discussed with Morgane and Charlie
+  group_by(child, Role, age2, file, Follow_broad) %>%
+  summarise(value_follow_broad = sum(follow_per_file)) %>%
+  ungroup() %>%
+  spread(Follow_broad, value_follow_broad)
+
+followups[is.na(followups)] <- 0
+followups <- followups %>%
+  mutate(all_followups =  `No-Followup` + Followup)%>%
+  mutate(Followups = Followup / all_followups) %>%
+  select(-Followup, -`No-Followup`, -all_followups)
+
+QRF_combined <- questions %>%
+  full_join(responses) %>%
+  full_join(followups)
+  
+QRF_combined[is.na(QRF_combined)] <- 0
+
+QRF_combined <- QRF_combined %>%
+  gather(key, value, Questions:Followups)
+
+QRF_combined$key = factor(QRF_combined$key, levels = c("Questions", "Responses", "Followups"))
+
+```
+
+
+```{r}
+
+
+ggplot(QRF_combined,  aes(age2, value, col=Role))+
+  geom_point(size=1 ,alpha= 0.3)+
+  geom_smooth(method = lm, se = T, alpha=0.15,aes(fill=Role))+
+   theme_few()+
   theme(aspect.ratio = 0.7, 
-        axis.text=element_text(size=7, angle = 45),
-        strip.text.x = element_text(size=7),
-        strip.text.y = element_text(size=6)
-        ) +
-  xlab("Age") +ylab("Questions / turn") +
-  facet_grid(.~Role, scales= "free_y")
-
-#Model 
-
-model_quest_par <- lmer(formula = quest_per_turn ~ age2  +  (1 | child), 
-             data = questions %>% filter(Role == "PAR"))
-
-model_quest_chi <- lmer(formula = quest_per_turn ~ age2  +  (1 | child), 
-             data = questions %>% filter(Role == "CHI"))
+        axis.text.x=element_text(size=10),
+        axis.text.y=element_text(size=10),
+        strip.text.x = element_text(size=10),
+        strip.text.y = element_text(size=10),
+        axis.title=element_text(size=10),
+        legend.title = element_blank()#,
+        #legend.position="bottom"
+        
+        )  +
+  xlab("Child age (years)") +ylab("% given opportunity")  +
+  facet_wrap(~key)
 
 ```
 Question categoris 
 ```{r}
-
 question_types <- data_processed %>%
   filter(Role != "OTHER") %>%
   filter(label == 'CHI-Initiation' | label == 'PAR-Initiation') %>%
-  mutate(Role_annot = unlist(strsplit(label, '-'))[1] ) %>%
-  group_by(child, file, Role_annot,  label, label_type, label_subtype) %>%
+  mutate(type = if_else(!is.na(label_subtype),label_subtype, label_type)) %>%  
+  mutate(type= if_else(type == "explanation-based" | type == "explanation-seeking" , "explanation", type)) %>%
+  mutate(type= if_else(type == "fact-based " | type == "fact-based" , "fact", type)) %>%
+  mutate(type= if_else(type == "fact" | type == "explanation", type, "other")) %>%
+  group_by(child, Role_annot, age2, file, type) %>%
   summarise(quest_type = n()) %>%
   ungroup() %>%
   dplyr::rename(Role = Role_annot) %>%
-  left_join(questions) %>%
-  mutate(type = if_else(!is.na(label_subtype),label_subtype, label_type)) %>%
-  mutate(type_per_total_quest = quest_type/quest_per_file,
-         type_per_total_turn = quest_type/N_turns) %>%
-  mutate(type= tolower(type)) %>%
-  mutate(type= if_else(type == "explanation-seeking", "explanation-based", type))%>%
-  mutate(type= if_else(type == "fact-based ", "fact-based", type))
-  
+  group_by(child, Role, age2, file) %>%
+  mutate(type_per_total = quest_type/sum(quest_type)) %>%
+  select(-quest_type) 
 
-ggplot(question_types %>% filter(quest_per_file > 1),  aes(age2, type_per_total_quest, col= type))+
-  geom_point()+
-  geom_smooth(method = lm, se = FALSE)+
-  theme_few()+
-  theme(aspect.ratio = 0.7, 
-        axis.text=element_text(size=7, angle = 45),
-        strip.text.x = element_text(size=7),
-        strip.text.y = element_text(size=6)
-        ) +
-  xlab("Age") +ylab("Type / Total questions") +
-  facet_grid(.~Role, scales= "free_y")
+question_types <- question_types %>%
+  spread(type, type_per_total)
+question_types[is.na(question_types)] <- 0
 
-question_types %>% filter(quest_per_file > 1)  %>%
-  filter(Role == "CHI") %>%
-  filter(type == "explanation-based")
+question_types <- question_types %>%
+  gather(type, value, explanation:other)
+
+question_types <- question_types %>%
+  spread(Role, value)
+question_types[is.na(question_types)] <- 0
+
+question_types <- question_types %>%
+  gather(Role, value, CHI,PAR)
+
+question_types$type = factor(question_types$type, levels = c("fact", "explanation", "other"))
+question_types$Role = factor(question_types$Role, levels = c("PAR", "CHI"))
+
+ 
+  #facet_grid(.~Role, scales= "free_y")
+
+#question_types %>% filter(quest_per_file > 1)  %>%
+#  filter(Role == "CHI") %>%
+ # filter(type == "explanation-based")
+
 
 ```
 
-Responses
-
+Responses types 
 ```{r}
 response_types <- data_processed %>%
   filter(Role != "OTHER") %>%
   filter(label == 'CHI-Response' | label == 'PAR-Response') %>%
-  #filter(label_type != 'No-label') %>% # What does "No-lable" mean
-  mutate(Role_annot = unlist(strsplit(label, '-'))[1] ) %>%
-  group_by(child, file, Role_annot, label, label_type) %>%
-  summarise(type_per_file = n()) %>%
-  ungroup() %>%
-  mutate(res_broad = if_else(label_type == "No-response", "No-response", "Response")) %>%
-  group_by(child, file, Role_annot, label) %>%
-  mutate(res_total = sum(type_per_file)) %>%
-  ungroup() %>%
-  group_by(child, file, Role_annot, res_broad) %>%
-  mutate(value_res_broad = sum(type_per_file)) %>%
+  filter(!(label_type %in% c('Non-answer','No-label', 'No-response'))) %>%
+  mutate(type = if_else(label_subtype == "no-explanation-needed", "short", 
+                        if_else(label_subtype == "with-explanation-low-quality" | label_subtype == "with-explanation-high-quality", "explanation",label_subtype))) %>%
+  group_by(child, Role_annot, age2, file, type) %>%
+  summarise(res_type = n()) %>%
   ungroup() %>%
   dplyr::rename(Role = Role_annot) %>%
-  left_join(number_turns %>% filter(Role != "OTHER")) %>%
-  rowwise() %>%
-  mutate(age2 = convertDate(file)) %>%
-  mutate( resp_per_file = res_total/N_turns,
-          type_per_total_resp = type_per_file/res_total,
-          type_per_total_turn = type_per_file/N_turns,
-          broad_per_total_resp = value_res_broad/res_total,
-          broad_per_total_turn = value_res_broad/N_turns) #%>%
-  #gather(measure, value, type_per_total_resp, type_per_tot#al_turn,broad_per_total_resp, broad_per_total_turn)
-```
+  group_by(child, Role, age2, file) %>%
+  mutate(value = res_type/sum(res_type)) %>%
+  select(-res_type) 
 
-The percent of repsonses (and no responses) from all turns
+response_types <- response_types %>%
+  spread(type, value)
+response_types[is.na(response_types)] <- 0
 
-(are we really have a good estimate of all non-answers?)
+response_types <- response_types %>%
+  gather(type, value, explanation:short)
 
-```{r}
-#Graph total
+response_types <- response_types %>%
+  spread(Role, value)
+response_types[is.na(response_types)] <- 0
 
-ggplot(response_types ,  
-       aes(age2, broad_per_total_turn , col= res_broad))+
-  geom_point()+
-  geom_smooth(method = lm, se = FALSE)+
-  theme_few()+
-  theme(aspect.ratio = 0.7, 
-        axis.text=element_text(size=7, angle = 45),
-        strip.text.x = element_text(size=7),
-        strip.text.y = element_text(size=6)
-        ) +
-  xlab("Age") +ylab("% out of all turns") +
-  facet_grid(.~Role, scales= "free_y")
+response_types <- response_types %>%
+  gather(Role, value, CHI,PAR)
 
 
-```
+response_types$type = factor(response_types$type, levels = c("short", "explanation", "non-verbal"))
+response_types$Role = factor(response_types$Role, levels = c("PAR", "CHI"))
 
-The percent of repsonses from all response opportunities 
-(response opportunities  = responses + no-responses)
-Note that "response" does not necessarily mean this response is contingent
-```{r}
-#Graph borad 
 
-data_res_broad <- response_types %>%
-         filter(res_broad == 'Response')
-                
-ggplot(data_res_broad, aes(age2, broad_per_total_resp))+
-  geom_point()+
-  geom_smooth(method = lm, se = FALSE, size = 0.3)+
-  theme_few()+
-  theme(aspect.ratio = 0.7, 
-        axis.text=element_text(size=7, angle = 45),
-        strip.text.x = element_text(size=7),
-        strip.text.y = element_text(size=6)
-        ) +
-  xlab("Age") +ylab("% of responses out of total opportunities") +
-  facet_grid(.~Role, scales= "free_y")
 
-model_res_par <- lmer(formula = broad_per_total_resp ~ age2  +  (1 | child), 
-             data = data_res_broad %>% filter(Role == "PAR"))
 
-model_res_chi <- lmer(formula = broad_per_total_resp ~ age2  +  (1 | child), 
-             data = data_res_broad %>% filter(Role == "CHI"))
 
 
 ```
 
 ```{r}
-ggplot(data_res_broad, aes(age2, broad_per_total_resp, col = child))+
-  geom_point()+
-  geom_smooth(method = lm, se = FALSE, size = 0.3)+
-  theme_few()+
-  theme(aspect.ratio = 0.7, 
-        axis.text=element_text(size=7, angle = 45),
-        strip.text.x = element_text(size=7),
-        strip.text.y = element_text(size=6)
-        ) +
-  xlab("Age") +ylab("% of responses out of total opportunities") +
-  facet_grid(.~Role, scales= "free_y")
 
-```
-
-Contingency
-```{r}
-
-response_contingent <-  response_types %>%
-  filter(label_type != "No-response") %>% 
-  mutate(resp_cont = type_per_file/value_res_broad) %>%
-  mutate(label_type = if_else(label_type== "Answer", "Contingent", if_else(label_type== "Non-answer", "Non-contingent", label_type)))
-
-ggplot(response_contingent,  
-       aes(age2, resp_cont , col= label_type))+
-  geom_point()+
-  geom_smooth(method = lm, se = FALSE)+
-  theme_few()+
-  theme(aspect.ratio = 0.7, 
-        axis.text=element_text(size=7, angle = 45),
-        strip.text.x = element_text(size=7),
-        strip.text.y = element_text(size=6)
-        ) +
-  xlab("Age") +ylab("% out of total responses") +
-  facet_grid(.~Role, scales= "free_y")
-
-```
-What are Contingent responses made of ?
-
-```{r}
-
-response_subtypes <- data_processed %>%
-  filter(Role != "OTHER") %>%
-  filter(label == 'CHI-Response' | label == 'PAR-Response') %>%
-  mutate(Role_annot = unlist(strsplit(label, '-'))[1] ) %>%
-  filter(label_type =="Answer" | label_type =="Non-answer") %>%
-  group_by(child, file, Role_annot, label, label_type, label_subtype) %>%
-  summarise(subtype_per_file = n()) %>%
-  ungroup() %>%
-  group_by(child, file, Role_annot, label, label_type) %>%
-  mutate(type_total = sum(subtype_per_file)) %>%
-  ungroup() %>%
-  dplyr::rename(Role = Role_annot) %>%
-  rowwise() %>%
-  mutate(age2 = convertDate(file)) %>%
-  mutate(subtype_per_type = subtype_per_file/type_total)
-
-ggplot(response_subtypes %>% filter(label_type =='Answer'),  
-       aes(age2, subtype_per_type , col= label_subtype))+
-  geom_point()+
-  geom_smooth(method = lm, se = FALSE)+
-  theme_few()+
-  theme(aspect.ratio = 0.7, 
-        axis.text=element_text(size=7, angle = 45),
-        strip.text.x = element_text(size=7),
-        strip.text.y = element_text(size=6)
-        ) +
-  xlab("Age") +ylab("% out of all contigent responses") +
-  facet_grid(.~Role, scales= "free_y")
-
-
-```
-
-Follow-ups
-
-```{r}
-follow_types <- data_processed %>%
+ followup_types <- data_processed %>%
   filter(Role != "OTHER") %>%
   filter(label == 'CHI-Follow-up' | label == 'PAR-Follow-up') %>%
-  mutate(Role_annot = unlist(strsplit(label, '-'))[1] ) %>%
-  group_by(child, file, Role_annot, label, label_type) %>%
-  summarise(type_per_file = n()) %>%
-  ungroup() %>%
-  mutate(res_broad = if_else(label_type == "No-followup" | label_type == "No-followup"   "No-response", "Response")) %>%
-  group_by(child, file, Role_annot, label) %>%
-  mutate(res_total = sum(type_per_file)) %>%
-  ungroup() %>%
-  group_by(child, file, Role_annot, res_broad) %>%
-  mutate(value_res_broad = sum(type_per_file)) %>%
+  filter(!(label_type %in% c('No-followup','other', 'Otherwise','laugh'))) %>%
+  mutate(type = if_else(label_type %in% c("Followup-question", "Re-ask-initial-question"), "question",
+                   if_else(label_type %in% c("Signal-agreement", "Signal-disagreement",  "Repeat-answer"), "evaluation", 
+                      if_else(label_type %in% c("Give-response", "Add-info",  "Own-explanation"), "response", label_type)))) %>%
+  group_by(child, Role_annot, age2, file, type) %>%
+  summarise(fol_type = n()) %>%
   ungroup() %>%
   dplyr::rename(Role = Role_annot) %>%
-  left_join(number_turns %>% filter(Role != "OTHER")) %>%
-  rowwise() %>%
-  mutate(age2 = convertDate(file)) %>%
-  mutate( resp_per_file = res_total/N_turns,
-          type_per_total_resp = type_per_file/res_total,
-          type_per_total_turn = type_per_file/N_turns,
-          broad_per_total_resp = value_res_broad/res_total,
-          broad_per_total_turn = value_res_broad/N_turns)
-```
+  group_by(child, Role, age2, file) %>%
+  mutate(value = fol_type/sum(fol_type)) %>%
+  select(-fol_type) 
+
+followup_types <- followup_types %>%
+  spread(type, value)
+followup_types[is.na(followup_types)] <- 0
+
+followup_types <- followup_types %>%
+  gather(type, value, evaluation:response)
+
+followup_types <- followup_types %>%
+  spread(Role, value)
+followup_types[is.na(followup_types)] <- 0
+
+followup_types <- followup_types %>%
+  gather(Role, value, CHI,PAR)
 
 
-```{r}
-questions_sum <- questions %>%
-  group_by(age, Role, measure) %>%
-  summarise(mean = mean(value))
+#response_types$type = factor(response_types$type, levels = c("short", "explanation", "non-verbal"))
+response_types$Role = factor(response_types$Role, levels = c("PAR", "CHI"))
 
- summarise(quest_total = sum(N_questions),
-            files_total = n(),
-            turn_total = sum(N_turns)) %>%
-  ungroup() %>%
-  mutate(quest_per_file = quest_total/files_total,
-         quest_per_turn = quest_total/turn_total) %>%
-  gather(measure, value,  quest_per_file, quest_per_turn)
 
-ggplot(questions_sum,  aes(age, mean, col= Role))+
-  geom_line()+
-  #geom_text(data = child_adult_questions, aes(age, label=child), size = 2.5)+
-  geom_point(data = questions, aes(age, value))+ 
-  theme_few()+
-  theme(aspect.ratio = 0.7, 
-        axis.text=element_text(size=7, angle = 45),
-        strip.text.x = element_text(size=7),
-        strip.text.y = element_text(size=6)) +
-  xlab("Age") +ylab("Question") +
-  facet_grid(measure~., scales= "free")
 
 ```
-
 
 ```{r}
 
-
-#Date
-convertDate  <- function(dateString) {
-  y = as.numeric(substr(dateString, 1, 2))
-  m = as.numeric(substr(dateString, 3, 4))
-  d = as.numeric(substr(dateString, 5, 6))
-  mydate <- y*365 + m *30 + d
-  mydate <- round(mydate/365, 1)
-  return(mydate)
-}
-
-#Number of question out of all utterances by the speaker 
-questions_by_file_over_total <- data %>%
-  rename(listID = `list-ID`) %>%
-  #filter(turn == 'Initiation') %>%
-  #filter(speaker!='Complex') %>%
-  #mutate(Speaker2 = if_else(Speaker =="MOT" | Speaker =="FAT", "PAR", Speaker)) %>% 
-  #filter(Speaker2 !="OBS", 
-  #       Speaker2 !="INV",
-  #       Speaker2 !="COM") %>%
-  #select(-Speaker) %>%
-  #dplyr::rename(speaker = Speaker2) %>%
-  group_by(listID, child, age, file, Speaker) %>%
-  summarise(N = n()) %>%
-  ungroup() %>%
-  group_by(myID, child, age, speaker) %>%
-  summarise(N_tot = sum(N),
-            n_files = n()) %>%
-  mutate(N_avg = N_tot/n_files) %>%
-  
-
-
-
-ggplot(questions_by_file,  aes(age, N_avg, col= speaker))+
-  geom_line()+
-  
-  theme_few()+
+ggplot(question_types %>% filter(Role=="PAR"),  aes(age2, value, col= type))+
+   geom_point(size=2 ,alpha= 0.3)+
+  geom_smooth(method = lm, se = T, alpha=0.15,aes(fill=type))+
+   theme_few()+
   theme(aspect.ratio = 0.7, 
-        axis.text=element_text(size=7, angle = 45),
-        strip.text.x = element_text(size=7),
-        strip.text.y = element_text(size=6)
-        ) +
-  xlab("Age") +ylab("Questio") +
-  facet_grid(.~child, scales= "free_y") 
+        axis.text.x=element_text(size=15),
+        axis.text.y=element_text(size=15),
+        strip.text.x = element_text(size=15),
+        strip.text.y = element_text(size=15),
+        axis.title=element_text(size=15),
+        legend.title = element_blank(),
+        legend.text = element_text(size=15),
+        legend.position="bottom",
+        plot.title = element_text(size=20, face="bold",hjust = 0.5)
+        )  +
+  ggtitle("Question by Caregivers")+
+  ylim(0, 1)+
+  xlab("Child age (years)") +ylab("Type per question")
 
-
-child_adult_questions_sum <- questions_by_file_over_total  %>%
-  group_by(myID, age, speaker) %>%
-  summarise(mean = mean(N_avg))
-
-
-ggplot(questions_by_file_over_total,  aes(age, mean, col= speaker))+
-  geom_line()+
-  #geom_text(data = child_adult_questions, aes(age, label=child), size = 2.5)+
-  geom_point(data = child_adult_questions, aes(age, N_avg))+ 
-  theme_few()+
+ggplot(response_types %>% filter(Role=="CHI"),  aes(age2, value, col= type))+
+   geom_point(size=2 ,alpha= 0.3)+
+  geom_smooth(method = lm, se = T, alpha=0.15,aes(fill=type))+
+   theme_few()+
   theme(aspect.ratio = 0.7, 
-        axis.text=element_text(size=7, angle = 45),
-        strip.text.x = element_text(size=7),
-        strip.text.y = element_text(size=6)) +
-  xlab("Age") +ylab("Questio") +
-  facet_grid(.~child, scales= "free_y") 
+        axis.text.x=element_text(size=15),
+        axis.text.y=element_text(size=15),
+        strip.text.x = element_text(size=15),
+        strip.text.y = element_text(size=15),
+        axis.title=element_text(size=15),
+        legend.title = element_blank(),
+        legend.text = element_text(size=15),
+        legend.position="bottom",
+        plot.title = element_text(size=20, face="bold",hjust = 0.5)
+        )  +
+  ggtitle("Response by Children")+
+  ylim(-0.12, 1)+
+  xlab("Child age (years)") +ylab("Type per response")
+
+
+ggplot(followup_types %>% filter(Role=="PAR"),  aes(age2, value, col= type))+
+   geom_point(size=2 ,alpha= 0.3)+
+  geom_smooth(method = lm, se = T, alpha=0.15,aes(fill=type))+
+   theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text.x=element_text(size=15),
+        axis.text.y=element_text(size=15),
+        strip.text.x = element_text(size=15),
+        strip.text.y = element_text(size=15),
+        axis.title=element_text(size=15),
+        legend.title = element_blank(),
+        legend.text = element_text(size=15),
+        legend.position="bottom",
+        plot.title = element_text(size=20, face="bold",hjust = 0.5)
+        )  +
+  ggtitle("Follow-up by Caregivers")+
+  ylim(0, 1)+
+  xlab("Child age (years)") +ylab("Type per follow-up")
+
 ```
-
 
 ```{r}
-xlab("Age") +ylab("Questions") #+
-  #facet_grid(.~child, scales= "free_y") 
 
+ggplot(question_types %>% filter(Role=="CHI"),  aes(type, value))+
+  stat_summary(fun.y=mean,position=position_dodge(width=1),geom="bar",  fill ="grey")+
+  #stat_summary(fun.data=mean_cl_normal,position=position_dodge(width=1),geom="pointrange",size=0.5,  aes(group = Role)) + 
+  geom_point(position=position_dodge(width=1), size = 2, alpha = 0.3) +
+  #stat_summary(fun.data = mean_cl_normal, geom="pointrange", size=0.2, aes(group = Role))+
+  #geom_smooth(method = lm, se = FALSE)+
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text.x=element_text(size=17,angle=0),
+        axis.text.y=element_text(size=15),
+        strip.text.x = element_text(size=15),
+        strip.text.y = element_text(size=15),
+        axis.title=element_text(size=20),
+        legend.title = element_blank(),
+          plot.title = element_text(size=20, face="bold",hjust = 0.5)
+        )  +
+  ggtitle("Question by Children")+
+    
+  xlab("Question type") +ylab("Type per question")
+
+ggplot(response_types %>% filter(Role=="PAR"),  aes(type, value))+
+  stat_summary(fun.y=mean,position=position_dodge(width=1),geom="bar",  fill ="grey")+
+  #stat_summary(fun.data=mean_cl_normal,position=position_dodge(width=1),geom="pointrange",size=0.5,  aes(group = Role)) + 
+  geom_point(position=position_dodge(width=1), size = 2, alpha = 0.3) +
+  #stat_summary(fun.data = mean_cl_normal, geom="pointrange", size=0.2, aes(group = Role))+
+  #geom_smooth(method = lm, se = FALSE)+
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text.x=element_text(size=17,angle=0),
+        axis.text.y=element_text(size=15),
+        strip.text.x = element_text(size=15),
+        strip.text.y = element_text(size=15),
+        axis.title=element_text(size=20),
+        legend.title = element_blank(),
+           plot.title = element_text(size=20, face="bold",hjust = 0.5)
+        )  +
+  ggtitle("Response by Caregiver")+
+        
+  xlab("Response type") +ylab("Type per response") 
+  #facet_grid(.~Role, scales= "free_y")
+
+ggplot(followup_types %>% filter(Role=="CHI"),  aes(type, value))+
+  stat_summary(fun.y=mean,position=position_dodge(width=1),geom="bar", fill ="grey")+
+  #stat_summary(fun.data=mean_cl_normal,position=position_dodge(width=1),geom="pointrange",size=0.5,  aes(group = Role)) + 
+  geom_point(position=position_dodge(width=1), size = 2, alpha = 0.3) +
+  #stat_summary(fun.data = mean_cl_normal, geom="pointrange", size=0.2, aes(group = Role))+
+  #geom_smooth(method = lm, se = FALSE)+
+  theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text.x=element_text(size=17),
+        axis.text.y=element_text(size=15),
+        strip.text.x = element_text(size=15),
+        strip.text.y = element_text(size=15),
+        axis.title=element_text(size=20),
+        legend.title = element_blank(),
+           plot.title = element_text(size=20, face="bold",hjust = 0.5)
+        )  +
+  ggtitle("Follow-up by Children")+
+      
+  xlab("Follow-up type") +ylab("Type per follow-up") 
+  #facet_grid(.~Role, scales= "free_y")
 
 ```
+
 
