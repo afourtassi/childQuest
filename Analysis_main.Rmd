@@ -297,7 +297,7 @@ data_turns_sum$Role = factor(data_turns_sum$Role, levels = c("CHI", "PAR", "OTHE
 
 ggplot(data_turns_sum,  aes(age2, Turns_sum, col= Role))+
    geom_point(size=2 ,alpha= 0.3)+
-  geom_smooth(method = lm, se = T, alpha=0.15,aes(fill=Role))+
+  geom_smooth(method = lm, se = F, alpha=0.15,aes(fill=Role))+
    theme_few()+
   theme(aspect.ratio = 0.7, 
         axis.text.x=element_text(size=15),
@@ -309,7 +309,9 @@ ggplot(data_turns_sum,  aes(age2, Turns_sum, col= Role))+
         legend.position="bottom"
         
         )  +
-  xlab("Child age (years)") +ylab("Turns per transcript")
+  facet_wrap(~child, scales= "free_y")+
+  xlab("Child age (years)") +ylab("Turns per transcript") +
+   coord_cartesian(ylim = c(0, 1000)) 
 
 ```
 
@@ -484,15 +486,14 @@ summary(lm(feedback ~ age2, data=all_dep %>% filter(Role=="Cargiver")))
 ```
 
 ```{r}
-
 child_dep <- child %>%
-  mutate(Response = if_else(`PAR-Response` == "No-response" | `PAR-Response` == "No-label" | `PAR-Response` == "Non-answer", "No-response", "Response")) %>%
+  mutate(Response = if_else(`PAR-Response` == "No-response" | `PAR-Response` == "No-label" | `PAR-Response` == "Non-answer", "non-contingent", "contingent")) %>%
   mutate(Feedback = if_else(`CHI-Follow-up` == "No-followup" | `CHI-Follow-up` == "other" | `CHI-Follow-up` == "Otherwise" | `CHI-Follow-up` == "laugh", 0, 1)) %>%
   select(-`CHI-Follow-up`, -`CHI-Initiation`, -`PAR-Response`) %>%
   mutate(Role = "Child")
 
 caregiver_dep <- caregiver %>%
-  mutate(Response = if_else(`CHI-Response` == "No-response" | `CHI-Response` == "No-label" | `CHI-Response` == "Non-answer", "No-response", "Response")) %>%
+  mutate(Response = if_else(`CHI-Response` == "No-response" | `CHI-Response` == "No-label" | `CHI-Response` == "Non-answer", "non-contingent", "contingent")) %>%
   mutate(Feedback = if_else(`PAR-Follow-up` == "No-followup" | `PAR-Follow-up` == "other" | `PAR-Follow-up` == "Otherwise" | `PAR-Follow-up` == "laugh", 0, 1)) %>%
   select(-`CHI-Response`, -`PAR-Follow-up`, -`PAR-Initiation`) %>%
   mutate(Role = "Caregiver")
@@ -500,29 +501,49 @@ caregiver_dep <- caregiver %>%
 all_dep <- child_dep %>%
   bind_rows(caregiver_dep)
 
+all_dep_all <- all_dep %>%
+  select(-child) %>%
+  mutate(child = "All")
+
+all_dep <- all_dep %>%
+  bind_rows(all_dep_all)
+  
+
+all_dep$Role = factor(all_dep$Role, levels = c("Child", "Caregiver"))
+
+all_dep$child = factor(all_dep$child, levels = c("Adrien", "Anae", "Madeleine", "Theophile", "All"))
+
+```
+
+
+```{r}
 ggplot(all_dep,  aes(Response, Feedback))+
-  stat_summary(fun.y=mean,position=position_dodge(width=1),geom="bar", fill ="grey")+
-  stat_summary(fun.data=mean_cl_normal,position=position_dodge(width=1),geom="pointrange",size=0.5) + 
+  stat_summary(fun.y=mean,position=position_dodge(width=1), geom="bar", fill ="grey")+
+  stat_summary(fun.data=mean_cl_normal,position=position_dodge(width=1),geom="pointrange",size=0.3) + 
   #geom_point(position=position_dodge(width=1), size = 2, alpha = 0.3) +
   #stat_summary(fun.data = mean_cl_normal, geom="pointrange", size=0.2, aes(group = Role))+
   #geom_smooth(method = lm, se = FALSE)+
   theme_few()+
   theme(aspect.ratio = 0.7, 
-        axis.text.x=element_text(size=17),
-        axis.text.y=element_text(size=15),
-        strip.text.x = element_text(size=15),
-        strip.text.y = element_text(size=15),
-        axis.title=element_text(size=20),
+        axis.text.x=element_text(size=6),
+        axis.text.y=element_text(size=10),
+        strip.text.x = element_text(size=10),
+        strip.text.y = element_text(size=10),
+        axis.title=element_text(size=12),
         legend.title = element_blank(),
-           plot.title = element_text(size=20, face="bold",hjust = 0.5)
+           plot.title = element_text(size=15, face="bold",hjust = 0.5)
         )  +
-  ggtitle("Follow-up by Children")+
+  ggtitle("Follow-up by Response type")+
       
-  xlab("Follow-up type") +ylab("Type per follow-up") +
-  facet_grid(child~Role, scales= "free_y")
+  xlab("Response type") +ylab("% Contingent follow-up") +
+  facet_grid(Role~child, scales= "free_y") +
+  coord_cartesian(ylim = c(0, 1))
 
 
+```
 
+
+```{r}
 summary(glmer(Feedback ~ Response * age2 + (1|child), data = child_dep, family = binomial))
 summary(glmer(Feedback ~ Response * age2 + (1|child), data = caregiver_dep, family = binomial))
 
@@ -540,7 +561,8 @@ responses <- data_processed %>%
   dplyr::rename(Role = Role_annot) %>%
   mutate(contingency = if_else(label_type == "No-response" | label_type == "No-label" | label_type == "Non-answer", 0, 1)) %>%
   select(-label, -label_type) %>%
-  mutate(type = "response")
+  mutate(type = "Response")
+
   
 followups <- data_processed %>%
   filter(Role != "OTHER") %>%
@@ -549,12 +571,12 @@ followups <- data_processed %>%
   dplyr::rename(Role = Role_annot) %>%
   mutate(contingency = if_else(label_type == "No-followup" | label_type == "other" | label_type == "Otherwise" |label_type == "laugh", 0, 1)) %>%
   select(-label, -label_type) %>%
-  mutate(type = "feedback")
+  mutate(type = "Follou-up")
 
 contingency_all <- responses %>%
   bind_rows(followups)
   
-contingency_all$type = factor(contingency_all$type, levels = c("response", "feedback"))
+contingency_all$type = factor(contingency_all$type, levels = c("Response", "Follou-up"))
 
 ggplot(contingency_all,  aes(age2, contingency, col=Role))+
   #geom_point(size=1 ,alpha= 0.3)+
@@ -570,14 +592,13 @@ ggplot(contingency_all,  aes(age2, contingency, col=Role))+
         #legend.position="bottom"
         
         )  +
-  xlab("Child age (years)") +ylab("% given opportunity")  +
-  facet_grid(child~type)
+  xlab("Child age (years)") +ylab("% contigent given opportunity")  +
+  facet_grid(type~child)
 
 ```
 
 Eexrtact info about Questions, responses, and followups
 ```{r}
-
 questions<- data_processed %>%
   #filter(Role != "OTHER") %>%
   filter(label == 'CHI-Initiation' | label == 'PAR-Initiation') %>%
@@ -587,9 +608,40 @@ questions<- data_processed %>%
   dplyr::rename(Role = Role_annot) %>%
   left_join(data_turns_sum %>% filter(Role != "OTHER")) %>%
   mutate(Questions  = quest_per_file/Turns_sum) %>%
-  select(-quest_per_file, -Turns_sum)
+  select(-Turns_sum)
   #gather(measure, value,  quest_per_file, quest_per_turn)
 
+questions_total <- questions %>%
+  select(-child) %>%
+  mutate(child = "All")
+
+questions_all <- questions %>%
+  bind_rows(questions_total)
+
+questions_all$child = factor(questions_all$child, levels = c("Adrien", "Anae", "Madeleine", "Theophile", "All"))
+
+ggplot(questions_all,  aes(age2, quest_per_file))+
+  geom_point(size=2 ,alpha= 0.2)+
+  geom_smooth(method = lm, se = T, alpha=0.2)+
+   theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text.x=element_text(size=10),
+        axis.text.y=element_text(size=10),
+        strip.text.x = element_text(size=10),
+        strip.text.y = element_text(size=10),
+        axis.title=element_text(size=10),
+        legend.title = element_blank(),
+        plot.title = element_text(size=15, face="bold",hjust = 0.5)
+        #legend.position="bottom"
+        
+        )  +
+  ggtitle("Questions")+
+  xlab("Child age (years)") +ylab("Questions per transcript")  +
+  facet_grid(Role~child,  scales= "free_y")
+```
+
+
+```{r}
 responses <- data_processed %>%
   filter(Role != "OTHER") %>%
   filter(label == 'CHI-Response' | label == 'PAR-Response') %>%
@@ -629,26 +681,33 @@ followups <- followups %>%
   mutate(Followups = Followup / all_followups) %>%
   select(-Followup, -`No-Followup`, -all_followups)
 
-QRF_combined <- questions %>%
-  full_join(responses) %>%
+QRF_combined <- responses %>%
   full_join(followups)
   
 QRF_combined[is.na(QRF_combined)] <- 0
 
 QRF_combined <- QRF_combined %>%
-  gather(key, value, Questions:Followups)
+  gather(key, value, Responses, Followups)
 
-QRF_combined$key = factor(QRF_combined$key, levels = c("Questions", "Responses", "Followups"))
+QRF_combined$key = factor(QRF_combined$key, levels = c("Responses", "Followups"))
+
+QRF_combined_all <- QRF_combined %>%
+  select(-child) %>%
+  mutate(child ="All")
+
+QRF_combined <- QRF_combined %>%
+  bind_rows(QRF_combined_all)
+
+QRF_combined$child = factor(QRF_combined$child, levels = c("Adrien", "Anae", "Madeleine", "Theophile", "All"))
 
 ```
 
 
 ```{r}
 
-
-ggplot(QRF_combined,  aes(age2, value, col=Role))+
-  geom_point(size=1 ,alpha= 0.3)+
-  geom_smooth(method = lm, se = T, alpha=0.15,aes(fill=Role))+
+ggplot(QRF_combined %>% filter(key == "Responses"),  aes(age2, 100*value))+
+  geom_point(size=2 ,alpha= 0.2)+
+  geom_smooth(method = lm, se = T, alpha=0.2)+
    theme_few()+
   theme(aspect.ratio = 0.7, 
         axis.text.x=element_text(size=10),
@@ -656,13 +715,38 @@ ggplot(QRF_combined,  aes(age2, value, col=Role))+
         strip.text.x = element_text(size=10),
         strip.text.y = element_text(size=10),
         axis.title=element_text(size=10),
-        legend.title = element_blank()#,
+        legend.title = element_blank(),
+        plot.title = element_text(size=15, face="bold",hjust = 0.5)
         #legend.position="bottom"
         
         )  +
-  xlab("Child age (years)") +ylab("% given opportunity")  +
-  facet_wrap(~key)
+  ggtitle("Responses")+
+  xlab("Child age (years)") +ylab("% contigent per transcript")  +
+  facet_grid(Role~child,  scales= "free_y") +
+  coord_cartesian(ylim = c(0, 100)) 
 
+
+
+ggplot(QRF_combined %>% filter(key == "Followups"),  aes(age2, 100*value))+
+  geom_point(size=2 ,alpha= 0.2)+
+  geom_smooth(method = lm, se = T, alpha=0.2)+
+   theme_few()+
+  theme(aspect.ratio = 0.7, 
+        axis.text.x=element_text(size=10),
+        axis.text.y=element_text(size=10),
+        strip.text.x = element_text(size=10),
+        strip.text.y = element_text(size=10),
+        axis.title=element_text(size=10),
+        legend.title = element_blank(),
+        plot.title = element_text(size=15, face="bold",hjust = 0.5)
+        #legend.position="bottom"
+        
+        )  +
+  ggtitle("Follow-ups")+
+  xlab("Child age (years)") +ylab("% contigent per transcript")  +
+  facet_grid(Role~child,  scales= "free_y") +
+  coord_cartesian(ylim = c(0, 100)) 
+ 
 ```
 Question categoris 
 ```{r}
